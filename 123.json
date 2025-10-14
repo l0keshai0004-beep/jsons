@@ -1,0 +1,813 @@
+
+{
+  "tripOverview": {
+    "destination": "Haldwani",
+    "startDate": "2025-10-21",
+    "endDate": "2025-10-24",
+    "duration": 3,
+    "companions": "Solo",
+    "tripType": "Leisure & Adventure"
+  },
+  "hotel": {
+    "name": "Hotel Pearl Inn",
+    "location": "Haldwani",
+    "coordinates": {
+      "latitude": 29.210500699999997,
+      "longitude": 79.5245267
+    },
+    "pricePerNight": 1218,
+    "rooms": 1,
+    "nights": 3,
+    "totalCost": 3654,
+    "currency": "INR",
+    "reasonForSelection": "Hotel Pearl Inn offers comfortable accommodation at a competitive price within your budget. Its central location makes it a convenient base for exploring Haldwani and its surrounding attractions. The hotel also boasts a rooftop restaurant and amenities like free Wi-Fi and air conditioning.",
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Fitness center",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "bookingLinks": [
+      "https://serpapi.com/search.json?adults=1&check_in_date=2025-10-21&check_out_date=2025-10-24&children=0&currency=INR&engine=google_hotels&gl=in&hl=en&max_price=1500&property_token=ChkI4vSdrYHOkKIDGg0vZy8xMWgwOXNxcXYwEAE&q=Hotels+near+Haldwani"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/proxy/bzEqTM1LbdVmpXmE9iXD8itF1WPmEfjciPG-VV9JqAvH5mBfgNXslsozUEPKOxTKaaMjj-lCudBS2ETQD3VsQUzt4c-rURgBP351i4Vb7hUzNK927DcOKA695r6uwxH35Ha33cumKD3N08QHjmzVNC0CFAD0Q7Y=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPEMaUwFDjEBf9QtxsKacFkqNtX9CToWs2HfMZD=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/proxy/REq_xeIh2MBejyQd9jxAVTU3rgjpYSvkvVvaysuNyffD6r-8QkBDq5I3f_EhOacP6JgyjxZczjxDX4UsQznEicWryBJjpkUOoPKduTL7QemYn849Ra2xEIbmV8tVdcFfBcPDpuhTfTGCZCBT8ReM_ksE4Eqg3Kg=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipOWxRlBSgyMOSnvEEwimkVKKMOxE1VoS98TbXK9=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/proxy/eV4AN_3FWj2EXR0azVRjrmWvgYjZ6VEVYZqlJAnRA6PnfCI9jJTR-zKflXJyCYQ7KMPpKMW84ir9gonvzFiylViqm0MxcFjKlTMgCL3Dx7NamU9zUOP75PjGDsj6kwyRm7CMhdigSAYgIK6b5L6v-IhJLGDyRg=s287-w287-h192-n-k-no-v1",
+      "https://lh4.googleusercontent.com/proxy/it8cTfnZgfwRRyKHFK0D9eXoirjcPYXMSLhV_-mrsnfFbaE48HBKe3inu7CLwOoxoJ9HAafrdCrm2h6l-ltHWnfOo6i9fDaKf1G1OUZkM5YJ8GVMdpGL-Z2oacj6NIMcTKDWEpjmVynmgoKzvsrFlLAJ3BW7A=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/proxy/IDqdibrDe6TsmViP5qR2rpJD4YrYqNIUvkeAD8uXcgUxTQ_KAYz57LZiTmgs7x9-R2h3u_Qxpip5QmqLGCZJAa14no_iuWk84nFOzekzFXjwzivMicq8E3hv1uJYoUa3ORpQxogtBZqN7-t25s05TSm2_5qJShU=s287-w287-h192-n-k-no-v1",
+      "https://lh6.googleusercontent.com/proxy/WTuZ1bVjzMECzsDIDkQ0mRRxrF274GHBaHq-gajLr9-GmmYgsG0Sw8979YjDfekKxRNaeMMo3STIJWr_z-TPOecu4nF5uwQ_gpF5n9iHswO8Wu3yg7iWm6qOWPctRuJvgeDNzue48Mn6TYK92n7120J537Gc8w=s287-w287-h192-n-k-no-v1",
+      "https://lh4.googleusercontent.com/proxy/YWfylGZVuuHeRcAUc7BEKCHXq6uPuBMirZg25EfUSJDZU3ckdq08u8m-PdepFykA8t8Q97q-TodjzmU4Tvc0g_U2VzSlBF7DXhHVEhRMScNeB8X4eqar8m_yEo-Q1UW19TMf8EBk8rD8rlta3pSCLAz_AMcVWg=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-21",
+      "theme": "Arrival and Local Exploration",
+      "optimizedRoute": "Hotel Pearl Inn → Gaula Barrage → Haldwani Local Market → City Centre Mall → Hotel Pearl Inn",
+      "totalDistance": 2.74,
+      "totalTravelTime": "approx. 15 minutes by car/taxi",
+      "places": [
+        {
+          "timeOfDay": "Early Morning - Afternoon",
+          "name": "Road Journey from Noida to Haldwani",
+          "coordinates": {
+            "latitude": 29.2206,
+            "longitude": 79.513
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "approx. 6-7 hours",
+          "description": "Embark on a scenic road journey from Noida to Haldwani. The route offers a gradual transition from urban plains to the verdant foothills of the Kumaon Himalayas. Witness picturesque landscapes and changing terrain, setting the stage for your mountain adventure. This journey is a significant part of the experience, allowing for relaxation and anticipation of the destination.",
+          "whyVisit": "This leg of the journey offers the first glimpses of the beautiful Kumaon region and allows for a smooth transition into the serene environment.",
+          "activities": [
+            "Observe the scenic route",
+            "Relax and enjoy the views",
+            "Prepare for your adventure in Haldwani"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (transportation cost)",
+            "estimatedCost": "INR 500-1000 (bus/shared taxi)",
+            "bestTime": "Early morning to avoid traffic and enjoy cooler temperatures",
+            "duration": "6-7 hours",
+            "accessibility": "Accessible by bus, car, or shared taxi"
+          },
+          "tips": {
+            "whatToBring": [
+              "Snacks and water",
+              "Comfortable travel clothes",
+              "Book or entertainment for the journey"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Ensure your bus/taxi is reputable",
+              "Keep valuables secure"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Various points along the highway with scenic views"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Hotel Check-in & Lunch in Haldwani",
+          "coordinates": {
+            "latitude": 29.210500699999997,
+            "longitude": 79.5245267
+          },
+          "distanceFromPrevious": 2.74,
+          "travelTimeFromPrevious": "approx. 10 minutes",
+          "description": "Upon arrival in Haldwani, proceed to your pre-booked accommodation, Hotel Pearl Inn. Take time to check in, settle into your room, and enjoy a satisfying lunch at a local restaurant or at the hotel's dining facility. This is an opportune moment to refresh and prepare for an afternoon of exploration.",
+          "whyVisit": "Checking in and having lunch ensures you are rested and fueled for the rest of the day's activities.",
+          "activities": [
+            "Unpack and settle into your hotel room",
+            "Refresh after your journey",
+            "Enjoy a local lunch"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "INR 200-400 (lunch)",
+            "bestTime": "Afternoon",
+            "duration": "1-2 hours",
+            "accessibility": "Hotel facilities are generally accessible"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Be respectful when dining out"
+            ],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "4:30 PM - 7:30 PM",
+          "name": "Gaula Barrage, Haldwani Local Market & Mall Exploration",
+          "coordinates": {
+            "latitude": 29.2206,
+            "longitude": 79.513
+          },
+          "distanceFromPrevious": 0.0,
+          "travelTimeFromPrevious": "approx. 10 minutes (to Gaula Barrage)",
+          "description": "Begin your evening with a visit to the tranquil Gaula Barrage, a peaceful spot offering pleasant views of the river. Afterwards, delve into the vibrant local markets of Haldwani, such as Mangal Parao and Bhotia Market, known for their unique local goods and street food. For a more contemporary shopping experience, explore local malls like City Centre Mall or Crossroads Mall. This diverse exploration provides a true feel for the city's pulse.",
+          "whyVisit": "Experience both the natural beauty and the bustling urban life of Haldwani, offering a comprehensive insight into the city's character.",
+          "activities": [
+            "Enjoy riverside views at Gaula Barrage",
+            "Browse for local handicrafts and souvenirs",
+            "Sample regional street food",
+            "Explore modern retail options in the malls"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "INR 300-800 (shopping/food)",
+            "bestTime": "Late afternoon to early evening",
+            "duration": "3 hours",
+            "accessibility": "Markets can be crowded, malls are generally accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Reusable shopping bag",
+              "Cash for market purchases"
+            ],
+            "whatToBuy": [
+              "Local Kumaoni handicrafts",
+              "Woolen items",
+              "Fresh produce"
+            ],
+            "safetyNotes": [
+              "Be mindful of your belongings in crowded markets",
+              "Bargaining is common in local markets"
+            ],
+            "customsEtiquette": [
+              "Be polite when interacting with vendors"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Gaula Barrage scenic points",
+              "Vibrant market stalls"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 5.7,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 500,
+          "meals": 700,
+          "shopping": 400,
+          "total": 1600
+        },
+        "remainingBudget": 5390
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-22",
+      "theme": "Lakeside Charm and Adventure",
+      "optimizedRoute": "Hotel Pearl Inn → Bhimtal Lake → Naukuchiatal → Hotel Pearl Inn",
+      "totalDistance": 56.78,
+      "totalTravelTime": "approx. 1 hour 45 minutes by car/taxi",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 10:00 AM",
+          "name": "Day Trip to Bhimtal & Naukuchiatal (Travel)",
+          "coordinates": {
+            "latitude": 29.34,
+            "longitude": 79.558
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "approx. 1 hour by bus/taxi",
+          "description": "Embark on a picturesque day trip from Haldwani to the serene lake district. Your first stop is Bhimtal, a beautiful town known for its tranquil lake and the unique island aquarium. The drive offers stunning views of the Kumaon hills, preparing you for a day of natural beauty and adventure.",
+          "whyVisit": "The journey itself is scenic, leading to the enchanting lake region and setting a peaceful tone for the day.",
+          "activities": [
+            "Enjoy the picturesque drive",
+            "Observe the changing landscapes"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (transportation cost)",
+            "estimatedCost": "INR 100-200 (bus/shared taxi to Bhimtal)",
+            "bestTime": "Morning for cooler weather and less traffic",
+            "duration": "1 hour",
+            "accessibility": "Accessible by bus or taxi"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Water bottle",
+              "Light jacket"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Ensure safe driving if self-driving or using a local taxi"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Panoramic views during the drive"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "10:00 AM - 12:00 PM",
+          "name": "Boating/Kayaking in Bhimtal Lake",
+          "coordinates": {
+            "latitude": 29.34,
+            "longitude": 79.558
+          },
+          "distanceFromPrevious": 0.0,
+          "travelTimeFromPrevious": "Short walk from drop-off point",
+          "description": "Immerse yourself in the tranquility of Bhimtal Lake with an invigorating boating or kayaking session. Glide across the serene waters, surrounded by lush green hills. You can also visit the charming island aquarium located in the middle of the lake, accessed by boat. This activity offers a refreshing escape and unique perspectives of the lake's beauty.",
+          "whyVisit": "Bhimtal Lake offers a peaceful retreat and a chance to engage in watersports, providing both relaxation and gentle adventure.",
+          "activities": [
+            "Boating on Bhimtal Lake",
+            "Kayaking (if available)",
+            "Visiting the island aquarium"
+          ],
+          "practicalInfo": {
+            "entryFee": "INR 150-300 (boating/kayaking)",
+            "estimatedCost": "INR 200-400 (including aquarium entry)",
+            "bestTime": "Morning for calm waters and pleasant weather",
+            "duration": "2 hours",
+            "accessibility": "Boats and kayaks are accessible to most, but require some physical mobility"
+          },
+          "tips": {
+            "whatToBring": [
+              "Sunscreen",
+              "Hat",
+              "Sunglasses",
+              "Waterproof phone cover"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Wear life jackets provided",
+              "Follow instructions of boat operators"
+            ],
+            "customsEtiquette": [
+              "Be mindful of other visitors"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Lake views from the boat",
+              "Island aquarium surroundings"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "12:30 PM - 3:30 PM",
+          "name": "Naukuchiatal Exploration & Adventure Activities",
+          "coordinates": {
+            "latitude": 29.3174,
+            "longitude": 79.593
+          },
+          "distanceFromPrevious": 7.7,
+          "travelTimeFromPrevious": "approx. 20 minutes by taxi/auto",
+          "description": "Continue your lake district exploration with a visit to Naukuchiatal, also known as the 'lake of nine corners'. This picturesque lake is famed for its unique shape and tranquil atmosphere. Depending on the season and your budget, you can indulge in adventure activities like paragliding, zorbing, or simply enjoy a serene nature walk around the lake. It's a perfect blend of natural beauty and thrilling experiences.",
+          "whyVisit": "Naukuchiatal offers a unique lake experience and opportunities for exhilarating adventure sports, catering to both nature lovers and thrill-seekers.",
+          "activities": [
+            "Nature walk around the lake",
+            "Paragliding (seasonal, budget permitting)",
+            "Zorbing (seasonal, budget permitting)"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (adventure activities extra)",
+            "estimatedCost": "INR 500-2500 (for adventure activities)",
+            "bestTime": "Afternoon to enjoy activities and views",
+            "duration": "3 hours",
+            "accessibility": "Nature walks are easy; adventure activities have specific physical requirements"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes for walking/trekking",
+              "Extra money for adventure sports"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Adhere to safety guidelines for adventure sports",
+              "Check weather conditions for paragliding"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Panoramic lake views",
+              "Action shots during adventure activities"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "4:30 PM - 6:00 PM",
+          "name": "Return to Haldwani",
+          "coordinates": {
+            "latitude": 29.210500699999997,
+            "longitude": 79.5245267
+          },
+          "distanceFromPrevious": 35.29,
+          "travelTimeFromPrevious": "approx. 1 hour by bus/taxi",
+          "description": "After an adventurous day exploring Bhimtal and Naukuchiatal, take a shared taxi or local bus back to Haldwani. The evening journey provides a chance to relax and reflect on the day's experiences. Upon returning to Haldwani, you can enjoy a delightful dinner at a local restaurant, savoring the regional flavors.",
+          "whyVisit": "Returning to Haldwani allows for a comfortable evening and a chance to enjoy the local culinary scene after a day of exploration.",
+          "activities": [
+            "Relax during the return journey",
+            "Enjoy dinner at a local restaurant"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (transportation cost)",
+            "estimatedCost": "INR 100-200 (bus/shared taxi to Haldwani), INR 300-600 (dinner)",
+            "bestTime": "Evening",
+            "duration": "1.5 hours",
+            "accessibility": "Accessible by bus or taxi"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 71.61,
+        "spending": {
+          "entryFees": 150,
+          "activities": 1000,
+          "transport": 300,
+          "meals": 500,
+          "shopping": 0,
+          "total": 1950
+        },
+        "remainingBudget": 3440
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-23",
+      "theme": "Majestic Nainital and Lake Charms",
+      "optimizedRoute": "Hotel Pearl Inn → Tiffin Top (Dorothy's Seat) → Naini Lake → Mall Road → Naina Devi Temple → Hotel Pearl Inn",
+      "totalDistance": 99.33,
+      "totalTravelTime": "approx. 3 hours 30 minutes by car/taxi",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 10:30 AM",
+          "name": "Day Trip to Nainital (Travel)",
+          "coordinates": {
+            "latitude": 29.3871,
+            "longitude": 79.4674
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "approx. 1.5 hours by bus/taxi",
+          "description": "Embark on a captivating day trip to the renowned hill station of Nainital, approximately 1.5 hours from Haldwani. The winding uphill journey itself is an experience, offering panoramic views as you ascend into the heart of the Kumaon region. Prepare to be enchanted by the natural beauty and vibrant atmosphere of Nainital.",
+          "whyVisit": "The journey to Nainital is scenic, and the destination offers a classic hill station experience with stunning natural beauty.",
+          "activities": [
+            "Enjoy the winding uphill journey",
+            "Admire the views of the Kumaon hills"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (transportation cost)",
+            "estimatedCost": "INR 150-300 (bus/shared taxi to Nainital)",
+            "bestTime": "Morning to maximize time in Nainital",
+            "duration": "1.5 hours",
+            "accessibility": "Accessible by bus or taxi"
+          },
+          "tips": {
+            "whatToBring": [
+              "Motion sickness medication (if needed)",
+              "Camera"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be cautious on winding mountain roads"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Scenic viewpoints along the route"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "10:30 AM - 1:30 PM",
+          "name": "Tiffin Top (Dorothy's Seat) Trek & Viewpoint",
+          "coordinates": {
+            "latitude": 29.3871,
+            "longitude": 79.4674
+          },
+          "distanceFromPrevious": 0.0,
+          "travelTimeFromPrevious": "approx. 15-20 minutes by taxi to base of trek",
+          "description": "Undertake a refreshing trek to Tiffin Top, also known as Dorothy's Seat, a renowned viewpoint in Nainital. This popular spot offers magnificent 360-degree panoramic views of Nainital town, Naini Lake, and the majestic surrounding Kumaon hills. For a unique experience, you can also opt for a pony ride to the top. The trek is invigorating and rewards you with breathtaking vistas.",
+          "whyVisit": "Tiffin Top provides unparalleled panoramic views of Nainital and the Himalayas, making it a must-visit for nature lovers and photographers.",
+          "activities": [
+            "Trekking to Tiffin Top",
+            "Pony ride (optional)",
+            "Photography of panoramic views"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (trekking), INR 500-1000 (pony ride)",
+            "estimatedCost": "INR 500-1000 (pony ride, optional)",
+            "bestTime": "Morning for clear views and pleasant weather",
+            "duration": "2-3 hours",
+            "accessibility": "Trekking requires moderate fitness; pony rides are an alternative"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable trekking shoes",
+              "Water bottle",
+              "Camera",
+              "Jacket (higher altitude can be cooler)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be careful on uneven trekking paths",
+              "Negotiate pony ride prices beforehand"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Panoramic views from Tiffin Top",
+              "Scenic points along the trek"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:00 PM - 5:30 PM",
+          "name": "Naini Lake, Mall Road & Naina Devi Temple",
+          "coordinates": {
+            "latitude": 29.39,
+            "longitude": 79.455
+          },
+          "distanceFromPrevious": 3.35,
+          "travelTimeFromPrevious": "approx. 10-15 minutes by taxi/walk downhill",
+          "description": "Descend from Tiffin Top to the heart of Nainital, Naini Lake. Enjoy a leisurely boat ride on the iconic crescent-shaped lake, taking in the serene surroundings and the reflections of the hills. Afterward, stroll along the bustling Mall Road, a vibrant hub for shopping, dining, and people-watching. Don't miss visiting the sacred Naina Devi Temple, perched on the northern shore of the lake, offering spiritual solace and beautiful views. This encapsulates the quintessential Nainital experience.",
+          "whyVisit": "These attractions form the core of Nainital's appeal, offering a blend of natural beauty, cultural experiences, and shopping opportunities.",
+          "activities": [
+            "Boating on Naini Lake",
+            "Strolling and shopping on Mall Road",
+            "Visiting Naina Devi Temple"
+          ],
+          "practicalInfo": {
+            "entryFee": "INR 200-500 (boating)",
+            "estimatedCost": "INR 500-1000 (boating, shopping, snacks)",
+            "bestTime": "Afternoon for pleasant weather and lively atmosphere",
+            "duration": "3-4 hours",
+            "accessibility": "Mall Road is mostly flat; boating requires boarding a boat; temple involves some stairs"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Shopping bag",
+              "Cash"
+            ],
+            "whatToBuy": [
+              "Nainital candles",
+              "Woolen items",
+              "Local handicrafts",
+              "Souvenirs"
+            ],
+            "safetyNotes": [
+              "Be mindful of crowds on Mall Road",
+              "Bargain politely when shopping"
+            ],
+            "customsEtiquette": [
+              "Remove shoes before entering the temple",
+              "Dress modestly at the temple"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Naini Lake with boats",
+              "Mall Road's vibrant atmosphere",
+              "Naina Devi Temple architecture"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "6:00 PM - 7:30 PM",
+          "name": "Return to Haldwani & Dinner",
+          "coordinates": {
+            "latitude": 29.210500699999997,
+            "longitude": 79.5245267
+          },
+          "distanceFromPrevious": 51.36,
+          "travelTimeFromPrevious": "approx. 1.5 hours by bus/taxi",
+          "description": "Conclude your memorable day in Nainital by taking a shared taxi or local bus back to Haldwani. The evening journey offers a chance to unwind and reflect on the beautiful sights and experiences. Once back in Haldwani, enjoy a final dinner, perhaps trying a different local eatery, before preparing for your departure the next day.",
+          "whyVisit": "Returning to Haldwani provides a comfortable end to the day and allows for a final taste of the local cuisine.",
+          "activities": [
+            "Relax during the return journey",
+            "Enjoy a farewell dinner"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (transportation cost)",
+            "estimatedCost": "INR 150-300 (bus/shared taxi to Haldwani), INR 300-600 (dinner)",
+            "bestTime": "Evening",
+            "duration": "1.5 hours",
+            "accessibility": "Accessible by bus or taxi"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 103.32,
+        "spending": {
+          "entryFees": 200,
+          "activities": 750,
+          "transport": 450,
+          "meals": 700,
+          "shopping": 300,
+          "total": 2400
+        },
+        "remainingBudget": 1040
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-10-24",
+      "theme": "Departure",
+      "optimizedRoute": "Hotel Pearl Inn → Road Journey from Haldwani to Noida",
+      "totalDistance": 0,
+      "totalTravelTime": "approx. 6-7 hours",
+      "places": [
+        {
+          "timeOfDay": "8:00 AM - 9:00 AM",
+          "name": "Breakfast & Hotel Check-out",
+          "coordinates": {
+            "latitude": 29.210500699999997,
+            "longitude": 79.5245267
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A",
+          "description": "Start your final day in Haldwani with a leisurely breakfast at your hotel. After enjoying your meal, proceed with all check-out formalities. Ensure all your belongings are packed and accounted for, and take one last look at your comfortable temporary home before heading off.",
+          "whyVisit": "A smooth check-out process ensures a hassle-free departure, and breakfast provides energy for the journey ahead.",
+          "activities": [
+            "Enjoy breakfast",
+            "Complete check-out formalities",
+            "Ensure all belongings are packed"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "INR 200-400 (breakfast)",
+            "bestTime": "Morning",
+            "duration": "1 hour",
+            "accessibility": "Hotel facilities are generally accessible"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Double-check for forgotten items"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Morning",
+          "name": "Road Journey from Haldwani to Noida",
+          "coordinates": {
+            "latitude": 29.2206,
+            "longitude": 79.513
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "approx. 6-7 hours",
+          "description": "Begin your road journey back to Noida, carrying wonderful memories of your refreshing solo adventure in the Kumaon foothills. The return trip allows for a final appreciation of the landscapes and a chance to relax after your eventful escapade.",
+          "whyVisit": "The return journey marks the conclusion of your trip, allowing for reflection and relaxation.",
+          "activities": [
+            "Relish the last glimpses of the mountains",
+            "Reflect on your trip memories",
+            "Plan your next solo adventure"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (transportation cost)",
+            "estimatedCost": "INR 500-1000 (bus/shared taxi)",
+            "bestTime": "Morning",
+            "duration": "6-7 hours",
+            "accessibility": "Accessible by bus, car, or shared taxi"
+          },
+          "tips": {
+            "whatToBring": [
+              "Snacks and water",
+              "Book or music for entertainment"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Ensure comfortable and safe transportation"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 500,
+          "meals": 300,
+          "shopping": 0,
+          "total": 800
+        },
+        "remainingBudget": 240
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 9000,
+    "currency": "INR",
+    "expenses": {
+      "flights": {
+        "flightName": "N/A",
+        "costUserCurrency": 0,
+        "costINR": 0
+      },
+      "accommodation": {
+        "hotelName": "Hotel Pearl Inn",
+        "pricePerNight": 1218,
+        "nights": 3,
+        "rooms": 1,
+        "total": 3654
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 500,
+          "meals": 700,
+          "shopping": 400,
+          "subtotal": 1600
+        },
+        {
+          "day": 2,
+          "entryFees": 150,
+          "activities": 1000,
+          "transport": 300,
+          "meals": 500,
+          "shopping": 0,
+          "subtotal": 1950
+        },
+        {
+          "day": 3,
+          "entryFees": 200,
+          "activities": 750,
+          "transport": 450,
+          "meals": 700,
+          "shopping": 300,
+          "subtotal": 2400
+        },
+        {
+          "day": 4,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 500,
+          "meals": 300,
+          "shopping": 0,
+          "subtotal": 800
+        }
+      ]
+    },
+    "totalSpent": 8804,
+    "remainingBudget": 196,
+    "budgetTips": [
+      "Utilize local buses and shared taxis for cost-effective transportation between Haldwani and nearby attractions like Bhimtal, Naukuchiatal, and Nainital.",
+      "Consider eating at local dhabas and eateries for authentic and affordable meals.",
+      "Bargain politely when shopping in local markets to get the best prices.",
+      "Carry a refillable water bottle to save on purchasing bottled water.",
+      "Prioritize adventure activities based on your interest and budget; some activities can be costly."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Light jackets or sweaters (evenings can be cool)",
+      "Comfortable t-shirts and trousers/jeans",
+      "Long-sleeved tops for sun protection",
+      "Rain jacket or umbrella (for unexpected showers)",
+      "Swimwear (if planning to swim in lakes, though less common)"
+    ],
+    "footwear": [
+      "Comfortable walking shoes/sneakers",
+      "Sandals or flip-flops for hotel/casual wear"
+    ],
+    "essentials": [
+      "Small backpack for day trips",
+      "Sunscreen (high SPF)",
+      "Hat or cap",
+      "Sunglasses",
+      "Insect repellent",
+      "Personal toiletries",
+      "Hand sanitizer",
+      "Reusable water bottle"
+    ],
+    "medication": [
+      "Any personal prescription medications",
+      "Basic first-aid kit (band-aids, antiseptic wipes, pain relievers)",
+      "Motion sickness medication (if prone to travel sickness)"
+    ],
+    "electronics": [
+      "Phone and charger",
+      "Power bank",
+      "Camera and extra batteries/memory card",
+      "Universal adapter (if needed)"
+    ],
+    "miscellaneous": [
+      "Book or e-reader",
+      "Journal and pen",
+      "Small towel",
+      "Dry bag (for water activities)"
+    ],
+    "documents": [
+      "ID proof (Aadhar card, Passport, Driving License)",
+      "Hotel booking confirmation",
+      "Travel insurance details (if any)",
+      "Copies of all important documents",
+      "Emergency contact information"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Confirm hotel booking for Hotel Pearl Inn (2025-10-21 to 2025-10-24)",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Arrange transportation from Noida to Haldwani (bus/personal vehicle)",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pack appropriate clothing for varied temperatures and activities",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Inform family/friends of travel plans and itinerary",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Check weather forecast for Haldwani and surrounding areas",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Withdraw sufficient cash for daily expenses and market purchases",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Charge all electronic devices and pack power bank",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Review daily itinerary and note down key timings and locations",
+      "completed": false,
+      "priority": "low"
+    }
+  ]
+}
