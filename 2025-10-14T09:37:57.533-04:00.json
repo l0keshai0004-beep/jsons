@@ -1,0 +1,961 @@
+{
+  "tripOverview": {
+    "destination": "Delhi, India",
+    "startDate": "2025-10-16",
+    "endDate": "2025-10-19",
+    "duration": 3,
+    "companions": "Solo",
+    "tripType": "Cultural exploration, shopping, historical sites"
+  },
+  "hotel": {
+    "name": "Hotel Prince Palace (The Green)",
+    "location": "Paharganj, New Delhi",
+    "coordinates": {
+      "latitude": 28.640671899999997,
+      "longitude": 77.211439
+    },
+    "pricePerNight": 840,
+    "rooms": 1,
+    "nights": 3,
+    "totalCost": 2520,
+    "currency": "INR",
+    "reasonForSelection": "This hotel was selected for its affordable price within the specified budget of 1500 INR per night and its favorable location in Paharganj, offering good connectivity to major attractions. It also has a rating of 3.6/5 based on 739 reviews, indicating a reasonable guest experience.",
+    "amenities": [
+      "Free Wi-Fi",
+      "Pool",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Airport shuttle",
+      "Full-service laundry"
+    ],
+    "bookingLinks": [
+      "https://serpapi.com/search.json?adults=1&check_in_date=2025-10-16&check_out_date=2025-10-19&children=0&currency=INR&engine=google_hotels&gl=in&hl=en&max_price=1500&property_token=ChkI0PbkzK741Z8uGg0vZy8xMW42N2t0NnhxEAE&q=Hotels+near+Delhi%2C+India"
+    ],
+    "imageLinks": [
+      "https://lh6.googleusercontent.com/proxy/R0jIZKbvf02njT8GWLOfny_OlGyvyAZyMGB-1IjhoehZfRLlSQQxVoVee0fBIA9tSTGTLxDqXY_YJ764rATmRRLTa4cmWLwMHJbF0cipOe8iRGdaDz-XfcCoZ7CKmCOEkoYOc4DHLmTHfHKycbBOgOM-ccT2cA=s287-w287-h192-n-k-no-v1",
+      "https://lh4.googleusercontent.com/proxy/g-2F_65OByMYVfR4iv1O_5Uism1Pj117ueg-2N8NlAaEnQtiSkLzhjxk0sL2ZSKOV8BH6MqHa7y5z04MEv-x1nSEzTuwWIcTBlbcLUSvyWS8KrrC31e1veTgxgd3Jn9kHXPbLti4qIjlNwIs0IWCwG59rQXGU9w=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipOtxlbMo3m3vhK5uUDZRMihP_AJd5gcZs3ji0vt=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipO6hDjVhxCvvUn9yZiqLVzOTT1OkXMX0zjj60BX=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNPVGAcGetO1pIv1xUdfL0jb8bFBwvnfyFd6C9T=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPT4CTwPAJnjDETbIm1iuVl8UiUS31iFssA7_n1=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPSfUK2krIYzt7pW06Z4ObqHg_Lmh6aBrbgpNkN=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNFC5rqv5uUILvqqfPZRFtVjUB2hVd_HeQg3XXh=s287-w287-h192-n-k-no-v1",
+      "https://lh5.googleusercontent.com/proxy/MgfYmT-OCBJ9-s_e15OE1mIpv_xMoDap9os46yuC6icb7kxFQDZJnLth4dRWDGY4myAcWb7Eu5ZVewT2lpH5IIC4oy6R0B2THyalVr4_XNWavSIJB59wLbvM7FbY67aj7Ux5263n296Z6SkG0U2bEQ-_OsPwd30=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-16",
+      "theme": "Historical grandeur and bustling markets of Old Delhi",
+      "optimizedRoute": "Hotel Prince Palace (The Green) → Red Fort (Exterior View) → Chandni Chowk → Hotel Prince Palace (The Green)",
+      "totalDistance": 14.3,
+      "totalTravelTime": "approximately 56 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Travel from Haldwani & Hotel Check-in",
+          "coordinates": {
+            "latitude": 28.640671899999997,
+            "longitude": 77.211439
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Arrive in Delhi and proceed to your hotel, Hotel Prince Palace (The Green), for check-in. Take some time to settle into your room before embarking on your Delhi exploration.",
+          "whyVisit": "Essential for commencing your trip, providing a comfortable base for your Delhi adventures.",
+          "activities": [
+            "Journey to Delhi",
+            "Hotel check-in procedures",
+            "Unpacking and relaxing"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning to avoid traffic",
+            "duration": "4 hours (including travel)",
+            "accessibility": "Hotel is generally accessible, confirm specific room accessibility upon booking."
+          },
+          "tips": {
+            "whatToBring": [
+              "Travel documents",
+              "Light baggage for easy transit"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Keep valuables secure during travel",
+              "Be aware of your surroundings"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Lunch near Hotel",
+          "coordinates": {
+            "latitude": 28.640671899999997,
+            "longitude": 77.211439
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "After settling in, enjoy a quick and satisfying lunch at a local eatery conveniently located near your hotel. This will energize you for the afternoon's historical explorations.",
+          "whyVisit": "To refuel after your journey and prepare for sightseeing. Enjoying local cuisine is an integral part of the travel experience.",
+          "activities": [
+            "Savor local Indian cuisine",
+            "Relax and plan the afternoon"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹300 - ₹600 (estimated)",
+            "bestTime": "1:00 PM - 2:00 PM",
+            "duration": "1 hour",
+            "accessibility": "Varies by restaurant, many local eateries may have limited accessibility."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Ensure food is freshly prepared",
+              "Drink bottled water"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Red Fort (Exterior View)",
+          "coordinates": {
+            "latitude": 28.6562,
+            "longitude": 77.241
+          },
+          "distanceFromPrevious": 6.6,
+          "travelTimeFromPrevious": "26 minutes",
+          "description": "Witness the majestic exterior of the Red Fort, a UNESCO World Heritage site and a poignant symbol of Mughal power and architectural brilliance. This iconic fortress, built by Emperor Shah Jahan, served as the main residence of the Mughal emperors for nearly 200 years. Its towering red sandstone walls and intricate details offer a glimpse into India's rich imperial past. Focusing on the exterior allows for an appreciation of its scale and grandeur without requiring extensive time for an interior tour, making it efficient for your itinerary.",
+          "whyVisit": "To admire the iconic Mughal architecture and historical significance of this UNESCO World Heritage site.",
+          "activities": [
+            "Admire the grand red sandstone architecture",
+            "Take photographs of the fort's impressive facade",
+            "Soak in the historical ambiance from outside the walls"
+          ],
+          "practicalInfo": {
+            "entryFee": "₹50 (Indian citizens), ₹600 (foreign nationals) to enter the complex, exterior view is free (estimated)",
+            "estimatedCost": "₹50 - ₹600 (if entering, otherwise free)",
+            "bestTime": "Late afternoon for pleasant lighting and cooler temperatures",
+            "duration": "1.5 hours (exterior exploration)",
+            "accessibility": "Exterior grounds are mostly accessible, but uneven paths may exist."
+          },
+          "tips": {
+            "whatToBring": [
+              "Water bottle",
+              "Camera",
+              "Sunscreen",
+              "Hat"
+            ],
+            "whatToBuy": [
+              "Souvenirs from nearby vendors (bargain wisely)"
+            ],
+            "safetyNotes": [
+              "Beware of touts and pickpockets in crowded areas",
+              "Stay hydrated"
+            ],
+            "customsEtiquette": [
+              "Dress respectfully"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Front facade of Red Fort",
+              "Lahori Gate"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Chandni Chowk",
+          "coordinates": {
+            "latitude": 28.6562,
+            "longitude": 77.2307
+          },
+          "distanceFromPrevious": 2.39,
+          "travelTimeFromPrevious": "9 minutes",
+          "description": "Immerse yourself in the vibrant chaos and historical charm of Chandni Chowk, one of Delhi's oldest and busiest markets. This bustling thoroughfare, dating back to the Mughal era, is a sensory delight, offering a kaleidoscopic array of goods from traditional clothing and intricate jewelry to aromatic spices and mouth-watering street food. Explore its numerous specialized bazaars, each with its unique character. It’s an authentic Delhi experience that awakens all your senses.",
+          "whyVisit": "To experience a truly authentic Old Delhi market, indulge in street food, and shop for local goods.",
+          "activities": [
+            "Explore diverse bazaars like Dariba Kalan (jewelry) and Kinari Bazaar (trims)",
+            "Indulge in famous street food at Paranthe Wali Gali",
+            "Observe local life and bargaining culture"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹500 - ₹1000 (estimated for food and small purchases)",
+            "bestTime": "Late afternoon to evening for a lively atmosphere",
+            "duration": "3.5 hours",
+            "accessibility": "Crowded and narrow lanes, limited accessibility for wheelchairs."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Small backpack",
+              "Cash (smaller denominations)"
+            ],
+            "whatToBuy": [
+              "Spices",
+              "Textiles",
+              "Jewelry",
+              "Street food"
+            ],
+            "safetyNotes": [
+              "Guard your belongings against pickpockets",
+              "Be cautious with street food hygiene (choose popular stalls)"
+            ],
+            "customsEtiquette": [
+              "Bargaining is expected in most shops"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Vibrant market scenes",
+              "Historical buildings amidst the shops"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Dinner in Old Delhi",
+          "coordinates": {
+            "latitude": 28.6562,
+            "longitude": 77.2307
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "Conclude your day with an authentic culinary experience in Old Delhi. The area is renowned for its traditional Mughlai and North Indian cuisine, offering a rich tapestry of flavors and aromas. From succulent kebabs to rich curries and flavorful biryanis, you'll find a wide array of dishes to tantalize your taste buds.",
+          "whyVisit": "To savor the legendary flavors of Old Delhi, known for its delectable non-vegetarian and vegetarian dishes.",
+          "activities": [
+            "Try local specialties such as Nihari, Biryani, or various Kebabs",
+            "Experience traditional Indian dining"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹400 - ₹800 (estimated)",
+            "bestTime": "7:30 PM - 8:30 PM",
+            "duration": "1 hour",
+            "accessibility": "Varies by restaurant; many traditional eateries may have limited accessibility."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Opt for reputable restaurants",
+              "Inform about spice preferences"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 14.3,
+        "spending": {
+          "entryFees": 50,
+          "activities": 0,
+          "transport": 300,
+          "meals": 700,
+          "shopping": 500,
+          "total": 1550
+        },
+        "remainingBudget": 8450
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-17",
+      "theme": "Mughal Heritage and Modern Delights",
+      "optimizedRoute": "Hotel Prince Palace (The Green) → Humayun's Tomb → Qutub Minar Complex → Select Citywalk Mall → Hotel Prince Palace (The Green)",
+      "totalDistance": 41.27,
+      "totalTravelTime": "approximately 2 hours 44 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Humayun's Tomb",
+          "coordinates": {
+            "latitude": 28.5933,
+            "longitude": 77.2507
+          },
+          "distanceFromPrevious": 8.82,
+          "travelTimeFromPrevious": "35 minutes",
+          "description": "Explore Humayun's Tomb, a magnificent UNESCO World Heritage site and the precursor to the Taj Mahal. This stunning example of Mughal architecture, commissioned by Humayun's first wife Bega Begum, features intricate marble and sandstone work, surrounded by serene charbagh (four-part) gardens. It served as an inspiration for many later Mughal architectural marvels, showcasing a blend of Persian and Indian architectural styles.",
+          "whyVisit": "To appreciate early Mughal architecture, serene gardens, and its historical link to the Taj Mahal.",
+          "activities": [
+            "Wander through the sprawling and well-maintained gardens",
+            "Admire the intricate Mughal architecture and design",
+            "Photography of the tomb and its surroundings"
+          ],
+          "practicalInfo": {
+            "entryFee": "₹30 (Indian citizens), ₹500 (foreign nationals) (estimated)",
+            "estimatedCost": "₹30 - ₹500",
+            "bestTime": "Morning to avoid crowds and heat",
+            "duration": "2.5 hours",
+            "accessibility": "Well-maintained paths, but some areas might have steps."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Sunscreen",
+              "Hat",
+              "Water bottle"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Dress modestly"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main tomb structure",
+              "Reflecting pools",
+              "Garden pathways"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Morning",
+          "name": "Travel to Qutub Minar & Lunch",
+          "coordinates": {
+            "latitude": 28.5244,
+            "longitude": 77.1855
+          },
+          "distanceFromPrevious": 12.1,
+          "travelTimeFromPrevious": "48 minutes",
+          "description": "Journey from the peaceful Humayun's Tomb to the historic Qutub Minar complex. Upon arrival in the area, enjoy a satisfying lunch at a local restaurant to recharge before delving into another UNESCO World Heritage site.",
+          "whyVisit": "Efficiently combine travel with a meal break, preparing you for extensive exploration of the Qutub Minar Complex.",
+          "activities": [
+            "Travel to Qutub Minar area",
+            "Enjoy a meal at a local restaurant"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹300 - ₹600 (estimated for lunch)",
+            "bestTime": "11:30 AM - 1:30 PM",
+            "duration": "2 hours (travel + lunch)",
+            "accessibility": "Varies by restaurant."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Choose hygienic dining options"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Qutub Minar Complex",
+          "coordinates": {
+            "latitude": 28.5244,
+            "longitude": 77.1855
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "10 minutes (walk from lunch spot)",
+          "description": "Discover the Qutub Minar Complex, another breathtaking UNESCO World Heritage site. This sprawling complex is home to the towering Qutub Minar, a magnificent 73-meter tall minaret made of red sandstone and marble, adorned with intricate carvings and verses from the Quran. You'll also find the Quwwat-ul-Islam Mosque, the Alai Darwaza gate, and the mysterious Iron Pillar, which has defied rust for centuries. The site offers a fascinating insight into early Islamic architecture and Indo-Islamic art.",
+          "whyVisit": "To marvel at the iconic Qutub Minar and explore the rich history of India's first Islamic monuments.",
+          "activities": [
+            "Explore the various historical monuments within the complex",
+            "Learn about the history and significance of the structures",
+            "Admire the intricate carvings and architectural details"
+          ],
+          "practicalInfo": {
+            "entryFee": "₹30 (Indian citizens), ₹500 (foreign nationals) (estimated)",
+            "estimatedCost": "₹30 - ₹500",
+            "bestTime": "Afternoon when the light is good for photography, but can be crowded",
+            "duration": "3 hours",
+            "accessibility": "Main pathways are accessible, but some structures may have steps."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Camera",
+              "Water bottle"
+            ],
+            "whatToBuy": [
+              "Souvenirs from official shops"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Dress modestly, especially when near religious structures"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Qutub Minar itself",
+              "Alai Darwaza",
+              "Intricate carvings on the mosque"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Select Citywalk Mall",
+          "coordinates": {
+            "latitude": 28.5283,
+            "longitude": 77.2287
+          },
+          "distanceFromPrevious": 5.21,
+          "travelTimeFromPrevious": "21 minutes",
+          "description": "Transition from ancient history to modern indulgence at Select Citywalk Mall, one of South Delhi's premier upscale shopping destinations. This sprawling mall offers a sophisticated blend of international luxury brands, popular Indian retailers, diverse dining options, and entertainment facilities. It's a perfect spot for some retail therapy, catching a movie, or simply enjoying the contemporary urban atmosphere.",
+          "whyVisit": "For a change of pace, modern shopping, and a wide array of dining and entertainment choices.",
+          "activities": [
+            "Browse international and Indian fashion brands",
+            "Indulge in retail therapy",
+            "Enjoy modern entertainment options"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹500 - ₹2000+ (estimated for shopping/entertainment)",
+            "bestTime": "Evening for a lively ambiance",
+            "duration": "3 hours",
+            "accessibility": "Fully accessible with elevators and ramps."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [
+              "Fashion apparel",
+              "Accessories",
+              "Electronics"
+            ],
+            "safetyNotes": [
+              "Keep personal belongings secure"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Mall's modern architecture",
+              "Decorative installations"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Dinner at Select Citywalk",
+          "coordinates": {
+            "latitude": 28.5283,
+            "longitude": 77.2287
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "5 minutes (walk within mall)",
+          "description": "Enjoy a delightful dinner at one of the numerous restaurants or in the extensive food court within Select Citywalk Mall. The mall boasts a wide range of culinary choices, from fine dining establishments offering global cuisines to casual eateries and popular fast-food chains, ensuring there's something to satisfy every palate.",
+          "whyVisit": "Conveniently located after shopping, offering a vast selection of cuisines to choose from.",
+          "activities": [
+            "Choose from a variety of international and Indian cuisines",
+            "Enjoy a relaxed dining experience"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹500 - ₹1200 (estimated)",
+            "bestTime": "8:00 PM - 9:00 PM",
+            "duration": "1 hour",
+            "accessibility": "Fully accessible."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 41.27,
+        "spending": {
+          "entryFees": 500,
+          "activities": 0,
+          "transport": 600,
+          "meals": 1000,
+          "shopping": 1000,
+          "total": 3100
+        },
+        "remainingBudget": 5350
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-18",
+      "theme": "Iconic Landmarks and Cultural Immersion",
+      "optimizedRoute": "Hotel Prince Palace (The Green) → India Gate & Rashtrapati Bhavan → National Museum → Dilli Haat (INA) → Connaught Place → Hotel Prince Palace (The Green)",
+      "totalDistance": 23.87,
+      "totalTravelTime": "approximately 1 hour 35 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "India Gate & Rashtrapati Bhavan (Drive past)",
+          "coordinates": {
+            "latitude": 28.6129,
+            "longitude": 77.2295
+          },
+          "distanceFromPrevious": 5.48,
+          "travelTimeFromPrevious": "22 minutes",
+          "description": "Start your day by visiting the iconic India Gate, a poignant war memorial honoring Indian soldiers. Afterwards, drive past Rashtrapati Bhavan, the magnificent official residence of the President of India, and the surrounding Parliament House. These grand structures are central to New Delhi's identity, symbolizing the nation's history and democratic values. Enjoy the morning serenity and capture memorable photographs.",
+          "whyVisit": "To see key national landmarks and experience the grandeur of Lutyens' Delhi.",
+          "activities": [
+            "Take photographs at India Gate",
+            "Enjoy a leisurely stroll around the monument",
+            "Observe the grandeur of Rashtrapati Bhavan from outside"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (public access)",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning for cooler weather and fewer crowds",
+            "duration": "1.5 hours",
+            "accessibility": "Fully accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Water bottle",
+              "Sunscreen"
+            ],
+            "whatToBuy": [
+              "Small souvenirs from street vendors"
+            ],
+            "safetyNotes": [
+              "Be mindful of traffic around India Gate"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "India Gate with the eternal flame",
+              "View of Rashtrapati Bhavan from afar"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Morning",
+          "name": "National Museum",
+          "coordinates": {
+            "latitude": 28.6117,
+            "longitude": 77.2199
+          },
+          "distanceFromPrevious": 1.4,
+          "travelTimeFromPrevious": "6 minutes",
+          "description": "Delve into India's rich artistic and cultural heritage at the National Museum, the largest museum in India. Its vast collection spans from prehistoric artifacts to contemporary art, offering a comprehensive journey through the country's diverse history. Explore galleries dedicated to ancient sculptures, miniature paintings, decorative arts, archaeological finds, and tribal art, providing deep insights into Indian civilization.",
+          "whyVisit": "To explore India's extensive history, art, and cultural artifacts.",
+          "activities": [
+            "Discover ancient sculptures and archaeological treasures",
+            "Admire miniature paintings and decorative arts",
+            "Learn about Indian civilization through various exhibits"
+          ],
+          "practicalInfo": {
+            "entryFee": "₹20 (Indian citizens), ₹650 (foreign nationals) (estimated)",
+            "estimatedCost": "₹20 - ₹650",
+            "bestTime": "Late morning to early afternoon",
+            "duration": "2 hours",
+            "accessibility": "Partially accessible with ramps and elevators, but some older sections might be challenging."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes",
+              "Quiet demeanor"
+            ],
+            "whatToBuy": [
+              "Books and replicas from the museum shop"
+            ],
+            "safetyNotes": [
+              "Follow museum rules regarding photography"
+            ],
+            "customsEtiquette": [
+              "Maintain silence and respect exhibits"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Selected artifacts (where permitted)"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Lunch",
+          "coordinates": {
+            "latitude": 28.6117,
+            "longitude": 77.2199
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "5 minutes (walk from museum)",
+          "description": "Enjoy a leisurely lunch at a local restaurant situated near the National Museum or en route to Dilli Haat. This break will allow you to savor a variety of Indian dishes and relax before continuing your cultural exploration.",
+          "whyVisit": "To enjoy a satisfying meal and take a break from sightseeing.",
+          "activities": [
+            "Savor a delicious Indian meal",
+            "Plan the next phase of your day"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹300 - ₹600 (estimated)",
+            "bestTime": "12:30 PM - 1:30 PM",
+            "duration": "1 hour",
+            "accessibility": "Varies by restaurant."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Choose hygienic dining spots"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Dilli Haat (INA)",
+          "coordinates": {
+            "latitude": 28.5731,
+            "longitude": 77.2096
+          },
+          "distanceFromPrevious": 5.54,
+          "travelTimeFromPrevious": "22 minutes",
+          "description": "Experience the vibrant cultural tapestry of India at Dilli Haat (INA), an open-air market showcasing handicrafts, cuisine, and cultural performances from various Indian states. This unique marketplace offers a village-like ambiance in the heart of the city, providing an excellent opportunity to shop for authentic traditional crafts, textiles, and jewelry, as well as to sample diverse regional Indian dishes in an ethnic setting.",
+          "whyVisit": "For unique souvenir shopping, experiencing diverse regional cultures, and sampling authentic regional Indian cuisine.",
+          "activities": [
+            "Shop for traditional crafts, textiles, and jewelry",
+            "Sample various regional Indian dishes from different states",
+            "Enjoy cultural performances (if available)"
+          ],
+          "practicalInfo": {
+            "entryFee": "₹100 (estimated)",
+            "estimatedCost": "₹100 (entry) + ₹500 - ₹1500 (shopping/food)",
+            "bestTime": "Afternoon for shopping and evening for cultural shows",
+            "duration": "3 hours",
+            "accessibility": "Mostly accessible pathways."
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash for small purchases",
+              "Bargaining skills"
+            ],
+            "whatToBuy": [
+              "Handicrafts",
+              "Textiles",
+              "Spices",
+              "Jewelry"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Bargaining is common"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Colorful stalls",
+              "Cultural performances",
+              "Diverse food court"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Connaught Place",
+          "coordinates": {
+            "latitude": 28.6304,
+            "longitude": 77.2177
+          },
+          "distanceFromPrevious": 9.61,
+          "travelTimeFromPrevious": "38 minutes",
+          "description": "Head to Connaught Place, a prominent business, shopping, and entertainment hub in New Delhi, known for its distinctive Georgian-style architecture. This circular market offers a blend of international brands, local boutiques, cafes, restaurants, and bars. It's a lively area perfect for some last-minute shopping, enjoying a coffee, or simply soaking in the vibrant metropolitan atmosphere as the day transitions into evening.",
+          "whyVisit": "For a blend of shopping, dining, and experiencing modern Delhi's vibrant nightlife and colonial architecture.",
+          "activities": [
+            "Explore the inner and outer circles for shopping",
+            "Enjoy a coffee or snack at a cafe",
+            "Soak in the lively atmosphere"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹500 - ₹1500+ (estimated for shopping/drinks)",
+            "bestTime": "Evening for shopping and dining",
+            "duration": "2.5 hours",
+            "accessibility": "Mostly accessible, sidewalks can be crowded."
+          },
+          "tips": {
+            "whatToBring": [
+              "Wallet",
+              "Comfortable walking shoes"
+            ],
+            "whatToBuy": [
+              "Branded goods",
+              "Books",
+              "Electronics"
+            ],
+            "safetyNotes": [
+              "Be aware of crowded areas"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Colonial architecture",
+              "Central park"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Farewell Dinner at Connaught Place",
+          "coordinates": {
+            "latitude": 28.6304,
+            "longitude": 77.2177
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "5 minutes (walk within CP)",
+          "description": "Enjoy your final dinner in Delhi at one of the many excellent restaurants in Connaught Place. With a diverse range of cuisines available, from traditional Indian to international flavors, you can choose the perfect setting to reflect on your trip and savor a memorable farewell meal.",
+          "whyVisit": "To conclude your trip with a celebratory dinner in a lively and well-regarded dining hub.",
+          "activities": [
+            "Relish a diverse culinary experience",
+            "Enjoy the ambiance of Connaught Place at night"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹600 - ₹1500 (estimated)",
+            "bestTime": "8:00 PM - 9:00 PM",
+            "duration": "1 hour",
+            "accessibility": "Varies by restaurant."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 23.87,
+        "spending": {
+          "entryFees": 750,
+          "activities": 0,
+          "transport": 400,
+          "meals": 1000,
+          "shopping": 1000,
+          "total": 3150
+        },
+        "remainingBudget": 2200
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-10-19",
+      "theme": "Departure",
+      "optimizedRoute": "Hotel Prince Palace (The Green) → Delhi Airport / Railway Station",
+      "totalDistance": 0,
+      "totalTravelTime": "variable",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Departure",
+          "coordinates": {
+            "latitude": 28.640671899999997,
+            "longitude": 77.211439
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a final breakfast at your hotel, complete the check-out formalities, and proceed with your journey back to Haldwani. Allow ample time for transit to the airport or railway station.",
+          "whyVisit": "The final stage of your trip, ensuring a smooth departure from Delhi.",
+          "activities": [
+            "Breakfast",
+            "Hotel check-out",
+            "Travel to airport/railway station"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹400 - ₹800 (estimated for transport)",
+            "bestTime": "Morning, according to flight/train schedule",
+            "duration": "2-3 hours (including transit)",
+            "accessibility": "Varies by transport mode."
+          },
+          "tips": {
+            "whatToBring": [
+              "All travel documents",
+              "Boarding passes/tickets"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Confirm transportation bookings",
+              "Arrive early for departure"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 600,
+          "meals": 300,
+          "shopping": 0,
+          "total": 900
+        },
+        "remainingBudget": 1300
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 10000,
+    "currency": "INR",
+    "expenses": {
+      "flights": {
+        "flightName": "N/A",
+        "costUserCurrency": 0,
+        "costINR": 0
+      },
+      "accommodation": {
+        "hotelName": "Hotel Prince Palace (The Green)",
+        "pricePerNight": 840,
+        "nights": 3,
+        "rooms": 1,
+        "total": 2520
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 50,
+          "activities": 0,
+          "transport": 300,
+          "meals": 700,
+          "shopping": 500,
+          "subtotal": 1550
+        },
+        {
+          "day": 2,
+          "entryFees": 500,
+          "activities": 0,
+          "transport": 600,
+          "meals": 1000,
+          "shopping": 1000,
+          "subtotal": 3100
+        },
+        {
+          "day": 3,
+          "entryFees": 750,
+          "activities": 0,
+          "transport": 400,
+          "meals": 1000,
+          "shopping": 1000,
+          "subtotal": 3150
+        },
+        {
+          "day": 4,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 600,
+          "meals": 300,
+          "shopping": 0,
+          "subtotal": 900
+        }
+      ]
+    },
+    "totalSpent": 7770,
+    "remainingBudget": 2230,
+    "budgetTips": [
+      "Utilize public transport like the Delhi Metro for cost-effective travel between major attractions.",
+      "Explore local street food options in areas like Chandni Chowk for delicious and budget-friendly meals.",
+      "Consider visiting free attractions or those with lower entry fees for Indian citizens.",
+      "Bargain respectfully when shopping in local markets to get better deals.",
+      "Pack essential snacks and a reusable water bottle to reduce daily expenses."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Lightweight cotton clothes (t-shirts, shirts, casual trousers/skirts) for warm days",
+      "A light jacket or shawl for cooler evenings (October can have pleasant evenings)",
+      "Modest attire for visiting religious sites (shoulders and knees covered)"
+    ],
+    "footwear": [
+      "Comfortable walking shoes or sandals",
+      "Optional: one pair of dressier shoes for evening outings"
+    ],
+    "essentials": [
+      "Small backpack or day bag",
+      "Reusable water bottle",
+      "Sunscreen",
+      "Sunglasses",
+      "Hat or cap",
+      "Insect repellent",
+      "Hand sanitizer",
+      "Basic toiletries"
+    ],
+    "medication": [
+      "Any personal prescription medications",
+      "Basic first-aid kit (band-aids, antiseptic wipes, pain relievers, antacids)",
+      "Motion sickness medication (if prone)"
+    ],
+    "electronics": [
+      "Mobile phone and charger",
+      "Power bank",
+      "Camera and extra batteries/memory card",
+      "Universal travel adapter (if needed)"
+    ],
+    "miscellaneous": [
+      "Copy of important documents (passport, visa, tickets)",
+      "Wallet with cash (smaller denominations for markets) and cards",
+      "Small umbrella or raincoat (unlikely in October but good to have)",
+      "Book or entertainment for travel time"
+    ],
+    "documents": [
+      "Passport and visa (if applicable)",
+      "Flight/train tickets",
+      "Hotel booking confirmations",
+      "ID card (e.g., Aadhar card for Indian citizens)",
+      "Travel insurance details"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Confirm hotel booking",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pack essential clothing and footwear",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Gather all necessary travel documents (ID, tickets, bookings)",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Inform bank about travel plans to avoid card issues",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Download offline maps of Delhi",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Check weather forecast closer to travel date",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Charge all electronic devices",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "task": "Arrange for airport/railway station transfer in Delhi",
+      "completed": false,
+      "priority": "high"
+    }
+  ]
+}
