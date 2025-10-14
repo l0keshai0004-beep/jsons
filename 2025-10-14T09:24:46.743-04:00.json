@@ -1,0 +1,902 @@
+{
+  "tripOverview": {
+    "destination": "Harshil Valley",
+    "startDate": "2025-10-23",
+    "endDate": "2025-10-26",
+    "duration": 3,
+    "companions": "2 Adults",
+    "tripType": "Nature & Cultural Exploration"
+  },
+  "hotel": {
+    "name": "Skyard Hostel & Homestay (Harsil Valley)",
+    "location": "Harsil Village, Harshil Valley",
+    "coordinates": {
+      "latitude": 31.0365829,
+      "longitude": 78.7518268
+    },
+    "pricePerNight": 1297,
+    "rooms": 1,
+    "nights": 3,
+    "totalCost": 3892,
+    "currency": "INR",
+    "reasonForSelection": "Selected for its affordability, good ratings, and proximity to Harsil Village, offering a comfortable base for exploring the valley. The hostel provides essential amenities for a pleasant stay amidst the natural beauty.",
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Pet-friendly",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible"
+    ],
+    "bookingLinks": [
+      "https://skyardhostels.com/harshil-valley.php"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipO9GyTya1bmbQygq0m21Rxymsd2TpV0TFYAvMzC=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipOfilNLtvHu_zIOW9Eii7wycXV7-iCPHH7Z-GVR=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipP3AF4TKHuSLl5FW4JVYGUePCPUap0I_Xi6yFzI=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipPK41EBbBEjHG5aK8bAhWbj-jbXCgDbN2qUzzUB=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipOcUxRuwEFffkyE1jHFUANdWRnraDgrPTtMHI-v=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipND1K2QPPELWK-Lim2JprcEp81H7hkxaU0gOve0=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipN_ImG2oaPGvmFP10OQOAxigCZLWEenjHJ_AUO0=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipNpTjMD1-GZs9I-RLpcGpLXb46Ssb6x8FaB5284=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipNZombQ-uzYGYRu6Ik7As2lSErDaoxSGCEBPpPz=s10000"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-23",
+      "theme": "Arrival and Local Immersion",
+      "optimizedRoute": "Skyard Hostel & Homestay → Evening Stroll along Bhagirathi River & Local Market → Dinner at a local eatery → Skyard Hostel & Homestay",
+      "totalDistance": 0,
+      "totalTravelTime": "0 minutes",
+      "places": [
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Travel from Haldwani to Harshil Valley",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Embark on a scenic journey from Haldwani, winding through the majestic mountains to reach the serene Harshil Valley. This long but picturesque drive offers breathtaking views and a gradual immersion into the Himalayan landscape.",
+          "whyVisit": "The journey itself is an experience, allowing travelers to witness the changing topography and anticipate the tranquility of Harshil Valley.",
+          "activities": [
+            "Enjoy the scenic drive",
+            "Take photographs of the landscapes",
+            "Stop at viewpoints for panoramic vistas"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "Approximate cost of vehicle fuel/fare for travel from Haldwani to Harshil Valley.",
+            "bestTime": "Morning to early afternoon to enjoy daylight views.",
+            "duration": "7-8 hours (depending on stops and road conditions)",
+            "accessibility": "Accessible by car/taxi. Roads can be winding."
+          },
+          "tips": {
+            "whatToBring": [
+              "Snacks and water for the journey",
+              "Camera",
+              "Motion sickness medication if needed"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Drive carefully on mountain roads",
+              "Stay hydrated"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Various points along the drive offering valley and mountain views"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Afternoon",
+          "name": "Hotel Check-in & Acclimatization",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Upon arrival, settle into your chosen accommodation. Take this time to rest and allow your body to adjust to the altitude, ensuring a comfortable and enjoyable trip ahead. Unpack, freshen up, and prepare for the evening.",
+          "whyVisit": "Essential for well-being and to prevent altitude sickness, ensuring you are refreshed for subsequent explorations.",
+          "activities": [
+            "Unpack and organize belongings",
+            "Freshen up",
+            "Relax and rehydrate",
+            "Take a short, gentle stroll around the hotel premises"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Late afternoon to allow ample rest before evening activities.",
+            "duration": "1-2 hours",
+            "accessibility": "Hotel dependent."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Drink plenty of water",
+              "Avoid strenuous activities immediately after arrival"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Evening Stroll along Bhagirathi River & Local Market",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a leisurely walk along the serene banks of the Bhagirathi River, absorbing the tranquil atmosphere. Afterwards, explore the small, quaint local market to get a glimpse of daily life in Harshil village and perhaps find unique local items.",
+          "whyVisit": "Offers a peaceful introduction to the natural beauty and local culture of Harshil, allowing for gentle exploration and relaxation.",
+          "activities": [
+            "Enjoy the tranquility of the river",
+            "Observe local life and interactions",
+            "Browse local handicrafts or produce"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "Optional shopping expenses.",
+            "bestTime": "Late afternoon to early evening for pleasant weather and sunset views.",
+            "duration": "1.5 - 2 hours",
+            "accessibility": "Mostly flat terrain along the river, market area can be uneven."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Light jacket (evenings can be cool)",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Local woolens",
+              "Handicrafts",
+              "Regional spices"
+            ],
+            "safetyNotes": [
+              "Be mindful of uneven paths",
+              "Respect local vendors"
+            ],
+            "customsEtiquette": [
+              "Bargaining is generally not common in small local markets"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Bhagirathi River banks",
+              "Vibrant market scenes"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Dinner at a local eatery",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Savor a warm, authentic meal at a local eatery in Harshil. Experience the flavors of traditional Garhwali cuisine, prepared with local ingredients, offering a delightful culinary end to your first day.",
+          "whyVisit": "An opportunity to experience local culture through its culinary offerings and enjoy a comforting meal after a day of travel.",
+          "activities": [
+            "Taste local Garhwali dishes",
+            "Enjoy a relaxed dining experience"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "300 - 600 INR per person",
+            "bestTime": "Evening",
+            "duration": "1 hour",
+            "accessibility": "Depends on the chosen eatery."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Ask about spice levels if you prefer milder food"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 800,
+          "shopping": 0,
+          "total": 800
+        },
+        "remainingBudget": 10308
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-24",
+      "theme": "Trekking to Mukhba Village and Harshil Exploration",
+      "optimizedRoute": "Skyard Hostel & Homestay → Mukhba Village → Lunch in Harshil → Exploration of Harshil Village and Bhagirathi River banks → Evening Tea and Relaxation → Dinner → Skyard Hostel & Homestay",
+      "totalDistance": 0.58,
+      "totalTravelTime": "2 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Trek to Mukhba Village (Winter abode of Goddess Ganga)",
+          "coordinates": {
+            "latitude": 31.037,
+            "longitude": 78.750
+          },
+          "distanceFromPrevious": 0.29,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Embark on a picturesque trek through dense deodar forests to the enchanting Mukhba Village. This charming village, known as the winter abode of Goddess Ganga, features traditional wooden houses and offers a serene atmosphere.",
+          "whyVisit": "Experience a beautiful trek, witness traditional Himalayan village life, and visit an ancient temple of Goddess Ganga.",
+          "activities": [
+            "Enjoy the scenic trek",
+            "Interact with friendly locals",
+            "Visit the ancient temple dedicated to Goddess Ganga",
+            "Photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning for cooler temperatures and ample daylight.",
+            "duration": "3-4 hours (7-8 km round trip)",
+            "accessibility": "Requires moderate fitness for trekking on uneven terrain."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable trekking shoes",
+              "Water bottle",
+              "Light snacks",
+              "Sunscreen",
+              "Hat"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Stay on marked trails",
+              "Inform hotel of your trekking plans",
+              "Carry a basic first-aid kit"
+            ],
+            "customsEtiquette": [
+              "Dress modestly when visiting temples",
+              "Respect local customs"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Deodar forests",
+              "Traditional wooden houses of Mukhba",
+              "Temple architecture"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Lunch in Harshil",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 0.29,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Return to Harshil after your trek to enjoy a fulfilling lunch at a local restaurant. Recharge with delicious local delicacies, savoring the flavors of the region in a relaxed setting.",
+          "whyVisit": "To refuel and experience more of the local cuisine after a morning of exploration.",
+          "activities": [
+            "Savor local Garhwali cuisine",
+            "Relax and re-energize"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "300 - 600 INR per person",
+            "bestTime": "Early afternoon after the trek.",
+            "duration": "1 hour",
+            "accessibility": "Depends on the chosen restaurant."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Exploration of Harshil Village and Bhagirathi River banks",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Spend your afternoon delving deeper into the main Harshil village. Wander through its famed apple orchards, and once again, take a tranquil walk along the Bhagirathi River banks, enjoying the pristine natural beauty and serenity.",
+          "whyVisit": "Further immerse yourself in the charm of Harshil, appreciate its natural beauty, and enjoy peaceful moments by the river.",
+          "activities": [
+            "Photography amidst apple orchards",
+            "Leisurely walk along the river",
+            "Enjoy the serene environment"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Afternoon for good light and pleasant weather.",
+            "duration": "2-3 hours",
+            "accessibility": "Generally accessible, but some areas in orchards might be uneven."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Binoculars (for bird watching)",
+              "Light jacket"
+            ],
+            "whatToBuy": [
+              "Fresh apples (seasonal)",
+              "Local honey"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Apple orchards with mountain backdrop",
+              "Bhagirathi River scenes"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Evening Tea and Relaxation",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Unwind at your hotel, perhaps with a warm cup of local tea, while enjoying the picturesque views of the valley. This is a perfect time to reflect on the day's adventures and prepare for the evening.",
+          "whyVisit": "To relax and appreciate the serene ambiance of Harshil from the comfort of your accommodation.",
+          "activities": [
+            "Enjoy the sunset views",
+            "Read a book",
+            "Journaling",
+            "Prepare for dinner"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "Cost of tea/snacks (if not included)",
+            "bestTime": "Late afternoon to early evening.",
+            "duration": "1.5 hours",
+            "accessibility": "Hotel dependent."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Dinner",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a quiet evening meal either at your hotel or at another inviting local restaurant in Harshil. This provides another opportunity to sample regional dishes or enjoy familiar comforts.",
+          "whyVisit": "A relaxing end to a day of trekking and exploration, offering good food and a peaceful atmosphere.",
+          "activities": [
+            "Savor a quiet evening meal",
+            "Discuss the day's experiences"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "300 - 600 INR per person",
+            "bestTime": "Evening",
+            "duration": "1 hour",
+            "accessibility": "Depends on the chosen restaurant."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0.58,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 800,
+          "shopping": 0,
+          "total": 800
+        },
+        "remainingBudget": 9508
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-25",
+      "theme": "Village Charm and Hot Springs",
+      "optimizedRoute": "Skyard Hostel & Homestay → Dharali Village and Apple Orchards → Lunch in Harshil/Dharali → Gangnani Hot Springs → Evening Bonfire and Stargazing → Dinner → Skyard Hostel & Homestay",
+      "totalDistance": 7.1,
+      "totalTravelTime": "8 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Visit Dharali Village and Apple Orchards",
+          "coordinates": {
+            "latitude": 31.026,
+            "longitude": 78.736
+          },
+          "distanceFromPrevious": 3.55,
+          "travelTimeFromPrevious": "4 minutes",
+          "description": "Explore Dharali, another picturesque village renowned for its stunning beauty and extensive apple orchards. Located a short drive or walk from Harshil, it offers a tranquil escape and a glimpse into rural Himalayan life.",
+          "whyVisit": "Walk through beautiful apple orchards, soak in the village charm, and visit the historic Shiv Temple.",
+          "activities": [
+            "Walk through the apple orchards (seasonal)",
+            "Enjoy the serene village environment",
+            "Visit the ancient Shiv Temple",
+            "Photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning for pleasant weather and good light for photography.",
+            "duration": "3-4 hours",
+            "accessibility": "Accessible by road, walking within the village can be uneven."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Camera",
+              "Light jacket"
+            ],
+            "whatToBuy": [
+              "Fresh produce (seasonal)",
+              "Local crafts"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Be respectful when visiting temples"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Apple orchards",
+              "Traditional village houses",
+              "Shiv Temple"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Lunch in Harshil/Dharali",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 3.55,
+          "travelTimeFromPrevious": "4 minutes",
+          "description": "Enjoy a delightful lunch at a local spot, either returning to Harshil or finding a cozy eatery in Dharali. This provides a moment to relax and refuel amidst your explorations.",
+          "whyVisit": "To taste more local food and enjoy the peaceful surroundings of the valley.",
+          "activities": [
+            "Savor local dishes",
+            "Enjoy the tranquil ambiance"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "300 - 600 INR per person",
+            "bestTime": "Early afternoon.",
+            "duration": "1 hour",
+            "accessibility": "Depends on the chosen restaurant."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Gangnani Hot Springs (if time permits and accessible)",
+          "coordinates": {
+            "latitude": 30.985,
+            "longitude": 78.503
+          },
+          "distanceFromPrevious": 25,
+          "travelTimeFromPrevious": "1 hour",
+          "description": "Take a scenic drive to Gangnani, famed for its natural hot water springs. A therapeutic dip in these warm waters can be incredibly relaxing, offering rejuvenation amidst the cool mountain air. **Note: Route to Gangnani from Harshil by car might be challenging or require a longer travel time than expected due to mountainous terrain and road conditions. This leg of the journey is an estimate due to limitations in routing data.**",
+          "whyVisit": "Experience the therapeutic benefits of natural hot springs and enjoy a unique natural attraction.",
+          "activities": [
+            "Bathe in the hot springs",
+            "Relax and unwind",
+            "Enjoy the surrounding natural beauty"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (Donation-based for facilities)",
+            "estimatedCost": "N/A",
+            "bestTime": "Afternoon.",
+            "duration": "2-3 hours (including travel)",
+            "accessibility": "Requires a drive; facilities at the springs might have steps."
+          },
+          "tips": {
+            "whatToBring": [
+              "Swimwear",
+              "Towel",
+              "Change of clothes",
+              "Flip-flops"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be mindful of slippery surfaces",
+              "Keep an eye on personal belongings",
+              "Check local conditions for accessibility before departure"
+            ],
+            "customsEtiquette": [
+              "Respect local sentiments regarding modesty"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Hot springs area",
+              "Surrounding landscapes"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Evening Bonfire (if available at hotel) and Stargazing",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 25,
+          "travelTimeFromPrevious": "1 hour",
+          "description": "Spend your final evening in Harshil enjoying a cozy bonfire under the crystal-clear Himalayan sky. The valley offers exceptional opportunities for stargazing, providing a magical end to your trip.",
+          "whyVisit": "A perfect way to relax and reflect on your journey, enjoying the tranquility and the spectacular night sky.",
+          "activities": [
+            "Share stories and experiences around the bonfire",
+            "Gaze at the stars and constellations",
+            "Enjoy the warmth and ambiance"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (may depend on hotel policy)",
+            "estimatedCost": "N/A",
+            "bestTime": "Post-dinner evening.",
+            "duration": "2-3 hours",
+            "accessibility": "Hotel dependent."
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm clothes",
+              "Blanket (if needed)",
+              "Camera for astrophotography (optional)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be careful around the fire"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Starry night sky"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Dinner",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a farewell dinner, either at your hotel or a preferred local restaurant. Reflect on the wonderful memories created during your Harshil Valley adventure.",
+          "whyVisit": "A final opportunity to savor local cuisine and enjoy a peaceful evening before departure.",
+          "activities": [
+            "Enjoy a quiet meal",
+            "Reflect on the trip"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "300 - 600 INR per person",
+            "bestTime": "Evening",
+            "duration": "1 hour",
+            "accessibility": "Depends on the chosen restaurant."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 53.55,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 800,
+          "shopping": 0,
+          "total": 800
+        },
+        "remainingBudget": 8708
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-10-26",
+      "theme": "Departure from Harshil Valley",
+      "optimizedRoute": "Skyard Hostel & Homestay → Departure from Harshil Valley to Haldwani",
+      "totalDistance": 0,
+      "totalTravelTime": "0 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Leisurely Breakfast and Check-out",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a final, leisurely breakfast at your hotel, taking in the last views of the stunning Harshil Valley. Complete your check-out formalities at a relaxed pace, preparing for your journey home.",
+          "whyVisit": "A calm start to the departure day, allowing for a final appreciation of the surroundings and smooth check-out procedures.",
+          "activities": [
+            "Relax and enjoy breakfast",
+            "Pack belongings",
+            "Complete check-out formalities"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning.",
+            "duration": "1.5 hours",
+            "accessibility": "Hotel dependent."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Morning",
+          "name": "Departure from Harshil Valley to Haldwani",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Begin your return journey from the serene Harshil Valley back to Haldwani. Carry with you beautiful memories of the landscapes, culture, and experiences gathered during your stay.",
+          "whyVisit": "The journey back provides an opportunity to reflect on the trip and enjoy the scenic route once more.",
+          "activities": [
+            "Enjoy the return journey",
+            "Reflect on your adventure",
+            "Review photographs taken during the trip"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "Approximate cost of vehicle fuel/fare for return journey to Haldwani.",
+            "bestTime": "Morning to allow ample time for travel.",
+            "duration": "7-8 hours (depending on stops and road conditions)",
+            "accessibility": "Accessible by car/taxi. Roads can be winding."
+          },
+          "tips": {
+            "whatToBring": [
+              "Snacks and water for the journey",
+              "Entertainment for the drive"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Drive carefully on mountain roads",
+              "Ensure vehicle is in good condition"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Various points along the drive offering valley and mountain views"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 0,
+          "shopping": 0,
+          "total": 0
+        },
+        "remainingBudget": 8708
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 15000,
+    "currency": "INR",
+    "expenses": {
+      "flights": {
+        "flightName": "N/A",
+        "costUserCurrency": 0,
+        "costINR": 0
+      },
+      "accommodation": {
+        "hotelName": "Skyard Hostel & Homestay (Harsil Valley)",
+        "pricePerNight": 1297,
+        "nights": 3,
+        "rooms": 1,
+        "total": 3892
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 800,
+          "shopping": 0,
+          "subtotal": 800
+        },
+        {
+          "day": 2,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 800,
+          "shopping": 0,
+          "subtotal": 800
+        },
+        {
+          "day": 3,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 800,
+          "shopping": 0,
+          "subtotal": 800
+        },
+        {
+          "day": 4,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 0,
+          "shopping": 0,
+          "subtotal": 0
+        }
+      ]
+    },
+    "totalSpent": 6292,
+    "remainingBudget": 8708,
+    "budgetTips": [
+      "Carry sufficient cash as ATM facilities might be limited in Harshil Valley.",
+      "Consider eating at local dhabas for authentic and budget-friendly meals.",
+      "Public transport options might be limited, plan for shared taxis if available to save on private transport costs for day trips."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Warm jackets (for cold nights and mornings)",
+      "Sweaters/fleeces",
+      "Thermal wear",
+      "Long-sleeved shirts",
+      "Comfortable trousers/jeans",
+      "Rain jacket/windcheater",
+      "Gloves",
+      "Woolen cap/beanie"
+    ],
+    "footwear": [
+      "Comfortable walking shoes/hiking boots",
+      "Warm socks",
+      "Flip-flops for hotel"
+    ],
+    "essentials": [
+      "Small backpack for day trips",
+      "Water bottle",
+      "Sunscreen",
+      "Lip balm",
+      "Moisturizer",
+      "Hand sanitizer",
+      "Torch/headlamp",
+      "Basic first-aid kit",
+      "Personal toiletries",
+      "Sunglasses"
+    ],
+    "medication": [
+      "Any personal prescribed medications",
+      "Pain relievers",
+      "Antacids",
+      "Band-aids",
+      "Motion sickness medication"
+    ],
+    "electronics": [
+      "Power bank",
+      "Chargers for all devices",
+      "Camera with extra batteries",
+      "Portable speaker (optional)"
+    ],
+    "miscellaneous": [
+      "Books/magazines",
+      "Travel pillow",
+      "Reusable shopping bag",
+      "Cash (local currency)"
+    ],
+    "documents": [
+      "ID proof (Aadhar Card/Passport)",
+      "Hotel booking confirmation",
+      "Any necessary permits (if applicable, though unlikely for Harshil)",
+      "Copies of all important documents"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Confirm hotel booking",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Arrange transportation to and from Harshil Valley",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pack appropriate clothing for cold weather",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Inform family/friends about travel plans and potential limited connectivity",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Withdraw sufficient cash for expenses",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Check weather forecast closer to travel date",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Charge all electronic devices and power banks",
+      "completed": false,
+      "priority": "medium"
+    }
+  ]
+}
