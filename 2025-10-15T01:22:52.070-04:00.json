@@ -1,0 +1,2108 @@
+{
+  "tripOverview": {
+    "destination": "Japan",
+    "startDate": "2025-10-18",
+    "endDate": "2025-10-25",
+    "duration": 7,
+    "companions": "5 Adults",
+    "tripType": "Cultural Immersion & Urban Exploration"
+  },
+  "hotel": {
+    "name": "Calligraphy House",
+    "location": "Kyoto",
+    "coordinates": {
+      "latitude": 34.9664315,
+      "longitude": 135.76212619999998
+    },
+    "pricePerNight": 9070,
+    "rooms": 3,
+    "nights": 7,
+    "totalCost": 63487,
+    "currency": "INR",
+    "reasonForSelection": "The Calligraphy House offers a unique and authentic Kyoto experience, perfect for a group seeking traditional Japanese accommodation. Its central location allows for easy access to many of Kyoto's renowned cultural sites, providing a comfortable base for your exploration.",
+    "amenities": [
+      "Traditional Japanese style",
+      "Private accommodation",
+      "Kitchen facilities (estimated)",
+      "Bathroom facilities (estimated)",
+      "Wi-Fi (estimated)"
+    ],
+    "bookingLinks": [
+      "https://serpapi.com/search.json?adults=5&check_in_date=2025-10-18&check_out_date=2025-10-25&children=0&currency=INR&engine=google_hotels&gl=jp&hl=en&max_price=14000&property_token=ChkIoYzixLrF6qluGg0vZy8xMXNzcWtid3NsEAE&q=Hotels+in+Kyoto%2C+Japan"
+    ],
+    "imageLinks": [
+      "https://cdn.worldota.net/t/1024x768/content/b9/70/b9701e7790443587249cf68e59b79dd0c9655ab0.JPEG",
+      "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICjuaCsLw=s10000",
+      "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDRwPz0Cw=s10000",
+      "https://cdn.worldota.net/t/1024x768/content/22/0c/220c4c0a3dccda0c2af1307279af24f09e1bfd60.JPEG",
+      "https://cdn.worldota.net/t/1024x768/content/43/4f/434f5dba9ce0e5db80480c3b15b634a9a670c93f.JPEG",
+      "https://cdn.worldota.net/t/1024x768/content/09/8f/098f6fa7fe57a3397b62690476cdf5927ec98a5d.JPEG",
+      "https://lh5.googleusercontent.com/p/Ru9h2gLpYnIAq18cCTcHmA=s10000",
+      "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDRwPz0Kw=s10000",
+      "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgID7sp7_hgE=s10000"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-18",
+      "theme": "Arrival & Cultural Immersion in Kyoto",
+      "optimizedRoute": "Calligraphy House → Nishiki Market → Gion District → Pontocho Alley → Calligraphy House",
+      "totalDistance": 7.5,
+      "totalTravelTime": "45 min",
+      "places": [
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Calligraphy House (Hotel Check-in)",
+          "coordinates": {
+            "latitude": 34.9664315,
+            "longitude": 135.76212619999998
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 min",
+          "description": "Your welcoming home in Kyoto, providing a comfortable and traditional Japanese stay. Settle in after your journey and prepare for an immersive cultural experience.",
+          "whyVisit": "A comfortable and culturally rich starting point for your Kyoto adventure, offering a traditional Japanese living experience.",
+          "activities": [
+            "Check into your traditional Japanese accommodation",
+            "Unpack and refresh after your journey",
+            "Familiarize yourself with the local neighborhood"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Afternoon",
+            "duration": "1-2 hours",
+            "accessibility": "Accessible with minor adjustments for traditional elements"
+          },
+          "tips": {
+            "whatToBring": [
+              "Passport and travel documents",
+              "Comfortable indoor slippers"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be aware of traditional Japanese house layouts"
+            ],
+            "customsEtiquette": [
+              "Remove shoes before entering"
+            ],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Nishiki Market",
+          "coordinates": {
+            "latitude": 35.00445,
+            "longitude": 135.76569
+          },
+          "distanceFromPrevious": 3.5,
+          "travelTimeFromPrevious": "15 min",
+          "description": "Known as 'Kyoto's Kitchen', Nishiki Market is a vibrant narrow shopping street lined with over one hundred shops and restaurants. It's a fantastic place to sample local delicacies and experience the bustling atmosphere.",
+          "whyVisit": "To immerse in Kyoto's culinary scene, try unique local foods, and experience the lively atmosphere of a traditional Japanese market.",
+          "activities": [
+            "Sample traditional Kyoto snacks and sweets",
+            "Browse local produce and artisanal goods",
+            "Enjoy a casual lunch from a market stall"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "500-2000 JPY for snacks/lunch",
+            "bestTime": "Morning to early afternoon",
+            "duration": "1.5-2 hours",
+            "accessibility": "Wheelchair accessible, but can be crowded"
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash (many smaller stalls prefer cash)",
+              "Reusable bag for purchases"
+            ],
+            "whatToBuy": [
+              "Kyoto pickles",
+              "Matcha sweets",
+              "Traditional crafts"
+            ],
+            "safetyNotes": [
+              "Be mindful of crowds and pickpockets"
+            ],
+            "customsEtiquette": [
+              "Avoid eating while walking (find a designated spot)"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The colorful market stalls",
+              "Unique food presentations"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Gion District",
+          "coordinates": {
+            "latitude": 35.0039,
+            "longitude": 135.7766
+          },
+          "distanceFromPrevious": 1.5,
+          "travelTimeFromPrevious": "10 min",
+          "description": "Kyoto's most famous geisha district, characterized by its traditional wooden machiya houses, teahouses, and exclusive restaurants. Strolling through Gion offers a glimpse into old Kyoto, especially beautiful at dusk.",
+          "whyVisit": "To experience the traditional side of Kyoto, with its historic architecture and the possibility of spotting a geisha or maiko (apprentice geisha).",
+          "activities": [
+            "Wander through Hanamikoji Street",
+            "Admire the traditional architecture",
+            "Look out for geisha and maiko (respectfully)"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Late afternoon to evening",
+            "duration": "1-2 hours",
+            "accessibility": "Paved streets, generally accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Good walking shoes",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Traditional Japanese souvenirs",
+              "Local sweets"
+            ],
+            "safetyNotes": [
+              "Respect geisha and maiko's privacy; do not chase or photograph without permission"
+            ],
+            "customsEtiquette": [
+              "Be quiet and respectful, especially in residential areas"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Hanamikoji Street at dusk",
+              "Shirakawa Canal area"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Pontocho Alley",
+          "coordinates": {
+            "latitude": 35.0051,
+            "longitude": 135.7709
+          },
+          "distanceFromPrevious": 0.5,
+          "travelTimeFromPrevious": "5 min",
+          "description": "A narrow alley running parallel to the Kamo River, Pontocho is renowned for its traditional wooden architecture and a wide array of restaurants and bars. It's a lively spot for an evening meal.",
+          "whyVisit": "To enjoy a traditional Kyoto dinner in a charming and historic setting, with various dining options ranging from casual to high-end.",
+          "activities": [
+            "Dine at a traditional Kyoto restaurant",
+            "Enjoy the ambiance of the illuminated alley"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "3000-8000 JPY for dinner",
+            "bestTime": "Evening",
+            "duration": "1.5-2 hours",
+            "accessibility": "Narrow, can be crowded, some establishments may have stairs"
+          },
+          "tips": {
+            "whatToBring": [
+              "Reservation if dining at a popular spot"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "The illuminated alley with traditional lanterns"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Night",
+          "name": "Calligraphy House (Return)",
+          "coordinates": {
+            "latitude": 34.9664315,
+            "longitude": 135.76212619999998
+          },
+          "distanceFromPrevious": 2,
+          "travelTimeFromPrevious": "15 min",
+          "description": "Return to your traditional Japanese accommodation to relax and prepare for the next day's adventures in Kyoto.",
+          "whyVisit": "For rest and rejuvenation after a day of exploration.",
+          "activities": [
+            "Relax and unwind",
+            "Plan for the next day"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Night",
+            "duration": "N/A",
+            "accessibility": "Accessible with minor adjustments for traditional elements"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 7.5,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 1000,
+          "meals": 6000,
+          "shopping": 1000,
+          "total": 8000
+        },
+        "remainingBudget": 728513
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-19",
+      "theme": "Iconic Temples & Nature in Kyoto",
+      "optimizedRoute": "Calligraphy House → Kinkaku-ji → Ryoan-ji Temple → Arashiyama Bamboo Grove → Tenryu-ji Temple → Pontocho Alley → Calligraphy House",
+      "totalDistance": 25.5,
+      "totalTravelTime": "1 hour 30 min",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Calligraphy House (Start)",
+          "coordinates": {
+            "latitude": 34.9664315,
+            "longitude": 135.76212619999998
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 min",
+          "description": "Begin your day refreshed at your Kyoto accommodation before embarking on a journey to iconic temples and natural beauty.",
+          "whyVisit": "Starting point for daily adventures.",
+          "activities": [
+            "Enjoy breakfast at the hotel or a local cafe"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning",
+            "duration": "N/A",
+            "accessibility": "Accessible with minor adjustments for traditional elements"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Morning",
+          "name": "Kinkaku-ji (Golden Pavilion)",
+          "coordinates": {
+            "latitude": 35.03939,
+            "longitude": 135.72921
+          },
+          "distanceFromPrevious": 8,
+          "travelTimeFromPrevious": "30 min",
+          "description": "A Zen Buddhist temple whose top two floors are completely covered in gold leaf. Kinkaku-ji is one of Kyoto's most iconic sights, set against a beautiful pond and garden.",
+          "whyVisit": "To marvel at the exquisite golden architecture and serene garden, a UNESCO World Heritage site and a symbol of Kyoto's beauty.",
+          "activities": [
+            "Admire the Golden Pavilion from various viewpoints",
+            "Stroll through the meticulously maintained Japanese garden",
+            "Visit the Fudo Hall"
+          ],
+          "practicalInfo": {
+            "entryFee": "500 JPY",
+            "estimatedCost": "500 JPY",
+            "bestTime": "Early morning or late afternoon",
+            "duration": "1-1.5 hours",
+            "accessibility": "Generally accessible, some uneven paths in the garden"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Omamori (charms)",
+              "Postcards"
+            ],
+            "safetyNotes": [
+              "Be mindful of crowds"
+            ],
+            "customsEtiquette": [
+              "Be respectful in temple grounds"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Golden Pavilion reflecting in the pond"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Morning",
+          "name": "Ryoan-ji Temple",
+          "coordinates": {
+            "latitude": 35.0298,
+            "longitude": 135.7176
+          },
+          "distanceFromPrevious": 1.5,
+          "travelTimeFromPrevious": "10 min",
+          "description": "Home to Japan's most famous rock garden, a UNESCO World Heritage site known for its minimalist and enigmatic design. The garden invites contemplation and reflection.",
+          "whyVisit": "To experience a unique form of Zen artistry and engage in quiet contemplation in one of Japan's most renowned rock gardens.",
+          "activities": [
+            "Meditate by the rock garden",
+            "Explore the expansive temple grounds and pond garden",
+            "Visit the kyoyochi pond"
+          ],
+          "practicalInfo": {
+            "entryFee": "500 JPY",
+            "estimatedCost": "500 JPY",
+            "bestTime": "Morning",
+            "duration": "1 hour",
+            "accessibility": "Main rock garden is accessible, some paths may be uneven"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Maintain quiet and respectful demeanor"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The rock garden from various angles"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Lunch",
+          "name": "Lunch near Arashiyama",
+          "coordinates": {
+            "latitude": 35.0152,
+            "longitude": 135.6705
+          },
+          "distanceFromPrevious": 6,
+          "travelTimeFromPrevious": "20 min",
+          "description": "Enjoy a delicious lunch in the scenic Arashiyama area, known for its beautiful nature and numerous dining options.",
+          "whyVisit": "To refuel and enjoy local cuisine amidst the stunning natural beauty of Arashiyama.",
+          "activities": [
+            "Choose from a variety of restaurants, from traditional Japanese to cafes"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "1500-3000 JPY",
+            "bestTime": "Midday",
+            "duration": "1 hour",
+            "accessibility": "Varies by restaurant"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Arashiyama Bamboo Grove",
+          "coordinates": {
+            "latitude": 35.0166,
+            "longitude": 135.6728
+          },
+          "distanceFromPrevious": 0.5,
+          "travelTimeFromPrevious": "5 min",
+          "description": "A mesmerizing natural grove of towering bamboo stalks, creating a serene and otherworldly atmosphere. It's one of Kyoto's most photographed natural sights.",
+          "whyVisit": "To experience the tranquil beauty of towering bamboo and capture iconic photographs in one of Japan's most unique natural settings.",
+          "activities": [
+            "Walk along the designated path through the bamboo forest",
+            "Enjoy the soothing sounds of the bamboo swaying"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Early morning or late afternoon to avoid crowds",
+            "duration": "30-45 minutes",
+            "accessibility": "Paved path, generally accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera with a wide-angle lens"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be aware of other tourists and maintain respectful silence"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Along the main path with the towering bamboo"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Tenryu-ji Temple",
+          "coordinates": {
+            "latitude": 35.0146,
+            "longitude": 135.6766
+          },
+          "distanceFromPrevious": 0.5,
+          "travelTimeFromPrevious": "5 min",
+          "description": "A UNESCO World Heritage site and the most important Zen temple in the Arashiyama district. Its garden is considered one of Japan's finest examples of traditional landscape design.",
+          "whyVisit": "To explore a significant Zen temple with a stunning traditional Japanese garden, offering a peaceful and culturally enriching experience.",
+          "activities": [
+            "Stroll through the Sogenchi Teien (pond garden)",
+            "Visit the temple halls",
+            "Enjoy the seasonal beauty of the garden"
+          ],
+          "practicalInfo": {
+            "entryFee": "500 JPY (garden), additional for halls",
+            "estimatedCost": "500-800 JPY",
+            "bestTime": "Afternoon",
+            "duration": "1-1.5 hours",
+            "accessibility": "Garden paths are generally accessible, some stairs in temple buildings"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Remove shoes before entering temple buildings"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The pond garden with Arashiyama mountains in the background"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Pontocho Alley (Dinner)",
+          "coordinates": {
+            "latitude": 35.0051,
+            "longitude": 135.7709
+          },
+          "distanceFromPrevious": 8,
+          "travelTimeFromPrevious": "25 min",
+          "description": "Return to the enchanting Pontocho Alley for another delightful evening dinner experience, with a wider selection of cuisines.",
+          "whyVisit": "To enjoy the vibrant evening atmosphere and choose from a diverse range of restaurants for a memorable dinner.",
+          "activities": [
+            "Indulge in a delicious Kyoto-style dinner",
+            "Enjoy people-watching in the lively alley"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "3000-8000 JPY",
+            "bestTime": "Evening",
+            "duration": "1.5-2 hours",
+            "accessibility": "Narrow, can be crowded, some establishments may have stairs"
+          },
+          "tips": {
+            "whatToBring": [
+              "Reservation if dining at a popular spot"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Night",
+          "name": "Calligraphy House (Return)",
+          "coordinates": {
+            "latitude": 34.9664315,
+            "longitude": 135.76212619999998
+          },
+          "distanceFromPrevious": 1,
+          "travelTimeFromPrevious": "5 min",
+          "description": "Conclude your day of temple exploration and natural beauty by returning to the comfort of your Kyoto accommodation.",
+          "whyVisit": "For rest and preparation for the following day's activities.",
+          "activities": [
+            "Relax and unwind"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Night",
+            "duration": "N/A",
+            "accessibility": "Accessible with minor adjustments for traditional elements"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 25.5,
+        "spending": {
+          "entryFees": 1000,
+          "activities": 0,
+          "transport": 2000,
+          "meals": 7000,
+          "shopping": 0,
+          "total": 10000
+        },
+        "remainingBudget": 718513
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-20",
+      "theme": "Shrines & Traditions in Kyoto",
+      "optimizedRoute": "Calligraphy House → Fushimi Inari-taisha Shrine → Kiyomizu-dera Temple → Higashiyama District → Calligraphy House",
+      "totalDistance": 15.5,
+      "totalTravelTime": "1 hour",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Calligraphy House (Start)",
+          "coordinates": {
+            "latitude": 34.9664315,
+            "longitude": 135.76212619999998
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 min",
+          "description": "Start your day from your traditional Kyoto residence, ready to explore more of the city's rich spiritual and cultural heritage.",
+          "whyVisit": "Convenient starting point.",
+          "activities": [
+            "Enjoy breakfast and prepare for the day"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning",
+            "duration": "N/A",
+            "accessibility": "Accessible with minor adjustments for traditional elements"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Morning",
+          "name": "Fushimi Inari-taisha Shrine",
+          "coordinates": {
+            "latitude": 34.9671,
+            "longitude": 135.7772
+          },
+          "distanceFromPrevious": 2.5,
+          "travelTimeFromPrevious": "10 min",
+          "description": "An iconic Shinto shrine famous for its thousands of vibrant orange torii gates that snake up Mount Inari. It is dedicated to Inari, the Shinto god of rice.",
+          "whyVisit": "To experience the unique and visually stunning spiritual journey through thousands of torii gates, an unforgettable Kyoto landmark.",
+          "activities": [
+            "Hike through the torii gate tunnels",
+            "Visit the main shrine buildings",
+            "Enjoy panoramic views of Kyoto from various points"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Early morning or late afternoon to avoid crowds",
+            "duration": "2-3 hours (for a full hike)",
+            "accessibility": "Main shrine area is accessible, upper paths involve stairs and uphill climbs"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Water bottle"
+            ],
+            "whatToBuy": [
+              "Fox-themed souvenirs"
+            ],
+            "safetyNotes": [
+              "Stay on marked paths"
+            ],
+            "customsEtiquette": [
+              "Bow before entering and leaving torii gates"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Inside the torii gate tunnels",
+              "Views of Kyoto"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Kiyomizu-dera Temple",
+          "coordinates": {
+            "latitude": 34.9948,
+            "longitude": 135.7850
+          },
+          "distanceFromPrevious": 5,
+          "travelTimeFromPrevious": "20 min",
+          "description": "A stunning UNESCO World Heritage site, famous for its wooden stage that juts out from the main hall, offering breathtaking panoramic views of Kyoto. The temple is surrounded by beautiful natural scenery.",
+          "whyVisit": "To admire the iconic wooden architecture, enjoy panoramic city views, and experience the spiritual ambiance of one of Kyoto's most important temples.",
+          "activities": [
+            "Walk on the Kiyomizu Stage",
+            "Drink from the Otowa Waterfall for good fortune",
+            "Explore the numerous halls and shrines within the complex"
+          ],
+          "practicalInfo": {
+            "entryFee": "400 JPY",
+            "estimatedCost": "400 JPY",
+            "bestTime": "Morning or late afternoon",
+            "duration": "1.5-2 hours",
+            "accessibility": "Steep approach, some stairs within the temple grounds"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Omamori (charms)",
+              "Sweets from the approach road"
+            ],
+            "safetyNotes": [
+              "Be careful on slippery steps"
+            ],
+            "customsEtiquette": [
+              "Be respectful in temple grounds"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Kiyomizu Stage with Kyoto in the background",
+              "Pagoda views"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Higashiyama District",
+          "coordinates": {
+            "latitude": 34.9995,
+            "longitude": 135.7806
+          },
+          "distanceFromPrevious": 0.5,
+          "travelTimeFromPrevious": "5 min",
+          "description": "A beautifully preserved historic district leading up to Kiyomizu-dera Temple, characterized by its narrow lanes, traditional wooden buildings, and charming shops selling local crafts and sweets.",
+          "whyVisit": "To wander through picturesque streets, browse traditional shops, and soak in the atmosphere of old Kyoto.",
+          "activities": [
+            "Explore Sannenzaka and Ninenzaka slopes",
+            "Shop for traditional souvenirs",
+            "Enjoy a matcha tea or traditional sweets"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Afternoon",
+            "duration": "1-2 hours",
+            "accessibility": "Cobblestone streets, some slopes and stairs"
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash for small purchases"
+            ],
+            "whatToBuy": [
+              "Kiyomizu-yaki pottery",
+              "Green tea products",
+              "Handicrafts"
+            ],
+            "safetyNotes": [
+              "Be aware of uneven surfaces"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Traditional streetscapes",
+              "Yasaka Pagoda in the background"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Calligraphy House (Return)",
+          "coordinates": {
+            "latitude": 34.9664315,
+            "longitude": 135.76212619999998
+          },
+          "distanceFromPrevious": 7.5,
+          "travelTimeFromPrevious": "25 min",
+          "description": "Return to your accommodation after a day immersed in Kyoto's sacred sites and traditional charm.",
+          "whyVisit": "For rest and relaxation.",
+          "activities": [
+            "Enjoy dinner at the hotel or a nearby restaurant",
+            "Reflect on the day's cultural discoveries"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Evening",
+            "duration": "N/A",
+            "accessibility": "Accessible with minor adjustments for traditional elements"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 15.5,
+        "spending": {
+          "entryFees": 400,
+          "activities": 0,
+          "transport": 1500,
+          "meals": 5000,
+          "shopping": 1500,
+          "total": 8400
+        },
+        "remainingBudget": 710113
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-10-21",
+      "theme": "Day Trip to Nara",
+      "optimizedRoute": "Calligraphy House → Nara Park → Todai-ji Temple → Kasuga Taisha Shrine → Calligraphy House",
+      "totalDistance": 50,
+      "totalTravelTime": "2 hours 30 min",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Calligraphy House (Start)",
+          "coordinates": {
+            "latitude": 34.9664315,
+            "longitude": 135.76212619999998
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 min",
+          "description": "Depart from your Kyoto base for an exciting day trip to Nara, Japan's ancient capital, known for its friendly deer and historic sites.",
+          "whyVisit": "Starting point for an engaging day trip.",
+          "activities": [
+            "Have breakfast and get ready for a full day"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning",
+            "duration": "N/A",
+            "accessibility": "Accessible with minor adjustments for traditional elements"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Morning",
+          "name": "Nara Park",
+          "coordinates": {
+            "latitude": 34.6851,
+            "longitude": 135.8348
+          },
+          "distanceFromPrevious": 30,
+          "travelTimeFromPrevious": "45 min (train + walk)",
+          "description": "A large public park in Nara, home to hundreds of wild sika deer that roam freely. The deer are considered messengers of the gods and are a symbol of the city.",
+          "whyVisit": "To interact with the famous wild deer and enjoy a picturesque natural setting before exploring Nara's historical treasures.",
+          "activities": [
+            "Feed the deer (with special 'shika senbei' crackers)",
+            "Stroll through the park and enjoy the scenery",
+            "Take memorable photos with the deer"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "200-500 JPY for deer crackers",
+            "bestTime": "Morning or afternoon",
+            "duration": "1-2 hours",
+            "accessibility": "Generally accessible, paved paths"
+          },
+          "tips": {
+            "whatToBring": [
+              "Deer crackers (available in the park)",
+              "Camera"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Deer can be aggressive, especially when food is involved; hold crackers firmly and keep bags secure"
+            ],
+            "customsEtiquette": [
+              "Bow to the deer, and they might bow back"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Interacting with the deer",
+              "Views of the pagodas in the background"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Morning",
+          "name": "Todai-ji Temple",
+          "coordinates": {
+            "latitude": 34.6885,
+            "longitude": 135.8398
+          },
+          "distanceFromPrevious": 1,
+          "travelTimeFromPrevious": "10 min (walk)",
+          "description": "A UNESCO World Heritage site, housing a massive bronze Buddha statue (Daibutsu) within its Great Buddha Hall, which is one of the world's largest wooden buildings.",
+          "whyVisit": "To witness the impressive scale of the Great Buddha and explore one of Japan's most historically significant and grand temples.",
+          "activities": [
+            "Marvel at the Daibutsu (Great Buddha)",
+            "Explore the Great Buddha Hall's architecture",
+            "Attempt to crawl through the 'nostril' pillar for good luck"
+          ],
+          "practicalInfo": {
+            "entryFee": "600 JPY",
+            "estimatedCost": "600 JPY",
+            "bestTime": "Morning",
+            "duration": "1-1.5 hours",
+            "accessibility": "Main hall is accessible, some stairs leading up to the temple complex"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [
+              "Souvenirs of the Great Buddha"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Be respectful in temple grounds"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Daibutsu",
+              "The grand entrance gate (Nandaimon)"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Kasuga Taisha Shrine",
+          "coordinates": {
+            "latitude": 34.6811,
+            "longitude": 135.8450
+          },
+          "distanceFromPrevious": 1.5,
+          "travelTimeFromPrevious": "15 min (walk)",
+          "description": "Nara's most important Shinto shrine, renowned for its thousands of bronze and stone lanterns that line its approach and hang from its eaves. It is set in a beautiful primeval forest.",
+          "whyVisit": "To experience the spiritual atmosphere of a historic Shinto shrine adorned with countless lanterns, a unique and photogenic sight.",
+          "activities": [
+            "Walk along the lantern-lined path to the shrine",
+            "Admire the various shrine buildings and their intricate details",
+            "Visit the Treasure Hall"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (outer grounds), 500 JPY (main sanctuary)",
+            "estimatedCost": "500 JPY",
+            "bestTime": "Afternoon",
+            "duration": "1-1.5 hours",
+            "accessibility": "Main approach is accessible, some stairs within the sanctuary"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [
+              "Omamori (charms)",
+              "Deer-themed crafts"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Bow before entering the torii gate"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The lantern-lined paths",
+              "The vermilion-colored shrine buildings"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Calligraphy House (Return to Kyoto)",
+          "coordinates": {
+            "latitude": 34.9664315,
+            "longitude": 135.76212619999998
+          },
+          "distanceFromPrevious": 17,
+          "travelTimeFromPrevious": "40 min (train + walk)",
+          "description": "After a fulfilling day exploring the wonders of Nara, return to your comfortable Kyoto accommodation for a free evening.",
+          "whyVisit": "For rest and personal leisure.",
+          "activities": [
+            "Enjoy dinner at a local Kyoto restaurant or cook at your accommodation",
+            "Relax and unwind"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Evening",
+            "duration": "N/A",
+            "accessibility": "Accessible with minor adjustments for traditional elements"
+          },
+          "tips": {
+            "whatToBring": [
+              "Japan Rail Pass (if applicable)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 50,
+        "spending": {
+          "entryFees": 1100,
+          "activities": 0,
+          "transport": 2500,
+          "meals": 5000,
+          "shopping": 500,
+          "total": 9100
+        },
+        "remainingBudget": 701013
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-10-22",
+      "theme": "Bullet Train & Urban Pulse in Tokyo",
+      "optimizedRoute": "Calligraphy House → Kyoto Station (Shinkansen) → Tokyo Station → Shibuya Crossing → Shibuya 109 → Tokyo Metropolitan Government Building → Shinjuku → Hotel (Tokyo)",
+      "totalDistance": 500,
+      "totalTravelTime": "4 hours 30 min",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Calligraphy House (Departure)",
+          "coordinates": {
+            "latitude": 34.9664315,
+            "longitude": 135.76212619999998
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 min",
+          "description": "Bid farewell to Kyoto as you begin your journey to the bustling metropolis of Tokyo, ready for a new urban adventure.",
+          "whyVisit": "Starting point for inter-city travel.",
+          "activities": [
+            "Check out from your accommodation",
+            "Head to Kyoto Station for your Shinkansen ride"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning",
+            "duration": "N/A",
+            "accessibility": "Accessible with minor adjustments for traditional elements"
+          },
+          "tips": {
+            "whatToBring": [
+              "Luggage",
+              "Shinkansen tickets"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Morning/Afternoon",
+          "name": "Kyoto Station (Shinkansen to Tokyo)",
+          "coordinates": {
+            "latitude": 34.9858,
+            "longitude": 135.7562
+          },
+          "distanceFromPrevious": 2.5,
+          "travelTimeFromPrevious": "10 min",
+          "description": "Embark on a thrilling ride on Japan's iconic Shinkansen (bullet train) from Kyoto to Tokyo, a testament to Japanese engineering and efficiency.",
+          "whyVisit": "Experience world-class high-speed rail and enjoy the scenic journey across Japan.",
+          "activities": [
+            "Board the Shinkansen",
+            "Enjoy the journey, observe the landscapes"
+          ],
+          "practicalInfo": {
+            "entryFee": "Shinkansen ticket (approx. 13,000 JPY)",
+            "estimatedCost": "13000 JPY",
+            "bestTime": "Mid-morning",
+            "duration": "2.5-3 hours",
+            "accessibility": "Wheelchair accessible with assistance"
+          },
+          "tips": {
+            "whatToBring": [
+              "Pre-booked Shinkansen tickets",
+              "Bento box for lunch"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be on time for your train"
+            ],
+            "customsEtiquette": [
+              "Keep noise levels low on the train"
+            ],
+            "bookingRequired": true,
+            "photoSpots": [
+              "The Shinkansen train itself",
+              "Views from the window"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Tokyo Station",
+          "coordinates": {
+            "latitude": 35.6812,
+            "longitude": 139.7671
+          },
+          "distanceFromPrevious": 450,
+          "travelTimeFromPrevious": "2 hours 40 min",
+          "description": "Arrive at Tokyo Station, a major transportation hub and architectural landmark. From here, you'll head to your Tokyo hotel and begin exploring the city.",
+          "whyVisit": "Main gateway to Tokyo from Kyoto, offering stunning architecture and access to the city's extensive transport network.",
+          "activities": [
+            "Navigate to your Tokyo hotel",
+            "Have lunch near the station or your hotel"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Afternoon",
+            "duration": "N/A",
+            "accessibility": "Fully accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Tokyo metro map or navigation app"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be aware of crowds"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The red brick facade of Tokyo Station"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Afternoon",
+          "name": "Shibuya Crossing",
+          "coordinates": {
+            "latitude": 35.6591,
+            "longitude": 139.7031
+          },
+          "distanceFromPrevious": 5,
+          "travelTimeFromPrevious": "15 min",
+          "description": "The world's busiest intersection, a chaotic yet synchronized dance of pedestrians. It's an iconic symbol of modern Tokyo's energy and dynamism.",
+          "whyVisit": "To witness the mesmerizing spectacle of the world's busiest pedestrian crossing and immerse yourself in the vibrant energy of Tokyo.",
+          "activities": [
+            "Cross the intersection multiple times",
+            "Observe the flow of people from a vantage point (e.g., Starbucks)",
+            "Take dynamic photos and videos"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Evening for maximum impact, but busy all day",
+            "duration": "30-60 minutes",
+            "accessibility": "Fully accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Wide-angle lens"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be mindful of traffic and other pedestrians"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "From Starbucks, Shibuya Mark City, or the Hachiko statue area"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Shibuya 109 & Shopping",
+          "coordinates": {
+            "latitude": 35.6595,
+            "longitude": 139.6994
+          },
+          "distanceFromPrevious": 0.5,
+          "travelTimeFromPrevious": "5 min (walk)",
+          "description": "Shibuya 109 is a famous fashion landmark, especially for young women's trends. The surrounding area offers a plethora of trendy boutiques, department stores, and lifestyle shops like Loft.",
+          "whyVisit": "To explore Tokyo's cutting-edge fashion scene, discover unique boutiques, and enjoy a vibrant shopping experience.",
+          "activities": [
+            "Browse the latest fashion trends at Shibuya 109",
+            "Explore other stores like Loft, Parco, and various streetwear shops",
+            "Enjoy window shopping and people-watching"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "Varies",
+            "bestTime": "Afternoon to evening",
+            "duration": "1.5-2 hours",
+            "accessibility": "Fully accessible, but stores can be crowded"
+          },
+          "tips": {
+            "whatToBring": [
+              "Shopping budget"
+            ],
+            "whatToBuy": [
+              "Fashion items",
+              "Souvenirs",
+              "Japanese stationery"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The exterior of Shibuya 109"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Tokyo Metropolitan Government Building",
+          "coordinates": {
+            "latitude": 35.6895,
+            "longitude": 139.6917
+          },
+          "distanceFromPrevious": 4,
+          "travelTimeFromPrevious": "15 min",
+          "description": "Offers two free panoramic observation decks on its 45th floor, providing stunning views of Tokyo's sprawling cityscape, especially beautiful at night.",
+          "whyVisit": "To enjoy breathtaking free panoramic views of Tokyo, including landmarks like the Tokyo Tower and potentially Mount Fuji on clear days.",
+          "activities": [
+            "Ascend to the observation deck",
+            "Admire the city lights",
+            "Identify famous landmarks"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Late afternoon for sunset, evening for city lights",
+            "duration": "45-60 minutes",
+            "accessibility": "Fully accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The panoramic city views"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Shinjuku (Nightlife & Entertainment)",
+          "coordinates": {
+            "latitude": 35.6908,
+            "longitude": 139.7000
+          },
+          "distanceFromPrevious": 0.5,
+          "travelTimeFromPrevious": "5 min (walk)",
+          "description": "Shinjuku is one of Tokyo's most vibrant districts, offering a dazzling array of entertainment options, from neon-lit streets to traditional izakayas and lively bars.",
+          "whyVisit": "To experience Tokyo's energetic nightlife, explore diverse dining options, and immerse yourself in the bustling atmosphere of one of the city's major entertainment hubs.",
+          "activities": [
+            "Explore Shinjuku Golden Gai or Kabukicho",
+            "Dine at a local izakaya",
+            "Enjoy a drink at a bar"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "3000-8000 JPY for dinner/drinks",
+            "bestTime": "Evening to late night",
+            "duration": "2-3 hours",
+            "accessibility": "Generally accessible, some areas may be crowded"
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash (for some smaller establishments)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be aware of touts in Kabukicho, especially for bars",
+              "Drink responsibly"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Neon signs of Kabukicho",
+              "Views from a rooftop bar"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Night",
+          "name": "Hotel in Tokyo (Check-in)",
+          "coordinates": {
+            "latitude": 35.6812,
+            "longitude": 139.7671
+          },
+          "distanceFromPrevious": 8,
+          "travelTimeFromPrevious": "20 min",
+          "description": "After a dynamic day of travel and urban exploration, check into your Tokyo hotel for a well-deserved rest.",
+          "whyVisit": "For comfortable overnight stay in Tokyo.",
+          "activities": [
+            "Check into the hotel",
+            "Unpack and relax"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Night",
+            "duration": "N/A",
+            "accessibility": "Varies by hotel"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 500,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 15000,
+          "meals": 7000,
+          "shopping": 5000,
+          "total": 27000
+        },
+        "remainingBudget": 674013
+      }
+    },
+    {
+      "day": 6,
+      "date": "2025-10-23",
+      "theme": "Pop Culture & Tradition in Tokyo",
+      "optimizedRoute": "Hotel (Tokyo) → Akihabara (Electric Town) → Harajuku (Takeshita Street) → Meiji Jingu Shrine → Shinjuku (Optional night out) → Hotel (Tokyo)",
+      "totalDistance": 25,
+      "totalTravelTime": "1 hour 30 min",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Hotel in Tokyo (Start)",
+          "coordinates": {
+            "latitude": 35.6812,
+            "longitude": 139.7671
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 min",
+          "description": "Begin your day in Tokyo, ready to explore the city's fascinating blend of pop culture and serene traditions.",
+          "whyVisit": "Starting point for daily activities.",
+          "activities": [
+            "Enjoy breakfast at the hotel or a nearby cafe"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning",
+            "duration": "N/A",
+            "accessibility": "Varies by hotel"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Morning",
+          "name": "Akihabara (Electric Town)",
+          "coordinates": {
+            "latitude": 35.6997,
+            "longitude": 139.7735
+          },
+          "distanceFromPrevious": 3,
+          "travelTimeFromPrevious": "10 min",
+          "description": "Tokyo's famed 'Electric Town', a paradise for electronics, anime, manga, and gaming enthusiasts. Its streets are lined with towering department stores and specialized shops.",
+          "whyVisit": "To dive into Japan's vibrant otaku culture, explore cutting-edge electronics, and find unique anime and manga merchandise.",
+          "activities": [
+            "Browse electronics stores for gadgets",
+            "Visit anime and manga shops",
+            "Experience a maid cafe or arcade"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (shopping costs vary)",
+            "estimatedCost": "500-5000 JPY (for activities/shopping)",
+            "bestTime": "Morning to afternoon",
+            "duration": "2-3 hours",
+            "accessibility": "Generally accessible, crowded"
+          },
+          "tips": {
+            "whatToBring": [
+              "Shopping list",
+              "Cash"
+            ],
+            "whatToBuy": [
+              "Electronics",
+              "Anime figures",
+              "Manga",
+              "Collectibles"
+            ],
+            "safetyNotes": [
+              "Be aware of crowds"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Neon-lit streets",
+              "Gundam Cafe"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Harajuku (Takeshita Street)",
+          "coordinates": {
+            "latitude": 35.6703,
+            "longitude": 139.7032
+          },
+          "distanceFromPrevious": 6,
+          "travelTimeFromPrevious": "20 min",
+          "description": "The epicenter of Tokyo's youth fashion and culture, particularly Takeshita Street, known for its quirky boutiques, crepe stands, and vibrant street style.",
+          "whyVisit": "To experience Tokyo's unique and eccentric youth fashion, explore trendy shops, and indulge in delicious crepes and street food.",
+          "activities": [
+            "Walk down Takeshita Street and browse unique shops",
+            "Try a famous Harajuku crepe",
+            "Observe the diverse street fashion"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (shopping costs vary)",
+            "estimatedCost": "500-3000 JPY (for food/shopping)",
+            "bestTime": "Afternoon",
+            "duration": "1.5-2 hours",
+            "accessibility": "Crowded, some stores may have stairs"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera for street style photos"
+            ],
+            "whatToBuy": [
+              "Unique fashion items",
+              "Souvenirs",
+              "Crepes"
+            ],
+            "safetyNotes": [
+              "Be mindful of crowds"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Colorful shops and street art",
+              "People in unique fashion"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Afternoon",
+          "name": "Meiji Jingu Shrine",
+          "coordinates": {
+            "latitude": 35.6763,
+            "longitude": 139.6993
+          },
+          "distanceFromPrevious": 0.5,
+          "travelTimeFromPrevious": "5 min (walk)",
+          "description": "A tranquil oasis dedicated to Emperor Meiji and Empress Shoken, set within a vast forest. It offers a serene escape from the urban bustle, embodying traditional Japanese spiritual practices.",
+          "whyVisit": "To find peace and serenity amidst Tokyo's chaos, experience traditional Japanese Shintoism, and walk through a beautiful, expansive forest.",
+          "activities": [
+            "Walk through the massive torii gate and forest path",
+            "Visit the main shrine buildings",
+            "Witness a traditional Shinto wedding (if lucky)"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning or late afternoon",
+            "duration": "1.5-2 hours",
+            "accessibility": "Paved paths, generally accessible"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [
+              "Omamori (charms)",
+              "Ema (prayer plaques)"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Bow before entering the torii gate",
+              "Wash hands and rinse mouth at the purification fountain"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The massive torii gates",
+              "The main shrine building",
+              "Sake barrel display"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Shinjuku (Optional Night Out)",
+          "coordinates": {
+            "latitude": 35.6908,
+            "longitude": 139.7000
+          },
+          "distanceFromPrevious": 5,
+          "travelTimeFromPrevious": "15 min",
+          "description": "For those interested, Shinjuku offers unique evening entertainment options, such as the famous Robot Restaurant show or themed izakayas, providing a memorable Tokyo night out.",
+          "whyVisit": "To experience Tokyo's unique and sometimes bizarre entertainment scene, offering a lively and unforgettable evening.",
+          "activities": [
+            "Attend the Robot Restaurant show (book in advance)",
+            "Explore themed bars or restaurants",
+            "Enjoy dinner and drinks"
+          ],
+          "practicalInfo": {
+            "entryFee": "Robot Restaurant (8000-10000 JPY)",
+            "estimatedCost": "8000-15000 JPY (activity + dinner)",
+            "bestTime": "Evening",
+            "duration": "2-3 hours",
+            "accessibility": "Varies by venue"
+          },
+          "tips": {
+            "whatToBring": [
+              "Booking confirmation for shows"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be aware of tourist traps; stick to reputable venues"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "The vibrant Robot Restaurant entrance"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Night",
+          "name": "Hotel in Tokyo (Return)",
+          "coordinates": {
+            "latitude": 35.6812,
+            "longitude": 139.7671
+          },
+          "distanceFromPrevious": 10,
+          "travelTimeFromPrevious": "25 min",
+          "description": "Return to your Tokyo hotel after a day of diverse explorations, from pop culture hubs to serene shrines.",
+          "whyVisit": "For rest and rejuvenation.",
+          "activities": [
+            "Relax and unwind"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Night",
+            "duration": "N/A",
+            "accessibility": "Varies by hotel"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 25,
+        "spending": {
+          "entryFees": 0,
+          "activities": 10000,
+          "transport": 2000,
+          "meals": 7000,
+          "shopping": 3000,
+          "total": 22000
+        },
+        "remainingBudget": 652013
+      }
+    },
+    {
+      "day": 7,
+      "date": "2025-10-24",
+      "theme": "Futuristic & Historic Tokyo",
+      "optimizedRoute": "Hotel (Tokyo) → Odaiba (TeamLab Planets) → DiverCity Tokyo Plaza → Senso-ji Temple → Nakamise-dori → Tokyo Skytree → Hotel (Tokyo)",
+      "totalDistance": 25,
+      "totalTravelTime": "1 hour 45 min",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Hotel in Tokyo (Start)",
+          "coordinates": {
+            "latitude": 35.6812,
+            "longitude": 139.7671
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 min",
+          "description": "Embark on a day that bridges Tokyo's futuristic marvels with its deep-rooted history, offering a diverse urban experience.",
+          "whyVisit": "Starting point for daily adventures.",
+          "activities": [
+            "Enjoy breakfast and prepare for a dynamic day"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning",
+            "duration": "N/A",
+            "accessibility": "Varies by hotel"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Morning",
+          "name": "Odaiba (TeamLab Planets)",
+          "coordinates": {
+            "latitude": 35.6601,
+            "longitude": 139.7963
+          },
+          "distanceFromPrevious": 7,
+          "travelTimeFromPrevious": "20 min",
+          "description": "Odaiba is Tokyo's futuristic entertainment island. TeamLab Planets offers an immersive, interactive digital art experience where you walk through water and gardens filled with digital light installations.",
+          "whyVisit": "To experience cutting-edge digital art and immerse yourself in a unique, sensory journey that blurs the lines between art and technology.",
+          "activities": [
+            "Explore the various interactive art installations",
+            "Walk through water, touch digital flowers",
+            "Engage with the transformative art"
+          ],
+          "practicalInfo": {
+            "entryFee": "3200 JPY (book in advance)",
+            "estimatedCost": "3200 JPY",
+            "bestTime": "Morning to avoid crowds",
+            "duration": "1.5-2 hours",
+            "accessibility": "Barefoot experience, can be challenging for mobility issues"
+          },
+          "tips": {
+            "whatToBring": [
+              "Towel (for water areas)",
+              "Wear shorts/pants that can be rolled up"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Follow staff instructions, be careful with slippery surfaces"
+            ],
+            "customsEtiquette": [
+              "Remove shoes and socks"
+            ],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Everywhere! The installations are highly photogenic"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Lunch",
+          "name": "DiverCity Tokyo Plaza",
+          "coordinates": {
+            "latitude": 35.6253,
+            "longitude": 139.7766
+          },
+          "distanceFromPrevious": 2,
+          "travelTimeFromPrevious": "10 min",
+          "description": "A popular shopping mall in Odaiba featuring a giant, life-size Gundam statue. It offers various shops, restaurants, and entertainment options.",
+          "whyVisit": "To enjoy lunch with various dining options and see the impressive life-size Gundam statue, a must-see for anime fans.",
+          "activities": [
+            "Have lunch at one of the many restaurants",
+            "Take photos with the Gundam statue",
+            "Browse shops for souvenirs"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (shopping/food costs vary)",
+            "estimatedCost": "1500-3000 JPY for lunch",
+            "bestTime": "Midday",
+            "duration": "1-1.5 hours",
+            "accessibility": "Fully accessible"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [
+              "Gundam merchandise",
+              "Japanese fashion"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The life-size Gundam statue"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Senso-ji Temple",
+          "coordinates": {
+            "latitude": 35.7147,
+            "longitude": 139.7967
+          },
+          "distanceFromPrevious": 10,
+          "travelTimeFromPrevious": "30 min",
+          "description": "Tokyo's oldest temple, a vibrant and active Buddhist temple in the Asakusa district. Its iconic Kaminarimon Gate and Nakamise-dori shopping street lead to the main hall.",
+          "whyVisit": "To experience Tokyo's rich history and spirituality, walk through a traditional shopping street, and admire the grandeur of its oldest temple.",
+          "activities": [
+            "Enter through Kaminarimon Gate",
+            "Browse Nakamise-dori for traditional souvenirs",
+            "Visit the main hall and surrounding shrines"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Afternoon",
+            "duration": "1.5-2 hours",
+            "accessibility": "Generally accessible, some stairs in temple buildings"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [
+              "Traditional Japanese sweets",
+              "Souvenirs",
+              "Fans"
+            ],
+            "safetyNotes": [
+              "Be aware of crowds"
+            ],
+            "customsEtiquette": [
+              "Purify hands and mouth before entering"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Kaminarimon Gate",
+              "Nakamise-dori street",
+              "Main Hall"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Tokyo Skytree (Farewell Dinner)",
+          "coordinates": {
+            "latitude": 35.7100,
+            "longitude": 139.8107
+          },
+          "distanceFromPrevious": 1.5,
+          "travelTimeFromPrevious": "10 min",
+          "description": "A towering broadcasting and observation tower offering spectacular 360-degree views of Tokyo. Enjoy a farewell dinner at one of the restaurants with stunning night views.",
+          "whyVisit": "To conclude your Tokyo adventure with breathtaking panoramic views of the city at night and enjoy a memorable farewell dinner.",
+          "activities": [
+            "Ascend to the observation decks (Tembo Deck and Tembo Gallery)",
+            "Enjoy a farewell dinner with city views",
+            "Take stunning night photos of Tokyo"
+          ],
+          "practicalInfo": {
+            "entryFee": "2300-3100 JPY (observation decks, varies by ticket type)",
+            "estimatedCost": "2500-5000 JPY (entry) + 5000-10000 JPY (dinner)",
+            "bestTime": "Sunset and evening",
+            "duration": "2-3 hours",
+            "accessibility": "Fully accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Pre-booked tickets (highly recommended)",
+              "Camera with good low-light capabilities"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Panoramic night views of Tokyo",
+              "Skytree interior"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Night",
+          "name": "Hotel in Tokyo (Return)",
+          "coordinates": {
+            "latitude": 35.6812,
+            "longitude": 139.7671
+          },
+          "distanceFromPrevious": 4.5,
+          "travelTimeFromPrevious": "15 min",
+          "description": "Return to your Tokyo hotel for your final night in Japan, reflecting on the amazing journey from traditional Kyoto to futuristic Tokyo.",
+          "whyVisit": "For a final night of rest and preparation for departure.",
+          "activities": [
+            "Pack your belongings",
+            "Get a good night's sleep"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Night",
+            "duration": "N/A",
+            "accessibility": "Varies by hotel"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 25,
+        "spending": {
+          "entryFees": 3200,
+          "activities": 0,
+          "transport": 2000,
+          "meals": 8000,
+          "shopping": 2000,
+          "total": 15200
+        },
+        "remainingBudget": 636813
+      }
+    },
+    {
+      "day": 8,
+      "date": "2025-10-25",
+      "theme": "Departure from Tokyo",
+      "optimizedRoute": "Hotel (Tokyo) → Narita (NRT) or Haneda (HND) Airport",
+      "totalDistance": 60,
+      "totalTravelTime": "1 hour 30 min",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Hotel in Tokyo (Departure)",
+          "coordinates": {
+            "latitude": 35.6812,
+            "longitude": 139.7671
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 min",
+          "description": "Enjoy a final Japanese breakfast before heading to the airport for your departure, carrying wonderful memories of your trip.",
+          "whyVisit": "Final preparation before departure.",
+          "activities": [
+            "Enjoy breakfast",
+            "Final packing and check-out"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning",
+            "duration": "N/A",
+            "accessibility": "Varies by hotel"
+          },
+          "tips": {
+            "whatToBring": [
+              "Flight tickets",
+              "Passport"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Morning",
+          "name": "Narita (NRT) or Haneda (HND) Airport",
+          "coordinates": {
+            "latitude": 35.7647,
+            "longitude": 140.3863
+          },
+          "distanceFromPrevious": 60,
+          "travelTimeFromPrevious": "1 hour 30 min (NRT) / 45 min (HND)",
+          "description": "Travel to either Narita (NRT) or Haneda (HND) Airport, depending on your flight details, for your onward journey.",
+          "whyVisit": "Departure point from Japan.",
+          "activities": [
+            "Take airport limousine bus or train to the airport",
+            "Check-in for your flight",
+            "Enjoy duty-free shopping (if time permits)"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "3000-5000 JPY (airport transfer)",
+            "bestTime": "Morning/Afternoon",
+            "duration": "3-4 hours before flight",
+            "accessibility": "Fully accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Passport and flight documents",
+              "Any remaining Japanese Yen"
+            ],
+            "whatToBuy": [
+              "Last-minute souvenirs",
+              "Japanese snacks"
+            ],
+            "safetyNotes": [
+              "Allow ample time for airport transfer and check-in"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 60,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 4000,
+          "meals": 1000,
+          "shopping": 1000,
+          "total": 6000
+        },
+        "remainingBudget": 630813
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 800000,
+    "currency": "INR",
+    "expenses": {
+      "flights": {
+        "flightName": "N/A",
+        "costUserCurrency": 0,
+        "costINR": 0
+      },
+      "accommodation": {
+        "hotelName": "Calligraphy House",
+        "pricePerNight": 9070,
+        "nights": 7,
+        "rooms": 3,
+        "total": 63487
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 1000,
+          "meals": 6000,
+          "shopping": 1000,
+          "subtotal": 8000
+        },
+        {
+          "day": 2,
+          "entryFees": 1000,
+          "activities": 0,
+          "transport": 2000,
+          "meals": 7000,
+          "shopping": 0,
+          "subtotal": 10000
+        },
+        {
+          "day": 3,
+          "entryFees": 400,
+          "activities": 0,
+          "transport": 1500,
+          "meals": 5000,
+          "shopping": 1500,
+          "subtotal": 8400
+        },
+        {
+          "day": 4,
+          "entryFees": 1100,
+          "activities": 0,
+          "transport": 2500,
+          "meals": 5000,
+          "shopping": 500,
+          "subtotal": 9100
+        },
+        {
+          "day": 5,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 15000,
+          "meals": 7000,
+          "shopping": 5000,
+          "subtotal": 27000
+        },
+        {
+          "day": 6,
+          "entryFees": 0,
+          "activities": 10000,
+          "transport": 2000,
+          "meals": 7000,
+          "shopping": 3000,
+          "subtotal": 22000
+        },
+        {
+          "day": 7,
+          "entryFees": 3200,
+          "activities": 0,
+          "transport": 2000,
+          "meals": 8000,
+          "shopping": 2000,
+          "subtotal": 15200
+        },
+        {
+          "day": 8,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 4000,
+          "meals": 1000,
+          "shopping": 1000,
+          "subtotal": 6000
+        }
+      ]
+    },
+    "totalSpent": 151187,
+    "remainingBudget": 648813,
+    "budgetTips": [
+      "Consider purchasing a Japan Rail Pass if your inter-city travel costs (Kyoto-Tokyo round trip) justify it; it could save on bullet train tickets.",
+      "Utilize IC cards (Suica or Pasmo) for convenient and often discounted travel on local trains and buses.",
+      "Look for lunch deals (teishoku) and set menus for more affordable dining options.",
+      "Explore convenience store meals (konbini) for quick and budget-friendly breakfast and lunch options.",
+      "Take advantage of free attractions like the Tokyo Metropolitan Government Building observation deck and many shrines/temples (outer grounds)."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Light jackets or sweaters (for cooler evenings)",
+      "Long-sleeved shirts",
+      "Comfortable trousers/jeans",
+      "Dresses/skirts (for women)",
+      "Socks and underwear",
+      "Pajamas"
+    ],
+    "footwear": [
+      "Comfortable walking shoes (essential!)",
+      "Slip-on shoes (for easy removal at temples/restaurants)"
+    ],
+    "essentials": [
+      "Travel adapter (Type A/B for Japan)",
+      "Portable charger/power bank",
+      "Reusable water bottle",
+      "Small backpack or day bag",
+      "Umbrella or light rain jacket",
+      "Hand sanitizer",
+      "Pocket tissues"
+    ],
+    "medication": [
+      "Any personal prescription medications",
+      "Basic first-aid kit (band-aids, pain relievers)",
+      "Motion sickness medication (for bullet train if sensitive)"
+    ],
+    "electronics": [
+      "Smartphone and charger",
+      "Camera and extra batteries/memory card",
+      "Headphones"
+    ],
+    "miscellaneous": [
+      "Cash (Japanese Yen)",
+      "Credit/debit cards",
+      "Copy of passport and important documents",
+      "Small notebook and pen",
+      "Eye mask and earplugs (for travel)"
+    ],
+    "documents": [
+      "Passport and visa (if required)",
+      "Flight tickets/e-tickets",
+      "Hotel booking confirmations",
+      "Travel insurance details",
+      "Japan Rail Pass (if purchased)",
+      "International Driving Permit (if planning to drive)"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Confirm flight bookings and check-in procedures.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Secure hotel reservations for all nights.",
+      "completed": true,
+      "priority": "high"
+    },
+    {
+      "task": "Check passport validity and visa requirements for Japan.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Purchase travel insurance.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Exchange currency to Japanese Yen or arrange for ATM withdrawals.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Inform bank/credit card company of travel plans.",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Arrange for portable Wi-Fi device or local SIM card.",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Download useful travel apps (e.g., Google Maps, Japan Transit Planner).",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Pack appropriate clothing and essentials for autumn weather.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Book Shinkansen tickets or purchase Japan Rail Pass (if applicable).",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Make reservations for specific restaurants or activities (e.g., TeamLab Planets, Robot Restaurant).",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Learn basic Japanese phrases (greetings, thank you, excuse me).",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "task": "Prepare copies of important documents.",
+      "completed": false,
+      "priority": "high"
+    }
+  ]
+}
