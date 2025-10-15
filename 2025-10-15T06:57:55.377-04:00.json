@@ -1,0 +1,671 @@
+{
+  "tripOverview": {
+    "destination": "Jaipur, India",
+    "startDate": "2025-10-17",
+    "endDate": "2025-10-19",
+    "duration": 2,
+    "companions": "Family with 2 children (ages 12, 15)",
+    "tripType": "Cultural and Family Fun"
+  },
+  "hotel": {
+    "name": "Hotel Jai Maa Palace",
+    "location": "Jaipur, India",
+    "coordinates": {
+      "latitude": 26.923175,
+      "longitude": 75.791923
+    },
+    "pricePerNight": 1530,
+    "rooms": 1,
+    "nights": 2,
+    "totalCost": 3060,
+    "currency": "INR",
+    "reasonForSelection": "Hotel Jai Maa Palace offers a comfortable stay within the specified budget, providing essential amenities like air conditioning and being kid-friendly. Its convenient location allows for easy access to many of Jaipur's prime attractions, making it an ideal choice for a family trip.",
+    "amenities": [
+      "Pet-friendly",
+      "Kid-friendly",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Air conditioning",
+      "Free Cancellation"
+    ],
+    "bookingLinks": [
+      "https://www.google.com/aclk?sa=l&ai=DChsSEwiqhIzShaaQAxUxMwgFHSsQI2MYACICCAEQAxoCbWQ&co=1&ase=2&gclid=EAIaIQobChMIqoSM0oWmkAMVMTMIBR0rECNjEA0YAyABEgLftPD_BwE&cid=CAASQuRoNFyKb3Y2yJtfnfseSygSN9tooeJVcWl7HS0VvULkOSGuWhfj0LDipP9TGUjZjX6hkM0JE3T6x5X1CZJw2Z663w&category=acrcp_v1_48&sig=AOD64_3h-rb8LYGSZoF-Z1YAncTLqiOnDw&adurl="
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/proxy/prWB29rbczlN70pSAyUjciDbjWDaAqF0cka6SwEFjlwz4jOIbhbQSUfAi2llp3IcU8vm2x4JXobnn4yY5hRmCSemti-KEitzNF32-TWW7yzzXbWCXYbUHgiwYqZ-rED0goWX5PxcCIVdX8rxC6UrorPY4C3h1ixfRbOcI3kW_R2wJhu2zDA=w150-h199-k-no"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-17",
+      "theme": "Arrival, Temples & Gates!",
+      "optimizedRoute": "Hotel Jai Maa Palace → Galtaji Temple → Patrika Gate → Hotel Jai Maa Palace",
+      "totalDistance": 37.74,
+      "totalTravelTime": "1 hour 45 minutes (estimated)",
+      "places": [
+        {
+          "timeOfDay": "Morning/Afternoon (Flexible)",
+          "name": "Hotel Check-in & Relaxation",
+          "coordinates": {
+            "latitude": 26.923175,
+            "longitude": 75.791923
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A",
+          "description": "Upon arrival in Jaipur, check into your hotel and take some time to unwind and settle in after your journey. This allows for a relaxed start to your family adventure in the Pink City.",
+          "whyVisit": "Essential for starting your trip comfortably and preparing for the exciting days ahead.",
+          "activities": [
+            "Settle into your room",
+            "Relax and refresh",
+            "Familiarize yourself with the hotel amenities"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Flexible upon arrival",
+            "duration": "2-3 hours (flexible)",
+            "accessibility": "Hotel facilities are generally accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Travel documents",
+              "Comfortable change of clothes"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Afternoon (3:00 PM - 5:00 PM)",
+          "name": "Galtaji Temple (Monkey Temple)",
+          "coordinates": {
+            "latitude": 26.8837,
+            "longitude": 75.8708
+          },
+          "distanceFromPrevious": 11.32,
+          "travelTimeFromPrevious": "35 minutes",
+          "description": "Famously known as the Monkey Temple, Galtaji is a unique Hindu pilgrimage site nestled amidst the Aravalli hills. The complex features several temples, sacred kunds (water tanks) fed by a natural spring, and stunning architecture. It's home to a large colony of monkeys, offering an entertaining and memorable experience for families. The picturesque setting and serene atmosphere make it a significant spiritual and scenic spot.",
+          "whyVisit": "Experience a unique spiritual site with natural springs and interact (respectfully) with the resident monkeys, providing a fun and memorable experience for children and adults alike.",
+          "activities": [
+            "Explore the temple complex and its intricate architecture",
+            "Observe the playful monkeys (from a safe distance)",
+            "Enjoy the panoramic views of the surrounding landscape",
+            "Take photographs of the unique setting"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (donations welcome)",
+            "estimatedCost": "100-200 INR (camera fee, optional)",
+            "bestTime": "Late afternoon for pleasant weather and good lighting",
+            "duration": "1.5 - 2 hours",
+            "accessibility": "Involves some walking and stairs, which might be challenging for those with mobility issues. Some areas are accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Water bottle",
+              "Hat or scarf for sun protection",
+              "Small snacks (monkeys might be attracted, so keep them secure)",
+              "Camera"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be cautious around monkeys; avoid direct eye contact and do not feed them directly.",
+              "Keep valuables secure."
+            ],
+            "customsEtiquette": [
+              "Dress modestly (shoulders and knees covered).",
+              "Remove shoes before entering inner temple areas."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The multiple levels of the temple complex",
+              "Views of Jaipur from the hills",
+              "The playful monkeys"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Afternoon (5:30 PM - 6:30 PM)",
+          "name": "Patrika Gate",
+          "coordinates": {
+            "latitude": 26.8482,
+            "longitude": 75.808
+          },
+          "distanceFromPrevious": 13.79,
+          "travelTimeFromPrevious": "35 minutes",
+          "description": "Patrika Gate is a magnificent and colorful architectural marvel, serving as an entrance to Jaipur's Jawahar Circle Garden. Adorned with vibrant frescoes and intricate paintings depicting the culture, history, and traditions of Rajasthan, it’s a relatively new but incredibly popular landmark. It stands as a testament to the region's rich artistic heritage and provides a visually stunning backdrop for visitors.",
+          "whyVisit": "An exceptional spot for family photography with its vibrant artwork and grand structure, offering a picturesque and cultural experience that appeals to all ages.",
+          "activities": [
+            "Admire the detailed paintings and architecture",
+            "Take family photos against the colorful backdrop",
+            "Enjoy a leisurely stroll around the gate and surrounding gardens"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Late afternoon or early evening for soft lighting and cooler temperatures",
+            "duration": "1 hour",
+            "accessibility": "Fully accessible with pathways suitable for strollers and wheelchairs."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera or smartphone for photos",
+              "Water bottle"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be aware of crowds, especially during peak hours."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The vibrant arches and pillars of the gate",
+              "The detailed frescoes and paintings",
+              "Panoramic shots of the gate with the garden"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 37.74,
+        "spending": {
+          "entryFees": 2000,
+          "activities": 2000,
+          "transport": 800,
+          "meals": 2500,
+          "shopping": 1000,
+          "total": 8300
+        },
+        "remainingBudget": 38640
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-18",
+      "theme": "Forts, Palaces & Markets!",
+      "optimizedRoute": "Hotel Jai Maa Palace → Amber Fort → Hawa Mahal → City Palace → Jantar Mantar → Johari Bazaar → Hotel Jai Maa Palace",
+      "totalDistance": 29.94,
+      "totalTravelTime": "1 hour 30 minutes (estimated)",
+      "places": [
+        {
+          "timeOfDay": "Morning (9:00 AM - 12:00 PM)",
+          "name": "Amber Fort",
+          "coordinates": {
+            "latitude": 26.9855,
+            "longitude": 75.8513
+          },
+          "distanceFromPrevious": 13.41,
+          "travelTimeFromPrevious": "30 minutes",
+          "description": "Amber Fort, a UNESCO World Heritage Site, is a majestic fortress built of red sandstone and marble, perched on a hill overlooking Maota Lake. It showcases a blend of Rajput and Mughal architectural styles, featuring grand palaces, courtyards, and ornate halls like the famous Sheesh Mahal (Mirror Palace). An elephant or jeep ride to the fort entrance adds to the experience, making it a thrilling start to the day.",
+          "whyVisit": "A grand fort offering stunning panoramic views and a captivating history. The optional elephant or jeep ride to the fort entrance provides an exciting and memorable adventure for the whole family.",
+          "activities": [
+            "Explore the intricate palaces, courtyards, and gardens",
+            "Visit the Sheesh Mahal (Mirror Palace)",
+            "Enjoy an elephant or jeep ride to the fort (optional)",
+            "Admire the panoramic views from the fort"
+          ],
+          "practicalInfo": {
+            "entryFee": "500 INR (Adults), 100 INR (Children)",
+            "estimatedCost": "2000 INR (entry for 2 adults, 2 children) + 1000-1200 INR (elephant/jeep ride for family)",
+            "bestTime": "Early morning to avoid crowds and heat",
+            "duration": "2.5 - 3 hours",
+            "accessibility": "Steep climbs and uneven surfaces. Jeep rides offer easier access than elephants. Wheelchairs might be difficult in some areas."
+          },
+          "tips": {
+            "whatToBring": [
+              "Water bottle",
+              "Comfortable walking shoes",
+              "Sunscreen and hat"
+            ],
+            "whatToBuy": [
+              "Souvenirs from the shops inside the fort complex"
+            ],
+            "safetyNotes": [
+              "Be mindful of your surroundings and keep children close.",
+              "Bargain politely if shopping."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Sheesh Mahal (Mirror Palace)",
+              "Panoramic views of Maota Lake and surrounding hills",
+              "The intricate gates and courtyards"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Early Afternoon (2:30 PM - 3:30 PM)",
+          "name": "Hawa Mahal (Palace of Winds)",
+          "coordinates": {
+            "latitude": 26.9239,
+            "longitude": 75.8267
+          },
+          "distanceFromPrevious": 9.52,
+          "travelTimeFromPrevious": "20 minutes",
+          "description": "The Hawa Mahal, or 'Palace of Winds,' is an iconic five-story palace built of pink sandstone, resembling the honeycomb of a beehive. Its 953 small windows (jharokhas) were designed to allow royal ladies to observe street festivals while remaining unseen. The unique architecture provides natural air conditioning, making it a masterpiece of Rajput design and a symbol of Jaipur.",
+          "whyVisit": "Admire the unique honeycomb structure from the outside, perfect for captivating photos, or step inside for a different perspective and enjoy the views from its numerous intricately designed windows.",
+          "activities": [
+            "Admire the exterior architecture",
+            "Take photographs from the street",
+            "Go inside to see the intricate windows and view the city"
+          ],
+          "practicalInfo": {
+            "entryFee": "50 INR (Adults), 25 INR (Children)",
+            "estimatedCost": "150 INR (entry for 2 adults, 2 children)",
+            "bestTime": "Morning or late afternoon for best lighting",
+            "duration": "1 hour",
+            "accessibility": "Ground floor is accessible, but upper floors require climbing stairs."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Water bottle"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main facade from across the street",
+              "Views of the city from the palace windows"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Mid-Afternoon (3:30 PM - 5:30 PM)",
+          "name": "City Palace",
+          "coordinates": {
+            "latitude": 26.9248,
+            "longitude": 75.8235
+          },
+          "distanceFromPrevious": 0.77,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "The City Palace is a sprawling complex that served as the seat of the Maharaja of Jaipur. It houses several palaces, courtyards, gardens, and museums, showcasing a rich collection of royal artifacts, textiles, costumes, and weapons. The Mubarak Mahal, Chandra Mahal, and Diwan-i-Khas are some of its prominent structures. The palace also features stunning gates, each representing a different season.",
+          "whyVisit": "Explore a vast complex of beautiful palaces, courtyards, and gardens, housing museums with royal artifacts. Don't miss the magnificent gates, each representing a different season, which are truly a visual treat.",
+          "activities": [
+            "Explore the various palace buildings and courtyards",
+            "Visit the museums to see royal artifacts",
+            "Admire the exquisite gates (Peacock Gate, Lotus Gate)",
+            "Learn about the history of Jaipur's royal family"
+          ],
+          "practicalInfo": {
+            "entryFee": "200 INR (Adults), 100 INR (Children)",
+            "estimatedCost": "600 INR (entry for 2 adults, 2 children)",
+            "bestTime": "Morning or late afternoon",
+            "duration": "1.5 - 2 hours",
+            "accessibility": "Some areas are accessible, but expect stairs and walking over uneven surfaces."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes",
+              "Camera",
+              "Water bottle"
+            ],
+            "whatToBuy": [
+              "Souvenirs from the palace shops"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Peacock Gate (Pritam Niwas Chowk)",
+              "Diwan-i-Aam (Hall of Public Audience)",
+              "Chandra Mahal facade"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Afternoon (5:30 PM - 7:00 PM)",
+          "name": "Jantar Mantar",
+          "coordinates": {
+            "latitude": 26.9247,
+            "longitude": 75.8231
+          },
+          "distanceFromPrevious": 0.09,
+          "travelTimeFromPrevious": "1 minute (walk)",
+          "description": "Jantar Mantar is an astronomical observatory built by Maharaja Jai Singh II. It houses a collection of nineteen architectural astronomical instruments, including the world's largest stone sundial, the Samrat Yantra. These instruments were used for measuring time, predicting eclipses, tracking stars, and determining celestial altitudes. It's a fascinating example of ancient Indian scientific ingenuity.",
+          "whyVisit": "Discover ancient astronomical instruments in this giant outdoor science experiment, particularly informative and fascinating for teens interested in science and history. See the world’s largest stone sundial here!",
+          "activities": [
+            "Explore the various astronomical instruments",
+            "Learn about their functions and the principles of ancient astronomy",
+            "Observe the precise measurements of the Samrat Yantra"
+          ],
+          "practicalInfo": {
+            "entryFee": "200 INR (Adults), 100 INR (Children)",
+            "estimatedCost": "600 INR (entry for 2 adults, 2 children)",
+            "bestTime": "Late afternoon for pleasant weather and clear views",
+            "duration": "1 hour",
+            "accessibility": "Mostly flat, accessible pathways."
+          },
+          "tips": {
+            "whatToBring": [
+              "Water bottle",
+              "Sunscreen",
+              "Guidebook or audio guide for explanations"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Samrat Yantra (the giant sundial)",
+              "Various other astronomical instruments with their unique shapes"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Early Evening (7:00 PM - 8:00 PM)",
+          "name": "Johari Bazaar",
+          "coordinates": {
+            "latitude": 26.922,
+            "longitude": 75.829
+          },
+          "distanceFromPrevious": 1.38,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "Johari Bazaar is one of Jaipur's oldest and most famous markets, renowned for its exquisite jewelry, especially traditional Rajasthani designs, gemstones, and intricate craftsmanship. Beyond jewelry, you'll find a wide array of textiles, handicrafts, bandhani (tie-dye) fabrics, and traditional footwear. It's a bustling market that offers a glimpse into local life and culture.",
+          "whyVisit": "Immerse yourselves in the vibrant local market scene, a great opportunity for souvenir shopping, observing local life, and perhaps trying some delicious street snacks. You can find beautiful handicrafts, jewelry, and textiles here.",
+          "activities": [
+            "Browse for traditional Rajasthani jewelry and gemstones",
+            "Shop for textiles, handicrafts, and souvenirs",
+            "Experience the bustling atmosphere of a local market",
+            "Try local street food and snacks"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (for entry to the bazaar)",
+            "estimatedCost": "Variable depending on shopping and food choices",
+            "bestTime": "Evening for a lively atmosphere and cooler temperatures",
+            "duration": "1-1.5 hours",
+            "accessibility": "Crowded and uneven pathways, which might be challenging for strollers or wheelchairs."
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash (for easier transactions and bargaining)",
+              "Reusable shopping bag"
+            ],
+            "whatToBuy": [
+              "Lac bangles",
+              "Gemstone jewelry",
+              "Bandhani textiles",
+              "Mojaris (traditional footwear)",
+              "Blue pottery"
+            ],
+            "safetyNotes": [
+              "Be mindful of pickpockets in crowded areas.",
+              "Bargain politely for better prices."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The colorful shops and stalls",
+              "Local artisans at work"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 29.94,
+        "spending": {
+          "entryFees": 2000,
+          "activities": 2000,
+          "transport": 800,
+          "meals": 2500,
+          "shopping": 1000,
+          "total": 8300
+        },
+        "remainingBudget": 30340
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-19",
+      "theme": "More Forts, Museums & Departure!",
+      "optimizedRoute": "Hotel Jai Maa Palace → Nahargarh Fort & Jaipur Wax Museum → Albert Hall Museum → Hotel Jai Maa Palace",
+      "totalDistance": 9.44,
+      "totalTravelTime": "45 minutes (estimated)",
+      "places": [
+        {
+          "timeOfDay": "Morning (9:00 AM - 12:30 PM)",
+          "name": "Nahargarh Fort & Jaipur Wax Museum",
+          "coordinates": {
+            "latitude": 26.9243,
+            "longitude": 75.7909
+          },
+          "distanceFromPrevious": 0.23,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "Nahargarh Fort, standing proudly on the Aravalli Hills, offers breathtaking panoramic views of Jaipur city. It was historically part of the city's defense. Within its complex lies the Jaipur Wax Museum, a modern attraction featuring lifelike wax statues of celebrities and historical figures, alongside a stunning Sheesh Mahal (Glass Palace). This combination provides both historical insights and interactive fun for the family.",
+          "whyVisit": "Visit Nahargarh Fort for spectacular panoramic views of Jaipur and a fantastic spot for family photos. The Jaipur Wax Museum within the fort complex offers a fun and interactive experience with lifelike wax statues and a beautiful Glass Palace.",
+          "activities": [
+            "Explore Nahargarh Fort and its structures",
+            "Enjoy the panoramic views of Jaipur",
+            "Visit the Jaipur Wax Museum and see wax figures",
+            "Discover the Sheesh Mahal (Glass Palace) within the museum"
+          ],
+          "practicalInfo": {
+            "entryFee": "200 INR (Adults for Nahargarh Fort), 100 INR (Children for Nahargarh Fort), 500 INR (Wax Museum Adults), 300 INR (Wax Museum Children)",
+            "estimatedCost": "600 INR (Fort for 2 adults, 2 children) + 1600 INR (Wax Museum for 2 adults, 2 children) = 2200 INR",
+            "bestTime": "Morning for cooler weather and clearer views",
+            "duration": "2.5 - 3 hours",
+            "accessibility": "Involves some walking and stairs at the fort. The museum might be more accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Water bottle",
+              "Camera",
+              "Sunscreen and hat"
+            ],
+            "whatToBuy": [
+              "Souvenirs from the fort or museum shops"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Panoramic views from Nahargarh Fort",
+              "With wax statues at the museum",
+              "Inside the Sheesh Mahal (Glass Palace)"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Early Afternoon (1:00 PM - 2:30 PM)",
+          "name": "Albert Hall Museum",
+          "coordinates": {
+            "latitude": 26.9048,
+            "longitude": 75.8115
+          },
+          "distanceFromPrevious": 4.52,
+          "travelTimeFromPrevious": "15 minutes",
+          "description": "The Albert Hall Museum, housed in a magnificent Indo-Saracenic building, is the oldest museum in Rajasthan. It boasts a rich and diverse collection of artifacts, including paintings, carpets, ivory, stone, and metal sculptures, as well as a fascinating Egyptian mummy. The museum provides a comprehensive insight into the art, craft, and historical heritage of the region, making it an excellent indoor option.",
+          "whyVisit": "Explore the oldest museum in Rajasthan, boasting a rich collection of artifacts, including paintings, carpets, sculptures, and even a mummy! It’s an excellent indoor option to learn more about local culture and history.",
+          "activities": [
+            "Explore the various galleries and exhibits",
+            "Admire the architectural beauty of the building",
+            "Learn about Rajasthan's art and history",
+            "See the Egyptian mummy"
+          ],
+          "practicalInfo": {
+            "entryFee": "300 INR (Adults), 150 INR (Children)",
+            "estimatedCost": "900 INR (entry for 2 adults, 2 children)",
+            "bestTime": "Anytime, especially good for escaping the midday sun",
+            "duration": "1.5 - 2 hours",
+            "accessibility": "Mostly accessible with ramps and elevators, but some areas might have stairs."
+          },
+          "tips": {
+            "whatToBring": [
+              "Water bottle",
+              "Camera (check for restrictions in certain galleries)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The grand architecture of the museum building",
+              "Selected exhibits (where photography is allowed)"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 9.44,
+        "spending": {
+          "entryFees": 2000,
+          "activities": 2000,
+          "transport": 800,
+          "meals": 2500,
+          "shopping": 1000,
+          "total": 8300
+        },
+        "remainingBudget": 22040
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 50000,
+    "currency": "INR",
+    "expenses": {
+      "flights": {
+        "flightName": "N/A",
+        "costUserCurrency": 0,
+        "costINR": 0
+      },
+      "accommodation": {
+        "hotelName": "Hotel Jai Maa Palace",
+        "pricePerNight": 1530,
+        "nights": 2,
+        "rooms": 1,
+        "total": 3060
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 2000,
+          "activities": 2000,
+          "transport": 800,
+          "meals": 2500,
+          "shopping": 1000,
+          "subtotal": 8300
+        },
+        {
+          "day": 2,
+          "entryFees": 2000,
+          "activities": 2000,
+          "transport": 800,
+          "meals": 2500,
+          "shopping": 1000,
+          "subtotal": 8300
+        },
+        {
+          "day": 3,
+          "entryFees": 2000,
+          "activities": 2000,
+          "transport": 800,
+          "meals": 2500,
+          "shopping": 1000,
+          "subtotal": 8300
+        }
+      ]
+    },
+    "totalSpent": 27960,
+    "remainingBudget": 22040,
+    "budgetTips": [
+      "Utilize local transport like auto-rickshaws for cost-effective travel between attractions.",
+      "Explore local eateries and street food for authentic and budget-friendly meals.",
+      "Bargain politely in local markets for better deals on souvenirs and handicrafts.",
+      "Consider visiting some free attractions or parks to balance your daily spending."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Lightweight and breathable clothing (cotton or linen)",
+      "Comfortable long pants or skirts (for temple visits and sun protection)",
+      "T-shirts and tops",
+      "A light jacket or shawl for evenings (October can have cooler nights)",
+      "Swimwear (if your hotel has a pool)"
+    ],
+    "footwear": [
+      "Comfortable walking shoes or sandals",
+      "Flip-flops for hotel or casual wear"
+    ],
+    "essentials": [
+      "Sunscreen with high SPF",
+      "Hat or cap for sun protection",
+      "Sunglasses",
+      "Reusable water bottle",
+      "Small backpack or day bag",
+      "Hand sanitizer",
+      "Wet wipes"
+    ],
+    "medication": [
+      "Any personal prescription medications",
+      "Basic first-aid kit (band-aids, antiseptic wipes)",
+      "Over-the-counter pain relievers",
+      "Insect repellent"
+    ],
+    "electronics": [
+      "Mobile phone and charger",
+      "Portable power bank",
+      "Camera and extra batteries/memory card",
+      "Universal travel adapter (if needed)"
+    ],
+    "miscellaneous": [
+      "Copy of important documents (passport, visa, tickets)",
+      "Small umbrella or rain jacket (for unexpected showers, though unlikely in October)",
+      "Books or entertainment for downtime",
+      "Small padlock (for luggage security)"
+    ],
+    "documents": [
+      "Passport and visa (if applicable)",
+      "Flight tickets and hotel reservations",
+      "Travel insurance details",
+      "Identification cards",
+      "Copies of all important documents (stored separately)"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Confirm hotel bookings and check-in details.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Check visa requirements for India (if applicable).",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Inform your bank about your travel plans to avoid card issues.",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Download offline maps of Jaipur for navigation.",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Pack essential medications and a basic first-aid kit.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Organize copies of all important travel documents.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Research local customs and etiquette.",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "task": "Charge all electronic devices.",
+      "completed": false,
+      "priority": "medium"
+    }
+  ]
+}
