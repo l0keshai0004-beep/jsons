@@ -1,0 +1,615 @@
+{
+  "tripOverview": {
+    "destination": "Bangalore, India",
+    "startDate": "2025-10-17",
+    "endDate": "2025-10-19",
+    "duration": 2,
+    "companions": "Friend",
+    "tripType": "Relaxation"
+  },
+  "hotel": {
+    "name": "Octave Hotel - Double Rd",
+    "location": "Bengaluru, India",
+    "coordinates": {
+      "latitude": 12.959671,
+      "longitude": 77.593362
+    },
+    "pricePerNight": 1628,
+    "rooms": 1,
+    "nights": 2,
+    "totalCost": 3256,
+    "currency": "INR",
+    "reasonForSelection": "Octave Hotel - Double Rd offers a comfortable stay within the specified budget, with a convenient location and amenities like free breakfast and air conditioning, which are ideal for a relaxing trip. Its positive reviews and good value make it a suitable choice.",
+    "amenities": [
+      "Pet-friendly",
+      "Kid-friendly",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Free breakfast",
+      "Air conditioning"
+    ],
+    "bookingLinks": [
+      "https://www.google.com/aclk?sa=l&ai=DChsSEwjRgLzkpqaQAxXeZUcBHcmtGEcYACICCAEQERoCcXU&co=1&ase=2&gclid=EAIaIQobChMI0YC85KamkAMV3mVHAR3JrRhHEA0YBiABEgJiqPD_BwE&cid=CAASlwHkaEZHwsAhMBXIH6JxUL5h8x-rVhC9KIcB3qgIvFNBjUwogvamE0jSu477QdjH8-5C7mtlaXLQEysI77-crMfu_Cnj9uCDkXjspIawj_ptprPvJh5HwIQxtikXxhIllwi1Fzfdp8jUibpKoXP_bXiO5-L7Sg1_A8BJ2CaPCvGzZa3TVVEgtfPHI9iikWQiyCMWecNV_rH4&category=acrcp_v1_48&sig=AOD64_33wjppX4PgBCttWTWwCMTNa8d3Lg&adurl=",
+      "https://www.octavehotels.com/"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipNQ_75_VSpYTqqyuYYA20LWYZrhQOcH-BJ4RO07=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipM4v0VbPMzmI2YlR3zfHUu8HGubiMnc2fZdQOzd=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipMe7qNz-MjcR6Tg3w2uhbz4ybkQr-AI1jSsis4R=s10000",
+      "https://images.trvl-media.com/lodging/19000000/18350000/18344100/18344046/f30b6781_z.jpg",
+      "https://lh3.googleusercontent.com/p/AF1QipM409BI0Ls8vne2AG_nnFkCJ4TMQ9ifZ2mBk8lw=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipN4ZERb44fCTRVo7OdwEn5A9tFIJOPhFe6c1yJY=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipMr3fXRjJQUl4r_NwZtVuLsMV-PvzOCKS1B1UpR=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipPFIXrrw9ACHPVeE8XgslcXzOFeHnNBeSPJvy2-=s10000",
+      "https://lh3.googleusercontent.com/p/AF1QipOoqsR7hpk2M7hMlZerpS7_quJ99C7qUzi-Wwlj=s10000"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-17",
+      "theme": "Green Escapes & Cozy Vibes",
+      "optimizedRoute": "Hotel Octave - Double Rd → Lalbagh Botanical Garden → Cubbon Park → Indiranagar (Cafe) → Indiranagar (Dinner) → Hotel Octave - Double Rd",
+      "totalDistance": 28.5,
+      "totalTravelTime": "1 hour 45 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Lalbagh Botanical Garden",
+          "coordinates": {
+            "latitude": 12.9507,
+            "longitude": 77.5849
+          },
+          "distanceFromPrevious": 1.7,
+          "travelTimeFromPrevious": "8 minutes",
+          "description": "Lalbagh Botanical Garden is a magnificent 240-acre garden in the heart of Bangalore, known for its extensive collection of rare plants, ancient trees, and a striking glass house inspired by London's Crystal Palace. It serves as a vital lung space for the city and a significant center for botanical research.",
+          "whyVisit": "Perfect for a leisurely stroll amidst diverse flora, enjoying the peaceful atmosphere, and capturing beautiful nature photography. The Glass House is a remarkable architectural marvel.",
+          "activities": [
+            "Leisurely walk through themed gardens",
+            "Photography of diverse plant species and architectural features",
+            "Relaxing near the lake"
+          ],
+          "practicalInfo": {
+            "entryFee": "INR 20-30 per person (estimated)",
+            "estimatedCost": "INR 50-100",
+            "bestTime": "Morning (6:00 AM - 9:00 AM) or late afternoon",
+            "duration": "2-3 hours",
+            "accessibility": "Mostly accessible, paved paths available for wheelchairs, but some areas might be uneven."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Water bottle",
+              "Sunscreen",
+              "Hat",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Local plant saplings from the nursery (if available)"
+            ],
+            "safetyNotes": [
+              "Stay on designated paths",
+              "Be mindful of your belongings"
+            ],
+            "customsEtiquette": [
+              "Respect the flora and fauna",
+              "Avoid littering"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Glass House",
+              "Floral clocks",
+              "Lotus pond"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Cubbon Park",
+          "coordinates": {
+            "latitude": 12.9760,
+            "longitude": 77.5929
+          },
+          "distanceFromPrevious": 3.7,
+          "travelTimeFromPrevious": "15 minutes",
+          "description": "Cubbon Park is another expansive green space in Bangalore, spanning 300 acres, offering a tranquil escape from the urban hustle. It houses various government buildings, a library, and statues, making it a blend of natural beauty and historical significance. It's a popular spot for morning walks and leisurely afternoons.",
+          "whyVisit": "An ideal place for a peaceful walk, finding a quiet bench to read, or simply people-watching and soaking in the serene surroundings. It's less crowded than Lalbagh at times, offering a different vibe.",
+          "activities": [
+            "Relaxed walking and jogging paths",
+            "Reading a book under a shady tree",
+            "Observing the diverse avian life",
+            "Visiting the public library (Sri Chamarajendra Zoological Gardens)"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "INR 0-50",
+            "bestTime": "Morning or late afternoon",
+            "duration": "1.5-2 hours",
+            "accessibility": "Mostly accessible with paved walkways."
+          },
+          "tips": {
+            "whatToBring": [
+              "Water bottle",
+              "Book",
+              "Light snack"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Keep an eye on personal belongings"
+            ],
+            "customsEtiquette": [
+              "Maintain cleanliness",
+              "Avoid disturbing others"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Statues of prominent personalities",
+              "Bamboo groves",
+              "Bandstand"
+            ]
+        }},
+        {
+          "timeOfDay": "Evening",
+          "name": "Indiranagar (Cafe for High Tea/Coffee)",
+          "coordinates": {
+            "latitude": 12.9739,
+            "longitude": 77.6401
+          },
+          "distanceFromPrevious": 6.7,
+          "travelTimeFromPrevious": "25 minutes",
+          "description": "Indiranagar is a bustling, upscale neighborhood renowned for its vibrant cafe culture, trendy restaurants, and boutiques. It offers a chic and lively ambiance perfect for relaxing high tea or coffee, and later, a diverse range of dining options.",
+          "whyVisit": "Experience Bangalore's modern and vibrant side, enjoy delicious refreshments, and people-watch in a lively setting.",
+          "activities": [
+            "High tea or coffee at a trendy cafe",
+            "Relaxed conversation",
+            "Exploring local boutiques"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (Cost of food/beverages)",
+            "estimatedCost": "INR 500-1000",
+            "bestTime": "Late afternoon/Evening",
+            "duration": "1-2 hours",
+            "accessibility": "Most cafes are accessible, but sidewalks can be uneven."
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash/cards",
+              "Comfortable shoes for walking around"
+            ],
+            "whatToBuy": [
+              "Unique items from local boutiques (optional)"
+            ],
+            "safetyNotes": [
+              "Be aware of traffic when walking"
+            ],
+            "customsEtiquette": [
+              "Tipping is customary in cafes/restaurants"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Stylish cafe interiors",
+              "Street art"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Indiranagar or Koramangala (Dinner)",
+          "coordinates": {
+            "latitude": 12.9345,
+            "longitude": 77.6186
+          },
+          "distanceFromPrevious": 5.9,
+          "travelTimeFromPrevious": "20 minutes",
+          "description": "Both Indiranagar and Koramangala are prime areas in Bangalore known for their extensive range of restaurants, catering to various cuisines and dining experiences. From casual eateries to fine dining, these neighborhoods offer a perfect end to your day.",
+          "whyVisit": "Enjoy a delightful farewell dinner with a wide array of culinary experiences to suit your mood, reflecting Bangalore's diverse food scene.",
+          "activities": [
+            "Dining at a restaurant of choice",
+            "Savoring local or international cuisines"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (Cost of meal)",
+            "estimatedCost": "INR 800-1500",
+            "bestTime": "Evening",
+            "duration": "1.5-2 hours",
+            "accessibility": "Varies by restaurant."
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash/cards"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Book a table in advance, especially on weekends"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Night",
+          "name": "Hotel Octave - Double Rd",
+          "coordinates": {
+            "latitude": 12.959671,
+            "longitude": 77.593362
+          },
+          "distanceFromPrevious": 10.5,
+          "travelTimeFromPrevious": "32 minutes",
+          "description": "Return to your hotel for a relaxing night after a day of exploring Bangalore's green spaces and culinary delights.",
+          "whyVisit": "Comfortable and convenient accommodation for rest and rejuvenation.",
+          "activities": [
+            "Unwind and prepare for the next day's adventures"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Late evening",
+            "duration": "Overnight",
+            "accessibility": "Fully accessible."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 28.5,
+        "spending": {
+          "entryFees": 50,
+          "activities": 0,
+          "transport": 600,
+          "meals": 1200,
+          "shopping": 0,
+          "total": 1850
+        },
+        "remainingBudget": 9894
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-18",
+      "theme": "Royal Heritage & Gentle Exploration",
+      "optimizedRoute": "Hotel Octave - Double Rd → Bangalore Palace → ISKCON Temple Bangalore → Commercial Street → MG Road → Hotel Octave - Double Rd",
+      "totalDistance": 28.1,
+      "totalTravelTime": "1 hour 40 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Bangalore Palace",
+          "coordinates": {
+            "latitude": 12.9918,
+            "longitude": 77.5922
+          },
+          "distanceFromPrevious": 4.1,
+          "travelTimeFromPrevious": "15 minutes",
+          "description": "Bangalore Palace is a magnificent palace located in the heart of Bangalore, built in the Tudor style of architecture. It boasts fortified towers, battlements, and turrets, reflecting the grandeur of royal living. The palace grounds host various concerts and events.",
+          "whyVisit": "Explore grand interiors and beautiful grounds at your own pace, offering a glimpse into royal history and architectural splendor.",
+          "activities": [
+            "Guided tour of the palace interiors",
+            "Strolling through the gardens",
+            "Photography of the architecture"
+          ],
+          "practicalInfo": {
+            "entryFee": "INR 230 (Indian citizens), INR 460 (foreign nationals) (estimated)",
+            "estimatedCost": "INR 500-700",
+            "bestTime": "Morning (before crowds) or late afternoon",
+            "duration": "2-3 hours",
+            "accessibility": "Limited accessibility for wheelchairs, some stairs involved."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera (extra fee for photography may apply)",
+              "Comfortable shoes"
+            ],
+            "whatToBuy": [
+              "Souvenirs from the palace gift shop"
+            ],
+            "safetyNotes": [
+              "Adhere to photography rules"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Grand facade",
+              "Ballroom",
+              "Durbar Hall"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Morning",
+          "name": "ISKCON Temple Bangalore",
+          "coordinates": {
+            "latitude": 13.0097,
+            "longitude": 77.5507
+          },
+          "distanceFromPrevious": 6.8,
+          "travelTimeFromPrevious": "25 minutes",
+          "description": "The ISKCON Temple Bangalore, also known as Sri Radha Krishna Temple, is a majestic complex dedicated to Lord Krishna. It features a unique blend of traditional Dravidian and modern architectural styles, with intricate carvings and vibrant deity decorations. It is a center for spiritual learning and devotion.",
+          "whyVisit": "Admire its intricate architecture and soak in the tranquil and spiritual ambiance, a peaceful retreat from the city's hustle.",
+          "activities": [
+            "Participate in Aarti (prayer ceremony)",
+            "Meditate in the tranquil surroundings",
+            "Explore the temple complex and its various shrines"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (donations welcome)",
+            "estimatedCost": "INR 0-100",
+            "bestTime": "Morning or early afternoon",
+            "duration": "1-2 hours",
+            "accessibility": "Generally accessible, but some areas may have stairs."
+          },
+          "tips": {
+            "whatToBring": [
+              "Respectful attire (shoulders and knees covered)",
+              "Leave footwear outside"
+            ],
+            "whatToBuy": [
+              "Religious books and souvenirs from the temple shop"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Maintain silence in prayer areas",
+              "Follow temple guidelines"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Main temple dome",
+              "Deity altars (photography may be restricted)"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Commercial Street",
+          "coordinates": {
+            "latitude": 12.9782,
+            "longitude": 77.6080
+          },
+          "distanceFromPrevious": 8.7,
+          "travelTimeFromPrevious": "30 minutes",
+          "description": "Commercial Street is one of Bangalore's oldest and most famous shopping destinations, offering a vibrant mix of branded stores, local boutiques, street vendors, and traditional handicraft shops. It's a bustling hub where you can find everything from clothing to jewelry and electronics.",
+          "whyVisit": "Indulge in some relaxed window shopping or light browsing, and experience the lively atmosphere of a traditional Indian market. Find unique souvenirs or simply enjoy observing the city life.",
+          "activities": [
+            "Window shopping",
+            "Bargaining for local handicrafts",
+            "Exploring diverse shops"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (Cost of shopping)",
+            "estimatedCost": "INR 500-2000+",
+            "bestTime": "Afternoon or early evening",
+            "duration": "2-3 hours",
+            "accessibility": "Crowded and may be challenging for wheelchairs due to uneven pavements."
+          },
+          "tips": {
+            "whatToBring": [
+              "Bargaining skills",
+              "Comfortable walking shoes",
+              "Water bottle",
+              "Cash/cards"
+            ],
+            "whatToBuy": [
+              "Clothing",
+              "Accessories",
+              "Handicrafts",
+              "Jewelry"
+            ],
+            "safetyNotes": [
+              "Be mindful of pickpockets in crowded areas",
+              "Stay hydrated"
+            ],
+            "customsEtiquette": [
+              "Polite bargaining is expected"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Bustling street scenes",
+              "Colorful displays of goods"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Afternoon",
+          "name": "MG Road",
+          "coordinates": {
+            "latitude": 12.9754,
+            "longitude": 77.6067
+          },
+          "distanceFromPrevious": 0.5,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "MG Road (Mahatma Gandhi Road) is a prominent and iconic thoroughfare in Bangalore, known for its mix of modern establishments and historical significance. It features high-end stores, restaurants, cafes, and serves as a major commercial and entertainment hub.",
+          "whyVisit": "Continue your gentle exploration by strolling along this famous road, enjoying the urban landscape, or finding a spot for an optional spa/wellness session to rejuvenate.",
+          "activities": [
+            "Strolling and people-watching",
+            "Exploring modern stores",
+            "Optional spa or wellness session (book in advance)"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "INR 0 (strolling) - INR 2000+ (spa)",
+            "bestTime": "Late afternoon/Evening",
+            "duration": "1-2 hours",
+            "accessibility": "Well-paved sidewalks, generally accessible."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Street art",
+              "Modern architecture"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Hotel Octave - Double Rd",
+          "coordinates": {
+            "latitude": 12.959671,
+            "longitude": 77.593362
+          },
+          "distanceFromPrevious": 8.0,
+          "travelTimeFromPrevious": "25 minutes",
+          "description": "Return to your hotel after a day of royal heritage and urban exploration. Enjoy a farewell dinner at a restaurant of your choice in the vicinity.",
+          "whyVisit": "Comfortable accommodation for your final night in Bangalore.",
+          "activities": [
+            "Farewell dinner (at hotel restaurant or nearby)",
+            "Relax and unwind"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "INR 800-1500",
+            "bestTime": "Evening",
+            "duration": "Overnight",
+            "accessibility": "Fully accessible."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 28.1,
+        "spending": {
+          "entryFees": 460,
+          "activities": 0,
+          "transport": 500,
+          "meals": 1200,
+          "shopping": 500,
+          "total": 2660
+        },
+        "remainingBudget": 7234
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 15000,
+    "currency": "INR",
+    "expenses": {
+      "flights": {
+        "flightName": "N/A",
+        "costUserCurrency": 0,
+        "costINR": 0
+      },
+      "accommodation": {
+        "hotelName": "Octave Hotel - Double Rd",
+        "pricePerNight": 1628,
+        "nights": 2,
+        "rooms": 1,
+        "total": 3256
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 50,
+          "activities": 0,
+          "transport": 600,
+          "meals": 1200,
+          "shopping": 0,
+          "subtotal": 1850
+        },
+        {
+          "day": 2,
+          "entryFees": 460,
+          "activities": 0,
+          "transport": 500,
+          "meals": 1200,
+          "shopping": 500,
+          "subtotal": 2660
+        }
+      ]
+    },
+    "totalSpent": 7766,
+    "remainingBudget": 7234,
+    "budgetTips": [
+      "Utilize public transport or ride-sharing apps for cost-effective travel between attractions.",
+      "Explore local eateries for authentic and budget-friendly meals.",
+      "Look for combo deals or discounts on attractions if planning to visit multiple sites."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Lightweight and breathable clothes (cotton, linen)",
+      "Evening wear for dinners",
+      "Comfortable sleepwear"
+    ],
+    "footwear": [
+      "Comfortable walking shoes/sandals",
+      "Dressier shoes for evenings"
+    ],
+    "essentials": [
+      "Small backpack or day bag",
+      "Water bottle",
+      "Sunscreen",
+      "Hat or cap",
+      "Sunglasses",
+      "Insect repellent"
+    ],
+    "medication": [
+      "Any personal medications",
+      "Basic first-aid kit (band-aids, antiseptic wipes)"
+    ],
+    "electronics": [
+      "Phone and charger",
+      "Portable power bank",
+      "Camera and accessories"
+    ],
+    "miscellaneous": [
+      "Book or e-reader for relaxation",
+      "Small umbrella or raincoat (depending on season)",
+      "Travel pillow"
+    ],
+    "documents": [
+      "ID proof",
+      "Hotel booking confirmations",
+      "Any necessary permits or tickets"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Confirm hotel booking",
+      "completed": true,
+      "priority": "high"
+    },
+    {
+      "task": "Research and book preferred restaurants for dinner (especially Day 1 & Day 2)",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Book optional spa/wellness session for Day 2 (if desired)",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Download offline maps for Bangalore",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "task": "Check weather forecast closer to travel date",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "task": "Inform bank about travel plans (if using cards abroad)",
+      "completed": false,
+      "priority": "low"
+    }
+  ]
+}
