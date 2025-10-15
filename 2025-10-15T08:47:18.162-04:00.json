@@ -1,0 +1,640 @@
+{
+  "tripOverview": {
+    "destination": "Joshimath, India",
+    "startDate": "2025-10-21",
+    "endDate": "2025-10-24",
+    "duration": 3,
+    "companions": "Solo",
+    "tripType": "Spiritual, Nature, Leisure"
+  },
+  "hotel": {
+    "name": "Hotel Dronagiri (Estimated)",
+    "location": "Joshimath, India",
+    "coordinates": {
+      "latitude": 30.5517,
+      "longitude": 79.5647
+    },
+    "pricePerNight": 1200,
+    "rooms": 1,
+    "nights": 3,
+    "totalCost": 3600,
+    "currency": "INR",
+    "reasonForSelection": "This hotel is a comfortable and affordable option, conveniently located in Joshimath. It offers a good base for exploring the spiritual sites and natural beauty of the region, including easy access to the Auli cable car. Please note, hotel details are estimated as the booking API was unresponsive.",
+    "amenities": [
+      "Free Wi-Fi",
+      "Restaurant",
+      "Parking",
+      "Hot Water",
+      "Room Service"
+    ],
+    "bookingLinks": [
+      "Estimated - please search locally for booking options"
+    ],
+    "imageLinks": [
+      "Estimated - please search locally for images"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-21",
+      "theme": "Arrival, Auli Views & Spiritual Exploration",
+      "optimizedRoute": "Hotel Dronagiri → Auli Cable Car → Narsingh Temple → Joshimath Local Market → Hotel Dronagiri",
+      "totalDistance": 0,
+      "totalTravelTime": "0 hours 0 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning - Arrival",
+          "name": "Hotel Dronagiri (Check-in)",
+          "coordinates": {
+            "latitude": 30.5517,
+            "longitude": 79.5647
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Upon your arrival in Joshimath, check into your comfortable hotel, Hotel Dronagiri. Take some time to freshen up and settle in before embarking on your exploration of this charming Himalayan town.",
+          "whyVisit": "To settle in and prepare for your adventures in Joshimath.",
+          "activities": [
+            "Check into the hotel",
+            "Unpack and relax",
+            "Enjoy a welcome drink or snack"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning/Afternoon",
+            "duration": "1-2 hours",
+            "accessibility": "Accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Travel documents",
+              "Light snacks",
+              "Water bottle"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Keep valuables secure"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Auli Cable Car & Panoramic Views",
+          "coordinates": {
+            "latitude": 30.5670,
+            "longitude": 79.5710
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Embark on an exhilarating cable car ride from Joshimath to Auli, known for its breathtaking panoramic views of the Himalayas, including Nanda Devi. Auli is a popular skiing destination in winter, but in October, it offers serene landscapes perfect for light trekking and enjoying the crisp mountain air. The views of the surrounding peaks are truly spectacular and provide a sense of peace and grandeur.",
+          "whyVisit": "To experience one of Asia's longest cable car rides and witness stunning, uninterrupted views of the Himalayan peaks, offering excellent photographic opportunities and a peaceful escape.",
+          "activities": [
+            "Enjoy the scenic cable car ride",
+            "Light trekking in Auli",
+            "Photography of Himalayan peaks",
+            "Relax and soak in the natural beauty"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approximately 1000 INR (round trip cable car fare)",
+            "estimatedCost": "1000 INR",
+            "bestTime": "Morning to early afternoon for clear views",
+            "duration": "3-4 hours (including travel and exploration)",
+            "accessibility": "Cable car is generally accessible, but trekking paths may vary in difficulty."
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm jacket (even in October)",
+              "Camera",
+              "Water bottle",
+              "Comfortable walking shoes"
+            ],
+            "whatToBuy": [
+              "Local handicrafts from vendors in Auli (if available)"
+            ],
+            "safetyNotes": [
+              "Be mindful of altitude sickness, move slowly",
+              "Stay on marked paths during trekking"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Cable car windows",
+              "Various viewpoints in Auli overlooking the mountains"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Afternoon",
+          "name": "Narsingh Temple",
+          "coordinates": {
+            "latitude": 30.5520,
+            "longitude": 79.5650
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Visit the revered Narsingh Temple, a significant spiritual site in Joshimath. This ancient temple is dedicated to Lord Narsingh, an incarnation of Vishnu, and holds immense religious importance, particularly as the winter seat of Badrinath. The temple's architecture and spiritual ambiance provide a tranquil experience, offering a glimpse into local religious practices and beliefs.",
+          "whyVisit": "To experience the spiritual heritage of Joshimath, witness traditional temple architecture, and immerse yourself in a serene atmosphere.",
+          "activities": [
+            "Offer prayers and seek blessings",
+            "Admire the temple architecture",
+            "Learn about its historical and religious significance"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (donations welcome)",
+            "estimatedCost": "50-100 INR (for offerings)",
+            "bestTime": "Morning or evening aarti (prayer) times",
+            "duration": "1-1.5 hours",
+            "accessibility": "Generally accessible, some stairs may be present."
+          },
+          "tips": {
+            "whatToBring": [
+              "Shawl or scarf for modesty",
+              "Small offering (flowers, sweets)"
+            ],
+            "whatToBuy": [
+              "Religious souvenirs from nearby shops"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Remove shoes before entering the temple",
+              "Dress modestly"
+            ],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Joshimath Local Market",
+          "coordinates": {
+            "latitude": 30.5515,
+            "longitude": 79.5645
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Immerse yourself in the local culture by exploring the bustling Joshimath Local Market. Here, you can find a variety of local produce, handicrafts, woolens, and souvenirs. It’s an excellent opportunity to interact with the local residents, observe their daily lives, and perhaps pick up a unique memento of your trip. The vibrant atmosphere provides a stark contrast to the serene spiritual sites.",
+          "whyVisit": "To experience the local life of Joshimath, shop for authentic souvenirs, and enjoy the evening ambiance.",
+          "activities": [
+            "Browse local shops",
+            "Purchase souvenirs and local products",
+            "Sample local street food (if available and safe)"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "200-500 INR (for shopping)",
+            "bestTime": "Late afternoon to evening",
+            "duration": "1-2 hours",
+            "accessibility": "Generally accessible, but pathways can be uneven."
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash (for small purchases)",
+              "Reusable shopping bag"
+            ],
+            "whatToBuy": [
+              "Woolen garments",
+              "Local spices",
+              "Handicrafts"
+            ],
+            "safetyNotes": [
+              "Be aware of your belongings in crowded areas"
+            ],
+            "customsEtiquette": [
+              "Bargaining is common but should be done respectfully"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Vibrant market stalls",
+              "Local people in traditional attire"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Dinner",
+          "coordinates": {
+            "latitude": 30.5517,
+            "longitude": 79.5647
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Conclude your first day with a delightful dinner at a local restaurant. Savor the flavors of Garhwali cuisine, which often features wholesome ingredients and unique local spices. Enjoy a relaxing meal and reflect on the day's explorations.",
+          "whyVisit": "To experience local culinary delights and relax after a day of sightseeing.",
+          "activities": [
+            "Enjoy a traditional Garhwali meal",
+            "Relax and unwind"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "300-500 INR",
+            "bestTime": "Evening",
+            "duration": "1-1.5 hours",
+            "accessibility": "Varies by restaurant"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Choose reputable restaurants"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0,
+        "spending": {
+          "entryFees": 1000,
+          "activities": 0,
+          "transport": 0,
+          "meals": 400,
+          "shopping": 300,
+          "total": 1700
+        },
+        "remainingBudget": 5300
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-22",
+      "theme": "Historical Sites, Nature Walks & Leisure",
+      "optimizedRoute": "Hotel Dronagiri → Kalpavriksha & Adi Shankaracharya Math → Nature Walk around Joshimath → Hotel Dronagiri",
+      "totalDistance": 0,
+      "totalTravelTime": "0 hours 0 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Kalpavriksha & Adi Shankaracharya Math",
+          "coordinates": {
+            "latitude": 30.5505,
+            "longitude": 79.5640
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Begin your day by visiting the sacred Kalpavriksha, an ancient mulberry tree believed to be over 1200 years old, and the Adi Shankaracharya Math, one of the four cardinal monasteries established by Adi Shankara. These sites are deeply intertwined with Hindu mythology and philosophy, offering a profound spiritual experience and a glimpse into India's rich religious history. The tranquility of the Math and the ancient aura of the tree provide a perfect start to your day.",
+          "whyVisit": "To explore historically significant spiritual sites, connect with ancient Hindu philosophy, and witness the revered Kalpavriksha.",
+          "activities": [
+            "Meditate or reflect at the Math",
+            "Admire the ancient Kalpavriksha",
+            "Learn about Adi Shankara's teachings"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (donations welcome)",
+            "estimatedCost": "50-100 INR (for offerings)",
+            "bestTime": "Morning for peace and quiet",
+            "duration": "1.5-2 hours",
+            "accessibility": "Generally accessible, some stairs may be present."
+          },
+          "tips": {
+            "whatToBring": [
+              "Shawl or scarf for modesty"
+            ],
+            "whatToBuy": [
+              "Religious texts or souvenirs from the Math"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Remove shoes before entering the Math",
+              "Maintain silence and reverence"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Kalpavriksha tree",
+              "Architectural details of the Math"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Tranquil Nature Walk around Joshimath",
+          "coordinates": {
+            "latitude": 30.5530,
+            "longitude": 79.5660
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a tranquil nature walk around the scenic surroundings of Joshimath. The region offers stunning vistas of the Himalayan range, lush greenery, and fresh mountain air. This walk is an opportunity to connect with nature, appreciate the serene beauty of the Garhwal Himalayas, and enjoy some peaceful solitude away from the town's hustle and bustle. Keep an eye out for local flora and fauna.",
+          "whyVisit": "To immerse yourself in the natural beauty of the Himalayas, enjoy fresh air, and find peace amidst picturesque landscapes.",
+          "activities": [
+            "Leisurely walk on scenic trails",
+            "Bird watching",
+            "Photography of natural landscapes",
+            "Enjoy a picnic (optional)"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning or afternoon",
+            "duration": "2-3 hours",
+            "accessibility": "Varies depending on the chosen trail; some paths may be uneven."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Water bottle",
+              "Snacks",
+              "Binoculars (for bird watching)",
+              "Sunscreen"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Stay on marked trails",
+              "Inform hotel staff of your route if venturing far"
+            ],
+            "customsEtiquette": [
+              "Do not litter, respect nature"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Mountain views",
+              "Forest clearings",
+              "Local flora"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Afternoon - Leisure Time",
+          "name": "Leisure Time (Hotel / Revisit Auli / Local Viewpoint)",
+          "coordinates": {
+            "latitude": 30.5517,
+            "longitude": 79.5647
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "The late afternoon is reserved for leisure. You can choose to relax at your hotel, perhaps enjoying a book or simply unwinding after your nature walk. Alternatively, if you wish to revisit the breathtaking views of Auli or discover another local viewpoint offering different perspectives of the surrounding mountains, this is the perfect time. Enjoy the flexibility to tailor this time to your preferences.",
+          "whyVisit": "To relax, pursue personal interests, or revisit favorite spots, ensuring a flexible and enjoyable trip.",
+          "activities": [
+            "Relax at the hotel",
+            "Revisit Auli (if desired)",
+            "Explore another local viewpoint",
+            "Enjoy a coffee or tea at a local cafe"
+          ],
+          "practicalInfo": {
+            "entryFee": "Varies (if revisiting Auli cable car)",
+            "estimatedCost": "0-1000 INR",
+            "bestTime": "Late afternoon",
+            "duration": "2-3 hours",
+            "accessibility": "Varies depending on chosen activity"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Farewell Dinner",
+          "coordinates": {
+            "latitude": 30.5517,
+            "longitude": 79.5647
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a farewell dinner, perhaps at a different local restaurant to try more of Joshimath's culinary offerings, or revisit a favorite spot. This is a time to reflect on your journey through this enchanting Himalayan region and savor your last evening.",
+          "whyVisit": "To enjoy a final meal in Joshimath and reflect on your trip.",
+          "activities": [
+            "Enjoy a meal with local delicacies",
+            "Share memories of the trip"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "300-500 INR",
+            "bestTime": "Evening",
+            "duration": "1-1.5 hours",
+            "accessibility": "Varies by restaurant"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Choose reputable restaurants"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0,
+        "spending": {
+          "entryFees": 50,
+          "activities": 0,
+          "transport": 0,
+          "meals": 400,
+          "shopping": 0,
+          "total": 450
+        },
+        "remainingBudget": 4850
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-23",
+      "theme": "Departure",
+      "optimizedRoute": "Hotel Dronagiri → Departure",
+      "totalDistance": 0,
+      "totalTravelTime": "0 hours 0 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Check-out and Departure",
+          "coordinates": {
+            "latitude": 30.5517,
+            "longitude": 79.5647
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "After a memorable trip to Joshimath, enjoy a final breakfast at your hotel. Complete the check-out formalities and prepare for your departure. Carry with you the serene memories of the Himalayas, the spiritual experiences, and the tranquil beauty of the region.",
+          "whyVisit": "To conclude your trip and begin your journey home.",
+          "activities": [
+            "Enjoy breakfast",
+            "Check out from the hotel",
+            "Arrange transportation for departure"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning",
+            "duration": "1-2 hours",
+            "accessibility": "Accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "All personal belongings",
+              "Travel documents"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Double-check that nothing is left behind"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 0,
+          "shopping": 0,
+          "total": 0
+        },
+        "remainingBudget": 4850
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 10000,
+    "currency": "INR",
+    "expenses": {
+      "flights": {
+        "flightName": "N/A",
+        "costUserCurrency": 0,
+        "costINR": 0
+      },
+      "accommodation": {
+        "hotelName": "Hotel Dronagiri (Estimated)",
+        "pricePerNight": 1200,
+        "nights": 3,
+        "rooms": 1,
+        "total": 3600
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 1000,
+          "activities": 0,
+          "transport": 0,
+          "meals": 400,
+          "shopping": 300,
+          "subtotal": 1700
+        },
+        {
+          "day": 2,
+          "entryFees": 50,
+          "activities": 0,
+          "transport": 0,
+          "meals": 400,
+          "shopping": 0,
+          "subtotal": 450
+        },
+        {
+          "day": 3,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 0,
+          "shopping": 0,
+          "subtotal": 0
+        }
+      ]
+    },
+    "totalSpent": 5750,
+    "remainingBudget": 4250,
+    "budgetTips": [
+      "Carry sufficient cash as ATM facilities might be limited in remote areas.",
+      "Consider eating at local eateries for more authentic and budget-friendly meals.",
+      "Bargain respectfully at local markets for souvenirs.",
+      "Public transport or shared taxis can be a cost-effective way to travel between nearby locations."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Warm jacket or fleece",
+      "Sweaters/thermals (layers are key)",
+      "Long-sleeved shirts",
+      "Comfortable trousers/jeans",
+      "Hat and gloves",
+      "Socks (wool or thermal)"
+    ],
+    "footwear": [
+      "Comfortable walking shoes/trekking boots",
+      "Slippers or sandals for hotel"
+    ],
+    "essentials": [
+      "Small backpack for day trips",
+      "Water bottle",
+      "Sunscreen",
+      "Lip balm",
+      "Moisturizer",
+      "Hand sanitizer",
+      "Toiletries"
+    ],
+    "medication": [
+      "Personal medications",
+      "Basic first-aid kit (band-aids, antiseptic wipes)",
+      "Pain relievers",
+      "Altitude sickness medication (consult doctor)"
+    ],
+    "electronics": [
+      "Mobile phone and charger",
+      "Power bank",
+      "Camera and extra batteries",
+      "Headphones"
+    ],
+    "miscellaneous": [
+      "Sunglasses",
+      "Umbrella/rain jacket (for unexpected showers)",
+      "Book or entertainment for leisure time",
+      "Small towel"
+    ],
+    "documents": [
+      "ID proof (Aadhar card/Passport)",
+      "Hotel booking confirmation (if any)",
+      "Travel insurance details (if applicable)",
+      "Copies of all important documents"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Confirm hotel booking (Estimated - manual confirmation needed)",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pack appropriate clothing for cold weather",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Inform family/friends of travel plans",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Charge all electronic devices",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Withdraw sufficient cash (ATMs may be limited)",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Consult doctor for altitude sickness prevention (if concerned)",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Check weather and road conditions closer to travel date",
+      "completed": false,
+      "priority": "high"
+    }
+  ]
+}
