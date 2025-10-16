@@ -1,0 +1,698 @@
+{
+  "tripOverview": {
+    "destination": "Mussoorie, Uttarakhand",
+    "startDate": "2025-10-19",
+    "endDate": "2025-10-21",
+    "duration": "2 nights",
+    "companions": "Solo",
+    "tripType": "Relaxing Getaway"
+  },
+  "hotel": {
+    "name": "Hotel Oakland Landour",
+    "location": "Landour, Mussoorie",
+    "coordinates": {
+      "latitude": 30.4584297,
+      "longitude": 78.0953633
+    },
+    "pricePerNight": 2170,
+    "rooms": 1,
+    "nights": 2,
+    "totalCost": 4340,
+    "currency": "INR",
+    "reasonForSelection": "Highly-rated hotel within your budget, offering a comfortable stay in Mussoorie with good reviews.",
+    "amenities": [
+      "Free Wi-Fi (estimated)",
+      "Restaurant (estimated)",
+      "Parking (estimated)",
+      "Room Service (estimated)"
+    ],
+    "bookingLinks": [
+      "https://sites.google.com/view/oaklandlandour/"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipM4eIU59q0gFJBtOoiED8bYpmCo9nZ8sbbUKvLx=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMxhWdWLbYJX-OTc_V_yocC8alBbAreyHDAJLaB=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipOWdRdmauyeuXU8H5FnB7BdfF4iV9LKAQMd8dPz=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPUcwVhZqHk4uH4FpNR04RfpIFglt10CqBe2ilz=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNF-TR3IjWArDr4TIjj4yS40FwbChVlNPkxNhNk=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipM1YbSGAWyUr1JwSFw6kKir3KB-RARvwMAOPwWP=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipO5_fZDPe_2-6T8ce1bf6xmVuDgTbJ0mQyFFsgn=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNt-WsHtTTPOEV74FFOf4cvVX3c7bO1WKQTJbSK=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNrK9LTZWl25SNmZbOxtNbr8RIezZAbaljJ2wvJ=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-19",
+      "theme": "Arrival & Mall Road Charm",
+      "optimizedRoute": "Hotel Oakland Landour → Mall Road → Hotel Oakland Landour",
+      "totalDistance": 7.28,
+      "totalTravelTime": "10 minutes",
+      "places": [
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Hotel Oakland Landour",
+          "coordinates": {
+            "latitude": 30.4584297,
+            "longitude": 78.0953633
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Arrive at your hotel in Landour, Mussoorie, and settle in. Take some time to relax and unwind before starting your exploration.",
+          "whyVisit": "Your accommodation for a relaxing stay.",
+          "activities": [
+            "Check-in",
+            "Unpack",
+            "Relax"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "N/A",
+            "duration": "1-2 hours",
+            "accessibility": "Varies by hotel"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Mall Road",
+          "coordinates": {
+            "latitude": 30.4587,
+            "longitude": 78.0697
+          },
+          "distanceFromPrevious": 3.64,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "Mall Road is the vibrant heart of Mussoorie, a bustling promenade filled with shops, cafes, and colonial architecture. It's the perfect place for a leisurely evening stroll, soaking in the lively atmosphere, and enjoying local street food. You'll find a variety of souvenirs, handicrafts, and local delicacies.",
+          "whyVisit": "To experience the vibrant local culture, enjoy scenic views, and indulge in shopping and dining.",
+          "activities": [
+            "Leisurely stroll",
+            "Shopping for local handicrafts and souvenirs",
+            "Trying street food",
+            "Café hopping",
+            "People watching"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "INR 500-1500 (shopping/food)",
+            "bestTime": "Evening",
+            "duration": "2-3 hours",
+            "accessibility": "Mostly wheelchair accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "A light jacket or sweater for the evening chill"
+            ],
+            "whatToBuy": [
+              "Woolen clothes",
+              "Wooden handicrafts",
+              "Local jams and preserves",
+              "Souvenirs"
+            ],
+            "safetyNotes": [
+              "Be aware of crowds, especially during peak season."
+            ],
+            "customsEtiquette": [
+              "Bargaining is common in local shops."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Clock Tower",
+              "Mussoorie Library building",
+              "Panoramic views of the valley"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Night",
+          "name": "Hotel Oakland Landour",
+          "coordinates": {
+            "latitude": 30.4584297,
+            "longitude": 78.0953633
+          },
+          "distanceFromPrevious": 3.64,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "Return to your hotel for a relaxing evening after exploring Mall Road.",
+          "whyVisit": "Rest and prepare for the next day's adventures.",
+          "activities": [
+            "Dinner",
+            "Relaxation"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "N/A",
+            "duration": "N/A",
+            "accessibility": "Varies by hotel"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 7.28,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 500,
+          "meals": 800,
+          "shopping": 500,
+          "total": 1800
+        },
+        "remainingBudget": 93860
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-20",
+      "theme": "Nature's Beauty & Panoramic Views",
+      "optimizedRoute": "Hotel Oakland Landour → Kempty Falls → Gun Hill → Company Garden → Camel's Back Road → Hotel Oakland Landour",
+      "totalDistance": 42.36,
+      "totalTravelTime": "1 hour 40 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Hotel Oakland Landour",
+          "coordinates": {
+            "latitude": 30.4584297,
+            "longitude": 78.0953633
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Start your day with breakfast at the hotel.",
+          "whyVisit": "Prepare for a day of exploring Mussoorie's natural attractions.",
+          "activities": [
+            "Breakfast"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "N/A",
+            "duration": "1 hour",
+            "accessibility": "Varies by hotel"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Morning",
+          "name": "Kempty Falls",
+          "coordinates": {
+            "latitude": 30.4735,
+            "longitude": 78.0264
+          },
+          "distanceFromPrevious": 16,
+          "travelTimeFromPrevious": "29 minutes",
+          "description": "Kempty Falls is a renowned tourist destination featuring magnificent cascading waters from a height of approximately 4,500 feet. It's an ideal spot for enjoying a refreshing bath in the natural pools or taking a thrilling ropeway ride for breathtaking aerial views of the surrounding landscape. The area is surrounded by lush greenery, making it a picturesque location for relaxation and photography.",
+          "whyVisit": "To immerse yourself in nature's beauty, enjoy a refreshing dip, and experience one of Mussoorie's most iconic attractions.",
+          "activities": [
+            "Bathing in the falls (seasonal)",
+            "Boating in the artificial pond",
+            "Ropeway ride for panoramic views",
+            "Photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (activities like ropeway and boating have separate charges)",
+            "estimatedCost": "INR 100-300 (for ropeway/boating)",
+            "bestTime": "Morning to early afternoon for fewer crowds",
+            "duration": "2-3 hours",
+            "accessibility": "Limited accessibility to the very base of the falls; ropeway is accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Swimwear (if you plan to bathe)",
+              "Towel",
+              "Change of clothes",
+              "Sunscreen"
+            ],
+            "whatToBuy": [
+              "Local snacks and beverages from vendors"
+            ],
+            "safetyNotes": [
+              "Be cautious on slippery rocks and near the water's edge.",
+              "Follow instructions for ropeway rides."
+            ],
+            "customsEtiquette": [
+              "Respect the natural environment and avoid littering."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main waterfall viewpoint",
+              "From the ropeway",
+              "The surrounding lush greenery"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Morning",
+          "name": "Gun Hill",
+          "coordinates": {
+            "latitude": 30.4812,
+            "longitude": 78.07
+          },
+          "distanceFromPrevious": 12.4,
+          "travelTimeFromPrevious": "35 minutes",
+          "description": "Gun Hill is Mussoorie's second-highest peak, offering unparalleled panoramic views of the majestic Himalayan ranges, including Badrinath, Kedarnath, and the Doon Valley. The thrill of reaching the summit via a scenic ropeway ride adds to the experience, making it a must-visit for nature lovers and photographers.",
+          "whyVisit": "To witness spectacular 360-degree views, enjoy a unique ropeway adventure, and capture stunning photographs of the surrounding landscapes.",
+          "activities": [
+            "Ropeway ride to the summit",
+            "Panoramic photography of the Himalayas and Doon Valley",
+            "Enjoying the cool mountain breeze",
+            "Exploring local shops at the top"
+          ],
+          "practicalInfo": {
+            "entryFee": "Ropeway fees apply (approx. INR 75-150 per person for a round trip)",
+            "estimatedCost": "INR 100-200",
+            "bestTime": "Morning for clear views; late afternoon for sunset views.",
+            "duration": "1-2 hours",
+            "accessibility": "The ropeway is generally accessible; the summit area is relatively flat."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera with extra battery",
+              "Binoculars for close-up views of the mountains",
+              "Warm clothing, as it can be windy and chilly at the top"
+            ],
+            "whatToBuy": [
+              "Souvenirs from the small stalls at the summit"
+            ],
+            "safetyNotes": [
+              "Keep an eye on children near viewpoints."
+            ],
+            "customsEtiquette": [
+              "Be mindful of other tourists enjoying the views."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The viewpoint showcasing the Himalayan peaks",
+              "Views of Doon Valley below",
+              "The ropeway car itself"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Company Garden",
+          "coordinates": {
+            "latitude": 30.4616,
+            "longitude": 78.0772
+          },
+          "distanceFromPrevious": 10.36,
+          "travelTimeFromPrevious": "27 minutes",
+          "description": "Company Garden, also known as Municipal Garden, is a beautifully landscaped park featuring a diverse collection of colorful flowers, a charming artificial lake with boating facilities, and a small amusement park. It's a tranquil oasis perfect for a relaxing afternoon stroll or a picnic amidst nature's beauty.",
+          "whyVisit": "To relax amidst vibrant flora, enjoy a peaceful boating experience, and spend a serene afternoon in a picturesque setting.",
+          "activities": [
+            "Boating on the lake",
+            "Strolling through the meticulously maintained gardens",
+            "Picnicking",
+            "Enjoying various small rides (for children)"
+          ],
+          "practicalInfo": {
+            "entryFee": "INR 25-50",
+            "estimatedCost": "INR 50-200 (for boating/rides)",
+            "bestTime": "Afternoon",
+            "duration": "1-2 hours",
+            "accessibility": "Mostly wheelchair accessible, with paved pathways."
+          },
+          "tips": {
+            "whatToBring": [
+              "A picnic basket (optional)",
+              "Hat and sunglasses",
+              "Water bottle"
+            ],
+            "whatToBuy": [
+              "Small snacks and beverages from garden stalls"
+            ],
+            "safetyNotes": [
+              "Keep an eye on personal belongings.",
+              "Ensure children are supervised on rides."
+            ],
+            "customsEtiquette": [
+              "Maintain cleanliness and avoid plucking flowers."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The floral arrangements",
+              "Boating lake with paddle boats",
+              "Cascading fountains"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Camel's Back Road",
+          "coordinates": {
+            "latitude": 30.4665,
+            "longitude": 78.0827
+          },
+          "distanceFromPrevious": 0.26,
+          "travelTimeFromPrevious": "1 minute",
+          "description": "Camel's Back Road is a scenic stretch named after a natural rock formation resembling a camel's hump. This peaceful road is ideal for leisurely walks, especially during sunset, offering magnificent views of the Himalayas and the changing colors of the sky. The tranquil atmosphere makes it a perfect escape from the bustling town.",
+          "whyVisit": "To enjoy a peaceful and scenic walk, witness a stunning sunset over the Himalayas, and admire the unique natural rock formation.",
+          "activities": [
+            "Leisurely walking or jogging",
+            "Photography of the unique rock formation and sunset",
+            "Enjoying the tranquil ambiance",
+            "Horse riding (available at certain points)"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "Free (horse riding extra)",
+            "bestTime": "Late afternoon to evening for sunset views",
+            "duration": "1-1.5 hours",
+            "accessibility": "A walkable road, generally flat."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Camera for sunset photography"
+            ],
+            "whatToBuy": [
+              "Small snacks or tea from local vendors along the road"
+            ],
+            "safetyNotes": [
+              "Be aware of uneven surfaces in some sections.",
+              "If walking after dark, ensure you have adequate light."
+            ],
+            "customsEtiquette": [
+              "Enjoy the tranquility and maintain the peaceful environment."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The 'Camel's Back' rock formation",
+              "Panoramic sunset views over the mountains"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Night",
+          "name": "Hotel Oakland Landour",
+          "coordinates": {
+            "latitude": 30.4584297,
+            "longitude": 78.0953633
+          },
+          "distanceFromPrevious": 3.34,
+          "travelTimeFromPrevious": "8 minutes",
+          "description": "Return to your hotel for dinner and rest after a day of exploring.",
+          "whyVisit": "Relax and recharge for your final day in Mussoorie.",
+          "activities": [
+            "Dinner",
+            "Relaxation"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "N/A",
+            "duration": "N/A",
+            "accessibility": "Varies by hotel"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 42.36,
+        "spending": {
+          "entryFees": 150,
+          "activities": 100,
+          "transport": 1000,
+          "meals": 1000,
+          "shopping": 200,
+          "total": 2450
+        },
+        "remainingBudget": 91410
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-21",
+      "theme": "Highest Peaks & Departure",
+      "optimizedRoute": "Hotel Oakland Landour → Lal Tibba Scenic Point → Hotel Oakland Landour",
+      "totalDistance": 4.18,
+      "totalTravelTime": "14 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Hotel Oakland Landour",
+          "coordinates": {
+            "latitude": 30.4584297,
+            "longitude": 78.0953633
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy your final breakfast at the hotel and prepare for checkout.",
+          "whyVisit": "Start your last day with a nourishing meal before your final exploration.",
+          "activities": [
+            "Breakfast",
+            "Packing",
+            "Checkout preparation"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "N/A",
+            "duration": "1-2 hours",
+            "accessibility": "Varies by hotel"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Late Morning",
+          "name": "Lal Tibba Scenic Point",
+          "coordinates": {
+            "latitude": 30.4665,
+            "longitude": 78.1009
+          },
+          "distanceFromPrevious": 2.09,
+          "travelTimeFromPrevious": "7 minutes",
+          "description": "Lal Tibba is the highest point in Mussoorie, offering truly awe-inspiring panoramic views of the magnificent snow-capped Himalayan peaks, including Bandarpunch, Kedarnath, and Badrinath. A specially installed Japanese telescope allows visitors to get close-up views of these distant ranges, making it an unforgettable experience for nature and photography enthusiasts.",
+          "whyVisit": "To experience the highest vantage point in Mussoorie, witness breathtaking views of the Himalayan ranges, and utilize the telescope for an enhanced viewing experience.",
+          "activities": [
+            "Telescope viewing of Himalayan peaks",
+            "Photography of the expansive mountain scenery",
+            "Soaking in the serene and peaceful atmosphere",
+            "Enjoying a cup of tea or coffee from local stalls"
+          ],
+          "practicalInfo": {
+            "entryFee": "INR 50-100 (for telescope access/viewpoint entry)",
+            "estimatedCost": "INR 50-100",
+            "bestTime": "Morning for clear views; late afternoon for sunset.",
+            "duration": "1-1.5 hours",
+            "accessibility": "Accessible by road, with some stairs leading to the main viewpoint."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera with a good zoom lens",
+              "Warm clothes, especially during colder months or windy days"
+            ],
+            "whatToBuy": [
+              "Local snacks, tea, or coffee from nearby vendors"
+            ],
+            "safetyNotes": [
+              "Be cautious while ascending/descending stairs.",
+              "Keep an eye on personal belongings."
+            ],
+            "customsEtiquette": [
+              "Respect the natural environment and other visitors."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The viewpoint with the telescope",
+              "The distant snow-capped Himalayas",
+              "Views of the surrounding valleys"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Hotel Oakland Landour",
+          "coordinates": {
+            "latitude": 30.4584297,
+            "longitude": 78.0953633
+          },
+          "distanceFromPrevious": 2.09,
+          "travelTimeFromPrevious": "7 minutes",
+          "description": "Return to your hotel, complete the check-out formalities, and begin your journey back to Dehradun Airport.",
+          "whyVisit": "Final preparations for departure.",
+          "activities": [
+            "Checkout",
+            "Departure"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "N/A",
+            "duration": "N/A",
+            "accessibility": "Varies by hotel"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 4.18,
+        "spending": {
+          "entryFees": 100,
+          "activities": 0,
+          "transport": 500,
+          "meals": 500,
+          "shopping": 0,
+          "total": 1100
+        },
+        "remainingBudget": 90310
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 100000,
+    "currency": "INR",
+    "expenses": {
+      "flights": [],
+      "accommodation": {
+        "hotelName": "Hotel Oakland Landour",
+        "pricePerNight": 2170,
+        "nights": 2,
+        "total": 4340
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 500,
+          "meals": 800,
+          "shopping": 500,
+          "subtotal": 1800
+        },
+        {
+          "day": 2,
+          "entryFees": 150,
+          "activities": 100,
+          "transport": 1000,
+          "meals": 1000,
+          "shopping": 200,
+          "subtotal": 2450
+        },
+        {
+          "day": 3,
+          "entryFees": 100,
+          "activities": 0,
+          "transport": 500,
+          "meals": 500,
+          "shopping": 0,
+          "subtotal": 1100
+        }
+      ]
+    },
+    "totalSpent": 9690,
+    "remainingBudget": 90310,
+    "budgetTips": [
+      "Utilize public transport or walk for shorter distances to save on taxi fares.",
+      "Eat at local eateries for authentic and affordable meals.",
+      "Consider bringing your own snacks and drinks for excursions to reduce food costs.",
+      "Look for package deals on activities if you plan to do multiple."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Comfortable layered clothing (warm for evenings and early mornings)",
+      "Light jacket or sweater",
+      "T-shirts/long-sleeved shirts",
+      "Jeans/trousers"
+    ],
+    "footwear": [
+      "Comfortable walking shoes (essential for exploring)",
+      "Sandals or flip-flops for hotel"
+    ],
+    "essentials": [
+      "Sunscreen",
+      "Hat or cap",
+      "Sunglasses",
+      "Small backpack for day trips",
+      "Reusable water bottle",
+      "Basic toiletries",
+      "Power bank for electronics"
+    ],
+    "medication": [
+      "Any personal medications",
+      "Basic first-aid kit (band-aids, antiseptic, pain relievers)"
+    ],
+    "electronics": [
+      "Phone and charger",
+      "Camera and extra batteries",
+      "Headphones"
+    ],
+    "documents": [
+      "ID proof (Aadhar card, Passport)",
+      "Flight/hotel confirmations (printouts or digital copies)",
+      "Medical prescriptions (if any)"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Book flights (if not already done)",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Confirm hotel booking",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pack according to the weather forecast for October in Mussoorie",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Inform family/friends of your travel plans and itinerary",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "task": "Download offline maps of Mussoorie and surrounding areas",
+      "completed": false,
+      "priority": "medium"
+    }
+  ]
+}
