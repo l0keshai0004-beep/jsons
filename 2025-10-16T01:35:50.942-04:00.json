@@ -1,0 +1,555 @@
+{
+  "tripOverview": {
+    "destination": "Sikkim, India",
+    "startDate": "2025-10-18",
+    "endDate": "2025-10-20",
+    "duration": "2 nights",
+    "companions": "2 Adults",
+    "tripType": "Adventure & Scenic with Cultural Exploration"
+  },
+  "hotel": {
+    "name": "The Narayani Continental Hotel",
+    "location": "Gangtok, Sikkim, India",
+    "coordinates": {
+      "latitude": 27.3388702,
+      "longitude": 88.6086421
+    },
+    "pricePerNight": 1396,
+    "rooms": 1,
+    "nights": 2,
+    "totalCost": 2792,
+    "currency": "INR",
+    "reasonForSelection": "This hotel was selected for its competitive price within your budget (₹1,396/night), positive guest reviews (4.1/5), and valuable amenities including free breakfast, free Wi-Fi, and airport shuttle service. Its central location also provides convenient access to Gangtok's attractions.",
+    "amenities": [
+      "Kid-friendly",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking"
+    ],
+    "bookingLinks": [
+      "https://www.google.com/aclk?sa=l&ai=DChsSEwjJuper_KeQAxUbR38AHeP3GpwYACICCAEQCxoCb2E&co=1&ase=2&gclid=EAIaIQobChMIybqXq_ynkAMVG0d_AB3j9xqcEA0YAiABEgL54PD_BwE&cid=CAASNuRo3tvKFVpS9e-_cNIr04lXLTN1lJM1f0JVFK82qNWzapwvui-cU9c9SnhETJFlhFXX1blwJA&category=acrcp_v1_48&sig=AOD64_0YHTpgVkslIEjuYpFn8aWneFxj4w&adurl="
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipOlA3IHPMBf1nmErrzbBxxnYkfa7rRxQ0DhBkEU=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMffm-uDWZPnBQLfPz8R8VM-MkcFpGAJJEGqWFt=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipM-9Mt1EMCS82OeD1Vznz3TBVgw7M_buT0jcfV6=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipP26Jtx2-6_FX4WM4Z2MJEo5rU6OuufkEjdZEbU=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipN_5okPTGJxqFEif8GzEdZybDBkL64LalJyF563=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPPZNLTP_PTVTrwf6r9oiSOPu7nctuSaeBqE2Zs=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPBLxiN4bx473Xfr7_mpa1zKYKgw4_44TGuU7EO=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNX7EXRngqntEoNo3bxWDF42UxirZ-ZPdhmOInj=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPXox-w1sGHWhmZJ_BacTx-x-xApCSIzR9RN6hC=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-18",
+      "theme": "Arrival in Gangtok & Evening Stroll",
+      "optimizedRoute": "The Narayani Continental Hotel → MG Marg (approx.) → The Narayani Continental Hotel",
+      "totalDistance": 3.62,
+      "totalTravelTime": "3 minutes 37 seconds",
+      "places": [
+        {
+          "timeOfDay": "Morning - Afternoon",
+          "name": "Travel from Haldwani to Bagdogra (IXB) / NJP & Transfer to Gangtok",
+          "coordinates": {
+            "latitude": 27.3388702,
+            "longitude": 88.6086421
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A",
+          "description": "Begin your journey from Haldwani to Bagdogra Airport (IXB) or New Jalpaiguri (NJP) Railway Station. From either location, a pre-booked private or shared taxi will take you to Gangtok. The drive typically lasts 4-5 hours, subject to road conditions and traffic. This scenic route winds through the picturesque Teesta River valley, offering glimpses of changing landscapes from the plains to the hills.",
+          "whyVisit": "Experience the transition of landscapes and local life as you ascend into the Himalayas. It’s an essential part of the journey to acclimatize to the higher altitude of Gangtok.",
+          "activities": [
+            "Enjoy the scenic drive through the Teesta River valley",
+            "Observe local life and changing landscapes"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "Approx. ₹2500-₹4000 for private taxi from Bagdogra/NJP to Gangtok",
+            "bestTime": "Morning to ensure daylight travel and smooth arrival",
+            "duration": "4-5 hours for the drive to Gangtok",
+            "accessibility": "Accessible by taxi or shared vehicles"
+          },
+          "tips": {
+            "whatToBring": [
+              "Snacks and water for the journey",
+              "Motion sickness medication if needed",
+              "Camera for scenic views"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Ensure taxi is pre-booked and driver is experienced with mountain roads.",
+              "Confirm fair price before starting the journey."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Teesta River views",
+              "Mountain vistas along the way"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "4:00 PM - 6:30 PM",
+          "name": "Hotel Check-in & Leisurely Walk on MG Marg",
+          "coordinates": {
+            "latitude": 27.327029,
+            "longitude": 88.611212
+          },
+          "distanceFromPrevious": 1.81,
+          "travelTimeFromPrevious": "1 minute 48 seconds",
+          "description": "Upon your arrival in Gangtok, check into your hotel and take some time to freshen up. Afterwards, head to MG Marg, the vibrant and pedestrian-only heart of Gangtok. This area is renowned for its cleanliness and relaxed atmosphere, making it perfect for an evening stroll. It's an excellent opportunity to acclimate to the altitude and soak in the local ambiance.",
+          "whyVisit": "MG Marg is the soul of Gangtok, offering a lively atmosphere, local shops, and a glimpse into Sikkimese urban life. It's a great spot to relax, people-watch, and begin your acclimatization.",
+          "activities": [
+            "Acclimatize to the altitude",
+            "Enjoy the vibrant atmosphere",
+            "Browse local shops for souvenirs",
+            "Observe the unique architecture",
+            "Relax with your partner"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "₹0 - ₹500 for incidental shopping/snacks",
+            "bestTime": "Evening for lively atmosphere",
+            "duration": "2-3 hours",
+            "accessibility": "Pedestrian-friendly, flat walkways"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Light jacket as evenings can be cool"
+            ],
+            "whatToBuy": [
+              "Local handicrafts",
+              "Woolen clothing",
+              "Sikkimese tea"
+            ],
+            "safetyNotes": [
+              "MG Marg is very safe, but always be aware of your belongings."
+            ],
+            "customsEtiquette": [
+              "Maintain cleanliness and avoid littering as it's a litter-free zone."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Statue of Mahatma Gandhi",
+              "Colourful buildings and flowers"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM - 8:30 PM",
+          "name": "Dinner at a Local Restaurant",
+          "coordinates": {
+            "latitude": 27.327029,
+            "longitude": 88.611212
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A (assuming walking distance from MG Marg)",
+          "description": "Conclude your first day by indulging in authentic Sikkimese or Indian cuisine at one of the many restaurants located on or near MG Marg. This is an ideal time to savor local flavors and unwind after your journey and exploration.",
+          "whyVisit": "Experience the culinary delights of Sikkim, known for its unique blend of Tibetan, Nepalese, and Indian influences. A quiet dinner allows for relaxation and conversation.",
+          "activities": [
+            "Try local delicacies like Momos, Thukpa, or traditional Sikkimese dishes",
+            "Enjoy a quiet dinner together"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹800 - ₹1500 for a meal for two",
+            "bestTime": "Evening",
+            "duration": "1-1.5 hours",
+            "accessibility": "Most restaurants are accessible"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 3.62,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 3500,
+          "meals": 1200,
+          "shopping": 300,
+          "total": 5000
+        },
+        "remainingBudget": 37208
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-19",
+      "theme": "High-Altitude Adventure: Tsomgo Lake & Baba Mandir",
+      "optimizedRoute": "The Narayani Continental Hotel → Tsomgo Lake → Baba Mandir → The Narayani Continental Hotel",
+      "totalDistance": 102.34,
+      "totalTravelTime": "1 hour 20 minutes 28 seconds",
+      "places": [
+        {
+          "timeOfDay": "8:00 AM - 5:00 PM",
+          "name": "Tsomgo Lake & Baba Mandir Excursion",
+          "coordinates": {
+            "latitude": 27.3713,
+            "longitude": 88.7618
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A (Full day trip)",
+          "description": "Embark on an exhilarating full-day trip to Tsomgo Lake (also known as Changu Lake), a sacred glacial lake nestled amidst breathtaking mountains. Following this, you will visit the revered Baba Harbhajan Singh Mandir, a poignant shrine. If permits and weather conditions allow, an optional visit to Nathula Pass (Indo-China border) can be arranged through a local tour operator, often requiring an additional charge and advance booking. It's crucial to obtain the necessary permits a day prior to this excursion.",
+          "whyVisit": "Experience the stunning high-altitude landscapes of Sikkim, the serenity of a sacred lake, and the spiritual ambiance of Baba Mandir. This day offers a true taste of Himalayan adventure.",
+          "activities": [
+            "Enjoy breathtaking mountain views",
+            "Take a yak ride at Tsomgo Lake (optional, paid locally)",
+            "Experience the serene and spiritual atmosphere at Baba Mandir"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹3000-₹5000 for a shared/private vehicle for the excursion (excluding Nathula Pass permit/charges)",
+            "bestTime": "Morning departure to maximize daylight and avoid afternoon crowds",
+            "duration": "Full day (8-9 hours)",
+            "accessibility": "Accessible by vehicle; limited accessibility at high altitudes for those with mobility issues"
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm layered clothing (heavy jackets, woolens, gloves, caps)",
+              "Sunscreen and sunglasses",
+              "Water bottle",
+              "Snacks",
+              "ID proof and photocopies for permits"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Acclimatize slowly, drink plenty of water, and avoid strenuous activity due to high altitude.",
+              "Consult a doctor if you have concerns about altitude sickness.",
+              "Dress in warm layers as temperatures can drop significantly.",
+              "Be aware of road conditions, especially during adverse weather."
+            ],
+            "customsEtiquette": [
+              "Respect the sanctity of Tsomgo Lake and Baba Mandir."
+            ],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Tsomgo Lake with surrounding mountains",
+              "Yak rides",
+              "Baba Mandir"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "6:30 PM - 8:30 PM",
+          "name": "Relaxing Evening in Gangtok",
+          "coordinates": {
+            "latitude": 27.3388702,
+            "longitude": 88.6086421
+          },
+          "distanceFromPrevious": 51.14,
+          "travelTimeFromPrevious": "40 minutes 13 seconds",
+          "description": "After an adventurous day at high altitudes, dedicate your evening to relaxation. You can choose to unwind at your hotel, perhaps with a warm beverage, or if you feel energetic, take another gentle stroll around the local area near your accommodation.",
+          "whyVisit": "Essential for recovery after a high-altitude excursion. A relaxed evening allows you to process the day's experiences and prepare for further exploration.",
+          "activities": [
+            "Reflect on the day's adventure",
+            "Enjoy a comfortable dinner at a restaurant of your choice or at your hotel",
+            "Gentle stroll if comfortable"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹800 - ₹1500 for dinner",
+            "bestTime": "Evening",
+            "duration": "2-3 hours",
+            "accessibility": "Easily accessible from the hotel"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 102.34,
+        "spending": {
+          "entryFees": 0,
+          "activities": 300,
+          "transport": 4000,
+          "meals": 1200,
+          "shopping": 0,
+          "total": 5500
+        },
+        "remainingBudget": 31708
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-20",
+      "theme": "Gangtok Cultural Exploration & Departure",
+      "optimizedRoute": "The Narayani Continental Hotel → Do Drul Chorten → Flower Exhibition Centre → Ganesh Tok Viewpoint → The Narayani Continental Hotel",
+      "totalDistance": 14.44,
+      "totalTravelTime": "20 minutes 35 seconds",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Gangtok Cultural Morning: Do Drul Chorten & Flower Exhibition Centre",
+          "coordinates": {
+            "latitude": 27.3283,
+            "longitude": 88.6133
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A (Starting point)",
+          "description": "Start your cultural morning with a visit to Do Drul Chorten, a significant Buddhist stupa adorned with prayer wheels. This site offers a peaceful and spiritually enriching experience. Subsequently, proceed to the Flower Exhibition Centre, which boasts a vibrant collection of orchids and various seasonal flowers, a delight for nature lovers and photographers.",
+          "whyVisit": "Immerse yourself in Sikkim's rich Buddhist heritage at Do Drul Chorten and enjoy the exquisite botanical beauty at the Flower Exhibition Centre. These spots offer a blend of cultural insight and natural charm.",
+          "activities": [
+            "Spin the prayer wheels at the Chorten for good fortune",
+            "Admire the serene Buddhist architecture",
+            "Enjoy the diverse flora and capture beautiful photos together"
+          ],
+          "practicalInfo": {
+            "entryFee": "Do Drul Chorten: Free, Flower Exhibition Centre: ₹20-₹50 (estimated)",
+            "estimatedCost": "₹50 (entry fee for Flower Exhibition Centre)",
+            "bestTime": "Morning for pleasant weather and fewer crowds",
+            "duration": "2-3 hours",
+            "accessibility": "Generally accessible, some stairs at Do Drul Chorten"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Light jacket"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Remove shoes before entering the stupa at Do Drul Chorten",
+              "Dress modestly at religious sites"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Prayer wheels at Do Drul Chorten",
+              "Colourful orchid displays at the Flower Exhibition Centre"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "12:30 PM - 1:30 PM",
+          "name": "Ganesh Tok Viewpoint & Lunch",
+          "coordinates": {
+            "latitude": 27.3409,
+            "longitude": 88.6271
+          },
+          "distanceFromPrevious": 4.57,
+          "travelTimeFromPrevious": "7 minutes 20 seconds",
+          "description": "Head to Ganesh Tok, a small temple that also serves as a fantastic viewpoint, offering panoramic vistas of Gangtok town and the surrounding majestic mountains. After soaking in the views, enjoy a final authentic lunch in Gangtok, savoring the local cuisine one last time before your departure.",
+          "whyVisit": "Ganesh Tok provides some of the most spectacular panoramic views of Gangtok and the Himalayan ranges, perfect for memorable photos. It's a serene spot to reflect on your trip.",
+          "activities": [
+            "Enjoy the stunning vistas of Gangtok and surrounding mountains",
+            "Capture memorable photos",
+            "Have a final lunch in Gangtok"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (Ganesh Tok), temple donations optional",
+            "estimatedCost": "₹800 - ₹1500 for lunch",
+            "bestTime": "Late morning/early afternoon for clear views",
+            "duration": "1-1.5 hours",
+            "accessibility": "Accessible by vehicle to the viewpoint, some stairs to the temple"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Light jacket"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Remove shoes before entering the temple"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Panoramic views of Gangtok and mountains"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:00 PM onwards",
+          "name": "Departure from Gangtok",
+          "coordinates": {
+            "latitude": 27.3388702,
+            "longitude": 88.6086421
+          },
+          "distanceFromPrevious": 5.61,
+          "travelTimeFromPrevious": "7 minutes 50 seconds",
+          "description": "Depending on your onward travel schedule, depart from Gangtok. A pre-booked taxi will take you back to Bagdogra Airport (IXB) or New Jalpaiguri (NJP) Railway Station for your journey back to Haldwani. Ensure you allocate ample travel time, especially for flights.",
+          "whyVisit": "Marks the end of your memorable trip to Sikkim, facilitating your return journey.",
+          "activities": [
+            "Ensure you allow ample travel time to the airport/railway station",
+            "Confirm transportation beforehand"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "Approx. ₹2500-₹4000 for private taxi to Bagdogra/NJP",
+            "bestTime": "Afternoon",
+            "duration": "4-5 hours for the drive to Bagdogra/NJP",
+            "accessibility": "Accessible by taxi"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Confirm taxi booking and departure time in advance.",
+              "Allow extra time for potential traffic or road delays."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 14.44,
+        "spending": {
+          "entryFees": 50,
+          "activities": 0,
+          "transport": 3500,
+          "meals": 1200,
+          "shopping": 0,
+          "total": 4750
+        },
+        "remainingBudget": 26958
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 40000,
+    "currency": "INR",
+    "expenses": {
+      "flights": [],
+      "accommodation": {
+        "hotelName": "The Narayani Continental Hotel",
+        "pricePerNight": 1396,
+        "nights": 2,
+        "total": 2792
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 3500,
+          "meals": 1200,
+          "shopping": 300,
+          "subtotal": 5000
+        },
+        {
+          "day": 2,
+          "entryFees": 0,
+          "activities": 300,
+          "transport": 4000,
+          "meals": 1200,
+          "shopping": 0,
+          "subtotal": 5500
+        },
+        {
+          "day": 3,
+          "entryFees": 50,
+          "activities": 0,
+          "transport": 3500,
+          "meals": 1200,
+          "shopping": 0,
+          "subtotal": 4750
+        }
+      ]
+    },
+    "totalSpent": 13042,
+    "remainingBudget": 26958,
+    "budgetTips": [
+      "The 2000 INR/night hotel budget for a couple is achievable in Gangtok, but options might be basic or slightly outside the main MG Marg area. Look for homestays or budget hotels in advance. Meals are generally affordable."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Warm layered clothing (heavy jackets, woolens, sweaters)",
+      "Thermals (especially for Tsomgo Lake)",
+      "Long-sleeved shirts",
+      "Pants/trousers",
+      "Rain jacket or umbrella (October can still have some rain)",
+      "Hat and gloves (for high altitude)"
+    ],
+    "footwear": [
+      "Comfortable walking shoes/hiking boots",
+      "Warm socks"
+    ],
+    "essentials": [
+      "ID proof and photocopies",
+      "Permits (ILP for Indian nationals, arranged by tour operator)",
+      "Small backpack for day trips",
+      "Water bottle",
+      "Sunscreen",
+      "Sunglasses",
+      "Basic toiletries",
+      "First-aid kit (including altitude sickness medication if advised by doctor)"
+    ],
+    "medication": [
+      "Personal prescribed medications",
+      "Pain relievers",
+      "Antacids",
+      "Band-aids"
+    ],
+    "electronics": [
+      "Power bank",
+      "Camera and accessories",
+      "Phone and charger"
+    ],
+    "documents": [
+      "Flight/train tickets",
+      "Hotel booking confirmations",
+      "ID proof (Aadhaar, Voter ID)",
+      "Passport-sized photos (for permits)"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Obtain Inner Line Permits (ILP) for Tsomgo Lake and Baba Mandir (arrange through tour operator/hotel a day in advance). You'll need photocopies of ID proof and passport-sized photos.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Acclimatize to the altitude slowly; drink plenty of water and avoid strenuous activity on day one. Consult a doctor if you have concerns about altitude sickness.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pack warm layered clothing, including heavy jackets, woolens, gloves, and caps, especially for the Tsomgo Lake trip. Comfortable walking shoes are essential.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pre-book your taxi for transfers from NJP/Bagdogra to Gangtok and for the Tsomgo Lake excursion. Local taxis are the primary mode of transport within Gangtok and for day trips.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Consider budget hotels or homestays if aiming for the 2000 INR/night accommodation budget.",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Be aware that mobile network coverage can be sporadic in remote areas. BSNL generally has the best connectivity in Sikkim, followed by Airtel and Jio. Carry a power bank.",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Respect local Buddhist culture when visiting monasteries and temples; remove shoes and dress modestly.",
+      "completed": false,
+      "priority": "medium"
+    }
+  ]
+}
