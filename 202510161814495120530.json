@@ -1,0 +1,490 @@
+{
+  "tripOverview": {
+    "destination": "Mussoorie, Uttarakhand",
+    "startDate": "2025-10-19",
+    "endDate": "2025-10-21",
+    "duration": "2 nights",
+    "companions": "Solo",
+    "tripType": "Relaxing Getaway"
+  },
+  "hotel": {
+    "name": "Samav Cloudstay",
+    "location": "Mussoorie",
+    "coordinates": {
+      "latitude": 30.4623417,
+      "longitude": 78.0704646
+    },
+    "pricePerNight": 3500,
+    "rooms": 1,
+    "nights": 2,
+    "totalCost": 7000,
+    "currency": "INR",
+    "reasonForSelection": "Best rated hotel within the specified budget.",
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Room service",
+      "Kitchen in some rooms",
+      "Full-service laundry"
+    ],
+    "bookingLinks": [
+      "https://samavcloudstay.in/"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipOTV5bTGpjS6SyqzaqgRqsE6p4xo8cyBSrveyBy=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipOboq03jKpYo2IViMLl38BeREuq_mL6-pDZTWLE=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipP06990N2_4eVF-_9q1_ntYiVf4QAxad8wV3Liw=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMgWQWnWeTBKgnFn_IqpE6vMLQi3ZFiY4yXfR14=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPAbbvPdsVBvSnOomoC-gPAP0pmCxMu2dh31Yr6=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNlv8kNT87KFLmNv0nwgAU5ozeygTlJ5a6VAEVu=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipM1FX3bXaHpKmNBUEhVPDWudnL7WnDFc-EF2BNA=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNaLc9E1SDbIgrVjcN1lnEQW1WWK3WZ-g327FWD=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPHM95TUdHyiVbFZFpiL65dd0dscC0aeg_KYLoP=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-19",
+      "theme": "Arrival & Mall Road Charm",
+      "optimizedRoute": "Samav Cloudstay → Mall Road → Samav Cloudstay",
+      "totalDistance": 1.27,
+      "totalTravelTime": "4 minutes",
+      "places": [
+        {
+          "timeOfDay": "Evening",
+          "name": "Mall Road",
+          "coordinates": {
+            "latitude": 30.459,
+            "longitude": 78.074
+          },
+          "distanceFromPrevious": 1.27,
+          "travelTimeFromPrevious": "4 minutes",
+          "description": "Mall Road is the heart of Mussoorie, bustling with shops, cafes, and hotels. It's a pedestrian-only stretch that offers a delightful experience of local life and stunning views of the Doon Valley. You can find everything from souvenirs to local handicrafts and enjoy various culinary delights.",
+          "whyVisit": "Experience the vibrant local culture, enjoy leisurely walks, and shop for unique souvenirs. The lively atmosphere and beautiful surroundings make it a must-visit.",
+          "activities": [
+            "Shopping for local handicrafts",
+            "Savoring street food and cafe delights",
+            "Enjoying a leisurely evening stroll",
+            "Taking in the scenic views"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "Varies based on shopping and dining",
+            "bestTime": "Evening",
+            "duration": "2-3 hours",
+            "accessibility": "Wheelchair accessible in most parts"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "A light jacket for the evening",
+              "Cash for street vendors"
+            ],
+            "whatToBuy": [
+              "Wooden handicrafts",
+              "Pashmina shawls",
+              "Local jams and preserves"
+            ],
+            "safetyNotes": [
+              "Be mindful of your belongings in crowded areas"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Panoramic views of the Doon Valley",
+              "Colorful shops and cafes"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 1.27,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 1000,
+          "shopping": 500,
+          "total": 1500
+        },
+        "remainingBudget": 91500
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-20",
+      "theme": "Nature's Beauty & Panoramic Views",
+      "optimizedRoute": "Samav Cloudstay → Kempty Falls → Gun Hill → Company Garden → Camel's Back Road → Samav Cloudstay",
+      "totalDistance": 13.87,
+      "totalTravelTime": "45 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Kempty Falls",
+          "coordinates": {
+            "latitude": 30.4727,
+            "longitude": 78.0261
+          },
+          "distanceFromPrevious": 13.07,
+          "travelTimeFromPrevious": "30 minutes",
+          "description": "Kempty Falls is a popular and picturesque waterfall located about 15 km from Mussoorie. The cascading water from an altitude of 4,500 feet creates a refreshing and serene environment. Visitors can enjoy bathing in the pools at the bottom of the falls or take a boat ride.",
+          "whyVisit": "To enjoy the natural beauty of a cascading waterfall, relax by the water, and engage in recreational activities like swimming and boating.",
+          "activities": [
+            "Bathing in the natural pools",
+            "Boating (seasonal)",
+            "Photography",
+            "Enjoying the scenic beauty"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (activities may have charges)",
+            "estimatedCost": "200-500 INR (for activities)",
+            "bestTime": "Morning to avoid crowds",
+            "duration": "2-3 hours",
+            "accessibility": "Some areas may be challenging for those with mobility issues"
+          },
+          "tips": {
+            "whatToBring": [
+              "Swimsuit and towel (if planning to bathe)",
+              "Change of clothes",
+              "Sunscreen",
+              "Water bottle"
+            ],
+            "whatToBuy": [
+              "Local snacks and refreshments from nearby stalls"
+            ],
+            "safetyNotes": [
+              "Be careful on slippery rocks near the falls"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The cascading waterfall itself",
+              "The surrounding lush greenery"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Morning",
+          "name": "Gun Hill",
+          "coordinates": {
+            "latitude": 30.4611,
+            "longitude": 78.0722
+          },
+          "distanceFromPrevious": 13.76,
+          "travelTimeFromPrevious": "15 minutes",
+          "description": "Gun Hill is the second-highest point in Mussoorie, offering breathtaking panoramic views of the Himalayan range and the sprawling Doon Valley. It's accessible by a thrilling ropeway ride, which itself provides spectacular vistas. The hilltop also has a few shops and eateries.",
+          "whyVisit": "For unparalleled views of the Himalayas, an exciting ropeway experience, and a serene atmosphere to relax and enjoy nature's grandeur.",
+          "activities": [
+            "Ropeway ride",
+            "Photography of panoramic views",
+            "Enjoying snacks and refreshments"
+          ],
+          "practicalInfo": {
+            "entryFee": "Ropeway ticket charges apply (approx. 75-125 INR per person)",
+            "estimatedCost": "200-300 INR (including ropeway and snacks)",
+            "bestTime": "Morning or late afternoon for clear views and sunset",
+            "duration": "1-2 hours",
+            "accessibility": "Ropeway is accessible, but movement at the top might be uneven"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Binoculars (for better mountain views)",
+              "A light jacket"
+            ],
+            "whatToBuy": [
+              "Souvenirs from the hilltop shops"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Himalayan peaks",
+              "Doon Valley",
+              "The ropeway ride"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Company Garden",
+          "coordinates": {
+            "latitude": 30.4646,
+            "longitude": 78.0577
+          },
+          "distanceFromPrevious": 2.95,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "Company Garden, also known as Municipal Garden, is a beautifully maintained park in Mussoorie. It features a lush green lawn, a variety of colorful flowers, a small artificial waterfall, and a charming mini-lake with boating facilities. It's a perfect spot for families and individuals looking for a peaceful retreat.",
+          "whyVisit": "To relax amidst nature, enjoy vibrant floral displays, and engage in recreational activities like boating. It’s a tranquil escape from the bustling town.",
+          "activities": [
+            "Boating in the mini-lake",
+            "Strolling through the gardens",
+            "Photography of flowers and scenery",
+            "Relaxing on the lawns"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. 25 INR per person",
+            "estimatedCost": "100-200 INR (including entry and boating)",
+            "bestTime": "Afternoon",
+            "duration": "1-2 hours",
+            "accessibility": "Mostly accessible, but some paths may be uneven"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Comfortable shoes"
+            ],
+            "whatToBuy": [
+              "Small souvenirs from nearby stalls"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Flowerbeds",
+              "Mini-lake with paddle boats",
+              "Artificial waterfall"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Camel's Back Road",
+          "coordinates": {
+            "latitude": 30.457,
+            "longitude": 78.077
+          },
+          "distanceFromPrevious": 3.06,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "Camel's Back Road is a charming stretch of road named after a natural rock formation that resembles a camel's hump. It's a popular spot for leisurely walks, offering stunning views of the sunset over the Himalayas. The road is relatively quiet, making it ideal for a peaceful evening.",
+          "whyVisit": "To enjoy a serene walk, witness a spectacular sunset, and admire the unique rock formation. It's a perfect place for relaxation and photography.",
+          "activities": [
+            "Leisurely walks",
+            "Sunset viewing",
+            "Photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "Varies based on personal spending",
+            "bestTime": "Evening, especially for sunset",
+            "duration": "1-1.5 hours",
+            "accessibility": "Mostly accessible, but some parts can be hilly"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Camera",
+              "A light jacket"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be aware of local traffic, though it's generally light"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Camel's back rock formation",
+              "Sunset over the Himalayas"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 13.87,
+        "spending": {
+          "entryFees": 50,
+          "activities": 200,
+          "transport": 500,
+          "meals": 1200,
+          "shopping": 0,
+          "total": 1950
+        },
+        "remainingBudget": 89550
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-21",
+      "theme": "Highest Peaks & Departure",
+      "optimizedRoute": "Samav Cloudstay → Lal Tibba Scenic Point → Samav Cloudstay",
+      "totalDistance": 5.06,
+      "totalTravelTime": "15 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Lal Tibba Scenic Point",
+          "coordinates": {
+            "latitude": 30.4789,
+            "longitude": 78.0945
+          },
+          "distanceFromPrevious": 5.06,
+          "travelTimeFromPrevious": "15 minutes",
+          "description": "Lal Tibba, meaning 'Red Hill,' is the highest point in Mussoorie, offering magnificent views of the snow-capped Himalayan peaks, including Badrinath, Kedarnath, and Nanda Devi. A Japanese telescope installed at the viewpoint allows visitors to get a closer look at these majestic ranges. It’s a serene and awe-inspiring spot.",
+          "whyVisit": "To experience the breathtaking panoramic views of the Himalayas from the highest point in Mussoorie and use the unique Japanese telescope for a closer look.",
+          "activities": [
+            "Panoramic mountain viewing",
+            "Using the Japanese telescope",
+            "Photography of the Himalayan range"
+          ],
+          "practicalInfo": {
+            "entryFee": "Small fee for telescope usage (approx. 50 INR)",
+            "estimatedCost": "50-100 INR",
+            "bestTime": "Morning for clear views",
+            "duration": "1-1.5 hours",
+            "accessibility": "Steep walk to the viewpoint, may be challenging for some"
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm clothes (can be chilly at the top)",
+              "Camera",
+              "Binoculars"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Snow-capped Himalayan peaks",
+              "Panoramic landscapes"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 5.06,
+        "spending": {
+          "entryFees": 50,
+          "activities": 0,
+          "transport": 200,
+          "meals": 800,
+          "shopping": 0,
+          "total": 1050
+        },
+        "remainingBudget": 88500
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 100000,
+    "currency": "INR",
+    "expenses": {
+      "flights": [
+        {
+          "flightName": "Estimated",
+          "cost": 20000
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Samav Cloudstay",
+        "pricePerNight": 3500,
+        "nights": 2,
+        "total": 7000
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 1000,
+          "shopping": 500,
+          "subtotal": 1500
+        },
+        {
+          "day": 2,
+          "entryFees": 50,
+          "activities": 200,
+          "transport": 500,
+          "meals": 1200,
+          "shopping": 0,
+          "subtotal": 1950
+        },
+        {
+          "day": 3,
+          "entryFees": 50,
+          "activities": 0,
+          "transport": 200,
+          "meals": 800,
+          "shopping": 0,
+          "subtotal": 1050
+        }
+      ]
+    },
+    "totalSpent": 31500,
+    "remainingBudget": 68500,
+    "budgetTips": [
+      "Consider eating at local eateries for more authentic and budget-friendly meals.",
+      "Utilize public transport or walk for shorter distances to save on transport costs.",
+      "Look for package deals if you plan to do multiple activities."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Light jackets and sweaters (evenings can be cool)",
+      "Comfortable t-shirts and trousers/jeans",
+      "Swimwear (if planning to visit Kempty Falls)",
+      "Rain jacket or umbrella (for unexpected showers)"
+    ],
+    "footwear": [
+      "Comfortable walking shoes or sneakers",
+      "Sandals or flip-flops"
+    ],
+    "essentials": [
+      "Sunscreen",
+      "Insect repellent",
+      "Basic toiletries",
+      "Hand sanitizer",
+      "First-aid kit (band-aids, pain relievers)"
+    ],
+    "medication": [
+      "Any personal prescription medications",
+      "Over-the-counter remedies for common ailments"
+    ],
+    "electronics": [
+      "Phone and charger",
+      "Power bank",
+      "Camera and extra batteries",
+      "Headphones"
+    ],
+    "documents": [
+      "ID proof",
+      "Hotel booking confirmation",
+      "Flight tickets (if applicable)",
+      "Travel insurance details (if any)"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Book flights to Jolly Grant Airport (Dehradun)",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Arrange airport transfer to Mussoorie",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Confirm hotel booking for Samav Cloudstay",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Check weather forecast closer to the travel date",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Pack appropriate clothing and essentials",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Inform family/friends of travel plans",
+      "completed": false,
+      "priority": "medium"
+    }
+  ]
+}
