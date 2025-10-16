@@ -1,0 +1,692 @@
+{
+  "tripOverview": {
+    "destination": "Mumbai, India",
+    "startDate": "2025-10-17",
+    "endDate": "2025-10-20",
+    "duration": "3 nights",
+    "companions": "2 Adults",
+    "tripType": "Sightseeing, Shopping, Cultural, Spiritual, Beach"
+  },
+  "hotel": {
+    "name": "Hotel Golden Sagar",
+    "location": "Near Kurla (W) Level Crossing, Mumbai",
+    "coordinates": {
+      "latitude": 19.0568661,
+      "longitude": 72.8698115
+    },
+    "pricePerNight": 729,
+    "rooms": 1,
+    "nights": 3,
+    "totalCost": 2187,
+    "currency": "INR",
+    "reasonForSelection": "Affordable and well-rated hotel with essential amenities, conveniently located for exploring Mumbai.",
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Restaurant",
+      "Room service",
+      "Full-service laundry",
+      "Smoke-free property"
+    ],
+    "bookingLinks": [
+      "https://www.hotelgoldensagar.com/"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipNLQ3GZj6mfnmswQO-owfmXO9P5leOzBz53Mnvb=s10000"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-18",
+      "theme": "Iconic Landmarks and Cultural Exploration",
+      "optimizedRoute": "Hotel Golden Sagar → Gateway of India → Colaba Causeway → Kala Ghoda Art Precinct → Marine Drive (Queen's Necklace) → Hotel Golden Sagar",
+      "totalDistance": 102.75,
+      "totalTravelTime": "4h 21m",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 10:30 AM",
+          "name": "Gateway of India",
+          "coordinates": {
+            "latitude": 18.9219,
+            "longitude": 72.8347
+          },
+          "distanceFromPrevious": 18.31,
+          "travelTimeFromPrevious": "20m 18s",
+          "description": "The Gateway of India is an iconic arch monument built in the early 20th century to commemorate the landing of King-Emperor George V and Queen-Empress Mary at Apollo Bunder during their 1911 visit to India. This magnificent basalt arch overlooks the Arabian Sea and is a symbol of Mumbai. It served as a ceremonial entrance to India for important colonial personnel and is now a popular tourist hub.",
+          "whyVisit": "A historical landmark and a great starting point for exploring South Mumbai. Offers panoramic views of the Arabian Sea and the Taj Mahal Palace Hotel.",
+          "activities": [
+            "Take photographs",
+            "Admire the architecture"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "0 INR",
+            "bestTime": "Morning or late afternoon for pleasant weather and fewer crowds",
+            "duration": "1-1.5 hours",
+            "accessibility": "Wheelchair accessible",
+            "estimated": false
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Water bottle",
+              "Hat/Sunglasses"
+            ],
+            "whatToBuy": [
+              "Souvenirs from nearby vendors"
+            ],
+            "safetyNotes": [
+              "Be aware of street vendors and hawkers",
+              "Keep an eye on personal belongings"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Framing the Gateway with the Taj Hotel",
+              "Boat rides for sea-view shots"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "11:00 AM - 1:00 PM",
+          "name": "Colaba Causeway",
+          "coordinates": {
+            "latitude": 18.9149,
+            "longitude": 72.8296
+          },
+          "distanceFromPrevious": 1.53,
+          "travelTimeFromPrevious": "3m 13s",
+          "description": "Colaba Causeway is a bustling commercial street and a vibrant flea market in South Mumbai. It's famous for its diverse range of products, including clothing, accessories, jewelry, handicrafts, and antiques. The street is also lined with historical buildings and cafes, offering a glimpse into Mumbai's colonial past and contemporary street life. It's a sensory experience, with sights, sounds, and smells unique to Mumbai.",
+          "whyVisit": "A shopper's paradise and a great place to experience the local street culture of Mumbai. Perfect for finding unique souvenirs and gifts.",
+          "activities": [
+            "Shopping for souvenirs",
+            "Exploring local crafts",
+            "Bargaining"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "Varies based on shopping",
+            "bestTime": "Morning to early afternoon to avoid extreme heat and crowds",
+            "duration": "2-3 hours",
+            "accessibility": "Paved sidewalks, can be crowded",
+            "estimated": false
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Cash (for easier bargaining)",
+              "Reusable shopping bag"
+            ],
+            "whatToBuy": [
+              "Fashion jewelry",
+              "Leather goods",
+              "Antiques",
+              "Handicrafts"
+            ],
+            "safetyNotes": [
+              "Bargaining is expected",
+              "Watch out for pickpockets in crowded areas"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Colorful stalls",
+              "Colonial-era buildings"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "1:00 PM - 2:00 PM",
+          "name": "Lunch in Colaba",
+          "coordinates": {
+            "latitude": 18.9149,
+            "longitude": 72.8296
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0s",
+          "description": "The Colaba area offers a wide array of dining options, from casual cafes to upscale restaurants. You can find various cuisines, including local Maharashtrian, South Indian, and international fare. Many establishments have a rich history, adding to the charm of the dining experience.",
+          "whyVisit": "To savor delicious local and international cuisine in a vibrant setting.",
+          "activities": [
+            "Savor local cuisine"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "500-1000 INR per person",
+            "bestTime": "Anytime during lunch hours",
+            "duration": "1 hour",
+            "accessibility": "Varies by restaurant",
+            "estimated": true
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "2:30 PM - 4:00 PM",
+          "name": "Kala Ghoda Art Precinct",
+          "coordinates": {
+            "latitude": 18.9255,
+            "longitude": 72.8309
+          },
+          "distanceFromPrevious": 1.7,
+          "travelTimeFromPrevious": "3m 22s",
+          "description": "Kala Ghoda is Mumbai's premier art district, known for its Victorian-era buildings, art galleries, museums, and educational institutions. The area is named after a black equestrian statue of King Edward VII that once stood here. It's a hub for cultural events, especially during the annual Kala Ghoda Arts Festival, showcasing various forms of art, music, and dance. Walking through its tree-lined streets feels like stepping back in time.",
+          "whyVisit": "Immerse yourself in Mumbai's art and history. The architecture alone is a visual delight.",
+          "activities": [
+            "Visit art galleries",
+            "Appreciate colonial architecture",
+            "Museum hopping"
+          ],
+          "practicalInfo": {
+            "entryFee": "Varies by gallery/museum",
+            "estimatedCost": "50-300 INR (for some museums)",
+            "bestTime": "Afternoon when galleries are open",
+            "duration": "1.5-2 hours",
+            "accessibility": "Mostly walkable, some older buildings may have stairs",
+            "estimated": false
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Artworks",
+              "Crafts"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Be respectful in galleries"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Victorian buildings",
+              "Street art"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "4:30 PM - 6:30 PM",
+          "name": "Marine Drive (Queen's Necklace)",
+          "coordinates": {
+            "latitude": 18.94,
+            "longitude": 72.825
+          },
+          "distanceFromPrevious": 2.57,
+          "travelTimeFromPrevious": "4m 38s",
+          "description": "Marine Drive, also known as the Queen's Necklace, is a 3.6-kilometer-long C-shaped boulevard along the Arabian Sea coast in South Mumbai. It's one of the most iconic promenades in the city, offering stunning views of the sunset and the city skyline. At night, the streetlights illuminate the curve of the bay, resembling a string of pearls. It's a popular spot for locals and tourists alike to relax, jog, and enjoy the sea breeze.",
+          "whyVisit": "Experience a breathtaking sunset over the Arabian Sea and the glittering city lights. A perfect spot for a leisurely evening stroll.",
+          "activities": [
+            "Sunset views",
+            "Evening walk",
+            "Relaxation"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "0 INR",
+            "bestTime": "Late afternoon to evening for sunset and city lights",
+            "duration": "1.5-2 hours",
+            "accessibility": "Paved promenade, wheelchair accessible",
+            "estimated": false
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Light jacket (if windy)"
+            ],
+            "whatToBuy": [
+              "Street food from nearby stalls"
+            ],
+            "safetyNotes": [
+              "Be cautious near the sea during high tide",
+              "Watch for crowds"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Sunset over the sea",
+              "City lights at night"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:30 PM - 9:00 PM",
+          "name": "Dinner near Marine Drive/Fort area",
+          "coordinates": {
+            "latitude": 18.94,
+            "longitude": 72.825
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0s",
+          "description": "The areas around Marine Drive and the Fort district offer a plethora of dining options, from fine dining to casual eateries. You can find a variety of cuisines to suit every taste, with many restaurants boasting stunning views or a vibrant ambiance. This is an excellent opportunity to experience Mumbai's diverse culinary scene.",
+          "whyVisit": "To enjoy a delicious dinner and experience Mumbai's vibrant nightlife and culinary scene.",
+          "activities": [
+            "Experience Mumbai's nightlife and culinary scene"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "800-1500 INR per person",
+            "bestTime": "Evening",
+            "duration": "1.5 hours",
+            "accessibility": "Varies by restaurant",
+            "estimated": true
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 102.75,
+        "spending": {
+          "entryFees": 300,
+          "activities": 0,
+          "transport": 500,
+          "meals": 1800,
+          "shopping": 1000,
+          "total": 3600
+        },
+        "remainingBudget": 10400
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-19",
+      "theme": "Architectural Marvels and Spiritual Serenity",
+      "optimizedRoute": "Hotel Golden Sagar → Chhatrapati Shivaji Maharaj Terminus (CSMT) → Haji Ali Dargah → Siddhivinayak Temple → Juhu Beach → Hotel Golden Sagar",
+      "totalDistance": 62.03,
+      "totalTravelTime": "1h 59m",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 10:30 AM",
+          "name": "Chhatrapati Shivaji Maharaj Terminus (CSMT)",
+          "coordinates": {
+            "latitude": 18.94,
+            "longitude": 72.8357
+          },
+          "distanceFromPrevious": 15.84,
+          "travelTimeFromPrevious": "17m 55s",
+          "description": "Chhatrapati Shivaji Maharaj Terminus, formerly Victoria Terminus, is a UNESCO World Heritage Site and an outstanding example of Victorian Gothic Revival architecture in India, blended with traditional Indian architectural elements. Designed by F. W. Stevens, the building is a functioning railway station serving millions daily while also being a magnificent architectural masterpiece, reflecting the grandeur of British colonial rule.",
+          "whyVisit": "Marvel at the stunning Victorian Gothic architecture. A must-visit for history and architecture enthusiasts.",
+          "activities": [
+            "Photography",
+            "Admiring architectural details"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (for exterior viewing)",
+            "estimatedCost": "0 INR",
+            "bestTime": "Morning for good light and fewer crowds",
+            "duration": "1-1.5 hours",
+            "accessibility": "Station area is generally accessible, interior may have stairs",
+            "estimated": false
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Water bottle"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be mindful of train traffic and crowds"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The grand facade",
+              "Architectural details and carvings"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "11:00 AM - 12:30 PM",
+          "name": "Haji Ali Dargah",
+          "coordinates": {
+            "latitude": 18.9772,
+            "longitude": 72.8093
+          },
+          "distanceFromPrevious": 6.39,
+          "travelTimeFromPrevious": "10m 48s",
+          "description": "Haji Ali Dargah is a mosque and tomb located on an islet off the coast of Worli in Mumbai. It is a revered shrine dedicated to Pir Haji Ali Shah Bukhari. The dargah is accessible via a narrow causeway that is submerged during high tide, adding to its unique charm. It's a place of spiritual significance and offers stunning views of the Arabian Sea and the Mumbai skyline.",
+          "whyVisit": "Experience religious architecture and enjoy serene sea views. A unique spiritual experience.",
+          "activities": [
+            "Experience religious architecture",
+            "Enjoy sea views",
+            "Offer prayers (optional)"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "0 INR",
+            "bestTime": "Low tide for easy access, avoid Fridays (prayer day) for fewer crowds",
+            "duration": "1-1.5 hours",
+            "accessibility": "Causeway can be uneven, no wheelchair access during high tide",
+            "estimated": false
+          },
+          "tips": {
+            "whatToBring": [
+              "Modest clothing",
+              "Scarf for women (to cover head)",
+              "Water bottle"
+            ],
+            "whatToBuy": [
+              "Flowers and offerings"
+            ],
+            "safetyNotes": [
+              "Be aware of high tide timings",
+              "Remove shoes before entering the shrine"
+            ],
+            "customsEtiquette": [
+              "Dress modestly",
+              "Maintain silence and respect"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The dargah with the sea in the background",
+              "The causeway during sunset"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "12:30 PM - 1:30 PM",
+          "name": "Lunch nearby",
+          "coordinates": {
+            "latitude": 18.9772,
+            "longitude": 72.8093
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0s",
+          "description": "The area around Haji Ali Dargah offers various local eateries serving authentic Mumbai street food and traditional Indian meals. It's a great opportunity to try some local delicacies in a casual setting.",
+          "whyVisit": "To taste local Mumbai dishes and experience the street food culture.",
+          "activities": [
+            "Taste local Mumbai dishes"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "300-700 INR per person",
+            "bestTime": "Anytime during lunch hours",
+            "duration": "1 hour",
+            "accessibility": "Varies by eatery",
+            "estimated": true
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Choose hygienic street food vendors"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "2:00 PM - 3:30 PM",
+          "name": "Siddhivinayak Temple",
+          "coordinates": {
+            "latitude": 19.0168,
+            "longitude": 72.8297
+          },
+          "distanceFromPrevious": 6.19,
+          "travelTimeFromPrevious": "8m 4s",
+          "description": "The Shree Siddhivinayak Ganapati Mandir is one of Mumbai's most revered Hindu temples, dedicated to Lord Ganesha. It's famous for its black idol of Lord Ganesha, carved from a single stone. The temple is visited by thousands of devotees daily, including celebrities and politicians, seeking blessings. The architecture is grand, with a gold-plated dome and intricate carvings. It's a significant spiritual landmark in Mumbai.",
+          "whyVisit": "Pay respects at one of Mumbai's most revered temples and observe local customs and spiritual practices.",
+          "activities": [
+            "Spiritual visit",
+            "Observe local customs",
+            "Offer prayers (optional)"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "0 INR (donations welcome)",
+            "bestTime": "Early morning or late evening to avoid crowds, especially on Tuesdays",
+            "duration": "1-1.5 hours",
+            "accessibility": "Wheelchair accessible, but can be crowded",
+            "estimated": false
+          },
+          "tips": {
+            "whatToBring": [
+              "Modest clothing",
+              "Respectful demeanor"
+            ],
+            "whatToBuy": [
+              "Flowers and offerings"
+            ],
+            "safetyNotes": [
+              "Be prepared for crowds",
+              "Keep valuables secure"
+            ],
+            "customsEtiquette": [
+              "Remove shoes before entering",
+              "Maintain silence and respect"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Exterior of the temple (photography inside may be restricted)"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "4:00 PM - 6:00 PM",
+          "name": "Juhu Beach",
+          "coordinates": {
+            "latitude": 19.0882,
+            "longitude": 72.8267
+          },
+          "distanceFromPrevious": 10.75,
+          "travelTimeFromPrevious": "13m 46s",
+          "description": "Juhu Beach is one of Mumbai's most famous beaches, stretching for approximately six kilometers along the Arabian Sea. It's a popular spot for relaxation, leisurely strolls, and enjoying the vibrant atmosphere. The beach is particularly known for its street food stalls, offering a wide variety of Mumbai's culinary delights, including Pav Bhaji, Vada Pav, and Bhel Puri. It's also a great place to witness a spectacular sunset.",
+          "whyVisit": "Relax by the Arabian Sea, enjoy the vibrant atmosphere, and indulge in Mumbai's famous street food.",
+          "activities": [
+            "Enjoy sunset",
+            "Try street food like Pav Bhaji and Vada Pav",
+            "Relax by the sea"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "Varies based on food",
+            "bestTime": "Late afternoon to evening for sunset and street food",
+            "duration": "1.5-2 hours",
+            "accessibility": "Sandy beach, may be challenging for wheelchairs",
+            "estimated": false
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable footwear (easy to remove for sand)",
+              "Hand sanitizer (for street food)"
+            ],
+            "whatToBuy": [
+              "Street food"
+            ],
+            "safetyNotes": [
+              "Be cautious while swimming (currents)",
+              "Ensure street food is fresh"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Sunset over the Arabian Sea",
+              "Vibrant street food stalls"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM - 8:30 PM",
+          "name": "Dinner near Juhu Beach",
+          "coordinates": {
+            "latitude": 19.0882,
+            "longitude": 72.8267
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0s",
+          "description": "The area around Juhu Beach is dotted with numerous restaurants and cafes, offering a diverse range of culinary experiences. From casual beachfront shacks to upscale dining establishments, you can find options to suit various tastes and budgets. Enjoy a final Mumbai dinner with the sounds of the sea.",
+          "whyVisit": "Conclude your trip with a relaxing dinner near Juhu Beach or your hotel, enjoying the local ambiance.",
+          "activities": [
+            "Enjoy a final Mumbai dinner"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "800-1500 INR per person",
+            "bestTime": "Evening",
+            "duration": "1.5 hours",
+            "accessibility": "Varies by restaurant",
+            "estimated": true
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 62.03,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 500,
+          "meals": 1800,
+          "shopping": 500,
+          "total": 2800
+        },
+        "remainingBudget": 7600
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 14000,
+    "currency": "INR",
+    "expenses": {
+      "flights": [
+        {
+          "flightName": "Estimated Domestic Flight",
+          "cost": 4000
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Hotel Golden Sagar",
+        "pricePerNight": 729,
+        "nights": 3,
+        "total": 2187
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 300,
+          "activities": 0,
+          "transport": 500,
+          "meals": 1800,
+          "shopping": 1000,
+          "subtotal": 3600
+        },
+        {
+          "day": 2,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 500,
+          "meals": 1800,
+          "shopping": 500,
+          "subtotal": 2800
+        }
+      ]
+    },
+    "totalSpent": 12587,
+    "remainingBudget": 1413,
+    "budgetTips": [
+      "Consider using Mumbai's local trains for an authentic experience and to beat traffic, especially for longer distances. Alternatively, ride-sharing apps like Uber and Ola are widely available.",
+      "Stay hydrated and wear comfortable walking shoes, as you'll be doing a fair amount of walking and exploring.",
+      "Bargaining is common and expected in local markets like Colaba Causeway. Enjoy the process!",
+      "When visiting religious sites, it's advisable to dress modestly (shoulders and knees covered) as a sign of respect."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Lightweight and breathable clothing (cotton, linen)",
+      "Modest attire for religious sites (shoulders and knees covered)",
+      "Light jacket or shawl for evenings/air-conditioned places",
+      "Swimwear (if planning to visit Juhu Beach with intention to get in water)"
+    ],
+    "footwear": [
+      "Comfortable walking shoes",
+      "Sandals or flip-flops for beach and easy wear"
+    ],
+    "essentials": [
+      "Sunscreen",
+      "Hat or cap",
+      "Sunglasses",
+      "Reusable water bottle",
+      "Hand sanitizer",
+      "Basic first aid kit",
+      "Insect repellent"
+    ],
+    "medication": [
+      "Any personal prescription medications",
+      "Over-the-counter pain relievers",
+      "Antacids",
+      "Motion sickness medication (if sensitive to travel)"
+    ],
+    "electronics": [
+      "Mobile phone and charger",
+      "Power bank",
+      "Camera and extra batteries/memory card",
+      "Universal travel adapter (if needed)"
+    ],
+    "documents": [
+      "Passport and visa (if applicable)",
+      "Flight tickets and hotel booking confirmations",
+      "Photo identification",
+      "Travel insurance details",
+      "Copies of important documents"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Confirm flight bookings",
+      "completed": true,
+      "priority": "high"
+    },
+    {
+      "task": "Confirm hotel booking for Hotel Golden Sagar",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pack appropriate clothing for warm weather and modest visits",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Organize travel documents (passport, tickets, ID)",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Inform bank of travel plans to avoid card issues",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Research local transportation options and apps",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Learn basic Hindi phrases (optional, but helpful)",
+      "completed": false,
+      "priority": "low"
+    }
+  ]
+}
