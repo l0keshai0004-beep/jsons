@@ -1,0 +1,713 @@
+{
+  "tripOverview": {
+    "destination": "Nainital, India",
+    "startDate": "2025-10-17",
+    "endDate": "2025-10-20",
+    "duration": "3 nights",
+    "companions": "2 Adults",
+    "tripType": "Sightseeing & Leisure"
+  },
+  "hotel": {
+    "name": "Hotel H. K. Legacy",
+    "location": "Near Nainital Bus Stand, Nainital, India",
+    "coordinates": {
+      "latitude": 29.3806354,
+      "longitude": 79.4664809
+    },
+    "pricePerNight": 784,
+    "rooms": 1,
+    "nights": 3,
+    "totalCost": 2352,
+    "currency": "INR",
+    "reasonForSelection": "Hotel H. K. Legacy offers comfortable accommodation within your specified budget and includes amenities like free breakfast, free Wi-Fi, and is kid-friendly, making it a convenient choice for your trip to Nainital.",
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Room service",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly"
+    ],
+    "bookingLinks": [
+      "http://www.hotelhklegacy.in/",
+      "https://serpapi.com/search.json?adults=2&check_in_date=2025-10-17&check_out_date=2025-10-20&children=0&currency=INR&engine=google_hotels&gl=in&hl=en&max_price=1400&property_token=ChkIzZ6S4PXvq71-Gg0vZy8xMWNuOW1rMjBmEAE&q=Hotels+in+Nainital%2C+India"
+    ],
+    "imageLinks": [
+      "https://cdn.worldota.net/t/1024x768/content/f4/f9/f4f99171983ea436242de3f022667ee037ba7a80.jpeg",
+      "https://lh5.googleusercontent.com/p/AF1QipMvczL0OFeF_SvU5VqZjejH-n55ZmMrI8MXaCnf=s10000",
+      "https://lh5.googleusercontent.com/p/AF1QipMSaeL9kbK436CxFYf9p_x-6j-YsZFSrSpwH-PC=s10000",
+      "https://lh5.googleusercontent.com/p/AF1QipNAfDATR1vtAx9y35a08SNpU5RZlVYzlMeSP_so=s10000",
+      "https://lh5.googleusercontent.com/p/AF1QipOmSu61oojVM9Py0399FDZYVA1yM3fjlNchBYdZ=s10000",
+      "https://lh5.googleusercontent.com/p/AF1QipN_d_a4DUgw6qVQ4SkHklEcP906hEkZQmHN4jv2=s10000",
+      "https://lh5.googleusercontent.com/p/AF1QipPlZYf9gPOStMpjmnwisHPV31EF3ZjaMsI9Lwk0=s10000",
+      "https://lh5.googleusercontent.com/p/AF1QipO4FRfPVYJQaWz1S00DcQ0lTQA47uXJAnk5afGy=s10000",
+      "https://lh5.googleusercontent.com/p/AF1QipMlTRNegpz8jj4NaTiKSe3YCu40OHwNq9ySLPFN=s10000"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-17",
+      "theme": "Arrival and Lakeside Charm",
+      "optimizedRoute": "Hotel H. K. Legacy → Naini Lake → Mall Road → Hotel H. K. Legacy",
+      "totalDistance": 2.98,
+      "totalTravelTime": "8 minutes 7 seconds",
+      "places": [
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Arrival in Nainital & Hotel Check-in",
+          "coordinates": {
+            "latitude": 29.3806354,
+            "longitude": 79.4664809
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Upon arrival in Nainital, proceed to Hotel H. K. Legacy for check-in. Take some time to freshen up and relax after your journey. The hotel offers a comfortable base for your exploration of this charming hill station.",
+          "whyVisit": "Relax and settle into your accommodation before beginning your Nainital adventure. Enjoy the convenience of a well-located hotel with good amenities.",
+          "activities": [
+            "Check-in",
+            "Unpack and relax"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Afternoon",
+            "duration": "1-2 hours",
+            "accessibility": "Hotel is accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Booking confirmation",
+              "ID proof"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Late Afternoon",
+          "name": "Naini Lake Boat Ride & Lakeside Stroll",
+          "coordinates": {
+            "latitude": 29.390,
+            "longitude": 79.467
+          },
+          "distanceFromPrevious": 2.98,
+          "travelTimeFromPrevious": "8 minutes 7 seconds",
+          "description": "Naini Lake is the heart of Nainital, a beautiful kidney-shaped lake surrounded by seven hills. Enjoy a serene boat ride on its emerald waters, offering picturesque views of the surrounding landscape. Afterwards, take a leisurely stroll along the Thandi Sarak (Mall Road) that hugs the lake, soaking in the tranquil atmosphere and enjoying the cool breeze.",
+          "whyVisit": "Naini Lake is the soul of Nainital, offering breathtaking natural beauty and a peaceful escape. Boating is a classic Nainital experience, and the lakeside stroll provides stunning photographic opportunities.",
+          "activities": [
+            "Rowboat ride",
+            "Paddle boat ride",
+            "Photography",
+            "Lakeside walk"
+          ],
+          "practicalInfo": {
+            "entryFee": "Varies for boat rides (approx. INR 160-210 for rowing, INR 210 for paddle boat per hour)",
+            "estimatedCost": "INR 200-400 (for boating and snacks)",
+            "bestTime": "Late afternoon to evening for pleasant weather and sunset views",
+            "duration": "2-3 hours",
+            "accessibility": "Boating requires some physical mobility; lakeside path is relatively flat"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Light jacket (evenings can be cool)",
+              "Comfortable walking shoes"
+            ],
+            "whatToBuy": [
+              "Local handicrafts from Mall Road vendors"
+            ],
+            "safetyNotes": [
+              "Follow safety instructions for boating"
+            ],
+            "customsEtiquette": [
+              "Maintain cleanliness around the lake"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Various points along Mall Road, especially during sunset",
+              "From a boat on the lake"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Dinner at a Lakeside Restaurant on Mall Road",
+          "coordinates": {
+            "latitude": 29.391,
+            "longitude": 79.467
+          },
+          "distanceFromPrevious": 0.0,
+          "travelTimeFromPrevious": "0 minutes 0 seconds (walking distance from Naini Lake)",
+          "description": "Mall Road is the vibrant promenade of Nainital, bustling with shops, cafes, and restaurants. Conclude your day with a delightful dinner at one of the many lakeside restaurants, savoring local or multi-cuisine dishes while enjoying the illuminated lake views.",
+          "whyVisit": "Experience the lively atmosphere of Mall Road and enjoy a delicious meal with a scenic backdrop, a perfect end to your first day.",
+          "activities": [
+            "Dining",
+            "Evening stroll",
+            "People-watching"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "INR 800-1500 (for dinner for two)",
+            "bestTime": "Evening",
+            "duration": "1.5-2 hours",
+            "accessibility": "Mall Road is pedestrian-friendly"
+          },
+          "tips": {
+            "whatToBring": [
+              "Wallet",
+              "Warm layers"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be aware of pedestrian traffic"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Lakeside views with illuminated buildings",
+              "Mall Road's vibrant ambiance"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 2.98,
+        "spending": {
+          "entryFees": 0,
+          "activities": 200,
+          "transport": 0,
+          "meals": 1000,
+          "shopping": 0,
+          "total": 1200
+        },
+        "remainingBudget": 10448
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-18",
+      "theme": "Spiritual Serenity & Panoramic Views",
+      "optimizedRoute": "Hotel H. K. Legacy → Naina Devi Temple → Tiffin Top (Dorothy's Seat) → Mall Road → Hotel H. K. Legacy",
+      "totalDistance": 4.03,
+      "totalTravelTime": "12 minutes 29 seconds",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Naina Devi Temple",
+          "coordinates": {
+            "latitude": 29.397,
+            "longitude": 79.460
+          },
+          "distanceFromPrevious": 1.05,
+          "travelTimeFromPrevious": "2 minutes 57 seconds",
+          "description": "Dedicated to Goddess Naina Devi, this revered Hindu temple is located on the northern shore of Naini Lake. It is one of the 51 Shakti Peeths in India and holds immense religious significance. The temple offers a peaceful atmosphere and stunning views of the lake.",
+          "whyVisit": "Experience spiritual tranquility and admire the architectural beauty of this ancient temple. Enjoy panoramic views of Naini Lake from a unique vantage point.",
+          "activities": [
+            "Worship",
+            "Photography",
+            "Enjoy lake views"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "INR 50-100 (for offerings)",
+            "bestTime": "Morning for peaceful darshan",
+            "duration": "1-1.5 hours",
+            "accessibility": "Requires walking, steps involved"
+          },
+          "tips": {
+            "whatToBring": [
+              "Respectful attire",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Religious offerings"
+            ],
+            "safetyNotes": [
+              "Be mindful of personal belongings"
+            ],
+            "customsEtiquette": [
+              "Remove shoes before entering the temple",
+              "Maintain silence"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Temple architecture",
+              "Lake views from the temple"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Morning",
+          "name": "Tiffin Top (Dorothy's Seat)",
+          "coordinates": {
+            "latitude": 29.395,
+            "longitude": 79.460
+          },
+          "distanceFromPrevious": 0.83,
+          "travelTimeFromPrevious": "1 minute 51 seconds",
+          "description": "Also known as Dorothy's Seat, Tiffin Top is a popular picnic spot offering a magnificent 360-degree view of Nainital and the surrounding Kumaon hills. It's an ideal place for photography and enjoying the natural beauty. You can reach it by a refreshing trek or by horse riding.",
+          "whyVisit": "Witness spectacular panoramic views of Nainital, including the lake and the Himalayas. Enjoy a pleasant trek or a fun horse ride to the top.",
+          "activities": [
+            "Trekking",
+            "Horse riding",
+            "Photography",
+            "Picnic"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (horse riding costs approx. INR 500-700)",
+            "estimatedCost": "INR 500-800 (for horse riding and snacks)",
+            "bestTime": "Morning or late afternoon for clear views",
+            "duration": "2-3 hours",
+            "accessibility": "Trekking can be moderately challenging; horse riding is an option"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable trekking shoes",
+              "Water bottle",
+              "Camera",
+              "Snacks"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be cautious while trekking",
+              "Negotiate horse riding prices beforehand"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Panoramic views of Nainital and the Himalayas",
+              "Along the trekking path"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Lunch in Nainital Town & Leisurely Walk and Shopping on Mall Road",
+          "coordinates": {
+            "latitude": 29.391,
+            "longitude": 79.467
+          },
+          "distanceFromPrevious": 2.03,
+          "travelTimeFromPrevious": "5 minutes 57 seconds",
+          "description": "Head back to Nainital town for lunch at one of the many eateries on or around Mall Road. After lunch, indulge in a leisurely walk, explore the local shops, and pick up some souvenirs. Mall Road is famous for its candles, wooden handicrafts, woolen garments, and local jams.",
+          "whyVisit": "Savor local cuisine and experience the vibrant shopping culture of Nainital. Find unique souvenirs and enjoy the lively atmosphere.",
+          "activities": [
+            "Lunch",
+            "Shopping",
+            "Strolling"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "INR 800-1500 (for lunch and shopping)",
+            "bestTime": "Afternoon",
+            "duration": "2-3 hours",
+            "accessibility": "Mall Road is pedestrian-friendly"
+          },
+          "tips": {
+            "whatToBring": [
+              "Shopping bag",
+              "Bargaining skills (for some shops)"
+            ],
+            "whatToBuy": [
+              "Nainital candles",
+              "Woolen items",
+              "Wooden crafts",
+              "Fruit jams"
+            ],
+            "safetyNotes": [
+              "Keep an eye on your belongings in crowded areas"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Colorful shops and local life on Mall Road"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Dinner and Relaxed Evening",
+          "coordinates": {
+            "latitude": 29.3806354,
+            "longitude": 79.4664809
+          },
+          "distanceFromPrevious": 2.98,
+          "travelTimeFromPrevious": "8 minutes 7 seconds",
+          "description": "Return to your hotel for a relaxing evening. You can choose to have dinner at the hotel or explore another restaurant on Mall Road. Reflect on the day's adventures and prepare for the next day's explorations.",
+          "whyVisit": "Unwind after a day of sightseeing and enjoy a comfortable dinner.",
+          "activities": [
+            "Dinner",
+            "Relaxation"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "INR 800-1500 (for dinner)",
+            "bestTime": "Evening",
+            "duration": "2 hours",
+            "accessibility": "Hotel and local restaurants are generally accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable clothes for evening"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 4.03,
+        "spending": {
+          "entryFees": 0,
+          "activities": 600,
+          "transport": 0,
+          "meals": 1500,
+          "shopping": 500,
+          "total": 2600
+        },
+        "remainingBudget": 7848
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-19",
+      "theme": "Mountain Vistas & Nature's Wonders",
+      "optimizedRoute": "Hotel H. K. Legacy → Snow View Point → Eco Cave Gardens → Nainital High Altitude Zoo → Hotel H. K. Legacy",
+      "totalDistance": 3.7,
+      "totalTravelTime": "10 minutes 46 seconds",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Snow View Point (via Aerial Ropeway)",
+          "coordinates": {
+            "latitude": 29.385,
+            "longitude": 79.456
+          },
+          "distanceFromPrevious": 0.73,
+          "travelTimeFromPrevious": "2 minutes 0 seconds",
+          "description": "Snow View Point is one of the most accessible peaks in Nainital, offering magnificent panoramic views of the snow-capped Himalayas, including Nanda Devi, Trishul, and Nanda Kot. The best way to reach here is by taking the Aerial Ropeway (cable car) from Mallital, which itself provides thrilling vistas.",
+          "whyVisit": "Witness spectacular views of the Himalayan range and enjoy a thrilling cable car ride. It's a must-visit for nature lovers and photographers.",
+          "activities": [
+            "Cable car ride",
+            "Photography",
+            "Enjoy mountain views"
+          ],
+          "practicalInfo": {
+            "entryFee": "INR 300 (approx. for ropeway, subject to change)",
+            "estimatedCost": "INR 300-500",
+            "bestTime": "Morning for clear views",
+            "duration": "1.5-2 hours",
+            "accessibility": "Ropeway is accessible; some walking at the top"
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm clothing (especially in cooler months)",
+              "Camera with zoom lens"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Check ropeway timings and availability"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Himalayan peaks",
+              "Views of Nainital town and lake from above"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Morning",
+          "name": "Eco Cave Gardens",
+          "coordinates": {
+            "latitude": 29.389,
+            "longitude": 79.466
+          },
+          "distanceFromPrevious": 0.32,
+          "travelTimeFromPrevious": "0 minutes 57 seconds",
+          "description": "Eco Cave Gardens is a network of six interconnected caves, named after various animals like Tiger Cave, Panther Cave, Apes Cave, etc. It's an adventurous and educational experience, especially for children, as you crawl and climb through narrow passages and natural rock formations. The gardens also feature musical fountains.",
+          "whyVisit": "Explore natural caves and enjoy an exciting, educational experience. Ideal for families and those seeking a unique adventure.",
+          "activities": [
+            "Cave exploration",
+            "Photography",
+            "Enjoy musical fountain"
+          ],
+          "practicalInfo": {
+            "entryFee": "INR 60 (adults), INR 25 (children)",
+            "estimatedCost": "INR 100-200",
+            "bestTime": "Morning or early afternoon",
+            "duration": "1-1.5 hours",
+            "accessibility": "Involves crawling and climbing; not suitable for those with mobility issues"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes (can get muddy)",
+              "Torchlight (optional, some caves are dim)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be careful in narrow passages",
+              "Watch out for children"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Unique cave formations",
+              "Musical fountain"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Lunch",
+          "coordinates": {
+            "latitude": 29.390,
+            "longitude": 79.467
+          },
+          "distanceFromPrevious": 1.05,
+          "travelTimeFromPrevious": "2 minutes 57 seconds (to a restaurant near Naini Lake for example)",
+          "description": "Enjoy a well-deserved lunch at a local restaurant. There are many options available around the lake and Mall Road, offering a variety of cuisines to suit your taste.",
+          "whyVisit": "Recharge with a delicious meal after your morning's adventures.",
+          "activities": [
+            "Dining"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "INR 800-1500",
+            "bestTime": "Afternoon",
+            "duration": "1-1.5 hours",
+            "accessibility": "Restaurants are generally accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Wallet"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Late Afternoon",
+          "name": "Nainital High Altitude Zoo",
+          "coordinates": {
+            "latitude": 29.386,
+            "longitude": 79.469
+          },
+          "distanceFromPrevious": 0.73,
+          "travelTimeFromPrevious": "2 minutes 0 seconds",
+          "description": "The Pt. G.B. Pant High Altitude Zoo is one of the few high-altitude zoos in India. It houses several endangered species of animals and birds native to the Himalayan region, such as the Siberian Tiger, Snow Leopard, Himalayan Black Bear, and various pheasants. It's an excellent place to observe wildlife in a natural habitat setting.",
+          "whyVisit": "Discover unique Himalayan wildlife and support conservation efforts. Enjoy a peaceful walk through the zoo's lush surroundings.",
+          "activities": [
+            "Wildlife viewing",
+            "Photography",
+            "Nature walk"
+          ],
+          "practicalInfo": {
+            "entryFee": "INR 100 (adults), INR 50 (children)",
+            "estimatedCost": "INR 200-300",
+            "bestTime": "Late afternoon",
+            "duration": "2-3 hours",
+            "accessibility": "Requires walking on hilly terrain; electric carts are available for a fee"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Camera",
+              "Binoculars (optional)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Do not feed animals",
+              "Follow zoo rules"
+            ],
+            "customsEtiquette": [
+              "Maintain quietness"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Various animal enclosures",
+              "Panoramic views from certain points"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Farewell Dinner",
+          "coordinates": {
+            "latitude": 29.3806354,
+            "longitude": 79.4664809
+          },
+          "distanceFromPrevious": 0.0,
+          "travelTimeFromPrevious": "0 minutes 0 seconds (Assuming dinner near hotel)",
+          "description": "Enjoy a special farewell dinner in Nainital, perhaps trying a different restaurant on Mall Road or at your hotel. Reflect on your memorable trip and prepare for your departure the next day.",
+          "whyVisit": "Celebrate your successful trip with a final delightful meal in Nainital.",
+          "activities": [
+            "Dining",
+            "Relaxation"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "INR 800-1500",
+            "bestTime": "Evening",
+            "duration": "1.5-2 hours",
+            "accessibility": "Restaurants are generally accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Wallet"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 3.7,
+        "spending": {
+          "entryFees": 160,
+          "activities": 300,
+          "transport": 0,
+          "meals": 1500,
+          "shopping": 0,
+          "total": 1960
+        },
+        "remainingBudget": 5888
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 14000,
+    "currency": "INR",
+    "expenses": {
+      "flights": [],
+      "accommodation": {
+        "hotelName": "Hotel H. K. Legacy",
+        "pricePerNight": 784,
+        "nights": 3,
+        "total": 2352
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 0,
+          "activities": 200,
+          "transport": 0,
+          "meals": 1000,
+          "shopping": 0,
+          "subtotal": 1200
+        },
+        {
+          "day": 2,
+          "entryFees": 0,
+          "activities": 600,
+          "transport": 0,
+          "meals": 1500,
+          "shopping": 500,
+          "subtotal": 2600
+        },
+        {
+          "day": 3,
+          "entryFees": 160,
+          "activities": 300,
+          "transport": 0,
+          "meals": 1500,
+          "shopping": 0,
+          "subtotal": 1960
+        }
+      ]
+    },
+    "totalSpent": 8112,
+    "remainingBudget": 5888,
+    "budgetTips": [
+      "Consider eating at local dhabas (roadside eateries) for more affordable meals.",
+      "Utilize public transport or walk whenever possible to save on taxi fares.",
+      "Bargain respectfully when shopping in local markets.",
+      "Look for combo deals or packages for activities like boating or ropeway rides if available."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Light sweaters/jackets for evenings",
+      "Comfortable t-shirts and trousers for daytime",
+      "A warm jacket for early mornings/late evenings",
+      "Raincoat or umbrella (just in case)",
+      "Socks",
+      "Undergarments"
+    ],
+    "footwear": [
+      "Comfortable walking shoes/sneakers",
+      "Sandals or flip-flops for hotel"
+    ],
+    "essentials": [
+      "ID proof (Aadhar/Passport)",
+      "Flight/Hotel bookings",
+      "Cash (INR)",
+      "Debit/Credit cards",
+      "Small backpack for day trips",
+      "Sunscreen",
+      "Insect repellent",
+      "Lip balm",
+      "Hand sanitizer"
+    ],
+    "medication": [
+      "Personal prescribed medications",
+      "Basic first-aid kit (band-aids, antiseptic, pain relievers)",
+      "Motion sickness medication (if prone to car sickness)"
+    ],
+    "electronics": [
+      "Mobile phone and charger",
+      "Power bank",
+      "Camera and extra batteries",
+      "Headphones"
+    ],
+    "documents": [
+      "Valid ID and travel tickets (digital and physical copies)",
+      "Hotel reservation confirmations"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Confirm hotel booking",
+      "completed": true,
+      "priority": "high"
+    },
+    {
+      "task": "Pack essential clothing and accessories",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Organize travel documents and IDs",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Inform family/friends about travel plans",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Check weather forecast for Nainital",
+      "completed": true,
+      "priority": "medium"
+    },
+    {
+      "task": "Withdraw local currency (INR)",
+      "completed": false,
+      "priority": "high"
+    }
+  ]
+}
