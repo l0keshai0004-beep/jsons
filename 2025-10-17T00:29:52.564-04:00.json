@@ -1,0 +1,978 @@
+{
+  "tripOverview": {
+    "destination": "Mussoorie, India",
+    "startDate": "2025-10-23",
+    "endDate": "2025-10-28",
+    "duration": "5 nights",
+    "companions": "Solo",
+    "tripType": "Leisure/Sightseeing"
+  },
+  "mode_of_transport": {
+    "road": {
+      "cost": {
+        "train": "Not a direct option to Mussoorie; requires onward travel from Dehradun. Estimated combined cost (train to Dehradun + taxi/bus to Mussoorie): ₹800-1500.",
+        "bus": "Approx. ₹300-500 (Haldwani to Mussoorie via Dehradun)",
+        "cab": "Approx. ₹3000-4000 (Haldwani to Mussoorie)"
+      },
+      "approx_time": {
+        "train": "Approximately 7-9 hours (including travel to Dehradun and transfer to Mussoorie)",
+        "bus": "Approximately 6-8 hours (including transfers)",
+        "cab": "Approximately 5-6 hours"
+      },
+      "stations": {
+        "bus_stations": "Haldwani Bus Station, Mussoorie Bus Stand (via Dehradun ISBT)",
+        "train_stations": "Haldwani Railway Station, Dehradun Railway Station (nearest major station to Mussoorie)"
+      }
+    }
+  },
+  "hotel": {
+    "name": "Casa de Mussoorie",
+    "location": "Near Picture Palace, Mussoorie",
+    "coordinates": {
+      "latitude": 30.4485247,
+      "longitude": 78.0748443
+    },
+    "pricePerNight": 1228,
+    "rooms": 1,
+    "nights": 5,
+    "totalCost": 6140,
+    "currency": "INR",
+    "reasonForSelection": "Selected for its excellent rating (4.9 stars) and a good number of reviews (145), offering great value within the specified budget.",
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Accessible",
+      "Business center",
+      "Smoke-free property"
+    ],
+    "bookingLinks": [
+      "https://casademussoorie.com/"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipNIfZo30PyxKxxEteR7GoA3IkTrr9LArMjOkXqz=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipOPuvUyveq4YalScVmlLYFsQwILxHTmY02iuKiw=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMNs461pR2wp0wqburwwdwDpo97PTmXgfQqSuFM=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMW4hLP1KNGgzUHW36tCWDMjGtIt6g0HNSHcXAV=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipOxp6r_4PA_IjYSbrrux8FpxEtOkB3kMLxuFwMX=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipOY3H6Qhz8-Vw1MKjIwrZXVAhg3TyyhV26JC3Yi=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMhBRvEebFgFSfHdETHHdzk13Vc0aBh6Yschupn=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNjBaxZFNHox3nb2L6MILNreHDqmT7LaruH1BHQ=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMJLlgnMlwN67r8d1VTXo64eEe80XFQjQGi_8DG=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-23",
+      "theme": "Arrival and Evening Stroll on Mall Road",
+      "optimizedRoute": "Haldwani → Casa de Mussoorie → Mall Road → Casa de Mussoorie",
+      "totalDistance": 298.53,
+      "totalTravelTime": "4 hours 39 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning/Afternoon",
+          "name": "Travel from Haldwani to Mussoorie & Hotel Check-in",
+          "coordinates": {
+            "latitude": 30.4485247,
+            "longitude": 78.0748443
+          },
+          "distanceFromPrevious": 288.07,
+          "travelTimeFromPrevious": "4 hours 27 minutes",
+          "description": "Embark on a scenic road journey from Haldwani to the picturesque hill station of Mussoorie. Upon arrival, check into your comfortable accommodation at Casa de Mussoorie. Take some time to relax, unpack, and soak in the initial mountain views from your hotel, preparing for the days of exploration ahead.",
+          "whyVisit": "Experience the transition from the plains to the hills, enjoying the changing landscapes. The hotel check-in allows for rest and preparation for the itinerary.",
+          "activities": [
+            "Enjoy the scenic drive",
+            "Settle into the hotel",
+            "Relax and unpack",
+            "Enjoy mountain views"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹3000-4000 (cab) or ₹300-500 (bus) for travel from Haldwani to Mussoorie",
+            "bestTime": "Morning for a comfortable journey",
+            "duration": "5-8 hours travel, 1-2 hours for check-in",
+            "accessibility": "Road travel, hotel facilities will vary (Casa de Mussoorie is accessible)"
+          },
+          "tips": {
+            "whatToBring": [
+              "Travel sickness medication if prone to motion sickness",
+              "Snacks and water for the journey"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Drive carefully on mountain roads",
+              "Ensure hotel booking is confirmed"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Scenic viewpoints along the road to Mussoorie",
+              "Views from your hotel room"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "3:00 PM - 8:00 PM",
+          "name": "Mall Road Exploration",
+          "coordinates": {
+            "latitude": 30.4568,
+            "longitude": 78.07
+          },
+          "distanceFromPrevious": 5.23,
+          "travelTimeFromPrevious": "6 minutes",
+          "description": "The heart of Mussoorie, Mall Road is a vibrant promenade offering a delightful mix of shops, eateries, and colonial charm. Stroll along, browse for souvenirs, enjoy local street food, and immerse yourself in the lively atmosphere. As evening descends, find a cozy restaurant for dinner.",
+          "whyVisit": "Mall Road is the social and commercial hub of Mussoorie, perfect for an evening walk, shopping, and experiencing the local culture.",
+          "activities": [
+            "Street shopping for souvenirs",
+            "Trying local snacks like momos, corn on the cob",
+            "People-watching",
+            "Dinner at a local restaurant"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹500-1500 (shopping and dinner)",
+            "bestTime": "Late afternoon to evening for the best ambiance",
+            "duration": "3-5 hours",
+            "accessibility": "Paved road, generally accessible for walking, but some areas might have inclines."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "A light jacket or shawl as evenings can be cool",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Woolen items",
+              "Handicrafts",
+              "Souvenirs",
+              "Local jams and preserves"
+            ],
+            "safetyNotes": [
+              "Be mindful of traffic, especially during peak hours",
+              "Keep an eye on personal belongings"
+            ],
+            "customsEtiquette": [
+              "Bargaining is common in street markets"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Colonial-era buildings",
+              "Views of the Doon Valley",
+              "Street performers (if any)"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 298.53,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 3500,
+          "meals": 700,
+          "shopping": 500,
+          "total": 4700
+        },
+        "remainingBudget": 10300
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-24",
+      "theme": "Waterfalls and Gardens",
+      "optimizedRoute": "Casa de Mussoorie → Kempty Falls → Company Garden (Municipal Garden) → Dinner on Mall Road → Casa de Mussoorie",
+      "totalDistance": 46.06,
+      "totalTravelTime": "1 hour 4 minutes",
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 12:30 PM",
+          "name": "Kempty Falls",
+          "coordinates": {
+            "latitude": 30.49,
+            "longitude": 78.018
+          },
+          "distanceFromPrevious": 20.23,
+          "travelTimeFromPrevious": "24 minutes",
+          "description": "Kempty Falls is one of Mussoorie's most iconic and popular tourist attractions. Cascading from a height of about 40 feet, the falls offer a refreshing spectacle. You can enjoy the cool waters, take memorable photographs, and explore the souvenir shops nearby. It's a perfect spot for nature lovers and families.",
+          "whyVisit": "Experience the beauty of a natural waterfall, enjoy recreational activities, and immerse yourself in the serene environment.",
+          "activities": [
+            "Bathing in the pool (if open and safe)",
+            "Photography",
+            "Souvenir shopping",
+            "Enjoying the natural beauty"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (ropeway/other activities might have charges)",
+            "estimatedCost": "₹200-500 (for ropeway/souvenirs/snacks)",
+            "bestTime": "Morning to avoid crowds",
+            "duration": "2-3 hours",
+            "accessibility": "Accessible by road, but reaching the base of the falls involves stairs or a ropeway (chargeable)."
+          },
+          "tips": {
+            "whatToBring": [
+              "Towel and change of clothes if you plan to get wet",
+              "Sunscreen (UV Index Max: 4.95)",
+              "Water bottle",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Local handicrafts",
+              "Souvenirs from shops near the falls"
+            ],
+            "safetyNotes": [
+              "Be cautious on slippery rocks",
+              "Follow safety guidelines if using the ropeway"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The cascading falls",
+              "Surrounding lush greenery"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:30 PM - 5:00 PM",
+          "name": "Company Garden (Municipal Garden)",
+          "coordinates": {
+            "latitude": 30.46,
+            "longitude": 78.077
+          },
+          "distanceFromPrevious": 17.09,
+          "travelTimeFromPrevious": "25 minutes",
+          "description": "Also known as Municipal Garden, Company Garden is a beautifully maintained botanical garden boasting a wide variety of colorful flowers, a charming artificial lake with boating facilities, and a small amusement park. It's an ideal spot for a leisurely afternoon, offering entertainment for all ages.",
+          "whyVisit": "Enjoy a peaceful stroll amidst vibrant flora, indulge in boating, or have fun with mini-amusement rides.",
+          "activities": [
+            "Boating in the lake",
+            "Exploring floral displays",
+            "Enjoying mini-amusement rides",
+            "Photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. ₹25-50",
+            "estimatedCost": "₹200-500 (entry, boating, rides)",
+            "bestTime": "Afternoon when flowers are in full bloom",
+            "duration": "2-3 hours",
+            "accessibility": "Generally accessible, but some paths may be uneven."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Hat or umbrella for sun protection",
+              "Sunscreen (UV Index Max: 4.95)"
+            ],
+            "whatToBuy": [
+              "Local plant saplings (if available)"
+            ],
+            "safetyNotes": [
+              "Supervise children, especially near the lake and rides"
+            ],
+            "customsEtiquette": [
+              "Do not pluck flowers"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Flowerbeds",
+              "Artificial lake with paddle boats",
+              "Viewpoints within the garden"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM onwards",
+          "name": "Dinner on Mall Road",
+          "coordinates": {
+            "latitude": 30.4568,
+            "longitude": 78.07
+          },
+          "distanceFromPrevious": 3.51,
+          "travelTimeFromPrevious": "8 minutes",
+          "description": "Return to the lively Mall Road for a delicious dinner. Choose from a wide array of restaurants offering local Garhwali cuisine, North Indian dishes, Chinese, and Continental options. Enjoy the evening ambiance as you savor your meal.",
+          "whyVisit": "Conclude your day with good food and the charming atmosphere of Mussoorie's main street.",
+          "activities": [
+            "Savoring local cuisine",
+            "Relaxing evening walk"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹500-1000",
+            "bestTime": "Evening",
+            "duration": "1-2 hours",
+            "accessibility": "Paved road, generally accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "A warm layer as evenings can get chilly (Min Apparent Temp: 7.4°C)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be aware of surroundings"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 46.06,
+        "spending": {
+          "entryFees": 50,
+          "activities": 300,
+          "transport": 500,
+          "meals": 800,
+          "shopping": 200,
+          "total": 1850
+        },
+        "remainingBudget": 8450
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-25",
+      "theme": "Panoramic Views and Scenic Points",
+      "optimizedRoute": "Casa de Mussoorie → Gun Hill → Lal Tibba Scenic Point → Dinner and Evening Walk (Mall Road) → Casa de Mussoorie",
+      "totalDistance": 21.16,
+      "totalTravelTime": "34 minutes",
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 12:00 PM",
+          "name": "Gun Hill (Ropeway Ride)",
+          "coordinates": {
+            "latitude": 30.459,
+            "longitude": 78.067
+          },
+          "distanceFromPrevious": 5.58,
+          "travelTimeFromPrevious": "4 minutes",
+          "description": "Take an exhilarating ropeway ride to Gun Hill, Mussoorie's second-highest peak. From the summit, you'll be treated to breathtaking panoramic views of the Himalayan ranges, including Banderpunch, Srikanth, and Pithwara, as well as the entire Doon Valley. It's an excellent spot for photography and enjoying the crisp mountain air.",
+          "whyVisit": "Enjoy a thrilling ropeway experience and witness spectacular panoramic views of the Himalayas and the surrounding valleys.",
+          "activities": [
+            "Ropeway ride",
+            "Panoramic views of the Himalayas",
+            "Photography",
+            "Enjoying local snacks at the top"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A (Ropeway ticket approx. ₹75-150 for a round trip)",
+            "estimatedCost": "₹150-300",
+            "bestTime": "Morning for clear views",
+            "duration": "2-3 hours",
+            "accessibility": "Ropeway is generally accessible, but the top area might involve some walking."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera with zoom lens",
+              "Warm layers as it can be windy and cold (Min Apparent Temp: 6.5°C)",
+              "Binoculars"
+            ],
+            "whatToBuy": [
+              "Souvenirs from shops at Gun Hill"
+            ],
+            "safetyNotes": [
+              "Follow ropeway safety instructions",
+              "Be careful on steep paths"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Himalayan peaks",
+              "Doon Valley panorama"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:30 PM - 5:30 PM",
+          "name": "Lal Tibba Scenic Point",
+          "coordinates": {
+            "latitude": 30.47,
+            "longitude": 78.09
+          },
+          "distanceFromPrevious": 4.69,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "Lal Tibba, the highest point in Mussoorie, offers even more spectacular and uninterrupted views of the snow-capped Himalayan peaks. There's a Japanese telescope installed at the viewpoint, allowing visitors to get a closer look at the distant mountains and valleys. It's a serene and less crowded spot, perfect for contemplation and enjoying nature's grandeur, especially during sunset.",
+          "whyVisit": "Witness the highest viewpoint in Mussoorie with unparalleled views, and experience the tranquility away from the main hustle.",
+          "activities": [
+            "Panoramic views of the Himalayas",
+            "Photography",
+            "Using telescopes to spot distant peaks",
+            "Enjoying the peaceful atmosphere"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. ₹50 (for telescope viewing)",
+            "estimatedCost": "₹50-100",
+            "bestTime": "Late afternoon for sunset views",
+            "duration": "2-3 hours",
+            "accessibility": "Accessible by road, but the viewpoint might have stairs."
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm clothing (Min Apparent Temp: 6.5°C)",
+              "Camera",
+              "Binoculars"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be cautious on uneven terrain"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Sunset over the Himalayas",
+              "Panoramic landscapes"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM onwards",
+          "name": "Dinner and Evening Walk",
+          "coordinates": {
+            "latitude": 30.4568,
+            "longitude": 78.07
+          },
+          "distanceFromPrevious": 5.66,
+          "travelTimeFromPrevious": "12 minutes",
+          "description": "Enjoy a relaxed dinner at a restaurant of your choice, perhaps exploring a new eatery on Mall Road or trying some local specialties. Afterward, take a leisurely evening walk, enjoying the cool mountain air and the twinkling lights of Mussoorie.",
+          "whyVisit": "Relax and unwind after a day of sightseeing, enjoying the peaceful evening ambiance.",
+          "activities": [
+            "Dining",
+            "Leisurely evening walk"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹500-1000",
+            "bestTime": "Evening",
+            "duration": "1-2 hours",
+            "accessibility": "Paved roads, generally accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm jacket or sweater (Min Apparent Temp: 6.5°C)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 21.16,
+        "spending": {
+          "entryFees": 50,
+          "activities": 200,
+          "transport": 400,
+          "meals": 800,
+          "shopping": 0,
+          "total": 1450
+        },
+        "remainingBudget": 7000
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-10-26",
+      "theme": "Nature and History",
+      "optimizedRoute": "Casa de Mussoorie → Cloud's End Trek → George Everest's House → Dinner in Mussoorie (Mall Road) → Casa de Mussoorie",
+      "totalDistance": 43.33,
+      "totalTravelTime": "1 hour 8 minutes",
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 12:30 PM",
+          "name": "Cloud's End Trek",
+          "coordinates": {
+            "latitude": 30.44,
+            "longitude": 78.03
+          },
+          "distanceFromPrevious": 14.7,
+          "travelTimeFromPrevious": "18 minutes",
+          "description": "Embark on a refreshing trek to Cloud's End, a picturesque spot marking the geographical end of Mussoorie. This tranquil area is characterized by dense deodar and oak forests, offering untouched natural beauty and serene walking trails. It's an ideal escape for nature lovers seeking peace and quiet away from the crowds.",
+          "whyVisit": "Experience the serene and untouched natural beauty of Mussoorie, perfect for a peaceful trek and nature photography.",
+          "activities": [
+            "Trekking and nature walk",
+            "Photography amidst dense forests",
+            "Enjoying solitude and fresh air"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. ₹50 (for entry to private estate, if applicable)",
+            "estimatedCost": "₹50-100",
+            "bestTime": "Morning for comfortable trekking",
+            "duration": "3-4 hours",
+            "accessibility": "Trekking involves walking on uneven trails, moderate fitness required."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable trekking shoes",
+              "Water bottle",
+              "Light snacks",
+              "Camera",
+              "A light jacket (Min Apparent Temp: 5.1°C)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Stay on marked trails",
+              "Inform someone of your trekking plans if going alone"
+            ],
+            "customsEtiquette": [
+              "Do not litter"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Dense forests",
+              "Panoramic views from viewpoints"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:30 PM - 5:00 PM",
+          "name": "George Everest's House",
+          "coordinates": {
+            "latitude": 30.452,
+            "longitude": 78.024
+          },
+          "distanceFromPrevious": 14.98,
+          "travelTimeFromPrevious": "25 minutes",
+          "description": "Visit the historic ruins of Sir George Everest's House, the former residence and laboratory of the Surveyor-General of India, after whom Mount Everest is named. The site offers magnificent panoramic views of the Doon Valley on one side and the Aglar River valley on the other. It's a blend of history, stunning landscapes, and geological interest.",
+          "whyVisit": "Explore a historical landmark with significant scientific relevance and enjoy breathtaking views of the surrounding valleys.",
+          "activities": [
+            "Exploring historical ruins",
+            "Photography",
+            "Enjoying vast landscapes and unique geology"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (parking might be chargeable)",
+            "estimatedCost": "₹50-100 (transport/parking)",
+            "bestTime": "Afternoon for clear views",
+            "duration": "2-3 hours",
+            "accessibility": "Accessible by road, but the ruins themselves might involve some walking on uneven ground."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Hat/sunglasses (Cloud Cover Max: 3%)",
+              "Sunscreen"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be careful around the ruins, some areas might be unstable"
+            ],
+            "customsEtiquette": [
+              "Respect historical sites"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The ruins with panoramic valley views",
+              "Sunset views"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM onwards",
+          "name": "Dinner in Mussoorie",
+          "coordinates": {
+            "latitude": 30.4568,
+            "longitude": 78.07
+          },
+          "distanceFromPrevious": 8.42,
+          "travelTimeFromPrevious": "18 minutes",
+          "description": "Enjoy another delightful dinner in Mussoorie. You can revisit your favorite spot or try a new restaurant to experience more of the local culinary scene. Spend the evening relaxing and perhaps planning for your last full day in Mussoorie.",
+          "whyVisit": "Savor the local flavors and relax after a day of historical exploration and trekking.",
+          "activities": [
+            "Dining",
+            "Relaxing and planning for the next day"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹500-1000",
+            "bestTime": "Evening",
+            "duration": "1-2 hours",
+            "accessibility": "Generally accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm clothing (Min Apparent Temp: 5.1°C)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 43.33,
+        "spending": {
+          "entryFees": 50,
+          "activities": 0,
+          "transport": 500,
+          "meals": 800,
+          "shopping": 0,
+          "total": 1350
+        },
+        "remainingBudget": 5650
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-10-27",
+      "theme": "Lakeside Serenity and Scenic Walks",
+      "optimizedRoute": "Casa de Mussoorie → Mussoorie Lake → Camel's Back Road → Last-minute Souvenir Shopping & Farewell Dinner (Mall Road) → Casa de Mussoorie",
+      "totalDistance": 12.76,
+      "totalTravelTime": "21 minutes",
+      "places": [
+        {
+          "timeOfDay": "10:00 AM - 12:30 PM",
+          "name": "Mussoorie Lake",
+          "coordinates": {
+            "latitude": 30.445,
+            "longitude": 78.077
+          },
+          "distanceFromPrevious": 0.74,
+          "travelTimeFromPrevious": "1 minute",
+          "description": "Mussoorie Lake is a charming artificial lake developed by the city board and a private enterprise. It's a perfect spot for a relaxed morning, offering boating facilities like paddle boats. The serene environment and surrounding views make it an enjoyable place to unwind and spend some quality time.",
+          "whyVisit": "Enjoy relaxed boating and the tranquil atmosphere of this artificial lake.",
+          "activities": [
+            "Boating (paddle boating)",
+            "Enjoying the serene environment",
+            "Photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. ₹15-20",
+            "estimatedCost": "₹150-300 (entry + boating)",
+            "bestTime": "Morning for pleasant weather",
+            "duration": "2-3 hours",
+            "accessibility": "Generally accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Sunscreen (UV Index Max: 4.85)",
+              "Hat/sunglasses"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Follow boating safety guidelines"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The lake with surrounding hills",
+              "Boats on the water"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:30 PM - 5:00 PM",
+          "name": "Camel's Back Road",
+          "coordinates": {
+            "latitude": 30.457,
+            "longitude": 78.074
+          },
+          "distanceFromPrevious": 4.86,
+          "travelTimeFromPrevious": "8 minutes",
+          "description": "Take a peaceful and scenic walk along Camel's Back Road, named after a natural rock formation that resembles a camel's hump. This 3 km long road offers stunning panoramic views of the Himalayas and the Doon Valley, especially beautiful during sunset. It's a tranquil stretch, ideal for a leisurely stroll, photography, and enjoying the fresh mountain air.",
+          "whyVisit": "Enjoy a tranquil walk with breathtaking views and witness the unique rock formation.",
+          "activities": [
+            "Scenic walk",
+            "Photography",
+            "Enjoying the peaceful environment and mountain views"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Late afternoon for sunset views",
+            "duration": "1-2 hours",
+            "accessibility": "Paved road, generally accessible for walking."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Camera",
+              "Warm layer if staying till sunset (Min Apparent Temp: 5.2°C)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The camel's back rock formation",
+              "Sunset over the Himalayas",
+              "Doon Valley views"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "5:30 PM onwards",
+          "name": "Last-minute Souvenir Shopping & Farewell Dinner",
+          "coordinates": {
+            "latitude": 30.4568,
+            "longitude": 78.07
+          },
+          "distanceFromPrevious": 1.93,
+          "travelTimeFromPrevious": "4 minutes",
+          "description": "Spend your final evening in Mussoorie by indulging in some last-minute souvenir shopping at Kulri Bazaar or Library Bazaar on Mall Road. You'll find a variety of local handicrafts, woolen items, and other unique gifts. Conclude your trip with a special farewell dinner at a restaurant of your choice, reminiscing about your wonderful experiences.",
+          "whyVisit": "Pick up memorable souvenirs and enjoy a final delightful meal in Mussoorie.",
+          "activities": [
+            "Shopping at Kulri or Library Bazaar",
+            "Enjoying a final Mussoorie meal"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹500-1500 (shopping + dinner)",
+            "bestTime": "Evening",
+            "duration": "2-3 hours",
+            "accessibility": "Generally accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Shopping bags",
+              "Warm clothing (Min Apparent Temp: 5.2°C)"
+            ],
+            "whatToBuy": [
+              "Woolen garments",
+              "Wooden handicrafts",
+              "Local spices and jams",
+              "Tibetan artifacts"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Bargaining is acceptable"
+            ],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 12.76,
+        "spending": {
+          "entryFees": 20,
+          "activities": 200,
+          "transport": 200,
+          "meals": 800,
+          "shopping": 700,
+          "total": 1920
+        },
+        "remainingBudget": 3730
+      }
+    },
+    {
+      "day": 6,
+      "date": "2025-10-28",
+      "theme": "Departure",
+      "optimizedRoute": "Casa de Mussoorie → Haldwani",
+      "totalDistance": 288.07,
+      "totalTravelTime": "4 hours 27 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Departure from Mussoorie",
+          "coordinates": {
+            "latitude": 29.2238,
+            "longitude": 79.513
+          },
+          "distanceFromPrevious": 288.07,
+          "travelTimeFromPrevious": "4 hours 27 minutes",
+          "description": "Enjoy a relaxed breakfast at your hotel, complete the check-out formalities, and begin your journey back to Haldwani. Reflect on the beautiful memories created during your trip to the Queen of Hills, Mussoorie.",
+          "whyVisit": "Conclude the trip with a comfortable departure, carrying pleasant memories of Mussoorie.",
+          "activities": [
+            "Leisurely breakfast",
+            "Final packing",
+            "Checking out from the hotel"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "₹3000-4000 (cab) or ₹300-500 (bus) for travel from Mussoorie to Haldwani",
+            "bestTime": "Morning for a timely departure",
+            "duration": "1-2 hours (check-out) + 5-8 hours (travel)",
+            "accessibility": "Road travel."
+          },
+          "tips": {
+            "whatToBring": [
+              "All personal belongings",
+              "Any remaining souvenirs"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Ensure all belongings are packed",
+              "Confirm transportation arrangements"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 288.07,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 3500,
+          "meals": 300,
+          "shopping": 0,
+          "total": 3800
+        },
+        "remainingBudget": -70
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 15000,
+    "currency": "INR",
+    "expenses": {
+      "flights": [],
+      "accommodation": {
+        "hotelName": "Casa de Mussoorie",
+        "pricePerNight": 1228,
+        "nights": 5,
+        "total": 6140
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 3500,
+          "meals": 700,
+          "shopping": 500,
+          "subtotal": 4700
+        },
+        {
+          "day": 2,
+          "entryFees": 50,
+          "activities": 300,
+          "transport": 500,
+          "meals": 800,
+          "shopping": 200,
+          "subtotal": 1850
+        },
+        {
+          "day": 3,
+          "entryFees": 50,
+          "activities": 200,
+          "transport": 400,
+          "meals": 800,
+          "shopping": 0,
+          "subtotal": 1450
+        },
+        {
+          "day": 4,
+          "entryFees": 50,
+          "activities": 0,
+          "transport": 500,
+          "meals": 800,
+          "shopping": 0,
+          "subtotal": 1350
+        },
+        {
+          "day": 5,
+          "entryFees": 20,
+          "activities": 200,
+          "transport": 200,
+          "meals": 800,
+          "shopping": 700,
+          "subtotal": 1920
+        },
+        {
+          "day": 6,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 3500,
+          "meals": 300,
+          "shopping": 0,
+          "subtotal": 3800
+        }
+      ]
+    },
+    "totalSpent": 15260,
+    "remainingBudget": -260,
+    "budgetTips": [
+      "Consider using public transport (bus) for inter-city travel to save costs.",
+      "Opt for local eateries and street food for more budget-friendly meal options.",
+      "Prioritize souvenir shopping to essential items only.",
+      "Look for package deals on activities if available."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Warm jackets or coats (especially for evenings and early mornings)",
+      "Sweaters or fleeces",
+      "Long-sleeved shirts",
+      "Thermal wear (for colder days/nights)",
+      "Comfortable trousers/jeans",
+      "T-shirts (for daytime, when sunny)",
+      "Rain gear (light waterproof jacket or umbrella, especially with potential cloud cover)"
+    ],
+    "footwear": [
+      "Comfortable walking shoes or trekking boots",
+      "Socks (woolen or thick cotton)"
+    ],
+    "essentials": [
+      "Personal toiletries",
+      "Hand sanitizer",
+      "Basic first-aid kit (band-aids, antiseptic, pain relievers)",
+      "Sunscreen (UV Index up to 4.95)",
+      "Hat and sunglasses",
+      "Water bottle",
+      "Small backpack for day trips"
+    ],
+    "medication": [
+      "Any personal prescribed medications",
+      "Over-the-counter remedies for common ailments (e.g., headache, cold, upset stomach)"
+    ],
+    "electronics": [
+      "Mobile phone and charger",
+      "Power bank",
+      "Camera and extra batteries/memory card"
+    ],
+    "documents": [
+      "ID proof (Aadhar card, Passport)",
+      "Hotel booking confirmation",
+      "Travel insurance details (if any)",
+      "Copies of important documents"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Confirm hotel booking",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Arrange transportation to Mussoorie (bus/cab booking)",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pack appropriate warm clothing and comfortable shoes",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Check weather forecast closer to the travel date for any changes",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Inform family/friends of your travel plans",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Withdraw necessary cash (ATMs might be limited in some areas)",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Charge all electronic devices",
+      "completed": false,
+      "priority": "low"
+    }
+  ]
+}
