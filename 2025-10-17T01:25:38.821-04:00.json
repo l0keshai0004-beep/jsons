@@ -1,0 +1,651 @@
+{
+  "tripOverview": {
+    "destination": "Nainital, India",
+    "startDate": "2025-10-19",
+    "endDate": "2025-10-22",
+    "duration": "3 nights",
+    "companions": "2 Adults, 2 Children (7, 10)",
+    "tripType": "Family Vacation"
+  },
+  "mode_of_transport": {
+    "road": {
+      "cost": {
+        "train": "Approx. INR 150-500 per person (Sleeper/AC Chair Car)",
+        "bus": "Approx. INR 100-300 per person (Regular/Volvo)",
+        "cab": "Approx. INR 800-1500 (one-way for a small car)"
+      },
+      "approx_time": {
+        "train": "Approx. 1-2 hours (Haldwani to Kathgodam, then cab to Nainital)",
+        "bus": "Approx. 1-2 hours (Haldwani to Nainital)",
+        "cab": "Approx. 1-1.5 hours (Haldwani to Nainital)"
+      },
+      "stations": {
+        "bus_stations": "Haldwani Bus Stand, Nainital Bus Stand",
+        "train_stations": "Haldwani Railway Station (HLDD), Kathgodam Railway Station (KGM) - nearest railhead to Nainital",
+        "cab_booking_suggestion": "Ola, Uber, local taxi services available"
+      }
+    }
+  },
+  "hotel": {
+    "name": "Nainital Willows Nature's Sprout",
+    "location": "Nainital",
+    "coordinates": {
+      "latitude": 29.3858407,
+      "longitude": 79.4647051
+    },
+    "pricePerNight": 1642,
+    "rooms": 1,
+    "nights": 3,
+    "totalCost": 4926,
+    "currency": "INR",
+    "reasonForSelection": "Best rated hotel within the specified budget, suitable for families with amenities like free breakfast, free Wi-Fi, and kid-friendly facilities.",
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Pet-friendly",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly"
+    ],
+    "bookingLinks": [
+      "http://www.nainitalwillows.in/"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipP9Rvm9nx98TDkOvU3i0aFwSxFfB4rAwYQhOqk=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipM3Bpd9hHD4MLbN2S1dObLOI0oL2jI2JTGlzTwj=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPlokPwgT2vMXQyQx4dptIgaenmWxEqrHDv999a=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNeRDoYU0d69iY58ewnqmAVDQYqF8PpfzJlJr_5=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMsqquCX0H_m9CmWR1kNFYuC0LsHiiwFLtmq4I8=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMUezT3iWlxOcDbH8FIuRLanHT7dasYItFDmVYw=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipOq4o2Bhy1U-3ZeUzNLaBXAq8Q6EROYeFzuQBIo=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMtxFOOCkKy4OVuQJjg7loEmUw7Guxs1czjhAvE=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMLBgKMQ6Etx8nlIQmOekESwyDCou8PfdV_HkfC=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-19",
+      "theme": "Lake Exploration & Evening Stroll",
+      "optimizedRoute": "Hotel → Naini Lake (Boat Ride) → Mall Road → Hotel",
+      "totalDistance": 2.68,
+      "totalTravelTime": "11 mins",
+      "places": [
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Naini Lake (Boat Ride)",
+          "coordinates": {
+            "latitude": 29.3907,
+            "longitude": 79.4571
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 mins",
+          "description": "Naini Lake is the heart of Nainital, a beautiful kidney-shaped freshwater lake surrounded by lush green hills. Boating here is a quintessential Nainital experience, offering serene views and a refreshing escape. The lake is divided into two parts, northern (Mallital) and southern (Tallital), with the iconic Naina Devi Temple situated on its northern shore. The calm waters and surrounding natural beauty make it a perfect spot for relaxation and family fun.",
+          "whyVisit": "Iconic lake offering tranquil boat rides with stunning mountain backdrops, perfect for a relaxing family start to the trip.",
+          "activities": [
+            "Boating (rowing or paddle boats)",
+            "Enjoying the scenic lake views",
+            "Photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "Boating charges vary (approx. INR 160-210 for a full round, depending on boat type)",
+            "estimatedCost": "INR 200-500",
+            "bestTime": "Late afternoon for pleasant weather and beautiful light.",
+            "duration": "1-2 hours for a boat ride",
+            "accessibility": "Boats are accessible, but getting to the jetty may involve some stairs or slopes."
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm layers as it can get chilly by the lake in the evening",
+              "Sunscreen and hats for sun protection during the day",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Local handicrafts from shops near the lake"
+            ],
+            "safetyNotes": [
+              "Life jackets are usually provided for boating, ensure children wear them.",
+              "Be mindful of your belongings in crowded areas."
+            ],
+            "customsEtiquette": [
+              "Maintain cleanliness around the lake."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "From the boat with the hills in the background",
+              "At the jetty with colorful boats"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Mall Road",
+          "coordinates": {
+            "latitude": 29.3900,
+            "longitude": 79.4580
+          },
+          "distanceFromPrevious": 0.45,
+          "travelTimeFromPrevious": "2 mins",
+          "description": "Mall Road, officially known as Govind Ballabh Pant Marg, is the most famous promenade in Nainital, running alongside Naini Lake. It's a vibrant hub of activity, lined with hotels, restaurants, cafes, and shops selling local crafts, candles, and souvenirs. An evening stroll here is a delightful experience, offering a glimpse into the local life and culture. The road buzzes with tourists and locals alike, providing a perfect setting for people-watching and enjoying the cool evening breeze.",
+          "whyVisit": "Vibrant atmosphere for an evening stroll, shopping, and dinner, offering a taste of local life.",
+          "activities": [
+            "Leisurely strolling and people-watching",
+            "Shopping for local souvenirs, candles, and handicrafts",
+            "Sampling local street food and dining at restaurants"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "INR 500-1500 (for shopping and dinner)",
+            "bestTime": "Evening for the lively atmosphere and pleasant weather.",
+            "duration": "2-3 hours",
+            "accessibility": "Mostly flat and walkable, suitable for all."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Light jacket or shawl for the evening chill"
+            ],
+            "whatToBuy": [
+              "Nainital candles",
+              "Pine cone handicrafts",
+              "Woolen garments",
+              "Local jams and preserves"
+            ],
+            "safetyNotes": [
+              "Be aware of traffic (though restricted during peak hours).",
+              "Bargaining is common in some shops."
+            ],
+            "customsEtiquette": [
+              "Respect local vendors and maintain decorum."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Views of the illuminated lake at night",
+              "Colorful shops and bustling street scenes"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 2.68,
+        "spending": {
+          "entryFees": 0,
+          "activities": 200,
+          "transport": 100,
+          "meals": 800,
+          "shopping": 300,
+          "total": 1400
+        },
+        "remainingBudget": 13674
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-20",
+      "theme": "Spiritual Serenity & Nature's Wonders",
+      "optimizedRoute": "Hotel → Naina Devi Temple → Eco Cave Gardens → Governor's House (Raj Bhawan) → Hotel",
+      "totalDistance": 6.78,
+      "totalTravelTime": "21 mins",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Naina Devi Temple",
+          "coordinates": {
+            "latitude": 29.3920,
+            "longitude": 79.4550
+          },
+          "distanceFromPrevious": 0.94,
+          "travelTimeFromPrevious": "4 mins",
+          "description": "Naina Devi Temple is a revered Hindu temple located on the northern shore of Naini Lake. It is one of the 51 Shakti Peeths in India and is dedicated to Goddess Naina Devi. The temple offers a peaceful and spiritual ambiance, along with panoramic views of the lake. Visitors can offer prayers and experience the local religious customs. The architecture is traditional and the location provides a serene escape from the bustling Mall Road, despite being in close proximity.",
+          "whyVisit": "Significant religious site with serene spiritual ambiance and beautiful views of Naini Lake.",
+          "activities": [
+            "Seeking blessings",
+            "Participating in prayers",
+            "Enjoying the spiritual atmosphere",
+            "Photography of the temple and lake"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (donations welcome)",
+            "estimatedCost": "INR 50-100 (for offerings)",
+            "bestTime": "Morning for peace and fewer crowds.",
+            "duration": "1-1.5 hours",
+            "accessibility": "Accessible via a short walk from Mall Road, some stairs within the temple."
+          },
+          "tips": {
+            "whatToBring": [
+              "Scarves or shawls for women (to cover heads as a sign of respect)",
+              "Small change for offerings"
+            ],
+            "whatToBuy": [
+              "Religious idols or souvenirs from nearby stalls"
+            ],
+            "safetyNotes": [
+              "Be mindful of your belongings in crowded temple areas."
+            ],
+            "customsEtiquette": [
+              "Remove shoes before entering the main shrine.",
+              "Dress modestly."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Temple architecture",
+              "Views of the lake from the temple premises"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Morning",
+          "name": "Eco Cave Gardens",
+          "coordinates": {
+            "latitude": 29.3879,
+            "longitude": 79.4674
+          },
+          "distanceFromPrevious": 1.76,
+          "travelTimeFromPrevious": "7 mins",
+          "description": "Eco Cave Gardens is a network of six interconnected rocky caves and a hanging garden, designed to give visitors a feel of different animal habitats. It's a popular attraction, especially for children, as they can crawl through narrow passages and observe the unique geological formations. The garden also features musical fountains and a peaceful environment. It's an educational and entertaining experience, showcasing various caves like Tiger Cave, Panther Cave, Apes Cave, etc., making it an adventurous outing for families.",
+          "whyVisit": "Exciting and educational cave exploration experience for kids and adults, with unique geological formations and a hanging garden.",
+          "activities": [
+            "Cave exploration and crawling",
+            "Walking through the interconnected gardens",
+            "Enjoying musical fountains",
+            "Photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "INR 60 (adults), INR 25 (children)",
+            "estimatedCost": "INR 200-300",
+            "bestTime": "Late morning or early afternoon.",
+            "duration": "1.5-2 hours",
+            "accessibility": "Caves involve crawling and narrow passages, which might be challenging for those with mobility issues or claustrophobia."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes (preferably sneakers)",
+              "Small torch/flashlight for inside the caves",
+              "Water bottle"
+            ],
+            "whatToBuy": [
+              "Small souvenirs from nearby stalls"
+            ],
+            "safetyNotes": [
+              "Watch your head in low-ceiling areas.",
+              "Keep children close in crowded or narrow sections."
+            ],
+            "customsEtiquette": [
+              "Do not litter."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Inside the caves (if lighting permits)",
+              "With the unique rock formations"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Governor's House (Raj Bhawan)",
+          "coordinates": {
+            "latitude": 29.3835,
+            "longitude": 79.4648
+          },
+          "distanceFromPrevious": 0.74,
+          "travelTimeFromPrevious": "3 mins",
+          "description": "The Governor's House, also known as Raj Bhawan, is a magnificent colonial-era building designed in the Victorian Gothic style, resembling a Scottish castle. It serves as the official residence of the Governor of Uttarakhand. While the main building is not always open to the public, its sprawling, beautifully manicured gardens, covering an area of 220 acres, are a major attraction. The estate also includes a golf course and a swimming pool. It offers a pleasant walk amidst lush greenery and architectural grandeur.",
+          "whyVisit": "Impressive colonial architecture and sprawling, well-maintained gardens perfect for a relaxing stroll.",
+          "activities": [
+            "Strolling through the vast gardens",
+            "Admiring the architecture of the Governor's House",
+            "Photography",
+            "Relaxing amidst nature"
+          ],
+          "practicalInfo": {
+            "entryFee": "INR 50-70 per person (for gardens)",
+            "estimatedCost": "INR 200-300",
+            "bestTime": "Afternoon for pleasant weather.",
+            "duration": "1.5-2 hours",
+            "accessibility": "Gardens are generally accessible, but some paths might be uneven."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Camera",
+              "Water bottle"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Stick to designated paths."
+            ],
+            "customsEtiquette": [
+              "Maintain peace and quiet.",
+              "Do not pluck flowers or damage property."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The grand facade of the Governor's House",
+              "Various spots within the well-kept gardens"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 6.78,
+        "spending": {
+          "entryFees": 185,
+          "activities": 0,
+          "transport": 200,
+          "meals": 1000,
+          "shopping": 0,
+          "total": 1385
+        },
+        "remainingBudget": 12289
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-21",
+      "theme": "Panoramic Views & Wildlife Encounter",
+      "optimizedRoute": "Hotel → Ropeway to Snow View Point (Ropeway start) → Nainital Zoo (Pt. G.B. Pant High Altitude Zoo) → Hotel",
+      "totalDistance": 3.78,
+      "totalTravelTime": "14 mins",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Ropeway to Snow View Point",
+          "coordinates": {
+            "latitude": 29.3907,
+            "longitude": 79.4578
+          },
+          "distanceFromPrevious": 1.1,
+          "travelTimeFromPrevious": "4 mins",
+          "description": "The aerial ropeway (cable car) to Snow View Point offers one of the most exhilarating experiences in Nainital. Starting from Mallital, the cable car ascends to Snow View Point, providing breathtaking panoramic views of Nainital Lake, the entire town, and the majestic snow-capped Himalayan peaks, including Nanda Devi. At the viewpoint, there are small shops, a temple, and telescopes to get closer views of the mountains. It's an unforgettable journey with stunning vistas.",
+          "whyVisit": "Exciting aerial ropeway ride with stunning panoramic views of Nainital, the lake, and the majestic Himalayas.",
+          "activities": [
+            "Cable car ride",
+            "Enjoying panoramic views from Snow View Point",
+            "Photography of the Himalayas",
+            "Using telescopes for closer mountain views"
+          ],
+          "practicalInfo": {
+            "entryFee": "Ropeway ticket: INR 300 per person (return)",
+            "estimatedCost": "INR 1200",
+            "bestTime": "Morning for clear views of the Himalayas.",
+            "duration": "2-3 hours (including travel and time at the top)",
+            "accessibility": "Cable cars are generally accessible, but there might be a queue."
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm jacket or sweater (it can be colder at the top)",
+              "Camera with zoom lens",
+              "Binoculars (if you have them)"
+            ],
+            "whatToBuy": [
+              "Souvenirs from shops at Snow View Point"
+            ],
+            "safetyNotes": [
+              "Be patient in queues for the ropeway.",
+              "Hold onto children, especially at the viewpoint."
+            ],
+            "customsEtiquette": [
+              "Respect fellow travelers and maintain order."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Inside the cable car with lake views",
+              "From Snow View Point with Himalayan range in the background"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Nainital Zoo (Pt. G.B. Pant High Altitude Zoo)",
+          "coordinates": {
+            "latitude": 29.3908,
+            "longitude": 79.4704
+          },
+          "distanceFromPrevious": 1.25,
+          "travelTimeFromPrevious": "5 mins",
+          "description": "Pt. G.B. Pant High Altitude Zoo is one of the few high-altitude zoos in India, located at an elevation of 2,100 meters. It's home to several endangered and high-altitude animal species, including the Siberian Tiger, Himalayan Bear, Leopard, Snow Leopard, Tibetan Wolf, and various pheasants. The zoo focuses on conservation and education, offering visitors a chance to see these magnificent creatures in a relatively natural habitat. It's a fascinating and educational experience, particularly for children, to learn about Himalayan wildlife.",
+          "whyVisit": "Opportunity to see unique high-altitude animals like the Siberian tiger and Himalayan bear, offering an educational and fascinating experience for children.",
+          "activities": [
+            "Wildlife viewing",
+            "Learning about high-altitude animal conservation",
+            "Walking through the zoo premises"
+          ],
+          "practicalInfo": {
+            "entryFee": "INR 100 (adults), INR 50 (children)",
+            "estimatedCost": "INR 300-400",
+            "bestTime": "Afternoon.",
+            "duration": "2-2.5 hours",
+            "accessibility": "The zoo is built on a hillside, so there are uphill walks and stairs. Shuttle services are available from the entrance to different sections for a small fee."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Water bottle",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Small souvenirs from the zoo shop"
+            ],
+            "safetyNotes": [
+              "Do not feed the animals.",
+              "Maintain silence near animal enclosures."
+            ],
+            "customsEtiquette": [
+              "Do not litter."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Enclosures of various animals",
+              "Panoramic views of the valley from certain points in the zoo"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 3.78,
+        "spending": {
+          "entryFees": 1300,
+          "activities": 0,
+          "transport": 100,
+          "meals": 900,
+          "shopping": 100,
+          "total": 2400
+        },
+        "remainingBudget": 9889
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-10-22",
+      "theme": "Departure",
+      "optimizedRoute": "Hotel → Haldwani",
+      "totalDistance": 41.5,
+      "totalTravelTime": "1 hr 15 mins",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Departure",
+          "coordinates": {
+            "latitude": 29.3919,
+            "longitude": 79.4542
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 mins",
+          "description": "Enjoy a relaxed breakfast at your hotel, savoring the last moments of Nainital's serene beauty. Complete the check-out formalities and begin your scenic journey back to Haldwani, reflecting on the wonderful memories created during your family vacation in the 'Lake District of India'.",
+          "whyVisit": "Relaxed morning for breakfast and check-out before heading back to Haldwani.",
+          "activities": [
+            "Breakfast",
+            "Check-out from hotel",
+            "Travel back to Haldwani"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning",
+            "duration": "Flexible",
+            "accessibility": "N/A"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [
+              "Any last-minute souvenirs you might have missed"
+            ],
+            "safetyNotes": [
+              "Ensure all belongings are packed and nothing is left behind."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 41.5,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 1000,
+          "meals": 500,
+          "shopping": 0,
+          "total": 1500
+        },
+        "remainingBudget": 8389
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 20000,
+    "currency": "INR",
+    "expenses": {
+      "flights": [],
+      "accommodation": {
+        "hotelName": "Nainital Willows Nature's Sprout",
+        "pricePerNight": 1642,
+        "nights": 3,
+        "total": 4926
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 0,
+          "activities": 200,
+          "transport": 100,
+          "meals": 800,
+          "shopping": 300,
+          "subtotal": 1400
+        },
+        {
+          "day": 2,
+          "entryFees": 185,
+          "activities": 0,
+          "transport": 200,
+          "meals": 1000,
+          "shopping": 0,
+          "subtotal": 1385
+        },
+        {
+          "day": 3,
+          "entryFees": 1300,
+          "activities": 0,
+          "transport": 100,
+          "meals": 900,
+          "shopping": 100,
+          "subtotal": 2400
+        },
+        {
+          "day": 4,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 1000,
+          "meals": 500,
+          "shopping": 0,
+          "subtotal": 1500
+        }
+      ]
+    },
+    "totalSpent": 10211,
+    "remainingBudget": 9789,
+    "budgetTips": [
+      "Consider eating at local eateries for more budget-friendly meal options.",
+      "Look for shared taxi services for inter-city travel to save on transport costs.",
+      "Bargain respectfully when shopping in local markets."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Warm jackets or sweaters (especially for evenings and early mornings)",
+      "Light tops and t-shirts for daytime",
+      "Comfortable trousers/jeans",
+      "Socks",
+      "Rain jacket or umbrella (just in case, though low rain probability)",
+      "Nightwear"
+    ],
+    "footwear": [
+      "Comfortable walking shoes/sneakers",
+      "Sandals or flip-flops for hotel/casual use"
+    ],
+    "essentials": [
+      "Personal toiletries",
+      "Sunscreen",
+      "Hat or cap",
+      "Lip balm",
+      "Insect repellent",
+      "Hand sanitizer",
+      "First-aid kit (basic medicines for cold, headache, stomach upset, bandages)"
+    ],
+    "medication": [
+      "Any personal prescribed medications",
+      "Motion sickness medication (if prone to car sickness on hilly roads)"
+    ],
+    "electronics": [
+      "Mobile phone and charger",
+      "Power bank",
+      "Camera and extra batteries/memory card",
+      "Portable flashlight/headlamp"
+    ],
+    "documents": [
+      "Government-issued ID (Aadhar/Passport)",
+      "Hotel booking confirmation",
+      "Travel insurance details (if applicable)",
+      "Copies of important documents",
+      "Cash (for small purchases and places that don't accept cards)"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Confirm hotel booking",
+      "completed": true,
+      "priority": "high"
+    },
+    {
+      "task": "Arrange transportation from Haldwani to Nainital (cab/bus/train)",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pack appropriate clothing for mild to cool weather",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Charge all electronic devices and power banks",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Inform family/friends about your travel plans",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "task": "Withdraw sufficient cash for daily expenses and emergencies",
+      "completed": false,
+      "priority": "high"
+    }
+  ]
+}
