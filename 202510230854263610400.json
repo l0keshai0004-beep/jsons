@@ -1,0 +1,671 @@
+{
+  "tripOverview": {
+    "destination": "Bhimtal, India",
+    "startDate": "2025-10-25",
+    "endDate": "2025-10-28",
+    "duration": "3 nights",
+    "companions": "Solo",
+    "tripType": "Leisure"
+  },
+  "mode_of_transport": {
+    "road": {
+      "cost": {
+        "train": "N/A (Nearest station is Kathgodam, 22 km away)",
+        "bus": "50 - 150 INR",
+        "cab": "800 - 1200 INR"
+      },
+      "approx_time": {
+        "train": "N/A",
+        "bus": "1 - 1.5 hours",
+        "cab": "45 - 60 minutes"
+      },
+      "stations": {
+        "bus_stations": "Haldwani Bus Station",
+        "train_stations": "Kathgodam Railway Station (KGM)"
+      }
+    }
+  },
+  "hotel": {
+    "name": "The Town Hill Homestay",
+    "location": "Bhimtal, India",
+    "coordinates": {
+      "latitude": 29.3559927,
+      "longitude": 79.5550568
+    },
+    "pricePerNight": 1260,
+    "rooms": 1,
+    "nights": 3,
+    "totalCost": 3780,
+    "currency": "INR",
+    "reasonForSelection": "Excellent value for money, this homestay boasts a perfect 5-star rating from guest reviews. It falls well within the budget and offers key amenities like free Wi-Fi and parking, ensuring a comfortable and highly-rated stay.",
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Pet-friendly",
+      "Room service",
+      "Accessible",
+      "Kid-friendly"
+    ],
+    "bookingLinks": [
+      "https://townhillstays.com/"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipM61K-q8ay3Szx0s9bbrBGiqEskyBO2dbOXaJiW=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMBNXCAatcSRXjh9oCSPg2RFpXqOas79Lbq9-F4=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipM1xLwPB7dWAOeURwZuz7wpRN_2nTuabsS-XQxO=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-25",
+      "theme": "Arrival and Lakeside Serenity",
+      "optimizedRoute": "The Town Hill Homestay → Bhimtal Lake → Lakeside Cafe → The Town Hill Homestay",
+      "totalDistance": 4.81,
+      "totalTravelTime": "8 minutes 56 seconds",
+      "places": [
+        {
+          "timeOfDay": "3:00 PM - 5:00 PM",
+          "name": "Bhimtal Lake",
+          "coordinates": {
+            "latitude": 29.3458,
+            "longitude": 79.5619
+          },
+          "distanceFromPrevious": 2.1,
+          "travelTimeFromPrevious": "3 minutes 59 seconds",
+          "description": "Bhimtal Lake is a picturesque C-shaped lake in the heart of the town, larger than the famous Naini Lake. Its main attraction is a small island in the center, which houses an aquarium. The lake is surrounded by lush green hills and a tranquil environment, making it a perfect spot for relaxation and recreation.",
+          "whyVisit": "It is the town's primary attraction, offering stunning natural beauty and a variety of activities. The central island aquarium is a unique feature, and the clear waters reflect the beautiful surroundings, providing a peaceful escape.",
+          "activities": [
+            "Boating (paddle boats, rowboats)",
+            "Kayaking",
+            "Visiting the Island Aquarium",
+            "Lakeside walks and photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (boating and aquarium have separate charges)",
+            "estimatedCost": "200-500 INR for boating",
+            "bestTime": "Afternoon for pleasant weather",
+            "duration": "2 hours",
+            "accessibility": "Easily accessible from the main road"
+          },
+          "tips": {
+            "whatToBring": [
+              "Sunscreen",
+              "Hat",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Local wooden crafts",
+              "Homemade pickles"
+            ],
+            "safetyNotes": [
+              "Use life jackets during boat rides",
+              "Be cautious of monkeys near the shore"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "From the boat in the middle of the lake",
+              "The shoreline with the temple in the background"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM - 8:30 PM",
+          "name": "Lakeside Cafe",
+          "coordinates": {
+            "latitude": 29.3465,
+            "longitude": 79.5614
+          },
+          "distanceFromPrevious": 0.65,
+          "travelTimeFromPrevious": "1 minute 44 seconds",
+          "description": "Enjoy a relaxed dinner at one of the many cafes and restaurants that line the shores of Bhimtal Lake. These establishments offer a range of cuisines, from local Kumaoni dishes to popular North Indian and continental fare, all served with a stunning view of the shimmering lake.",
+          "whyVisit": "Dining by the lake is a quintessential Bhimtal experience. The cool evening breeze, the sound of gentle waves, and the reflection of lights on the water create a magical and romantic ambiance, perfect for unwinding after a day of travel.",
+          "activities": [
+            "Dinner with a view",
+            "Trying local Kumaoni cuisine"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "500 - 1000 INR for a meal",
+            "bestTime": "Evening",
+            "duration": "1.5 hours",
+            "accessibility": "Most cafes are easily accessible from the main road."
+          },
+          "tips": {
+            "whatToBring": [
+              "A light jacket or shawl as it can get cool in the evening"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Your table with the lake in the background"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 4.81,
+        "spending": {
+          "entryFees": 0,
+          "activities": 350,
+          "transport": 200,
+          "meals": 800,
+          "shopping": 0,
+          "total": 1350
+        },
+        "remainingBudget": 8650
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-26",
+      "theme": "Adventure, Views, and Spirituality",
+      "optimizedRoute": "The Town Hill Homestay → Naukuchiatal → Victoria Dam → Hanuman Garhi Temple → The Town Hill Homestay",
+      "totalDistance": 37.16,
+      "totalTravelTime": "45 minutes 59 seconds",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 1:00 PM",
+          "name": "Naukuchiatal",
+          "coordinates": {
+            "latitude": 29.3179,
+            "longitude": 79.5818
+          },
+          "distanceFromPrevious": 7.02,
+          "travelTimeFromPrevious": "9 minutes 44 seconds",
+          "description": "Naukuchiatal, or the 'lake of nine corners,' is a serene and expansive lake located a short drive from Bhimtal. It's believed that one who sees all nine corners at once attains nirvana. The lake is a hub for adventure sports and is surrounded by dense forests, offering a more secluded feel than Bhimtal.",
+          "whyVisit": "This is the perfect spot for thrill-seekers and nature lovers. It offers a wider range of adventure activities than Bhimtal, including paragliding. Its unique nine-cornered shape and the peaceful environment make it a must-visit.",
+          "activities": [
+            "Paragliding",
+            "Boating",
+            "Kayaking",
+            "Zorbing",
+            "Nature walks"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (activities are charged)",
+            "estimatedCost": "1500 - 2000 INR for paragliding",
+            "bestTime": "Morning for clear skies and adventure sports",
+            "duration": "4 hours",
+            "accessibility": "Accessible by road"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes",
+              "Water bottle",
+              "Camera"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Ensure adventure sports operators are certified",
+              "Listen carefully to all instructions"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "From the paragliding launch point for aerial views",
+              "The lakeside with kayaks"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "3:00 PM - 4:00 PM",
+          "name": "Victoria Dam",
+          "coordinates": {
+            "latitude": 29.3458,
+            "longitude": 79.5619
+          },
+          "distanceFromPrevious": 5.3,
+          "travelTimeFromPrevious": "7 minutes 27 seconds",
+          "description": "Situated at one end of Bhimtal Lake, the Victoria Dam is a historic structure surrounded by terraced flower gardens. The dam not only regulates the water flow but also serves as a beautiful vantage point, offering panoramic views of the lake and the surrounding hills.",
+          "whyVisit": "It provides a different perspective of Bhimtal Lake. The beautifully maintained gardens add to its charm, making it a great place for a leisurely stroll and photography. It's a peaceful spot away from the main boating area.",
+          "activities": [
+            "Sightseeing",
+            "Photography",
+            "Walking through the flower gardens"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Afternoon",
+            "duration": "1 hour",
+            "accessibility": "Accessible on foot from the main lake road"
+          },
+          "tips": {
+            "whatToBring": [
+              "Sunglasses",
+              "Camera"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be careful near the dam railings"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The top of the dam for a full view of the lake",
+              "The terraced gardens with the lake in the background"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "4:30 PM - 6:00 PM",
+          "name": "Hanuman Garhi Temple",
+          "coordinates": {
+            "latitude": 29.3242,
+            "longitude": 79.5583
+          },
+          "distanceFromPrevious": 12.8,
+          "travelTimeFromPrevious": "19 minutes 31 seconds",
+          "description": "This temple, dedicated to the mighty Lord Hanuman, is perched on a hilltop and is renowned for its spectacular sunset views. The complex is peaceful and offers a panoramic vista of the valley and the majestic Himalayan peaks on a clear day.",
+          "whyVisit": "To witness one of the best sunsets in the region. The spiritual ambiance combined with the breathtaking natural beauty provides a serene and memorable experience, perfect for concluding a day of exploration.",
+          "activities": [
+            "Temple visit",
+            "Sunset viewing",
+            "Meditation"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Just before sunset",
+            "duration": "1.5 hours",
+            "accessibility": "Accessible by road, with a short flight of stairs to the top."
+          },
+          "tips": {
+            "whatToBring": [
+              "A warm layer as it gets windy",
+              "Camera for sunset photos"
+            ],
+            "whatToBuy": [
+              "Religious trinkets from nearby shops"
+            ],
+            "safetyNotes": [
+              "Dress modestly as it is a place of worship"
+            ],
+            "customsEtiquette": [
+              "Remove shoes before entering the temple premises."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main viewpoint for the sunset",
+              "The large statue of Hanuman"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 37.16,
+        "spending": {
+          "entryFees": 0,
+          "activities": 1800,
+          "transport": 600,
+          "meals": 1000,
+          "shopping": 200,
+          "total": 3600
+        },
+        "remainingBudget": 5050
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-27",
+      "theme": "Hiking, History, and Hidden Lakes",
+      "optimizedRoute": "The Town Hill Homestay → Hidimba Parvat → Bhimeshwar Mahadev Temple → Sattal → The Town Hill Homestay",
+      "totalDistance": 25.72,
+      "totalTravelTime": "41 minutes 38 seconds",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 11:30 AM",
+          "name": "Hidimba Parvat",
+          "coordinates": {
+            "latitude": 29.3512,
+            "longitude": 79.5522
+          },
+          "distanceFromPrevious": 1.33,
+          "travelTimeFromPrevious": "2 minutes 40 seconds",
+          "description": "Named after Hidimba, the demon wife of Bhima from the Mahabharata, this hill is a haven for nature lovers. It offers a short but refreshing hike through dense foliage, leading to the Vankhandi Ashram, a sanctuary for animals. The summit provides stunning views of the surrounding landscape.",
+          "whyVisit": "For a dose of adventure and tranquility. The hike is rewarding, offering both physical activity and spiritual peace at the ashram. It's less crowded than other spots, allowing for a more personal connection with nature.",
+          "activities": [
+            "Hiking",
+            "Sightseeing",
+            "Photography",
+            "Visiting Vankhandi Ashram"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning",
+            "duration": "2.5 hours",
+            "accessibility": "Requires a short hike (around 2 km)"
+          },
+          "tips": {
+            "whatToBring": [
+              "Sturdy hiking shoes",
+              "Water bottle",
+              "Binoculars for birdwatching"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Stay on the designated trail",
+              "Inform someone of your hiking plan"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The viewpoint at the summit",
+              "The entrance to the ashram"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "11:30 AM - 12:30 PM",
+          "name": "Bhimeshwar Mahadev Temple",
+          "coordinates": {
+            "latitude": 29.3455,
+            "longitude": 79.5619
+          },
+          "distanceFromPrevious": 2.09,
+          "travelTimeFromPrevious": "3 minutes 35 seconds",
+          "description": "This ancient temple, located on the banks of Bhimtal Lake, is believed to have been built by Bhima himself during the Pandavas' exile. Dedicated to Lord Shiva, the current structure was rebuilt in the 17th century and showcases intricate architecture. It holds immense cultural and historical significance for the region.",
+          "whyVisit": "To connect with the history and spirituality of Bhimtal. Its lakeside location adds to its divine charm. The temple's architecture and the serene atmosphere make it a peaceful place for worship and reflection.",
+          "activities": [
+            "Temple visit",
+            "Exploring the architecture",
+            "Attending the morning/evening aarti"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning or evening",
+            "duration": "1 hour",
+            "accessibility": "Easily accessible, located on the main lake road."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Dress modestly"
+            ],
+            "customsEtiquette": [
+              "Remove footwear before entering"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The temple entrance with the lake behind it",
+              "The intricate carvings on the temple walls"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "3:30 PM - 6:30 PM",
+          "name": "Sattal",
+          "coordinates": {
+            "latitude": 29.3585,
+            "longitude": 79.5168
+          },
+          "distanceFromPrevious": 11.91,
+          "travelTimeFromPrevious": "19 minutes 25 seconds",
+          "description": "Sattal, meaning 'Seven Lakes', is an interconnected group of freshwater lakes nestled amidst dense oak and pine forests. This unspoiled biome is a paradise for migratory birds and nature enthusiasts. The main lakes are Purna Tal, Ram Tal, and Sita Tal. The area is quieter and more pristine than the more commercialized lakes.",
+          "whyVisit": "It's a birdwatcher's paradise and offers a chance to experience nature in its purest form. The serene environment is perfect for activities like kayaking, nature walks, and simply soaking in the tranquility, away from the crowds.",
+          "activities": [
+            "Birdwatching",
+            "Nature walks",
+            "Boating/Kayaking",
+            "Photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (charges for boating)",
+            "estimatedCost": "300-600 INR for boating",
+            "bestTime": "Afternoon",
+            "duration": "3 hours",
+            "accessibility": "Accessible by road"
+          },
+          "tips": {
+            "whatToBring": [
+              "Binoculars",
+              "A good camera with a zoom lens",
+              "Insect repellent"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Do not feed the wildlife",
+              "Walk quietly to avoid disturbing the birds"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The bridge connecting the lakes",
+              "Close-up shots of unique bird species"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 25.72,
+        "spending": {
+          "entryFees": 0,
+          "activities": 450,
+          "transport": 500,
+          "meals": 900,
+          "shopping": 0,
+          "total": 1850
+        },
+        "remainingBudget": 3200
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-10-28",
+      "theme": "Departure",
+      "optimizedRoute": "N/A",
+      "totalDistance": 0,
+      "totalTravelTime": "N/A",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 11:00 AM",
+          "name": "Morning Exploration & Souvenir Shopping",
+          "coordinates": {
+            "latitude": 29.3526,
+            "longitude": 79.5584
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Spend the final morning revisiting a favorite spot or exploring the local market near the lake. It's a great opportunity to buy souvenirs like hand-carved wooden items, local jams, and woolen clothing to remember your trip by.",
+          "whyVisit": "To pick up last-minute gifts and mementos and to take one last stroll through the charming streets of Bhimtal before heading home.",
+          "activities": [
+            "Shopping",
+            "Light exploration"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "500 - 1500 INR",
+            "bestTime": "Morning",
+            "duration": "2 hours",
+            "accessibility": "Markets are generally accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash, as some smaller shops may not accept cards"
+            ],
+            "whatToBuy": [
+              "Wooden crafts",
+              "Woolen shawls",
+              "Local honey and preserves"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Bargaining is common in local shops"
+            ],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "12:00 PM",
+          "name": "Hotel Check-out",
+          "coordinates": {
+            "latitude": 29.3559927,
+            "longitude": 79.5550568
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Check out from the hotel and begin your journey back to Haldwani, filled with memories of the serene lakes and beautiful hills of Bhimtal.",
+          "whyVisit": "N/A",
+          "activities": [
+            "Departure"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "N/A",
+            "duration": "N/A",
+            "accessibility": "N/A"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Ensure you have all your belongings before leaving the hotel."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 1000,
+          "meals": 500,
+          "shopping": 1000,
+          "total": 2500
+        },
+        "remainingBudget": 700
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 10000,
+    "currency": "INR",
+    "expenses": {
+      "flights": [],
+      "accommodation": {
+        "hotelName": "The Town Hill Homestay",
+        "pricePerNight": 1260,
+        "nights": 3,
+        "total": 3780
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 0,
+          "activities": 350,
+          "transport": 200,
+          "meals": 800,
+          "shopping": 0,
+          "subtotal": 1350
+        },
+        {
+          "day": 2,
+          "entryFees": 0,
+          "activities": 1800,
+          "transport": 600,
+          "meals": 1000,
+          "shopping": 200,
+          "subtotal": 3600
+        },
+        {
+          "day": 3,
+          "entryFees": 0,
+          "activities": 450,
+          "transport": 500,
+          "meals": 900,
+          "shopping": 0,
+          "subtotal": 1850
+        },
+        {
+          "day": 4,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 1000,
+          "meals": 500,
+          "shopping": 1000,
+          "subtotal": 2500
+        }
+      ]
+    },
+    "totalSpent": 9300,
+    "remainingBudget": 700,
+    "budgetTips": [
+      "Eat at local dhabas for authentic and budget-friendly meals.",
+      "Utilize local transport options like shared jeeps where possible.",
+      "Bargain respectfully while shopping at local markets."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Light layers (t-shirts, long-sleeve shirts)",
+      "A warm jacket or sweater for evenings",
+      "Comfortable trousers or jeans"
+    ],
+    "footwear": [
+      "Comfortable walking shoes or sneakers",
+      "Hiking shoes (if planning serious treks)"
+    ],
+    "essentials": [
+      "Sunscreen with high SPF",
+      "Sunglasses",
+      "Hat or cap",
+      "Reusable water bottle",
+      "Backpack"
+    ],
+    "medication": [
+      "Personal medications",
+      "Basic first-aid kit (band-aids, antiseptic, pain relievers)"
+    ],
+    "electronics": [
+      "Mobile phone and charger",
+      "Power bank",
+      "Camera and extra batteries"
+    ],
+    "documents": [
+      "Government-issued ID (Aadhaar card, Driver's License)",
+      "Hotel booking confirmation"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Book accommodation",
+      "completed": true,
+      "priority": "high"
+    },
+    {
+      "task": "Arrange transport from Haldwani to Bhimtal",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pack bags according to the packing list",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Charge all electronic devices",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Inform family or friends of your itinerary",
+      "completed": false,
+      "priority": "low"
+    }
+  ]
+}
