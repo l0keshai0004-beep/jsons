@@ -1,0 +1,673 @@
+{
+  "tripOverview": {
+    "destination": "Bengaluru, India",
+    "startDate": "2025-10-27",
+    "endDate": "2025-10-30",
+    "duration": "3 nights",
+    "companions": "2 Adults, 1 Child",
+    "tripType": "Family Vacation"
+  },
+  "mode_of_transport": {
+    "flight": {
+      "destination": "Bengaluru",
+      "Approx_cost": "₹8,000 - ₹15,000 (Round Trip per person)",
+      "Approx_time_of_flight(duration)": "2 hours 45 minutes (Direct)",
+      "Nearest_airport_from_current_destination": "Indira Gandhi International Airport, Delhi (DEL)",
+      "Nearest_airport_from_visiting_destination": "Kempegowda International Airport Bengaluru (BLR)"
+    }
+  },
+  "hotel": {
+    "name": "Hotel City Meridian",
+    "location": "81, 6th Cross Rd, near Movieland Theater, Gandhi Nagar, Bengaluru, Karnataka 560009, India",
+    "coordinates": {
+      "latitude": 12.9703317,
+      "longitude": 77.5738886
+    },
+    "pricePerNight": 1697,
+    "rooms": 1,
+    "nights": 3,
+    "totalCost": 5090,
+    "currency": "INR",
+    "reasonForSelection": "Excellent value for money with a high rating of 4.6 from over 1400 reviews. It offers essential amenities like Free Wi-Fi and is pet-friendly, ensuring a comfortable stay for the family. Its central location provides good connectivity to the planned attractions.",
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Pet-friendly",
+      "Room service",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Smoke-free property"
+    ],
+    "bookingLinks": [
+      "http://hotelcitymeridian.in/"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipPGPpnxQcp27FgJRhF7axXmixDsyFb0RrZkOa6z=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipN54l81IBZF6J5DSCv35pxtHKZFJzr7m3Ryoh8U=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPMS8f96k6tq5RA59MWMrzH9qOlLDlLf0vnqoaK=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-27",
+      "theme": "Arrival and Acclimatization",
+      "optimizedRoute": "Arrival at hotel, followed by local exploration on foot.",
+      "totalDistance": 0,
+      "totalTravelTime": "N/A",
+      "places": [
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Arrival in Bengaluru & Hotel Check-in",
+          "coordinates": {
+            "latitude": 12.9703317,
+            "longitude": 77.5738886
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A",
+          "description": "Welcome to Bengaluru! Upon arrival at Kempegowda International Airport, you will take a pre-booked taxi or a ride-sharing service to Hotel City Meridian. The journey can take anywhere from 1 to 1.5 hours depending on traffic. After checking in, take the afternoon to settle into your room, unpack, and relax after your journey. This is a great time to acclimatize to the city's pleasant weather and plan for the exciting days ahead. The hotel staff can provide any immediate assistance or information you might need for your stay.",
+          "whyVisit": "This initial period is crucial for resting after a flight and preparing for the upcoming days of sightseeing. It ensures the family, especially the teenager, is energized and ready for exploration rather than being rushed into activities immediately upon arrival.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrival+in+Bengaluru+%26+Hotel+Check-in&dates=20251027T080000Z/20251027T100000Z&details=Arrive+at+Bengaluru+airport,+transfer+to+your+hotel,+and+check+in.+Take+some+time+to+relax+and+settle+in.&location=Hotel+City+Meridian,+Bengaluru,+India",
+          "activities": [
+            "Check into your hotel and unpack.",
+            "Freshen up and relax.",
+            "Review the itinerary for the next few days.",
+            "Inquire at the front desk about nearby amenities or restaurants."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "Transport from airport: ₹700 - ₹1200",
+            "bestTime": "N/A",
+            "duration": "2-3 hours",
+            "accessibility": "Hotel City Meridian is accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Printout of hotel booking confirmation.",
+              "Comfortable change of clothes."
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Use official airport taxi services or reputable ride-sharing apps like Uber or Ola.",
+              "Keep your luggage with you at all times."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Leisurely Walk & Dinner",
+          "coordinates": {
+            "latitude": 12.9703317,
+            "longitude": 77.5738886
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "On Foot",
+          "description": "As evening sets in, step out for a casual exploration of the area around your hotel in Gandhi Nagar. This neighborhood is known for its bustling atmosphere and proximity to key areas. You can take a leisurely stroll to a nearby park like Freedom Park to stretch your legs, or browse the local shops to get a feel for the city. For dinner, the area offers a variety of options, from traditional South Indian eateries to multi-cuisine restaurants. This relaxed evening helps you ease into the city's vibe without a packed schedule.",
+          "whyVisit": "It's an excellent way to get acquainted with your immediate surroundings and discover local life. This low-key evening activity prevents over-exertion on the first day and allows the family to enjoy a meal together in a new city, setting a positive tone for the trip.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Leisurely+Walk+%26+Dinner&dates=20251027T130000Z/20251027T150000Z&details=Enjoy+a+relaxed+evening.+Depending+on+your+hotel%27s+location,+you+might+take+a+stroll+in+a+nearby+park+or+explore+local+shops.&location=Gandhi+Nagar,+Bengaluru,+India",
+          "activities": [
+            "Walking around the neighborhood.",
+            "Exploring local markets and shops.",
+            "Dining at a local restaurant to taste authentic Karnataka cuisine."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "Dinner: ₹800 - ₹1500 for the family",
+            "bestTime": "6:00 PM - 8:00 PM",
+            "duration": "2-3 hours",
+            "accessibility": "Sidewalks may be crowded and uneven in some areas."
+          },
+          "tips": {
+            "whatToBring": [
+              "A light jacket or shawl as evenings can be cool.",
+              "Comfortable walking shoes.",
+              "A small amount of cash for local shops."
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be aware of your surroundings and traffic.",
+              "Keep your valuables secure."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 1200,
+          "meals": 1500,
+          "shopping": 0,
+          "total": 2700
+        },
+        "remainingBudget": 42210
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-28",
+      "theme": "Royalty and Science",
+      "optimizedRoute": "Hotel → Bangalore Palace → Visvesvaraya Industrial & Technological Museum → UB City → Hotel",
+      "totalDistance": 16.52,
+      "totalTravelTime": "approx 1 hour",
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 12:30 PM",
+          "name": "Bangalore Palace",
+          "coordinates": {
+            "latitude": 12.9988,
+            "longitude": 77.5921
+          },
+          "distanceFromPrevious": 7.04,
+          "travelTimeFromPrevious": "20-25 mins",
+          "description": "Step into the opulent world of the Wodeyar dynasty at Bangalore Palace. This magnificent structure, with its Tudor-style architecture, fortified towers, and elegant woodcarvings, offers a striking contrast to the modern cityscape. The palace's interiors are lavishly decorated with floral motifs, cornices, and paintings. An audio guide, included with the entry ticket, narrates the fascinating history of the palace and the royal family, bringing the stories of a bygone era to life. The sprawling grounds surrounding the palace are equally impressive and often host concerts and events.",
+          "whyVisit": "It's a captivating historical landmark that provides a window into the lives of Bengaluru's former rulers. The grandeur and unique architecture make it a memorable experience for all ages and a fantastic location for family photographs. The blend of history and royal splendor is sure to intrigue a teenager.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Bangalore+Palace&dates=20251028T040000Z/20251028T070000Z&details=Explore+the+grand+architecture+and+rich+history+of+this+royal+palace.+Walk+through+the+palace+grounds,+admire+the+unique+architecture,+and+learn+about+the+Wodeyar+dynasty.&location=Bangalore+Palace,+Bengaluru,+India",
+          "activities": [
+            "Taking the audio-guided tour of the palace interiors.",
+            "Admiring the collection of royal artifacts and paintings.",
+            "Strolling through the beautiful palace gardens.",
+            "Taking family portraits with the stunning facade as a backdrop."
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. ₹230 for Indians, ₹460 for foreigners. Additional charges for cameras.",
+            "estimatedCost": "₹700 - ₹1000 (Entry + Camera)",
+            "bestTime": "Morning, to avoid crowds and heat.",
+            "duration": "2-3 hours",
+            "accessibility": "The ground floor is mostly accessible, but some upper areas may have limited access."
+          },
+          "tips": {
+            "whatToBring": [
+              "Water bottles.",
+              "Sunscreen and hats.",
+              "A good camera."
+            ],
+            "whatToBuy": [
+              "Souvenirs from the small shop on the premises."
+            ],
+            "safetyNotes": [
+              "Follow the palace rules and do not touch the exhibits."
+            ],
+            "customsEtiquette": [
+              "Photography might be restricted in certain areas."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "In front of the main palace facade.",
+              "Inside the Durbar Hall.",
+              "In the colourful courtyard."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:00 PM - 5:00 PM",
+          "name": "Visvesvaraya Industrial & Technological Museum",
+          "coordinates": {
+            "latitude": 12.9755,
+            "longitude": 77.5969
+          },
+          "distanceFromPrevious": 5.97,
+          "travelTimeFromPrevious": "15-20 mins",
+          "description": "Located a short drive from Bangalore Palace, this museum is a paradise for curious minds. Named after the eminent engineer Sir M. Visvesvaraya, it's one of India's premier science museums. It features a treasure trove of interactive exhibits spread across various galleries, including the Engine Hall, Fun Science Hall, and a dedicated gallery on space technology. The museum makes learning about complex scientific principles fun and engaging through hands-on models and demonstrations. Don't miss the 'Dinosaur Alive' exhibit and the daily science shows, which are a big hit with visitors of all ages.",
+          "whyVisit": "It's a perfect family destination that combines education with entertainment. For a 13-year-old, the interactive exhibits provide a fantastic opportunity to learn about science and technology in a way that textbooks cannot. It’s an experience that sparks curiosity and makes for a fun-filled afternoon.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visvesvaraya+Industrial+%26+Technological+Museum&dates=20251028T083000Z/20251028T113000Z&details=An+interactive+science+museum+that%27s+incredibly+engaging+for+all+ages.+Engage+with+various+science+exhibits,+learn+about+technology,+and+participate+in+interactive+displays.&location=Visvesvaraya+Industrial+%26+Technological+Museum,+Bengaluru,+India",
+          "activities": [
+            "Exploring the various science galleries.",
+            "Participating in hands-on experiments.",
+            "Watching a 3D film or a science show.",
+            "Visiting the replica of the Wright Brothers' flyer."
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. ₹75 per person. Separate charges for shows.",
+            "estimatedCost": "₹300 - ₹500 for the family",
+            "bestTime": "Afternoon",
+            "duration": "3 hours",
+            "accessibility": "The museum is wheelchair accessible with ramps and elevators."
+          },
+          "tips": {
+            "whatToBring": [
+              "Curiosity and an eagerness to learn.",
+              "Hand sanitizer, as you'll be touching many exhibits."
+            ],
+            "whatToBuy": [
+              "Educational toys and science kits from the museum shop."
+            ],
+            "safetyNotes": [
+              "Supervise children to ensure they handle the exhibits properly."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Next to the giant dinosaur models.",
+              "With the interactive physics exhibits."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM onwards",
+          "name": "UB City",
+          "coordinates": {
+            "latitude": 12.9721,
+            "longitude": 77.5967
+          },
+          "distanceFromPrevious": 1.12,
+          "travelTimeFromPrevious": "5-10 mins",
+          "description": "Experience the modern, glamorous side of Bengaluru at UB City, the city's first luxury mall. This beautifully designed complex houses high-end international brands, classy cafes, and some of the finest restaurants in the city. The central piazza, with its striking architecture and lively ambiance, is a popular spot for both locals and tourists to unwind. Even if you're not into luxury shopping, the atmosphere, art installations, and the sheer vibrancy of the place make it worth a visit. It's an ideal place to enjoy a sophisticated family dinner to cap off the day.",
+          "whyVisit": "UB City showcases the cosmopolitan culture of Bengaluru. It offers a safe and upscale environment to enjoy an evening meal, with a wide variety of cuisines to please everyone's palate. The modern setting and lively vibe provide a different experience compared to the historical sites visited earlier.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=UB+City&dates=20251028T133000Z/20251028T160000Z&details=Bengaluru%27s+luxury+mall+offering+a+mix+of+high-end+brands,+fine+dining,+and+entertainment.+Enjoy+dinner+at+one+of+the+many+restaurants,+do+some+window+shopping,+or+simply+soak+in+the+vibrant+atmosphere.&location=UB+City,+Bengaluru,+India",
+          "activities": [
+            "Enjoying dinner at a fine-dining restaurant or a casual cafe.",
+            "Window shopping at luxury brand stores.",
+            "Admiring the architecture and art installations.",
+            "Soaking in the lively evening atmosphere at the piazza."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "Dinner: ₹1500 - ₹3000",
+            "bestTime": "Evening",
+            "duration": "2-3 hours",
+            "accessibility": "Fully accessible with ramps and elevators."
+          },
+          "tips": {
+            "whatToBring": [
+              "A smart casual dress code is appropriate.",
+              "A camera to capture the beautiful night lights."
+            ],
+            "whatToBuy": [
+              "High-end fashion, accessories, or gourmet food items."
+            ],
+            "safetyNotes": [
+              "It's a very safe and well-guarded complex."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": "Recommended for popular restaurants, especially on weekends.",
+            "photoSpots": [
+              "In the central piazza with the UB Tower in the background.",
+              "Near the fountain and art installations."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 16.52,
+        "spending": {
+          "entryFees": 1000,
+          "activities": 0,
+          "transport": 800,
+          "meals": 3000,
+          "shopping": 0,
+          "total": 4800
+        },
+        "remainingBudget": 37410
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-29",
+      "theme": "Gardens, History, and Bazaars",
+      "optimizedRoute": "Hotel → Lalbagh Botanical Garden → Tipu Sultan's Summer Palace & Bangalore Fort → Commercial Street → Hotel",
+      "totalDistance": 15.6,
+      "totalTravelTime": "approx 1 hour",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Lalbagh Botanical Garden",
+          "coordinates": {
+            "latitude": 12.9507,
+            "longitude": 77.5848
+          },
+          "distanceFromPrevious": 3.3,
+          "travelTimeFromPrevious": "15-20 mins",
+          "description": "Lalbagh is a nationally and internationally renowned center for botanical artwork, scientific study of plants, and plant conservation. This sprawling 240-acre garden is a green lung in the heart of the city, home to a vast collection of tropical plants, ancient trees, and a famous glass house modeled on London's Crystal Palace. The serene atmosphere, the picturesque lake, and the vibrant flower beds make it a perfect place for a refreshing morning walk. The garden also features a historic rock formation, the Lalbagh Rock, which is a declared National Geological Monument.",
+          "whyVisit": "It offers a tranquil escape from the city's hustle and bustle. The sheer diversity of flora is educational, and the beautiful landscapes provide a wonderful opportunity for relaxation and nature photography. It’s a great way to start the day with a peaceful activity that the whole family can enjoy together.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Lalbagh+Botanical+Garden&dates=20251029T033000Z/20251029T063000Z&details=A+beautiful+and+expansive+botanical+garden,+perfect+for+a+refreshing+morning+walk+amidst+diverse+flora.+Take+a+leisurely+walk,+admire+the+stunning+collection+of+plants,+see+the+iconic+Glass+House,+and+enjoy+the+tranquil+environment.&location=Lalbagh+Botanical+Garden,+Bengaluru,+India",
+          "activities": [
+            "Walking or jogging on the numerous trails.",
+            "Admiring the iconic Glass House and Floral Clock.",
+            "Boating in the Lalbagh Lake.",
+            "Bird watching and exploring the bonsai garden."
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. ₹30 per person. Free entry in the early morning for walkers.",
+            "estimatedCost": "₹100 for the family",
+            "bestTime": "Early morning (6 AM - 9 AM) or late afternoon.",
+            "duration": "2.5-3 hours",
+            "accessibility": "Main pathways are wheelchair accessible. Electric carts are available for a tour of the garden for a fee."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes.",
+              "Water, sunscreen, and hats.",
+              "Binoculars for bird watching."
+            ],
+            "whatToBuy": [
+              "Plants and seeds from the nursery.",
+              "Local snacks from vendors outside the gates."
+            ],
+            "safetyNotes": [
+              "Stay on the designated paths.",
+              "Be cautious of monkeys in some areas."
+            ],
+            "customsEtiquette": [
+              "Do not pluck flowers or damage the plants."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "In front of the Glass House.",
+              "On the Lalbagh Rock with a panoramic view.",
+              "By the serene lake."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "1:30 PM - 4:30 PM",
+          "name": "Tipu Sultan's Summer Palace & Bangalore Fort",
+          "coordinates": {
+            "latitude": 12.9593,
+            "longitude": 77.5735
+          },
+          "distanceFromPrevious": 1.89,
+          "travelTimeFromPrevious": "10-15 mins",
+          "description": "Dive back into history at Tipu Sultan's Summer Palace, an elegant example of Indo-Islamic architecture. Made primarily of teakwood, the palace is known for its ornate frescoes, arches, and balconies. It served as the summer residence of the Mysorean ruler Tipu Sultan. Though much smaller than the Bangalore Palace, its intricate details and historical significance are profound. Nearby, you can visit the remnants of the Bangalore Fort, which was originally a mud fort built by Kempe Gowda I and later expanded by Tipu Sultan. While only a small portion remains, it stands as a testament to the city's origins.",
+          "whyVisit": "This visit offers a deeper understanding of the region's history beyond the Wodeyars. The palace's beautiful craftsmanship and the fort's ruins provide a tangible connection to the past, making history more engaging for a teenager. It's a compact historical tour that is easy to cover in an afternoon.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Tipu+Sultan%27s+Summer+Palace+%26+Bangalore+Fort&dates=20251029T080000Z/20251029T110000Z&details=Discover+the+elegant+wooden+palace+of+Tipu+Sultan+and+the+remnants+of+the+old+Bangalore+Fort+nearby.+Explore+the+intricate+wooden+architecture+of+the+palace+and+imagine+life+during+the+Sultan%27s+reign.&location=Tipu+Sultan%27s+Summer+Palace,+Bengaluru,+India",
+          "activities": [
+            "Exploring the two-storied palace and its small museum.",
+            "Admiring the detailed carvings and paintings.",
+            "Walking around the remains of the Bangalore Fort.",
+            "Learning about the history of Tipu Sultan and Kempe Gowda."
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. ₹20 for Indians, ₹250 for foreigners (for the palace).",
+            "estimatedCost": "₹100 - ₹200 for the family",
+            "bestTime": "Afternoon",
+            "duration": "2-2.5 hours",
+            "accessibility": "The ground floor of the palace is accessible. The fort area has uneven surfaces."
+          },
+          "tips": {
+            "whatToBring": [
+              "Water bottles.",
+              "A hat or cap."
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Watch your step around the fort ruins."
+            ],
+            "customsEtiquette": [
+              "Respect the historical significance of the site."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The grand arches and pillars of the Summer Palace.",
+              "The remaining gate of the Bangalore Fort."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "6:00 PM onwards",
+          "name": "Commercial Street",
+          "coordinates": {
+            "latitude": 12.9822,
+            "longitude": 77.6081
+          },
+          "distanceFromPrevious": 6.32,
+          "travelTimeFromPrevious": "25-30 mins",
+          "description": "For a vibrant and authentic Bengaluru shopping experience, head to Commercial Street. This bustling hub is one of the city's oldest and busiest shopping areas. It's a maze of narrow streets lined with shops selling everything from clothing, footwear, and accessories to electronics and souvenirs. The street is famous for its variety and affordable prices, making it a favorite spot for bargain hunters. The lively atmosphere, the aroma of street food, and the sheer energy of the crowd make it an exciting place to spend the evening, even if you just want to soak in the local culture.",
+          "whyVisit": "It offers a stark contrast to the luxury of UB City, showcasing the everyday life and commerce of Bengaluru. It's a great place to shop for souvenirs and experience the thrill of street shopping. The lively environment and the chance to try local street food can be a fun adventure for the family.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Commercial+Street&dates=20251029T123000Z/20251029T153000Z&details=A+bustling+shopping+hub+where+you+can+find+everything+from+clothes+to+souvenirs.+Enjoy+some+street+shopping,+bargain+for+local+goods,+and+perhaps+try+some+street+food+for+dinner.&location=Commercial+Street,+Bengaluru,+India",
+          "activities": [
+            "Shopping for clothes, accessories, and souvenirs.",
+            "Bargaining with street vendors for good deals.",
+            "Trying local street food delicacies.",
+            "Experiencing the bustling market atmosphere."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "Shopping: As per preference. Dinner: ₹500 - ₹1000",
+            "bestTime": "Evening, when the market is at its most vibrant.",
+            "duration": "2-3 hours",
+            "accessibility": "The streets are crowded and may not be easily accessible for wheelchairs."
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash, as many small shops may not accept cards.",
+              "A bag to carry your purchases.",
+              "Comfortable footwear."
+            ],
+            "whatToBuy": [
+              "Kurtis and ethnic wear.",
+              "Fashion jewelry and accessories.",
+              "Chappals and sandals.",
+              "Souvenirs of Bengaluru."
+            ],
+            "safetyNotes": [
+              "Be mindful of your belongings in the crowd.",
+              "Be cautious when trying street food; opt for busy, clean-looking stalls."
+            ],
+            "customsEtiquette": [
+              "Bargaining is common and expected, but do it politely."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Amidst the colorful displays of the shops.",
+              "Capturing the energy of the bustling crowd."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 15.6,
+        "spending": {
+          "entryFees": 200,
+          "activities": 0,
+          "transport": 800,
+          "meals": 1500,
+          "shopping": 2000,
+          "total": 4500
+        },
+        "remainingBudget": 32910
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-10-30",
+      "theme": "Leisurely Departure",
+      "optimizedRoute": "Hotel to Airport",
+      "totalDistance": 0,
+      "totalTravelTime": "N/A",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Relaxed Morning & Departure",
+          "coordinates": {
+            "latitude": 12.9703317,
+            "longitude": 77.5738886
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A",
+          "description": "Enjoy the final morning of your trip at your own pace. Have a leisurely breakfast at the hotel or explore a nearby cafe for some local breakfast delights like idli-vada or dosa. Depending on your flight schedule, you might have time for some last-minute souvenir shopping at a nearby market or simply relax at the hotel. Pack your bags, complete the check-out formalities, and then proceed to Kempegowda International Airport for your flight back home, filled with wonderful memories of your Bengaluru vacation.",
+          "whyVisit": "A relaxed final day ensures a stress-free end to the vacation. It provides a buffer for packing and travel to the airport, avoiding any last-minute rush and allowing the family to leave on a positive and relaxed note.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Relaxed+Morning+%26+Departure&dates=20251030T040000Z/20251030T070000Z&details=Enjoy+a+relaxed+breakfast+at+your+hotel+or+a+local+cafe.+Check+out+from+your+hotel+and+head+to+the+airport+for+your+departure.&location=Hotel+City+Meridian,+Bengaluru,+India",
+          "activities": [
+            "Enjoying a final breakfast.",
+            "Last-minute souvenir shopping.",
+            "Packing and checking out from the hotel.",
+            "Traveling to the airport."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "Breakfast: ₹500, Transport to airport: ₹1200",
+            "bestTime": "N/A",
+            "duration": "3-4 hours",
+            "accessibility": "N/A"
+          },
+          "tips": {
+            "whatToBring": [
+              "All your packed luggage.",
+              "Travel documents (tickets, IDs)."
+            ],
+            "whatToBuy": [
+              "Mysore Pak (a famous sweet), Sandalwood items, or coffee powder as last-minute gifts."
+            ],
+            "safetyNotes": [
+              "Double-check your room for any left-behind items.",
+              "Leave for the airport well in advance, accounting for Bengaluru's traffic."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 1200,
+          "meals": 500,
+          "shopping": 1000,
+          "total": 2700
+        },
+        "remainingBudget": 30210
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 50000,
+    "currency": "INR",
+    "expenses": {
+      "flights": [
+        {
+          "flightName": "Delhi to Bengaluru (Round Trip, Approx.)",
+          "cost": 15000
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Hotel City Meridian",
+        "pricePerNight": 1697,
+        "nights": 3,
+        "total": 5090
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 1200,
+          "meals": 1500,
+          "shopping": 0,
+          "subtotal": 2700
+        },
+        {
+          "day": 2,
+          "entryFees": 1000,
+          "activities": 0,
+          "transport": 800,
+          "meals": 3000,
+          "shopping": 0,
+          "subtotal": 4800
+        },
+        {
+          "day": 3,
+          "entryFees": 200,
+          "activities": 0,
+          "transport": 800,
+          "meals": 1500,
+          "shopping": 2000,
+          "subtotal": 4500
+        },
+        {
+          "day": 4,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 1200,
+          "meals": 500,
+          "shopping": 1000,
+          "subtotal": 2700
+        }
+      ]
+    },
+    "totalSpent": 34790,
+    "remainingBudget": 15210,
+    "budgetTips": [
+      "Use ride-sharing apps like Uber or Ola for city transport, which are often cheaper than regular taxis.",
+      "Enjoy meals at local South Indian restaurants, which are both delicious and budget-friendly.",
+      "Many attractions have free entry or minimal fees, so prioritize those if the budget gets tight."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Light cotton clothes for the daytime.",
+      "A light jacket or sweater for cooler evenings.",
+      "A mix of casual wear (t-shirts, jeans) and a smart casual outfit for dinners.",
+      "Raincoat or umbrella, given the chance of rain."
+    ],
+    "footwear": [
+      "Comfortable walking shoes or sneakers.",
+      "A pair of sandals or flip-flops."
+    ],
+    "essentials": [
+      "Sunscreen with high SPF.",
+      "Sunglasses and hats.",
+      "Insect repellent.",
+      "Hand sanitizer.",
+      "Reusable water bottle."
+    ],
+    "medication": [
+      "Personal prescribed medications.",
+      "A basic first-aid kit with pain relievers, band-aids, and antiseptic wipes."
+    ],
+    "electronics": [
+      "Smartphone and charger.",
+      "Power bank.",
+      "Camera with extra batteries.",
+      "Universal travel adapter."
+    ],
+    "documents": [
+      "Flight tickets and hotel booking confirmations.",
+      "Government-issued photo IDs (Aadhaar card, driver's license).",
+      "A copy of all important documents."
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Book round-trip flights from Delhi to Bengaluru.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Book accommodation at Hotel City Meridian.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Arrange airport transfers in Bengaluru.",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Plan daily budget for food, transport, and shopping.",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Pack all necessary items as per the packing list.",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "task": "Charge all electronic devices before leaving.",
+      "completed": false,
+      "priority": "low"
+    }
+  ]
+}
