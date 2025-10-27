@@ -1,0 +1,713 @@
+{
+  "tripOverview": {
+    "destination": "Bengaluru, India",
+    "startDate": "2025-10-27",
+    "endDate": "2025-10-30",
+    "duration": "3 nights",
+    "companions": "2 Adults, 1 Child",
+    "tripType": "Family Vacation"
+  },
+  "mode_of_transport": {
+    "flight": {
+      "destination": "Bengaluru",
+      "Approx_cost": "₹18,000 - ₹25,000 (Round-trip for 2 adults and 1 child)",
+      "Approx_time_of_flight(duration)": "2 hours 45 minutes",
+      "Nearest_airport_from_current_destination": "Indira Gandhi International Airport (DEL), Delhi",
+      "Nearest_airport_from_visiting_destination": "Kempegowda International Airport Bengaluru (BLR)"
+    }
+  },
+  "hotel": {
+    "name": "Hotel City Meridian",
+    "location": "Bengaluru, Karnataka, India",
+    "coordinates": {
+      "latitude": 12.9703317,
+      "longitude": 77.5738886
+    },
+    "pricePerNight": 1697,
+    "rooms": 1,
+    "nights": 3,
+    "totalCost": 5091,
+    "currency": "INR",
+    "reasonForSelection": "Excellent guest rating (4.6) from over 1400 reviews, falling well within the budget. It offers key amenities like Free Wi-Fi and is centrally located, providing good value.",
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Pet-friendly",
+      "Room service",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Smoke-free property"
+    ],
+    "bookingLinks": [
+      "http://hotelcitymeridian.in/"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipPGPpnxQcp27FgJRhF7axXmixDsyFb0RrZkOa6z=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipN54l81IBZF6J5DSCv35pxtHKZFJzr7m3Ryoh8U=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-27",
+      "theme": "Arrival and Evening Relaxation",
+      "optimizedRoute": "Hotel City Meridian → Cubbon Park → Hotel City Meridian",
+      "totalDistance": 5.93,
+      "totalTravelTime": "Approx. 20-25 minutes driving",
+      "places": [
+        {
+          "timeOfDay": "3:00 PM - 5:00 PM",
+          "name": "Hotel Check-in & Relaxation",
+          "coordinates": {
+            "latitude": 12.9703317,
+            "longitude": 77.5738886
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Arrive in Bengaluru, check into your hotel, and take some time to settle in after your journey from Delhi. Unpack and relax before heading out to explore the Garden City.",
+          "whyVisit": "Essential downtime after traveling to ensure you are refreshed and ready for the exciting days ahead.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hotel+Check-in+%26+Relaxation&dates=20251027T150000/20251027T170000&details=Arrive+in+Bengaluru,+check+into+your+hotel,+and+take+some+time+to+settle+in+after+your+journey.&location=Hotel+City+Meridian,+Bengaluru",
+          "activities": [
+            "Check-in",
+            "Unpack",
+            "Freshen up"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "None",
+            "bestTime": "Afternoon",
+            "duration": "2 hours",
+            "accessibility": "Fully accessible"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Keep your luggage secure and valuables in the hotel safe."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "5:00 PM - 7:00 PM",
+          "name": "Cubbon Park",
+          "coordinates": {
+            "latitude": 12.9757,
+            "longitude": 77.5942
+          },
+          "distanceFromPrevious": 2.59,
+          "travelTimeFromPrevious": "Approx. 10 minutes",
+          "description": "A landmark 'lung' area of Bengaluru, Cubbon Park is a sprawling green oasis in the city's heart. It covers an area of 300 acres and is an ideal spot for a leisurely evening stroll, offering a tranquil escape from the urban hustle.",
+          "whyVisit": "It's a beautiful, well-maintained park that provides a serene environment for relaxation and light recreation. It's perfect for families, with attractions like a playground and the Bangalore Aquarium located within its premises.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit+Cubbon+Park&dates=20251027T170000/20251027T190000&details=A+sprawling+green+oasis+in+the+heart+of+the+city,+perfect+for+a+leisurely+evening+stroll.&location=Cubbon+Park,+Bengaluru",
+          "activities": [
+            "Leisurely walk",
+            "Visit the playground",
+            "Explore the Bangalore Aquarium",
+            "Photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free for park entry. Aquarium has a separate fee.",
+            "estimatedCost": "₹50 - ₹100 for aquarium",
+            "bestTime": "Evening",
+            "duration": "2 hours",
+            "accessibility": "Largely accessible, with paved pathways."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "An umbrella or raincoat, as the forecast predicts a 73% chance of rain."
+            ],
+            "whatToBuy": [
+              "Local snacks from vendors outside the park."
+            ],
+            "safetyNotes": [
+              "Stay on well-lit paths as evening approaches."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Near the Bandstand",
+              "In front of the State Central Library",
+              "Among the bamboo groves"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:30 PM onwards",
+          "name": "Dinner at a Local Restaurant",
+          "coordinates": {
+            "latitude": 12.9703317,
+            "longitude": 77.5738886
+          },
+          "distanceFromPrevious": 3.34,
+          "travelTimeFromPrevious": "Approx. 12 minutes",
+          "description": "Explore Bengaluru's diverse culinary landscape. The area around your hotel and Cubbon Park offers a variety of dining options, from traditional South Indian thalis to international cuisines, catering to all tastes and budgets.",
+          "whyVisit": "To savor the authentic flavors of Karnataka and experience the city's vibrant food culture.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Dinner+at+a+Local+Restaurant&dates=20251027T193000/20251027T210000&details=Explore+the+local+culinary+scene.&location=Bengaluru",
+          "activities": [
+            "Trying local dishes like Bisi Bele Bath or Akki Roti",
+            "Enjoying a family meal"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "₹800 - ₹1500 for three people",
+            "bestTime": "Evening",
+            "duration": "1.5 hours",
+            "accessibility": "Varies by restaurant"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Check restaurant reviews online before visiting."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 5.93,
+        "spending": {
+          "entryFees": 100,
+          "activities": 0,
+          "transport": 300,
+          "meals": 1500,
+          "shopping": 0,
+          "total": 1900
+        },
+        "remainingBudget": 48100
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-28",
+      "theme": "History, Science, and Spirituality",
+      "optimizedRoute": "Hotel City Meridian → Visvesvaraya Industrial & Technological Museum → Bangalore Palace → ISKCON Temple Bangalore → Hotel City Meridian",
+      "totalDistance": 23.24,
+      "totalTravelTime": "Approx. 1 hour 30 minutes driving",
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 12:00 PM",
+          "name": "Bangalore Palace",
+          "coordinates": {
+            "latitude": 12.9987,
+            "longitude": 77.5921
+          },
+          "distanceFromPrevious": 7.4,
+          "travelTimeFromPrevious": "Approx. 25 minutes",
+          "description": "A majestic palace of the Tudor Revival style architecture, complete with fortified towers, battlements, and turrets. The interiors are adorned with elegant wood carvings, floral motifs, and paintings, offering a fascinating look into the life of the Wodeyar dynasty.",
+          "whyVisit": "It provides a captivating glimpse into the splendor of one of India's most enduring royal families. The audio guide offers detailed stories about the palace's history and its famous residents.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit+Bangalore+Palace&dates=20251028T093000/20251028T120000&details=A+magnificent+historical+palace+with+stunning+architecture,+resembling+Windsor+Castle.&location=Bangalore+Palace,+Bengaluru",
+          "activities": [
+            "Audio-guided tour",
+            "Admiring royal artifacts and paintings",
+            "Exploring the palace grounds"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. ₹230 for Indians, ₹460 for foreigners.",
+            "estimatedCost": "₹700 for the family",
+            "bestTime": "Morning",
+            "duration": "2.5 hours",
+            "accessibility": "Limited accessibility for wheelchairs in some sections."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "An umbrella, as rain is likely (75% probability)."
+            ],
+            "whatToBuy": [
+              "Souvenirs from the gift shop."
+            ],
+            "safetyNotes": [
+              "Follow the designated routes within the palace."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main palace facade",
+              "The grand Durbar Hall"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:00 PM - 4:30 PM",
+          "name": "Visvesvaraya Industrial & Technological Museum",
+          "coordinates": {
+            "latitude": 12.9754,
+            "longitude": 77.5959
+          },
+          "distanceFromPrevious": 3.49,
+          "travelTimeFromPrevious": "Approx. 15 minutes",
+          "description": "An interactive science museum dedicated to the memory of Sir M. Visvesvaraya. It features various exhibition halls on themes like Engine Hall, Fun Science, Electrotechnic, and Space Gallery, making learning about science a fun and engaging experience.",
+          "whyVisit": "Perfect for a 13-year-old, this museum offers numerous hands-on exhibits that simplify complex scientific principles. It's an educational and entertaining outing for the entire family.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit+Visvesvaraya+Museum&dates=20251028T140000/20251028T163000&details=An+interactive+science+museum+that's+very+engaging+for+all+ages.&location=Visvesvaraya+Industrial+%26+Technological+Museum,+Bengaluru",
+          "activities": [
+            "Hands-on science experiments",
+            "Watching the 'Taramandal' show",
+            "Exploring the Wright brothers' flyer replica"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. ₹75 per person.",
+            "estimatedCost": "₹225 for the family",
+            "bestTime": "Afternoon",
+            "duration": "2.5 hours",
+            "accessibility": "Accessible with ramps and elevators."
+          },
+          "tips": {
+            "whatToBring": [
+              "Curiosity and a willingness to interact with exhibits."
+            ],
+            "whatToBuy": [
+              "Educational toys and kits from the museum shop."
+            ],
+            "safetyNotes": [
+              "Supervise children around the exhibits."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "With the giant dinosaur replica outside",
+              "In the Fun Science gallery"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "5:00 PM - 6:30 PM",
+          "name": "ISKCON Temple Bangalore",
+          "coordinates": {
+            "latitude": 13.0098,
+            "longitude": 77.5511
+          },
+          "distanceFromPrevious": 9.95,
+          "travelTimeFromPrevious": "Approx. 30 minutes",
+          "description": "One of the largest ISKCON temples in the world, this complex is a stunning blend of modern technology and traditional Dravidian and modern architecture. It is dedicated to Lord Krishna and provides a deeply spiritual and serene atmosphere.",
+          "whyVisit": "The temple's grandeur, beautiful idols, and peaceful ambiance make it a must-visit. The evening aarti (prayer ceremony) is a particularly captivating experience.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit+ISKCON+Temple&dates=20251028T170000/20251028T183000&details=A+grand+and+spiritual+complex+dedicated+to+Lord+Krishna.&location=ISKCON+Temple,+Bengaluru",
+          "activities": [
+            "Darshan (viewing of the deities)",
+            "Attending the evening aarti",
+            "Exploring the temple complex"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "Donations are voluntary",
+            "bestTime": "Evening for the aarti",
+            "duration": "1.5 hours",
+            "accessibility": "Elevators are available for the elderly and disabled."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [
+              "Spiritual books or prasadam (blessed food) from the temple counters."
+            ],
+            "safetyNotes": [
+              "Deposit footwear and bags at the designated counters."
+            ],
+            "customsEtiquette": [
+              "Dress modestly (shoulders and knees covered)."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main temple gopuram (tower) from the outside."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 23.24,
+        "spending": {
+          "entryFees": 925,
+          "activities": 0,
+          "transport": 800,
+          "meals": 2000,
+          "shopping": 200,
+          "total": 3925
+        },
+        "remainingBudget": 44175
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-10-29",
+      "theme": "Wildlife, Nature, and Shopping",
+      "optimizedRoute": "Hotel City Meridian → Bannerghatta Biological Park → Lal Bagh Botanical Garden → Commercial Street → Hotel City Meridian",
+      "totalDistance": 53.17,
+      "totalTravelTime": "Approx. 2 hours 30 minutes driving",
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 3:00 PM",
+          "name": "Bannerghatta Biological Park",
+          "coordinates": {
+            "latitude": 12.8005,
+            "longitude": 77.5772
+          },
+          "distanceFromPrevious": 23.31,
+          "travelTimeFromPrevious": "Approx. 1 hour",
+          "description": "A unique biological park that features a zoo, a pet corner, an animal rescue center, a butterfly enclosure, an aquarium, a snake house, and a safari park. It's a popular destination for families and wildlife enthusiasts.",
+          "whyVisit": "It offers a comprehensive wildlife experience with its Grand Safari, where you can see animals like tigers, lions, and bears in their naturalistic habitats. The butterfly park is another key highlight.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit+Bannerghatta+Biological+Park&dates=20251029T093000/20251029T150000&details=A+massive+park+offering+a+zoo,+a+butterfly+park,+and+a+safari.&location=Bannerghatta+Biological+Park,+Bengaluru",
+          "activities": [
+            "Grand Safari (Jeep or Bus)",
+            "Visiting the zoo",
+            "Exploring the butterfly park"
+          ],
+          "practicalInfo": {
+            "entryFee": "Combo ticket (Zoo, Safari, Butterfly Park) is approx. ₹260 for adults, ₹130 for children.",
+            "estimatedCost": "₹700 - ₹1000 for combo tickets and activities",
+            "bestTime": "Morning",
+            "duration": "5.5 hours",
+            "accessibility": "Wheelchair access is available, but navigating the large area can be challenging."
+          },
+          "tips": {
+            "whatToBring": [
+              "Sunscreen, hats, and sunglasses, as the weather is expected to be sunny.",
+              "Drinking water and snacks."
+            ],
+            "whatToBuy": [
+              "Wildlife-themed souvenirs."
+            ],
+            "safetyNotes": [
+              "Do not feed the animals.",
+              "Stay inside the vehicle during the safari."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Inside the butterfly park",
+              "During the safari (from the vehicle)"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "3:30 PM - 6:00 PM",
+          "name": "Lal Bagh Botanical Garden",
+          "coordinates": {
+            "latitude": 12.9507,
+            "longitude": 77.5855
+          },
+          "distanceFromPrevious": 18.57,
+          "travelTimeFromPrevious": "Approx. 50 minutes",
+          "description": "A nationally and internationally renowned center for botanical artwork, scientific study of plants, and conservation. The garden features a famous glass house, a lake, and one of the largest collections of tropical plants in India.",
+          "whyVisit": "It's a horticultural treasure with a serene atmosphere. The ancient rock formation, known as the Lal Bagh Rock, is over 3000 million years old and is a major attraction.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit+Lal+Bagh+Botanical+Garden&dates=20251029T153000/20251029T180000&details=One+of+India's+most+exquisite+botanical+gardens.&location=Lal+Bagh+Botanical+Garden,+Bengaluru",
+          "activities": [
+            "Walking tour",
+            "Boating on the lake",
+            "Visiting the Glass House",
+            "Bird watching"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. ₹25 per person.",
+            "estimatedCost": "₹75 for the family",
+            "bestTime": "Late Afternoon",
+            "duration": "2.5 hours",
+            "accessibility": "Main pathways are accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable footwear",
+              "A good camera"
+            ],
+            "whatToBuy": [
+              "Plants and seeds from the nursery."
+            ],
+            "safetyNotes": [
+              "Be careful on the rocky outcrop."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Glass House (inspired by London's Crystal Palace)",
+              "The Lal Bagh Rock"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "6:30 PM onwards",
+          "name": "Shopping at Commercial Street",
+          "coordinates": {
+            "latitude": 12.9824,
+            "longitude": 77.6081
+          },
+          "distanceFromPrevious": 6.08,
+          "travelTimeFromPrevious": "Approx. 25 minutes",
+          "description": "One of the busiest and oldest shopping areas in Bengaluru, Commercial Street is a maze of lanes offering a wide range of goods, from clothing and accessories to electronics and home decor. It's famous for its vibrant street shopping experience.",
+          "whyVisit": "To experience the local shopping culture, bargain for goods, and find unique souvenirs and gifts to take back home.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Shopping+at+Commercial+Street&dates=20251029T183000/20251029T200000&details=Famous+for+street+shopping+and+a+bustling+atmosphere.&location=Commercial+Street,+Bengaluru",
+          "activities": [
+            "Shopping for clothes, footwear, and jewelry",
+            "Picking up souvenirs",
+            "Trying street food"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "Depends on shopping",
+            "bestTime": "Evening",
+            "duration": "2-3 hours",
+            "accessibility": "Can be crowded and challenging for wheelchair users."
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash, as not all vendors accept cards.",
+              "Good bargaining skills."
+            ],
+            "whatToBuy": [
+              "Silk sarees, handicrafts, sandalwood items."
+            ],
+            "safetyNotes": [
+              "Be aware of your belongings in crowded areas."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The vibrant, bustling lanes."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 53.17,
+        "spending": {
+          "entryFees": 1075,
+          "activities": 0,
+          "transport": 1500,
+          "meals": 2000,
+          "shopping": 3000,
+          "total": 7575
+        },
+        "remainingBudget": 36600
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-10-30",
+      "theme": "Leisurely Departure",
+      "optimizedRoute": "N/A",
+      "totalDistance": 0,
+      "totalTravelTime": "N/A",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 11:00 AM",
+          "name": "Leisurely Breakfast & Last-minute Souvenirs",
+          "coordinates": {
+            "latitude": 12.9703317,
+            "longitude": 77.5738886
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a final, relaxed breakfast in Bengaluru. Use this time to do some last-minute souvenir shopping at nearby local markets or state emporiums like Cauvery Arts & Crafts Emporium for authentic handicrafts.",
+          "whyVisit": "A calm start to your travel day and a final opportunity to purchase memories of your trip.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Leisurely+Breakfast+%26+Last-minute+Souvenirs&dates=20251030T090000/20251030T110000&details=Enjoy+a+relaxed+breakfast+and+perhaps+do+some+last-minute+souvenir+shopping.&location=Bengaluru",
+          "activities": [
+            "Enjoying a leisurely breakfast",
+            "Shopping for souvenirs like sandalwood carvings or silk."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "Depends on shopping",
+            "bestTime": "Morning",
+            "duration": "2 hours",
+            "accessibility": "Varies by location"
+          },
+          "tips": {
+            "whatToBring": [
+              "A bag for your purchases."
+            ],
+            "whatToBuy": [
+              "Sandalwood oil, Mysore silk, Channapatna toys."
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Flexible",
+          "name": "Departure from Bengaluru",
+          "coordinates": {
+            "latitude": 13.1986,
+            "longitude": 77.7066
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A",
+          "description": "Check out from your hotel and head to Kempegowda International Airport (BLR) for your flight back to Delhi, carrying wonderful memories of your family trip to Bengaluru.",
+          "whyVisit": "The culmination of your journey.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure+from+Bengaluru&dates=20251030T120000/20251030T130000&details=Head+to+the+airport+for+your+flight+back+to+Delhi.&location=Kempegowda+International+Airport+Bengaluru+(BLR)",
+          "activities": [
+            "Hotel Check-out",
+            "Travel to the airport"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "₹800 - ₹1200 for an airport cab",
+            "bestTime": "N/A",
+            "duration": "Allow at least 1.5-2 hours for travel to the airport",
+            "accessibility": "Airport is fully accessible."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Leave for the airport well in advance, accounting for Bengaluru's traffic."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 1200,
+          "meals": 1000,
+          "shopping": 2000,
+          "total": 4200
+        },
+        "remainingBudget": 32400
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 50000,
+    "currency": "INR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Flights (Delhi-Bengaluru-Delhi)",
+          "total_cost": 21500
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Hotel City Meridian",
+        "pricePerNight": 1697,
+        "nights": 3,
+        "total": 5091
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 100,
+          "activities": 0,
+          "transport": 300,
+          "meals": 1500,
+          "shopping": 0,
+          "subtotal": 1900
+        },
+        {
+          "day": 2,
+          "entryFees": 925,
+          "activities": 0,
+          "transport": 800,
+          "meals": 2000,
+          "shopping": 200,
+          "subtotal": 3925
+        },
+        {
+          "day": 3,
+          "entryFees": 1075,
+          "activities": 0,
+          "transport": 1500,
+          "meals": 2000,
+          "shopping": 3000,
+          "subtotal": 7575
+        },
+        {
+          "day": 4,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 1200,
+          "meals": 1000,
+          "shopping": 2000,
+          "subtotal": 4200
+        }
+      ]
+    },
+    "totalSpent": 44191,
+    "remainingBudget": 5809,
+    "budgetTips": [
+      "Utilize ride-sharing apps like Ola or Uber for local transport, which can be cheaper than regular taxis.",
+      "Enjoy street food and meals at smaller, local eateries for an authentic and budget-friendly experience.",
+      "Book flights and accommodation well in advance to get the best prices."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Light cotton clothes",
+      "A light jacket or sweater for evenings",
+      "Modest attire for temple visits (covering shoulders and knees)",
+      "Raincoat or waterproof jacket"
+    ],
+    "footwear": [
+      "Comfortable walking shoes or sneakers",
+      "Sandals or flip-flops"
+    ],
+    "essentials": [
+      "Umbrella",
+      "Sunscreen",
+      "Hat and sunglasses",
+      "Insect repellent",
+      "Portable power bank"
+    ],
+    "medication": [
+      "Personal prescriptions",
+      "Basic first-aid kit (band-aids, antiseptic, pain relievers)"
+    ],
+    "electronics": [
+      "Phone and charger",
+      "Camera and extra batteries"
+    ],
+    "documents": [
+      "Flight tickets",
+      "Hotel booking confirmation",
+      "Government-issued photo ID (Aadhaar card, driver's license)",
+      "Digital copies of all important documents"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Book round-trip flights from Delhi to Bengaluru",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Book accommodation at Hotel City Meridian",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Arrange airport transfers",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Plan daily local transport (e.g., booking a cab for the day or using ride-sharing apps)",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Pack all necessary items from the packing list",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Inform your bank of your travel dates to avoid card issues",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "task": "Charge all electronic devices before leaving",
+      "completed": false,
+      "priority": "low"
+    }
+  ]
+}
