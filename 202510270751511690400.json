@@ -1,0 +1,924 @@
+{
+  "tripOverview": {
+    "destination": "Dubai, UAE",
+    "startDate": "2025-11-04",
+    "endDate": "2025-11-10",
+    "duration": "6 nights",
+    "companions": "2 Adults, 1 Child",
+    "tripType": "Family Vacation"
+  },
+  "mode_of_transport": {
+    "flight": {
+      "destination": "Dubai, UAE",
+      "Approx_cost": "5000 AED",
+      "Approx_time_of_flight(duration)": "4 hours",
+      "Nearest_airport_from_current_destination": "Indira Gandhi International Airport (DEL)",
+      "Nearest_airport_from_visiting_destination": "Dubai International Airport (DXB)"
+    }
+  },
+  "hotel": {
+    "name": "DejaView Hostel , The Walk - JBR",
+    "location": "The Walk - JBR, Dubai, UAE",
+    "coordinates": {
+      "latitude": 25.0805772,
+      "longitude": 55.1371523
+    },
+    "google_map_integration_link": "https://www.google.com/maps?q=25.0805772,55.1371523",
+    "pricePerNight": 291,
+    "rooms": 1,
+    "nights": 6,
+    "totalCost": 1746,
+    "currency": "AED",
+    "reasonForSelection": "Selected for its excellent 4.8-star rating from over 35 reviews, affordable price, and strategic location on The Walk - JBR, making it ideal for a family looking for value and accessibility to the beach and attractions.",
+    "amenities": [
+      "Free Wi-Fi",
+      "Parking ($)",
+      "Outdoor pool",
+      "Air conditioning",
+      "Fitness center",
+      "Kitchen",
+      "Full-service laundry",
+      "Accessible"
+    ],
+    "bookingLinks": [
+      "https://dejaviewjbr.com/"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipOtlDs_L89eQEaFPo0vBoXWew3iiaixu9l0Wef_=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNtk_pYp_jJHWtySY0OULynFAkfvXyjTONPk321=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-04",
+      "theme": "Arrival and Iconic Heights",
+      "optimizedRoute": "Hotel → Burj Khalifa → Hotel",
+      "totalDistance": 45,
+      "totalTravelTime": "45 minutes",
+      "places": [
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Arrival at Dubai International Airport (DXB) & Hotel Check-in",
+          "coordinates": {
+            "latitude": 25.0805772,
+            "longitude": 55.1371523
+          },
+          "google_map_integration_link": "https://www.google.com/maps?q=25.0805772,55.1371523",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Welcome to Dubai! After landing at Dubai International Airport (DXB), clear immigration, collect your luggage, and take a pre-booked taxi or ride-sharing service to your hotel. Settle into your room, freshen up, and take some time to relax and acclimate to the vibrant city.",
+          "whyVisit": "The start of your exciting family adventure in Dubai. A smooth check-in process allows you to recharge after your flight and prepare for the amazing experiences ahead.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrival+and+Hotel+Check-in&dates=20251104T140000/20251104T160000&location=DejaView+Hostel,+The+Walk+-+JBR,+Dubai,+UAE",
+          "activities": [
+            "Airport Transfer",
+            "Hotel Check-in",
+            "Relax and Unpack"
+          ],
+          "practicalInfo": {
+            "entryFee": "0",
+            "estimatedCost": "100 AED (Taxi)",
+            "bestTime": "N/A",
+            "duration": "2 hours",
+            "accessibility": "High"
+          },
+          "tips": {
+            "whatToBring": [
+              "Passport and Visa",
+              "Hotel confirmation",
+              "Local currency (AED)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Keep your valuables secure.",
+              "Use official airport taxis or reputable ride-sharing apps."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "6:00 PM - 9:00 PM",
+          "name": "Dubai Fountain Show & Burj Khalifa (At The Top)",
+          "coordinates": {
+            "latitude": 25.1972,
+            "longitude": 55.2744
+          },
+          "google_map_integration_link": "https://www.google.com/maps?q=25.1972,55.2744",
+          "distanceFromPrevious": 22.21,
+          "travelTimeFromPrevious": "21 minutes",
+          "description": "Witness the world's largest choreographed fountain system at the base of the Burj Khalifa. The Dubai Fountain shoots water up to 500 ft in the air, accompanied by a range of classical to contemporary music. Afterward, ascend the world's tallest building to the 'At The Top' observation decks on the 124th and 125th floors for breathtaking 360-degree views of the city's glittering skyline.",
+          "whyVisit": "An iconic Dubai experience that combines a spectacular free show with the awe-inspiring feeling of being on top of the world. It offers an unparalleled perspective of the city's scale and ambition, which is fascinating for all ages.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Dubai+Fountain+Show+%26+Burj+Khalifa&dates=20251104T180000/20251104T210000&location=Burj+Khalifa,+Dubai,+UAE",
+          "activities": [
+            "Watching the fountain show",
+            "High-speed elevator ride",
+            "City viewing from observation deck",
+            "Photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "179 AED per person (At The Top)",
+            "estimatedCost": "537 AED",
+            "bestTime": "Sunset (4:00 PM - 6:30 PM) or Evening",
+            "duration": "2-3 hours",
+            "accessibility": "Wheelchair accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Light jacket for the evening"
+            ],
+            "whatToBuy": [
+              "Souvenirs from the gift shop"
+            ],
+            "safetyNotes": [
+              "Hold on to railings on the observation deck.",
+              "Keep track of your belongings in crowded areas."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "The observation deck against the city lights",
+              "In front of the Dubai Fountain during the show"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 45,
+        "spending": {
+          "entryFees": 537,
+          "activities": 0,
+          "transport": 200,
+          "meals": 300,
+          "shopping": 100,
+          "total": 1137
+        },
+        "remainingBudget": 48863
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-05",
+      "theme": "Retail Worlds and Winter Wonders",
+      "optimizedRoute": "Hotel → Ski Dubai → The Dubai Mall → Hotel",
+      "totalDistance": 50,
+      "totalTravelTime": "55 minutes",
+      "places": [
+        {
+          "timeOfDay": "10:00 AM - 2:00 PM",
+          "name": "The Dubai Mall",
+          "coordinates": {
+            "latitude": 25.1989,
+            "longitude": 55.2794
+          },
+          "google_map_integration_link": "https://www.google.com/maps?q=25.1989,55.2794",
+          "distanceFromPrevious": 15.52,
+          "travelTimeFromPrevious": "15 minutes",
+          "description": "Explore one of the planet's largest and most visited retail and entertainment destinations. The Dubai Mall is more than just a shopping center; it's a city within a city. It features over 1,200 retail stores, hundreds of food and beverage outlets, and world-class attractions for the whole family. The sheer scale and variety make it a must-visit.",
+          "whyVisit": "It's an all-in-one destination. For a 13-year-old, the highlights are the Dubai Aquarium & Underwater Zoo, the Olympic-sized Dubai Ice Rink, and the interactive KidZania. It's the perfect place to shop, dine, and be entertained under one roof.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=The+Dubai+Mall&dates=20251105T100000/20251105T140000&location=The+Dubai+Mall,+Dubai,+UAE",
+          "activities": [
+            "Shopping",
+            "Dining",
+            "Dubai Aquarium & Underwater Zoo",
+            "Ice Skating",
+            "KidZania"
+          ],
+          "practicalInfo": {
+            "entryFee": "0 (Mall Entry), 199 AED (Aquarium)",
+            "estimatedCost": "597 AED (Aquarium for 3)",
+            "bestTime": "Weekdays to avoid crowds",
+            "duration": "4-5 hours",
+            "accessibility": "High"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "A map of the mall or use the app"
+            ],
+            "whatToBuy": [
+              "Fashion, electronics, souvenirs"
+            ],
+            "safetyNotes": [
+              "Set a meeting point in case you get separated.",
+              "Stay hydrated."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Human Waterfall",
+              "Outside the Dubai Aquarium tunnel"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "3:00 PM - 6:00 PM",
+          "name": "Ski Dubai (Mall of the Emirates)",
+          "coordinates": {
+            "latitude": 25.1184,
+            "longitude": 55.2009
+          },
+          "google_map_integration_link": "https://www.google.com/maps?q=25.1184,55.2009",
+          "distanceFromPrevious": 11.37,
+          "travelTimeFromPrevious": "14 minutes",
+          "description": "Experience a winter wonderland in the middle of the desert at Ski Dubai, located in the Mall of the Emirates. This indoor ski resort maintains a temperature of -1 to 2 degrees Celsius and features an 85-meter-high indoor mountain with 5 slopes of varying steepness and difficulty. It's an surreal and unforgettable experience.",
+          "whyVisit": "The novelty of playing in the snow in Dubai is a massive draw. You can go skiing, snowboarding, meet penguins, or simply enjoy the snow park. It's a fantastic and unique activity for a family looking for fun and a break from the heat.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Ski+Dubai&dates=20251105T150000/20251105T180000&location=Ski+Dubai,+Mall+of+the+Emirates,+Dubai,+UAE",
+          "activities": [
+            "Skiing",
+            "Snowboarding",
+            "Zorbing",
+            "Meeting Penguins"
+          ],
+          "practicalInfo": {
+            "entryFee": "250 AED per person (Snow Park)",
+            "estimatedCost": "750 AED",
+            "bestTime": "Afternoon",
+            "duration": "2-3 hours",
+            "accessibility": "Partially accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm socks",
+              "A sense of adventure"
+            ],
+            "whatToBuy": [
+              "Hot chocolate at the Avalanche Café"
+            ],
+            "safetyNotes": [
+              "Listen to the instructors' safety briefings.",
+              "Wear the provided winter gear."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "With the penguins",
+              "On the chairlift with the slopes in the background"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 50,
+        "spending": {
+          "entryFees": 1347,
+          "activities": 0,
+          "transport": 150,
+          "meals": 400,
+          "shopping": 300,
+          "total": 2197
+        },
+        "remainingBudget": 46666
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-06",
+      "theme": "Island Adventures and Marina Lights",
+      "optimizedRoute": "Hotel → Atlantis, The Palm → JBR Walk → Hotel",
+      "totalDistance": 28,
+      "totalTravelTime": "45 minutes",
+      "places": [
+        {
+          "timeOfDay": "10:00 AM - 4:00 PM",
+          "name": "Palm Jumeirah & Atlantis, The Palm",
+          "coordinates": {
+            "latitude": 25.131,
+            "longitude": 55.1171
+          },
+          "google_map_integration_link": "https://www.google.com/maps?q=25.131,55.1171",
+          "distanceFromPrevious": 13.18,
+          "travelTimeFromPrevious": "19 minutes",
+          "description": "Explore the world-famous Palm Jumeirah, a magnificent man-made archipelago. At its apex sits the iconic Atlantis, The Palm resort. Spend the day at its Aquaventure Waterpark, home to record-breaking slides and a private beach, or delve into the myth of Atlantis at The Lost Chambers Aquarium, where you can see over 65,000 marine animals.",
+          "whyVisit": "A perfect day out for a family with a teenager. Aquaventure offers thrilling water slides and river rides, while The Lost Chambers provides a more relaxed, educational experience. The sheer grandeur of the Palm and Atlantis is a sight to behold.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Atlantis,+The+Palm+-+Aquaventure+Waterpark&dates=20251106T100000/20251106T160000&location=Atlantis,+The+Palm,+Dubai,+UAE",
+          "activities": [
+            "Aquaventure Waterpark",
+            "The Lost Chambers Aquarium",
+            "Dolphin Bay",
+            "Sea Lion Point"
+          ],
+          "practicalInfo": {
+            "entryFee": "320 AED per person (Aquaventure)",
+            "estimatedCost": "960 AED",
+            "bestTime": "Arrive early to get good spots",
+            "duration": "6-7 hours",
+            "accessibility": "High"
+          },
+          "tips": {
+            "whatToBring": [
+              "Swimwear",
+              "Sunscreen",
+              "Waterproof phone case",
+              "Towel"
+            ],
+            "whatToBuy": [
+              "Waterproof souvenirs"
+            ],
+            "safetyNotes": [
+              "Follow all lifeguard instructions.",
+              "Stay hydrated throughout the day."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "In front of the main Atlantis building",
+              "On the Leap of Faith slide (if you dare!)"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "6:00 PM - 9:00 PM",
+          "name": "Dubai Marina & JBR Walk",
+          "coordinates": {
+            "latitude": 25.0784,
+            "longitude": 55.1328
+          },
+          "google_map_integration_link": "https://www.google.com/maps?q=25.0784,55.1328",
+          "distanceFromPrevious": 12.4,
+          "travelTimeFromPrevious": "19 minutes",
+          "description": "Experience the vibrant atmosphere of Dubai Marina and The Walk at Jumeirah Beach Residence (JBR). This waterfront district features a stunning skyline of twisting skyscrapers, a picturesque marina filled with yachts, and a bustling promenade. The Walk at JBR is a popular street lined with shops, cafes, and restaurants, perfect for an evening stroll.",
+          "whyVisit": "It's a fantastic place to experience modern Dubai's lifestyle. You can enjoy a relaxing dhow cruise, dine with a view of the marina, or simply soak in the lively ambiance. The proximity to your hotel makes it an easy and enjoyable evening out.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Dubai+Marina+%26+JBR+Walk&dates=20251106T180000/20251106T210000&location=JBR+Walk,+Dubai,+UAE",
+          "activities": [
+            "Strolling along The Walk",
+            "Dining at a waterfront restaurant",
+            "Dhow Cruise",
+            "Shopping"
+          ],
+          "practicalInfo": {
+            "entryFee": "0",
+            "estimatedCost": "300 AED (Dinner)",
+            "bestTime": "Evening",
+            "duration": "2-3 hours",
+            "accessibility": "High"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Local crafts",
+              "Boutique fashion"
+            ],
+            "safetyNotes": [
+              "Be aware of your surroundings in crowded areas."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Cayan Tower (twisting building)",
+              "With the yachts in the marina as a backdrop"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 28,
+        "spending": {
+          "entryFees": 960,
+          "activities": 0,
+          "transport": 100,
+          "meals": 450,
+          "shopping": 200,
+          "total": 1710
+        },
+        "remainingBudget": 44956
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-07",
+      "theme": "Desert Dunes and Arabian Nights",
+      "optimizedRoute": "Hotel → Desert Safari Camp → Hotel",
+      "totalDistance": 58,
+      "totalTravelTime": "50 minutes",
+      "places": [
+        {
+          "timeOfDay": "3:00 PM - 9:00 PM",
+          "name": "Desert Safari with BBQ Dinner",
+          "coordinates": {
+            "latitude": 24.9198,
+            "longitude": 55.006
+          },
+          "google_map_integration_link": "https://www.google.com/maps?q=24.9198,55.006",
+          "distanceFromPrevious": 28.72,
+          "travelTimeFromPrevious": "24 minutes",
+          "description": "Embark on an unforgettable Arabian adventure with a desert safari. This quintessential Dubai experience typically includes a thrilling 4x4 drive over sand dunes (dune bashing), followed by a visit to a traditional Bedouin-style campsite. Here, you can enjoy a host of cultural activities before settling down for a delicious barbecue dinner under the stars.",
+          "whyVisit": "It's a perfect blend of adventure, culture, and entertainment. The excitement of dune bashing, the tranquility of a desert sunset, and the vibrant cultural performances make it a highlight for any family trip. It's a fantastic way to experience the natural beauty of the Arabian desert.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Desert+Safari+with+BBQ+Dinner&dates=20251107T150000/20251107T210000&location=Dubai+Desert+Conservation+Reserve,+UAE",
+          "activities": [
+            "Dune Bashing",
+            "Camel Riding",
+            "Sandboarding",
+            "Henna Painting",
+            "BBQ Dinner",
+            "Belly Dancing & Tanoura Show"
+          ],
+          "practicalInfo": {
+            "entryFee": "200 AED per person (all-inclusive tour)",
+            "estimatedCost": "600 AED",
+            "bestTime": "Afternoon to Evening",
+            "duration": "6 hours",
+            "accessibility": "Limited; depends on the tour operator"
+          },
+          "tips": {
+            "whatToBring": [
+              "Sunglasses",
+              "Scarf or hat",
+              "Camera",
+              "A light sweater for the evening"
+            ],
+            "whatToBuy": [
+              "Sand art bottles",
+              "Local handicrafts"
+            ],
+            "safetyNotes": [
+              "Dune bashing can be bumpy; not recommended for those with back problems.",
+              "Follow the guide's instructions at all times."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Sunset over the dunes",
+              "Riding a camel",
+              "The traditional campsite"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 58,
+        "spending": {
+          "entryFees": 600,
+          "activities": 0,
+          "transport": 0,
+          "meals": 0,
+          "shopping": 150,
+          "total": 750
+        },
+        "remainingBudget": 44206
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-08",
+      "theme": "Historic Charm and Global Fun",
+      "optimizedRoute": "Hotel → Al Fahidi Historical Neighbourhood → Global Village → Hotel",
+      "totalDistance": 90,
+      "totalTravelTime": "1 hour 30 minutes",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 1:00 PM",
+          "name": "Old Dubai Exploration (Al Fahidi & Souks)",
+          "coordinates": {
+            "latitude": 25.263,
+            "longitude": 55.2975
+          },
+          "google_map_integration_link": "https://www.google.com/maps?q=25.263,55.2975",
+          "distanceFromPrevious": 31,
+          "travelTimeFromPrevious": "29 minutes",
+          "description": "Step back in time in Old Dubai. Wander through the maze-like alleys of the Al Fahidi Historical Neighbourhood, with its traditional wind-tower architecture. Visit the Dubai Museum, housed in the city's oldest existing building, to learn about Dubai's transformation. Then, take a traditional 'Abra' (water taxi) across Dubai Creek to explore the bustling Gold, Spice, and Textile Souks.",
+          "whyVisit": "It offers a stark contrast to modern Dubai and provides a fascinating glimpse into the city's heritage. The sensory experience of the souks and the authentic atmosphere of the creek are culturally enriching for both adults and teenagers.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Old+Dubai+Exploration&dates=20251108T090000/20251108T130000&location=Al+Fahidi+Historical+Neighbourhood,+Dubai,+UAE",
+          "activities": [
+            "Walking tour of Al Fahidi",
+            "Visiting Dubai Museum",
+            "Abra ride on Dubai Creek",
+            "Shopping at the Souks"
+          ],
+          "practicalInfo": {
+            "entryFee": "3 AED (Dubai Museum), 1 AED (Abra)",
+            "estimatedCost": "12 AED",
+            "bestTime": "Morning to avoid the heat",
+            "duration": "4 hours",
+            "accessibility": "Moderate; some uneven surfaces"
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash for the souks",
+              "Sun hat",
+              "Water bottle"
+            ],
+            "whatToBuy": [
+              "Spices, saffron, gold jewelry, pashminas"
+            ],
+            "safetyNotes": [
+              "Be prepared to haggle respectfully in the souks.",
+              "Be mindful of your belongings."
+            ],
+            "customsEtiquette": [
+              "Dress modestly (cover shoulders and knees)."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The wind towers in Al Fahidi",
+              "On the Abra with the old city in the background",
+              "The vibrant displays in the Spice Souk"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "4:00 PM - 10:00 PM",
+          "name": "Global Village",
+          "coordinates": {
+            "latitude": 25.0683,
+            "longitude": 55.3069
+          },
+          "google_map_integration_link": "https://www.google.com/maps?q=25.0683,55.3069",
+          "distanceFromPrevious": 28.67,
+          "travelTimeFromPrevious": "30 minutes",
+          "description": "Experience the world in one place at Global Village, a massive seasonal multicultural festival park. It features pavilions representing over 90 countries, where you can shop for authentic products, watch cultural performances, and sample international cuisines. The park also has a large funfair with rides and games for all ages.",
+          "whyVisit": "It's a vibrant, high-energy destination that's incredibly fun for families. The combination of shopping, food, live shows, and amusement park rides ensures there's something to entertain everyone. A great way to spend an evening.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Global+Village&dates=20251108T160000/20251108T220000&location=Global+Village,+Dubai,+UAE",
+          "activities": [
+            "Exploring country pavilions",
+            "Watching live shows and concerts",
+            "Enjoying funfair rides",
+            "Sampling international street food"
+          ],
+          "practicalInfo": {
+            "entryFee": "25 AED per person",
+            "estimatedCost": "75 AED",
+            "bestTime": "Evening",
+            "duration": "5-6 hours",
+            "accessibility": "High"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "A jacket as it can get cool in the evening"
+            ],
+            "whatToBuy": [
+              "Unique souvenirs from different countries"
+            ],
+            "safetyNotes": [
+              "The park is huge, so plan your visit.",
+              "Stay together as it can get very crowded."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "In front of the beautifully designed pavilions",
+              "The main stage during a performance"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 90,
+        "spending": {
+          "entryFees": 87,
+          "activities": 200,
+          "transport": 250,
+          "meals": 400,
+          "shopping": 300,
+          "total": 1237
+        },
+        "remainingBudget": 42969
+      }
+    },
+    {
+      "day": 6,
+      "date": "2025-11-09",
+      "theme": "Full-Day Thrills and Adventures",
+      "optimizedRoute": "Hotel → IMG Worlds of Adventure → Hotel",
+      "totalDistance": 70,
+      "totalTravelTime": "1 hour 10 minutes",
+      "places": [
+        {
+          "timeOfDay": "11:00 AM - 8:00 PM",
+          "name": "IMG Worlds of Adventure",
+          "coordinates": {
+            "latitude": 25.0817,
+            "longitude": 55.3188
+          },
+          "google_map_integration_link": "https://www.google.com/maps?q=25.0817,55.3188",
+          "distanceFromPrevious": 35,
+          "travelTimeFromPrevious": "35 minutes",
+          "description": "Spend a full day at IMG Worlds of Adventure, the world's largest indoor theme park. The park is divided into five 'epic zones', including Marvel, Cartoon Network, and The Lost Valley - Dinosaur Adventure. With adrenaline-pumping roller coasters, thrilling rides, and attractions based on popular characters, it's a paradise for thrill-seekers and families.",
+          "whyVisit": "Being entirely indoors, it's the perfect all-day attraction regardless of the weather. It caters perfectly to a 13-year-old's interests with its mix of superheroes and dinosaurs, while also offering plenty of excitement for adults. A guaranteed day of fun and adventure.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=IMG+Worlds+of+Adventure&dates=20251109T110000/20251109T200000&location=IMG+Worlds+of+Adventure,+Dubai,+UAE",
+          "activities": [
+            "Riding roller coasters",
+            "Experiencing 3D and 4D rides",
+            "Meet and greets with characters",
+            "Themed dining and shopping"
+          ],
+          "practicalInfo": {
+            "entryFee": "345 AED per person",
+            "estimatedCost": "1035 AED",
+            "bestTime": "Weekdays are less crowded",
+            "duration": "8-9 hours",
+            "accessibility": "High"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable clothes and shoes",
+              "A portable charger for your phone"
+            ],
+            "whatToBuy": [
+              "Merchandise of your favorite characters"
+            ],
+            "safetyNotes": [
+              "Adhere to height and safety restrictions for all rides.",
+              "Pace yourselves and take breaks."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "With Marvel superheroes",
+              "Next to the life-sized dinosaurs in The Lost Valley"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 70,
+        "spending": {
+          "entryFees": 1035,
+          "activities": 0,
+          "transport": 200,
+          "meals": 500,
+          "shopping": 300,
+          "total": 2035
+        },
+        "remainingBudget": 40934
+      }
+    },
+    {
+      "day": 7,
+      "date": "2025-11-10",
+      "theme": "Farewell Dubai",
+      "optimizedRoute": "Hotel → Dubai International Airport (DXB)",
+      "totalDistance": 35,
+      "totalTravelTime": "40 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Leisurely Breakfast & Last-Minute Souvenir Shopping",
+          "coordinates": {
+            "latitude": 25.0805772,
+            "longitude": 55.1371523
+          },
+          "google_map_integration_link": "https://www.google.com/maps?q=25.0805772,55.1371523",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a final, relaxed breakfast in Dubai. Depending on your flight schedule, you can do some last-minute souvenir shopping at a nearby mall or local market. Pack your bags and complete the check-out process at your hotel.",
+          "whyVisit": "A calm and organized start to your departure day ensures a stress-free end to your vacation. It's the perfect time to reflect on the wonderful memories you've made as a family.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Breakfast+%26+Last-Minute+Shopping&dates=20251110T090000/20251110T120000&location=DejaView+Hostel,+The+Walk+-+JBR,+Dubai,+UAE",
+          "activities": [
+            "Breakfast",
+            "Souvenir Shopping",
+            "Packing",
+            "Hotel Check-out"
+          ],
+          "practicalInfo": {
+            "entryFee": "0",
+            "estimatedCost": "200 AED",
+            "bestTime": "Morning",
+            "duration": "3-4 hours",
+            "accessibility": "High"
+          },
+          "tips": {
+            "whatToBring": [
+              "Your luggage",
+              "Travel documents"
+            ],
+            "whatToBuy": [
+              "Dates, chocolates, small souvenirs"
+            ],
+            "safetyNotes": [
+              "Double-check your room for any forgotten items before checking out."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Afternoon/Evening",
+          "name": "Departure from Dubai International Airport (DXB)",
+          "coordinates": {
+            "latitude": 25.2532,
+            "longitude": 55.3657
+          },
+          "google_map_integration_link": "https://www.google.com/maps?q=25.2532,55.3657",
+          "distanceFromPrevious": 35,
+          "travelTimeFromPrevious": "40 minutes",
+          "description": "Head to Dubai International Airport (DXB) for your flight home. It is recommended to arrive at the airport at least 3 hours before your international flight's departure time. Complete your airline check-in and security procedures, leaving you with fond memories of your Dubai family adventure.",
+          "whyVisit": "The culmination of your journey, sending you home with a treasure trove of experiences and stories to share.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure+from+Dubai+International+Airport+(DXB)&dates=20251110T140000/20251110T180000&location=Dubai+International+Airport+(DXB),+UAE",
+          "activities": [
+            "Airport Transfer",
+            "Airline Check-in",
+            "Security & Immigration"
+          ],
+          "practicalInfo": {
+            "entryFee": "0",
+            "estimatedCost": "120 AED (Taxi)",
+            "bestTime": "N/A",
+            "duration": "4 hours",
+            "accessibility": "High"
+          },
+          "tips": {
+            "whatToBring": [
+              "Passport, visa, and flight tickets"
+            ],
+            "whatToBuy": [
+              "Duty-free items at the airport"
+            ],
+            "safetyNotes": [
+              "Keep an eye on your luggage and travel documents at all times."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 35,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 120,
+          "meals": 200,
+          "shopping": 200,
+          "total": 520
+        },
+        "remainingBudget": 40414
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 50000,
+    "currency": "AED",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Flight",
+          "total_cost": 5000
+        }
+      ],
+      "accommodation": {
+        "hotelName": "DejaView Hostel , The Walk - JBR",
+        "pricePerNight": 291,
+        "nights": 6,
+        "total": 1746
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 537,
+          "activities": 0,
+          "transport": 200,
+          "meals": 300,
+          "shopping": 100,
+          "subtotal": 1137
+        },
+        {
+          "day": 2,
+          "entryFees": 1347,
+          "activities": 0,
+          "transport": 150,
+          "meals": 400,
+          "shopping": 300,
+          "subtotal": 2197
+        },
+        {
+          "day": 3,
+          "entryFees": 960,
+          "activities": 0,
+          "transport": 100,
+          "meals": 450,
+          "shopping": 200,
+          "subtotal": 1710
+        },
+        {
+          "day": 4,
+          "entryFees": 600,
+          "activities": 0,
+          "transport": 0,
+          "meals": 0,
+          "shopping": 150,
+          "subtotal": 750
+        },
+        {
+          "day": 5,
+          "entryFees": 87,
+          "activities": 200,
+          "transport": 250,
+          "meals": 400,
+          "shopping": 300,
+          "subtotal": 1237
+        },
+        {
+          "day": 6,
+          "entryFees": 1035,
+          "activities": 0,
+          "transport": 200,
+          "meals": 500,
+          "shopping": 300,
+          "subtotal": 2035
+        },
+        {
+          "day": 7,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 120,
+          "meals": 200,
+          "shopping": 200,
+          "subtotal": 520
+        }
+      ]
+    },
+    "totalSpent": 9586,
+    "remainingBudget": 40414,
+    "budgetTips": [
+      "Use the Dubai Metro for longer distances to save on taxi fares.",
+      "Look for 'lunch special' deals at restaurants, which are often cheaper than dinner.",
+      "Take advantage of free attractions like the Dubai Fountain show and exploring the souks.",
+      "Book tickets for major attractions online in advance to get better prices and avoid queues."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Lightweight and breathable clothes (cotton, linen)",
+      "Long-sleeved shirts and long pants for sun protection",
+      "A modest outfit for visiting cultural sites (covering shoulders and knees)",
+      "Swimwear",
+      "A light jacket or sweater for cool indoor spaces and desert evenings"
+    ],
+    "footwear": [
+      "Comfortable walking shoes/sneakers",
+      "Sandals or flip-flops",
+      "Water shoes for the waterpark"
+    ],
+    "essentials": [
+      "Sunscreen (high SPF)",
+      "Sunglasses",
+      "Sun hat or cap",
+      "Reusable water bottle",
+      "Small backpack for daily excursions"
+    ],
+    "medication": [
+      "Personal prescriptions",
+      "Basic first-aid kit (band-aids, pain relievers, antiseptic wipes)",
+      "Motion sickness medication if needed"
+    ],
+    "electronics": [
+      "Smartphone",
+      "Portable charger/power bank",
+      "Camera and extra batteries",
+      "Universal travel adapter (Type G)"
+    ],
+    "documents": [
+      "Passports and Visas",
+      "Flight tickets",
+      "Hotel booking confirmation",
+      "Travel insurance details",
+      "Copies of important documents (digital and physical)"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Book flights and accommodation",
+      "completed": true,
+      "priority": "high"
+    },
+    {
+      "task": "Apply for UAE visas for all travelers",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Purchase comprehensive travel insurance",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Book tickets for major attractions (Burj Khalifa, Theme Parks, Desert Safari)",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Arrange airport transfers in Dubai",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Exchange currency or inform your bank of your travel plans",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "task": "Plan and pack your luggage",
+      "completed": false,
+      "priority": "low"
+    }
+  ]
+}
