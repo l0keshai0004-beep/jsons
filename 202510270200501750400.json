@@ -1,0 +1,764 @@
+{
+  "tripOverview": {
+    "destination": "Bhimtal, Uttarakhand",
+    "startDate": "2025-10-30",
+    "endDate": "2025-11-03",
+    "duration": "4 nights",
+    "companions": "2 Adults, 1 Child",
+    "tripType": "Family"
+  },
+  "mode_of_transport": {
+    "road": {
+      "cost": {
+        "train": "800 - 1200 INR (for 3 tickets) + 700 - 900 INR (cab from Kathgodam)",
+        "bus": "600 - 1200 INR (for 3 tickets) + 800 - 1000 INR (cab from Haldwani)",
+        "cab": "3000 - 4000 INR (One-way for a comfortable sedan)"
+      },
+      "approx_time": {
+        "train": "3-4 hours + 1 hour cab",
+        "bus": "4-5 hours + 1 hour cab",
+        "cab": "3-4 hours"
+      },
+      "stations": {
+        "bus_stations": "Bareilly Bus Station to Haldwani Bus Station",
+        "train_stations": "Bareilly Junction (BE) to Kathgodam (KGM)"
+      }
+    }
+  },
+  "hotel": {
+    "name": "Hilltop Manor",
+    "location": "Bhimtal, Uttarakhand, India",
+    "coordinates": {
+      "latitude": 29.3556762,
+      "longitude": 79.5444152
+    },
+    "pricePerNight": 2130,
+    "rooms": 1,
+    "nights": 4,
+    "totalCost": 8520,
+    "currency": "INR",
+    "reasonForSelection": "Excellent value for money, offering a comfortable stay well within the specified budget. It has a high rating of 4.4, ensuring a quality experience for the family. Its location provides a good base for the planned itinerary.",
+    "amenities": [
+      "Breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Pet-friendly",
+      "Restaurant",
+      "Room service",
+      "Accessible"
+    ],
+    "bookingLinks": [],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipNaHSaCJISHt2GdG4Cb0F-Yo5E1d4A0POXWz2W3=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMlsRttSKI-8nftuSDfcRLFDKrVvdMON3yvdU4w=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNE9TtElpvSdXVPOZhyXrcxvt_NAx27d1kVthrX=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-30",
+      "theme": "Arrival and Lakeside Serenity",
+      "optimizedRoute": "Hilltop Manor → Bhimtal Lake → Bhimeshwar Temple → Hilltop Manor",
+      "totalDistance": 4.8999999999999995,
+      "totalTravelTime": "10 minutes",
+      "places": [
+        {
+          "timeOfDay": "15:00 - 16:30",
+          "name": "Arrival & Hotel Check-in",
+          "coordinates": {
+            "latitude": 29.3556762,
+            "longitude": 79.5444152
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Arrive in the picturesque town of Bhimtal after your journey from Bareilly. Check into Hilltop Manor, a comfortable and welcoming accommodation. Take some time to settle in, unpack, and freshen up before starting your exploration.",
+          "whyVisit": "A necessary and relaxing start to your vacation, allowing you to recharge after travel and acclimate to the serene mountain environment.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrival%20%26%20Hotel%20Check-in&dates=20251030T093000Z/20251030T110000Z&details=Settle%20into%20your%20accommodation%2C%20relax%20after%20your%20road%20journey%20from%20Bareilly.&location=Hilltop%20Manor,%20Bhimtal",
+          "activities": [
+            "Complete check-in formalities",
+            "Unpack and organize your belongings",
+            "Enjoy a welcome beverage",
+            "Take in the initial views from your hotel"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "None",
+            "bestTime": "Afternoon",
+            "duration": "1.5 hours",
+            "accessibility": "Fully accessible at the hotel."
+          },
+          "tips": {
+            "whatToBring": [
+              "Travel documents",
+              "Hotel booking confirmation"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Keep your luggage secure upon arrival."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Hotel balcony or garden with a view"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "16:30 - 19:00",
+          "name": "Bhimtal Lake & Bhimeshwar Temple",
+          "coordinates": {
+            "latitude": 29.3456,
+            "longitude": 79.5558
+          },
+          "distanceFromPrevious": 2.14,
+          "travelTimeFromPrevious": "3 minutes",
+          "description": "Bhimtal Lake is a stunning C-shaped lake, larger than the famous Naini Lake. In its center lies a picturesque island, home to a popular aquarium. Adjacent to the lake is the Bhimeshwar Mahadev Temple, an ancient shrine dedicated to Lord Shiva, believed to have been visited by Bhima from the Mahabharata.",
+          "whyVisit": "It's the heart of the town, offering a perfect blend of natural beauty, recreational activities, and spiritual significance. It's an ideal spot for a family evening, with something to interest everyone.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Bhimtal%20Lake%20%26%20Bhimeshwar%20Temple&dates=20251030T110000Z/20251030T133000Z&details=Enjoy%20the%20serene%20Bhimtal%20Lake.%20The%20island%20aquarium%20(reachable%20by%20boat)%20is%20a%20fun%20activity%20for%20families.%20The%20Bhimeshwar%20Temple%20is%20a%20historical%20site%20near%20the%20lake.&location=Bhimtal%20Lake,%20Bhimtal",
+          "activities": [
+            "Boating (paddle boats, rowboats)",
+            "Visit the island aquarium",
+            "Seek blessings at Bhimeshwar Temple",
+            "Stroll along the lakeside promenade",
+            "Feed the ducks and fish"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free for lake and temple. Boating and aquarium have separate charges (approx. 200-500 INR for boat, 60 INR for aquarium).",
+            "estimatedCost": "600-800 INR",
+            "bestTime": "Evening",
+            "duration": "2.5 hours",
+            "accessibility": "The lakefront is mostly accessible, but the temple may have stairs."
+          },
+          "tips": {
+            "whatToBring": [
+              "Light jacket as it gets cool by the lake",
+              "Cash for boating and snacks",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Local snacks from the stalls",
+              "Small wooden souvenirs"
+            ],
+            "safetyNotes": [
+              "Wear life jackets during boating.",
+              "Be cautious with children near the water."
+            ],
+            "customsEtiquette": [
+              "Remove footwear before entering the temple.",
+              "Dress modestly when visiting the temple."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "From the boat with the island in the background",
+              "The temple entrance",
+              "The entire lake from the dam side"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 5.0,
+        "spending": {
+          "entryFees": 60,
+          "activities": 500,
+          "transport": 300,
+          "meals": 1500,
+          "shopping": 0,
+          "total": 2360
+        },
+        "remainingBudget": 27640
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-31",
+      "theme": "Excursion to the 'Lake District of India'",
+      "optimizedRoute": "Hilltop Manor → Naini Lake → Snow View Point → Hilltop Manor",
+      "totalDistance": 45.99,
+      "totalTravelTime": "1 hour 37 minutes",
+      "places": [
+        {
+          "timeOfDay": "09:30 - 13:00",
+          "name": "Nainital Excursion & Naini Lake",
+          "coordinates": {
+            "latitude": 29.3918,
+            "longitude": 79.4629
+          },
+          "distanceFromPrevious": 19.69,
+          "travelTimeFromPrevious": "32 minutes",
+          "description": "Take a scenic drive to Nainital, the crown jewel of Uttarakhand's lakes. The town is built around the stunning, mango-shaped Naini Lake. The Mall Road, running parallel to the lake, is a vibrant hub of activity, lined with shops, restaurants, and hotels. It's a bustling yet beautiful town that captivates every visitor.",
+          "whyVisit": "To experience one of India's most famous hill stations, enjoy the iconic lake, and soak in the lively atmosphere. The drive itself offers breathtaking views of the Kumaon hills.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Nainital%20Excursion%20%26%20Naini%20Lake&dates=20251031T040000Z/20251031T073000Z&details=A%20beautiful%20drive%20to%20Nainital,%20known%20for%20its%20picturesque%20Naini%20Lake.&location=Naini%20Lake,%20Nainital",
+          "activities": [
+            "Boating or yachting in Naini Lake",
+            "A leisurely walk on the Mall Road",
+            "Visit the Naina Devi Temple on the lake's edge"
+          ],
+          "practicalInfo": {
+            "entryFee": "Toll tax to enter Nainital city. Boating charges apply (approx. 210-400 INR).",
+            "estimatedCost": "500-700 INR",
+            "bestTime": "Morning to Afternoon",
+            "duration": "3.5 hours",
+            "accessibility": "The Mall Road is flat and accessible, but getting to boats might be tricky."
+          },
+          "tips": {
+            "whatToBring": [
+              "An umbrella or raincoat, as there's a 20% chance of rain.",
+              "Comfortable walking shoes.",
+              "Sunscreen and sunglasses."
+            ],
+            "whatToBuy": [
+              "Scented candles",
+              "Woolen garments",
+              "Pine cone decorations"
+            ],
+            "safetyNotes": [
+              "Nainital can be crowded; be mindful of your belongings.",
+              "Roads are winding, so travel cautiously."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The iconic boat ride on the lake",
+              "The colorful prayer flags at Naina Devi Temple",
+              "The bustling life on Mall Road"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "14:00 - 17:00",
+          "name": "Snow View Point",
+          "coordinates": {
+            "latitude": 29.3996,
+            "longitude": 79.4674
+          },
+          "distanceFromPrevious": 16.76,
+          "travelTimeFromPrevious": "34 minutes",
+          "description": "Accessible via a thrilling aerial ropeway ride, Snow View Point offers one of the most spectacular vistas in the region. At an altitude of 2,270 meters, it provides a breathtaking panoramic view of the snow-capped Himalayan peaks like Nanda Devi, Trisul, and Nanda Kot on a clear day.",
+          "whyVisit": "For the unparalleled views of the mighty Himalayas and the exhilarating experience of the cable car ride, which is a major attraction for families and especially children.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Snow%20View%20Point&dates=20251031T083000Z/20251031T113000Z&details=Take%20the%20aerial%20ropeway%20to%20Snow%20View%20Point%20for%20panoramic%20views%20of%20the%20Himalayas.&location=Snow%20View%20Point,%20Nainital",
+          "activities": [
+            "Aerial ropeway ride",
+            "Himalayan peak-gazing from telescopes",
+            "Enjoying snacks at the mountaintop cafes",
+            "Visiting the small temple at the summit"
+          ],
+          "practicalInfo": {
+            "entryFee": "Ropeway charges are approx. 300 INR for adults and 200 INR for children.",
+            "estimatedCost": "800-1000 INR for the family",
+            "bestTime": "Afternoon",
+            "duration": "2.5 hours (including ropeway travel)",
+            "accessibility": "Not wheelchair accessible due to the nature of the cable car and terrain."
+          },
+          "tips": {
+            "whatToBring": [
+              "Binoculars for better views",
+              "A warm jacket, as it's colder at the top",
+              "Camera with a good zoom lens"
+            ],
+            "whatToBuy": [
+              "Small souvenirs from the shops at the point"
+            ],
+            "safetyNotes": [
+              "Hold on to children during the ropeway ride.",
+              "The viewpoint has railings, but don't lean over."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The view of the Himalayas from the main viewpoint",
+              "Inside the cable car with Nainital town below",
+              "Family photos with the mountain backdrop"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 46.0,
+        "spending": {
+          "entryFees": 800,
+          "activities": 400,
+          "transport": 2500,
+          "meals": 2000,
+          "shopping": 500,
+          "total": 6200
+        },
+        "remainingBudget": 21440
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-01",
+      "theme": "Exploring the Lesser-Known Lakes",
+      "optimizedRoute": "Hilltop Manor → Sattal → Naukuchiatal → Hilltop Manor",
+      "totalDistance": 23.83,
+      "totalTravelTime": "41 minutes",
+      "places": [
+        {
+          "timeOfDay": "09:30 - 13:00",
+          "name": "Sattal (Seven Lakes)",
+          "coordinates": {
+            "latitude": 29.3583,
+            "longitude": 79.5167
+          },
+          "distanceFromPrevious": 9.4,
+          "travelTimeFromPrevious": "17 minutes",
+          "description": "Sattal, meaning 'Seven Lakes', is an interconnected group of freshwater lakes nestled amidst a dense oak and pine forest. It is one of the few unspoiled and unpolluted freshwater biomes in India. The area is a paradise for nature lovers, bird watchers, and those seeking tranquility.",
+          "whyVisit": "To escape the crowds and immerse the family in pristine nature. It offers a more serene and adventurous experience compared to the more commercialized lakes.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Sattal%20(Seven%20Lakes)&dates=20251101T040000Z/20251101T073000Z&details=A%20cluster%20of%20seven%20freshwater%20lakes,%20perfect%20for%20nature%20lovers%20and%20families.&location=Sattal,%20Uttarakhand",
+          "activities": [
+            "Boating and kayaking in the calm waters",
+            "Bird watching (home to many migratory birds)",
+            "Nature walks through the forest trails",
+            "Adventure activities like zip-lining or river crossing"
+          ],
+          "practicalInfo": {
+            "entryFee": "None. Charges for boating and adventure activities.",
+            "estimatedCost": "800-1200 INR for activities",
+            "bestTime": "Morning",
+            "duration": "3.5 hours",
+            "accessibility": "Limited accessibility around the lake shores; trails are unpaved."
+          },
+          "tips": {
+            "whatToBring": [
+              "Wear sturdy shoes for walking",
+              "Binoculars for bird watching",
+              "Insect repellent",
+              "An umbrella due to a slight chance of rain"
+            ],
+            "whatToBuy": [
+              "Natural products like jams and juices from local stalls"
+            ],
+            "safetyNotes": [
+              "Stay on marked trails.",
+              "Listen to instructors during adventure activities."
+            ],
+            "customsEtiquette": [
+              "Do not litter; it's an ecologically sensitive area."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The bridge connecting two lakes",
+              "Kayaking shots amidst the greenery",
+              "Close-ups of unique birds and flora"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "14:00 - 17:00",
+          "name": "Naukuchiatal (Lake of Nine Corners)",
+          "coordinates": {
+            "latitude": 29.3213,
+            "longitude": 79.5843
+          },
+          "distanceFromPrevious": 16.43,
+          "travelTimeFromPrevious": "24 minutes",
+          "description": "Naukuchiatal is a visually stunning lake distinguished by its nine corners. It is the deepest lake in the Nainital region, surrounded by lush green hills. Legend has it that one who sees all nine corners at once attains nirvana. The lake offers a peaceful environment perfect for relaxation and water sports.",
+          "whyVisit": "For its unique shape and the tranquil atmosphere. It also offers more adventurous activities like paragliding from a nearby point, which might be exciting for the 12-year-old.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Naukuchiatal%20(Lake%20of%20Nine%20Corners)&dates=20251101T083000Z/20251101T113000Z&details=The%20deepest%20lake%20in%20the%20Nainital%20region,%20known%20for%20its%20tranquil%20beauty.&location=Naukuchiatal,%20Uttarakhand",
+          "activities": [
+            "Boating and paddle boating",
+            "Kayaking or zorbing",
+            "Enjoying the view from a lakeside cafe",
+            "Inquiring about paragliding opportunities (weather permitting)"
+          ],
+          "practicalInfo": {
+            "entryFee": "None. Charges for boating and other activities.",
+            "estimatedCost": "600-1000 INR for activities",
+            "bestTime": "Afternoon",
+            "duration": "2.5 hours",
+            "accessibility": "The main promenade is accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Sun hat",
+              "Water bottle",
+              "Cash for activities"
+            ],
+            "whatToBuy": [
+              "Local handicrafts from the shops nearby"
+            ],
+            "safetyNotes": [
+              "Paragliding should only be done with certified operators.",
+              "Ensure life jackets fit properly before boating."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The giant statue near the lake",
+              "A wide shot attempting to capture the lake's expanse",
+              "Action shots during water sports"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 24.0,
+        "spending": {
+          "entryFees": 0,
+          "activities": 2000,
+          "transport": 2000,
+          "meals": 1800,
+          "shopping": 200,
+          "total": 6000
+        },
+        "remainingBudget": 15440
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-02",
+      "theme": "Culture, Nature, and Leisure",
+      "optimizedRoute": "Hilltop Manor → Ghorakhal Golu Devta Temple → Himalayan Botanical Garden → Hilltop Manor",
+      "totalDistance": 28.38,
+      "totalTravelTime": "42 minutes",
+      "places": [
+        {
+          "timeOfDay": "09:30 - 11:00",
+          "name": "Ghorakhal Golu Devta Temple",
+          "coordinates": {
+            "latitude": 29.414,
+            "longitude": 79.5165
+          },
+          "distanceFromPrevious": 13.63,
+          "travelTimeFromPrevious": "20 minutes",
+          "description": "Perched on a hill, this temple is dedicated to Golu Devta, a revered deity in the Kumaon region, considered the God of Justice. The temple is famous for the countless bells of all sizes that are hung by devotees whose wishes have been fulfilled. The air is filled with the gentle chiming of these bells.",
+          "whyVisit": "To witness a unique and deeply rooted cultural tradition. The sheer number of bells is a sight to behold, and the place has a powerful, serene spiritual energy.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Ghorakhal%20Golu%20Devta%20Temple&dates=20251102T040000Z/20251102T053000Z&details=A%20unique%20temple%20dedicated%20to%20the%20deity%20Golu%20Devta,%20known%20for%20the%20thousands%20of%20bells%20hung%20by%20devotees.&location=Ghorakhal%20Golu%20Devta%20Temple,%20Bhowali",
+          "activities": [
+            "Observing the thousands of bells",
+            "Learning about the local deity and customs",
+            "Enjoying the panoramic view from the temple complex"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "100-200 INR for offerings",
+            "bestTime": "Morning",
+            "duration": "1.5 hours",
+            "accessibility": "There are stairs to climb to reach the main temple."
+          },
+          "tips": {
+            "whatToBring": [
+              "A scarf or stole to cover your head",
+              "Comfortable footwear that is easy to remove"
+            ],
+            "whatToBuy": [
+              "Brass bells to offer at the temple"
+            ],
+            "safetyNotes": [
+              "The temple can be crowded; be aware of your surroundings."
+            ],
+            "customsEtiquette": [
+              "Dress modestly.",
+              "Maintain silence and decorum within the temple premises."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The entrance gate with the valley view",
+              "Close-up shots of the clusters of bells",
+              "The main temple structure"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "11:30 - 13:00",
+          "name": "Himalayan Botanical Garden",
+          "coordinates": {
+            "latitude": 29.3512,
+            "longitude": 79.552
+          },
+          "distanceFromPrevious": 15.37,
+          "travelTimeFromPrevious": "20 minutes",
+          "description": "The Himalayan Botanical Garden is a serene expanse dedicated to the conservation and display of Himalayan flora. It features a variety of native plants, a butterfly park, a herbarium, and interpretative trails that educate visitors about the delicate ecosystem of the region.",
+          "whyVisit": "An educational and refreshing experience for the whole family. The Butterfly Research Centre within or nearby is especially fascinating for children, offering a chance to see vibrant species up close.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Himalayan%20Botanical%20Garden%20/%20Butterfly%20Research%20Centre&dates=20251102T060000Z/20251102T073000Z&details=Explore%20nature,%20learn%20about%20local%20flora%20(Botanical%20Garden)%20or%20observe%20various%20butterfly%20species%20(Butterfly%20Centre).&location=Himalayan%20Botanical%20Garden,%20Bhimtal",
+          "activities": [
+            "Walking through the themed gardens",
+            "Visiting the butterfly park",
+            "Learning about medicinal herbs",
+            "Enjoying the peaceful ambiance"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. 30-50 INR per person.",
+            "estimatedCost": "150-200 INR",
+            "bestTime": "Late Morning",
+            "duration": "1.5 hours",
+            "accessibility": "Pathways are present but might be uneven or have slopes."
+          },
+          "tips": {
+            "whatToBring": [
+              "Water bottle",
+              "A hat, as some areas are open",
+              "The weather will be pleasant and sunny, so sunglasses are a good idea."
+            ],
+            "whatToBuy": [
+              "Packaged herbal products or seeds if available"
+            ],
+            "safetyNotes": [
+              "Do not touch or pluck any plants.",
+              "Supervise children, especially near the butterfly enclosure."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Inside the butterfly dome",
+              "With colorful flower beds in the background",
+              "The entrance of the garden"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 28.0,
+        "spending": {
+          "entryFees": 150,
+          "activities": 100,
+          "transport": 2000,
+          "meals": 1800,
+          "shopping": 1000,
+          "total": 5050
+        },
+        "remainingBudget": 10390
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-03",
+      "theme": "Relaxed Departure",
+      "optimizedRoute": "N/A",
+      "totalDistance": 0,
+      "totalTravelTime": "0 minutes",
+      "places": [
+        {
+          "timeOfDay": "09:00 - 11:00",
+          "name": "Morning Relaxation & Breakfast",
+          "coordinates": {
+            "latitude": 29.3556762,
+            "longitude": 79.5444152
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a final, leisurely breakfast at the hotel. Use the morning to relax, take some last-minute photos, and pack your bags at a relaxed pace, reminiscing about the wonderful memories made over the past few days.",
+          "whyVisit": "A calm and unhurried end to your vacation, ensuring you are well-rested for the journey back home.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Morning%20Relaxation%20%26%20Breakfast&dates=20251103T033000Z/20251103T053000Z&details=Enjoy%20a%20relaxed%20start%20to%20your%20day%20and%20leisurely%20breakfast.&location=Hilltop%20Manor,%20Bhimtal",
+          "activities": [
+            "Having a hearty breakfast",
+            "Last-minute packing",
+            "Enjoying the morning mountain air"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "Breakfast included with hotel stay",
+            "bestTime": "Morning",
+            "duration": "2 hours",
+            "accessibility": "Fully accessible at the hotel."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Double-check the room to ensure you haven't left any belongings behind."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "A farewell photo with the hotel in the background"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "11:00 - 12:00",
+          "name": "Check-out & Departure",
+          "coordinates": {
+            "latitude": 29.3556762,
+            "longitude": 79.5444152
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Complete the check-out process at the hotel and begin your road journey back to Bareilly, carrying with you the peace and beauty of the Kumaon hills.",
+          "whyVisit": "The concluding part of your memorable trip.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Check-out%20%26%20Departure&dates=20251103T053000Z/20251103T063000Z&details=Begin%20your%20road%20journey%20back%20to%20Bareilly.&location=Hilltop%20Manor,%20Bhimtal",
+          "activities": [
+            "Settle any outstanding bills",
+            "Hand over the room keys",
+            "Load luggage into your vehicle"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "None",
+            "bestTime": "Late Morning",
+            "duration": "1 hour",
+            "accessibility": "Fully accessible at the hotel."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Plan for potential traffic on the way back.",
+              "Ensure your vehicle is fueled and ready for the journey."
+            ],
+            "customsEtiquette": [
+              "Thank the hotel staff for their hospitality."
+            ],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0.0,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 500,
+          "shopping": 0,
+          "total": 500
+        },
+        "remainingBudget": 9890
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 30000,
+    "currency": "INR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Inter-city Cab (Bareilly-Bhimtal-Bareilly)",
+          "total_cost": 7000
+        },
+        {
+          "transport_name": "Local Sightseeing Cab (3 days)",
+          "total_cost": 6500
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Hilltop Manor",
+        "pricePerNight": 2130,
+        "nights": 4,
+        "total": 8520
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 60,
+          "activities": 500,
+          "transport": 300,
+          "meals": 1500,
+          "shopping": 0,
+          "subtotal": 2360
+        },
+        {
+          "day": 2,
+          "entryFees": 800,
+          "activities": 400,
+          "meals": 2000,
+          "shopping": 500,
+          "subtotal": 3700
+        },
+        {
+          "day": 3,
+          "entryFees": 0,
+          "activities": 2000,
+          "meals": 1800,
+          "shopping": 200,
+          "subtotal": 4000
+        },
+        {
+          "day": 4,
+          "entryFees": 150,
+          "activities": 100,
+          "meals": 1800,
+          "shopping": 1000,
+          "subtotal": 3050
+        },
+        {
+          "day": 5,
+          "entryFees": 0,
+          "activities": 0,
+          "meals": 500,
+          "shopping": 0,
+          "subtotal": 500
+        }
+      ]
+    },
+    "totalSpent": 29630,
+    "remainingBudget": 370,
+    "budgetTips": [
+      "Opt for combo meals at restaurants to save money.",
+      "Utilize hotel amenities like free breakfast.",
+      "Bargain respectfully while shopping at local markets.",
+      "Many viewpoints offer great scenery for free; balance paid attractions with these.",
+      "Consider using a combination of bus/train and cab for inter-city travel to reduce costs."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Light woolen clothes or layered jackets for evenings",
+      "Full-sleeve t-shirts and comfortable trousers/jeans",
+      "A light raincoat or waterproof jacket",
+      "Pajamas or comfortable nightwear"
+    ],
+    "footwear": [
+      "Comfortable walking shoes or sneakers",
+      "A pair of casual slippers or sandals"
+    ],
+    "essentials": [
+      "Sunscreen and sunglasses",
+      "Moisturizer and lip balm",
+      "Personal toiletries",
+      "Small backpack for daily excursions",
+      "Reusable water bottle"
+    ],
+    "medication": [
+      "Basic first-aid kit (band-aids, antiseptic)",
+      "Medication for motion sickness",
+      "Any personal prescription medications"
+    ],
+    "electronics": [
+      "Mobile phone and charger",
+      "Power bank",
+      "Camera with extra batteries and memory card",
+      "Binoculars"
+    ],
+    "documents": [
+      "Government-issued ID (Aadhaar, Passport)",
+      "Hotel booking confirmation",
+      "Digital or physical copies of important documents"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Book accommodation at Hilltop Manor",
+      "completed": true,
+      "priority": "high"
+    },
+    {
+      "task": "Arrange for a cab for the entire trip (or book train/bus tickets)",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pack clothing and essentials according to the packing list",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Inform bank of travel dates to avoid card issues",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "task": "Download offline maps for the Bhimtal region",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Charge all electronic devices and power banks",
+      "completed": false,
+      "priority": "high"
+    }
+  ]
+}
