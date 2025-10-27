@@ -1,0 +1,752 @@
+{
+  "tripOverview": {
+    "destination": "Bhimtal, Uttarakhand, India",
+    "startDate": "2025-10-30",
+    "endDate": "2025-11-03",
+    "duration": "4 nights",
+    "companions": "Family",
+    "tripType": "Leisure"
+  },
+  "mode_of_transport": {
+    "road": {
+      "cost": {
+        "train": "2400-3600 INR for round trip",
+        "bus": "1800-3000 INR for round trip",
+        "cab": "4000-5000 INR for round trip"
+      },
+      "approx_time": {
+        "train": "3-4 hours to Kathgodam + 1 hour cab",
+        "bus": "4-5 hours to Haldwani/Kathgodam + 1 hour cab",
+        "cab": "3-4 hours directly to hotel"
+      },
+      "stations": {
+        "bus_stations": "Nearest: Haldwani or Kathgodam Bus Station",
+        "train_stations": "Nearest: Kathgodam Railway Station (KGM)"
+      }
+    }
+  },
+  "hotel": {
+    "name": "Moonlight Lake Resort Bhimtal",
+    "location": "Bhimtal, Uttarakhand, India",
+    "coordinates": {
+      "latitude": 29.345677,
+      "longitude": 79.555872
+    },
+    "pricePerNight": 2565,
+    "rooms": 1,
+    "nights": 4,
+    "totalCost": 10260,
+    "currency": "INR",
+    "reasonForSelection": "Excellent guest rating of 4.5 from over 340 reviews, offering a great balance of quality, location near Bhimtal Lake, and value, aligning closely with the user's budget.",
+    "amenities": [],
+    "bookingLinks": [
+      "https://www.moonlightlakeresortbhimtal.in/"
+    ],
+    "imageLinks": [
+      "https://lh3.googleusercontent.com/p/AF1QipNpRjfbEUgfp5OjiXO0Muj1Sp73MtvFlzvDxlG8=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMfDMLJzn-1kHFXX7U3DXEALrGavyzRfP4DqpcA=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNRFLzNXLEo4nolmD5L9KYkmdAT7KnCSBliAFnr=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-10-30",
+      "theme": "Arrival and Lakeside Serenity",
+      "optimizedRoute": "Hotel → Bhimtal Lake → Bhimeshwar Temple → Hotel",
+      "totalDistance": 4.43,
+      "totalTravelTime": "Approx. 15 minutes driving",
+      "places": [
+        {
+          "timeOfDay": "2:00 PM - 3:00 PM",
+          "name": "Arrival in Bhimtal & Hotel Check-in",
+          "coordinates": {
+            "latitude": 29.345677,
+            "longitude": 79.555872
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 min",
+          "description": "Arrive in the picturesque town of Bhimtal and check into the Moonlight Lake Resort. The resort is nestled in a serene location, offering a perfect escape from the city bustle. Take some time to settle in, unpack, and freshen up after your journey from Bareilly. The calm ambiance and the fresh mountain air will instantly put you at ease, setting a relaxing tone for the rest of your trip.",
+          "whyVisit": "This initial period of relaxation is crucial to recharge after the road journey, allowing the family to adapt to the new environment and prepare for the activities planned for the evening and subsequent days.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrival%20in%20Bhimtal%20&%20Hotel%20Check-in&dates=20251030T140000/20251030T150000&details=Settle%20into%20your%20hotel.%20Enjoy%20the%20serene%20surroundings.&location=Moonlight%20Lake%20Resort%20Bhimtal,%20Bhimtal,%20Uttarakhand,%20India",
+          "activities": [
+            "Complete check-in formalities",
+            "Unpack and settle into your room",
+            "Enjoy a welcome drink and relax"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "None",
+            "bestTime": "Afternoon",
+            "duration": "1 hour",
+            "accessibility": "Fully accessible"
+          },
+          "tips": {
+            "whatToBring": [
+              "Travel documents",
+              "Hotel booking confirmation"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Keep your luggage secure upon arrival."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Hotel's scenic viewpoints"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "3:00 PM - 6:00 PM",
+          "name": "Bhimtal Lake & Bhimeshwar Temple",
+          "coordinates": {
+            "latitude": 29.3498,
+            "longitude": 79.5513
+          },
+          "distanceFromPrevious": 1.21,
+          "travelTimeFromPrevious": "Approx. 5 min",
+          "description": "Bhimtal Lake is the largest lake in the Kumaon region, named after Bhima from the Mahabharata. It features a small island in the center with a popular aquarium. The lake is a hub of activity and natural beauty. Adjacent to the lake is the Bhimeshwar Mahadev Temple, an ancient shrine dedicated to Lord Shiva. It is believed to have been built in the 17th century by Baz Bahadur Chand of the Chand dynasty and holds significant religious importance for the locals.",
+          "whyVisit": "It's the quintessential Bhimtal experience, combining natural beauty, recreational activities like boating, and a touch of spiritual heritage at the ancient temple, making it a perfect first stop for the family.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Bhimtal%20Lake%20&%20Bhimeshwar%20Temple&dates=20251030T150000/20251030T180000&details=A%20beautiful%20lake%20perfect%20for%20boating.%20The%20temple%20is%20an%20ancient%20Shiva%20temple.&location=Bhimtal%20Lake,%20Uttarakhand,%20India",
+          "activities": [
+            "Boating on the lake (paddle or row boats)",
+            "Visit the island aquarium",
+            "Seek blessings at the Bhimeshwar Temple",
+            "Stroll along the lakeside"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (Boating and aquarium have separate charges)",
+            "estimatedCost": "500-800 INR for boating and aquarium",
+            "bestTime": "Afternoon to Evening",
+            "duration": "2-3 hours",
+            "accessibility": "The temple and lakefront are accessible, but boats may have limitations."
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Light jacket as it might get breezy",
+              "Cash for boating"
+            ],
+            "whatToBuy": [
+              "Local snacks from the lakeside stalls"
+            ],
+            "safetyNotes": [
+              "Wear life jackets during boating."
+            ],
+            "customsEtiquette": [
+              "Remove footwear before entering the temple."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The island aquarium from the boat",
+              "The temple entrance with the lake in the background"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 4.43,
+        "spending": {
+          "entryFees": 0,
+          "activities": 600,
+          "transport": 300,
+          "meals": 1000,
+          "shopping": 0,
+          "total": 1900
+        },
+        "remainingBudget": 28100
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-10-31",
+      "theme": "A Tale of Two Lakes",
+      "optimizedRoute": "Hotel → Sattal → Naukuchiatal → Hotel",
+      "totalDistance": 37.83,
+      "totalTravelTime": "Approx. 1 hour 15 minutes driving",
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 1:00 PM",
+          "name": "Sattal (Seven Lakes)",
+          "coordinates": {
+            "latitude": 29.3562,
+            "longitude": 79.5218
+          },
+          "distanceFromPrevious": 11.28,
+          "travelTimeFromPrevious": "Approx. 25 min",
+          "description": "Sattal is an interconnected group of seven freshwater lakes mysteriously hidden amidst a dense forest of oak and pine trees. This pristine biome is a paradise for nature lovers, bird watchers, and those seeking tranquility. Unlike the more commercialized lakes, Sattal retains a raw, untouched charm. The main lakes are Panna, Purna, and Ram Tal. The area's rich biodiversity includes hundreds of resident and migratory bird species, making it a globally renowned birding destination.",
+          "whyVisit": "It offers a peaceful and immersive nature experience, perfect for a family to connect with the outdoors through gentle walks, boating in serene waters, and spotting vibrant birdlife away from crowds.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Sattal%20(Seven%20Lakes)&dates=20251031T093000/20251031T130000&details=A%20cluster%20of%20seven%20freshwater%20lakes,%20less%20commercialized%20than%20Nainital.%20Known%20for%20its%20tranquil%20beauty%20and%20lush%20greenery.&location=Sattal,%20Uttarakhand,%20India",
+          "activities": [
+            "Nature walks around the lakes",
+            "Bird watching",
+            "Boating (kayaking or paddle boating)",
+            "Photography"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "400-600 INR for boating",
+            "bestTime": "Morning",
+            "duration": "3-4 hours",
+            "accessibility": "Main areas are accessible, but nature trails can be uneven."
+          },
+          "tips": {
+            "whatToBring": [
+              "Binoculars for bird watching",
+              "Comfortable walking shoes",
+              "Water bottles",
+              "An umbrella, as the weather forecast shows a 20% chance of rain."
+            ],
+            "whatToBuy": [
+              "Local honey",
+              "Handmade trinkets"
+            ],
+            "safetyNotes": [
+              "Stay on marked trails during walks.",
+              "Do not feed the wildlife."
+            ],
+            "customsEtiquette": [
+              "Maintain silence to avoid disturbing the birds and wildlife."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The bridge connecting the lakes",
+              "Reflections of the dense forest in the emerald water"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:30 PM - 5:30 PM",
+          "name": "Naukuchiatal (Lake of Nine Corners)",
+          "coordinates": {
+            "latitude": 29.3174,
+            "longitude": 79.5775
+          },
+          "distanceFromPrevious": 18.08,
+          "travelTimeFromPrevious": "Approx. 35 min",
+          "description": "Naukuchiatal, or the 'lake of nine corners,' is the deepest lake in the Nainital region, surrounded by lush green hills. A local legend states that anyone who sees all nine corners of the lake at once will achieve nirvana. Beyond its spiritual allure, the lake is a hub for adventure and leisure activities. Its vast expanse and beautiful setting make it a perfect spot for families to unwind and try something new, from gentle boating to thrilling paragliding.",
+          "whyVisit": "This lake offers a wider range of activities compared to others, catering to both relaxation and adventure. It's an ideal spot for the family to engage in fun activities like paragliding or simply enjoy the scenic beauty.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Naukuchiatal%20(Lake%20of%20Nine%20Corners)&dates=20251031T143000/20251031T173000&details=The%20deepest%20lake%20in%20the%20Kumaon%20region,%20believed%20to%20have%20nine%20corners.%20Perfect%20for%20peaceful%20activities.&location=Naukuchiatal,%20Uttarakhand,%20India",
+          "activities": [
+            "Paragliding (weather dependent)",
+            "Boating and Kayaking",
+            "Zorbing",
+            "Enjoying the view from a lakeside cafe"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "1500-2000 INR per person for paragliding; 400-700 INR for boating",
+            "bestTime": "Afternoon",
+            "duration": "2-3 hours",
+            "accessibility": "The main lake area is accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Sunscreen and sunglasses",
+              "A change of clothes if you plan water activities",
+              "GoPro or action camera for paragliding"
+            ],
+            "whatToBuy": [
+              "Souvenirs from the local shops"
+            ],
+            "safetyNotes": [
+              "Ensure adventure sports operators are certified and follow safety protocols.",
+              "Check age and weight restrictions for activities like paragliding."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The paragliding landing zone with the lake in the background",
+              "The statue of Hanuman near the lake"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 37.83,
+        "spending": {
+          "entryFees": 0,
+          "activities": 2500,
+          "transport": 1200,
+          "meals": 1200,
+          "shopping": 300,
+          "total": 5200
+        },
+        "remainingBudget": 22900
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-01",
+      "theme": "Nainital Excursion",
+      "optimizedRoute": "Hotel → Naini Lake → Snow View Point → Tiffin Top → Hotel",
+      "totalDistance": 50.8,
+      "totalTravelTime": "Approx. 2 hours driving",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 1:00 PM",
+          "name": "Nainital Excursion (Mall Road & Naini Lake)",
+          "coordinates": {
+            "latitude": 29.3918,
+            "longitude": 79.4636
+          },
+          "distanceFromPrevious": 22.25,
+          "travelTimeFromPrevious": "Approx. 45 min",
+          "description": "Take a day trip to the bustling heart of the Kumaon hills, Nainital. The town is centered around the stunning, crescent-shaped Naini Lake. The Mall Road, running parallel to the lake, is the town's main artery, lined with shops, restaurants, and hotels. It's a vibrant and lively area, perfect for a leisurely stroll, some souvenir shopping, and enjoying the colonial-era architecture. A boat ride on Naini Lake is a classic Nainital experience, offering picturesque views of the surrounding seven hills.",
+          "whyVisit": "To experience the quintessential hill station vibe, enjoy the iconic Naini Lake, and indulge in shopping and dining. It offers a lively contrast to the quieter lakes near Bhimtal.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Nainital%20Excursion%20(Mall%20Road%20&%20Naini%20Lake)&dates=20251101T090000/20251101T130000&details=Drive%20to%20Nainital%20(approx.%2045-60%20min%20from%20Bhimtal).%20Enjoy%20the%20bustling%20atmosphere%20and%20iconic%20lake.&location=Mall%20Road,%20Nainital,%20Uttarakhand,%20India",
+          "activities": [
+            "Boating on Naini Lake",
+            "Shopping for candles, woolens, and wooden crafts on Mall Road",
+            "Visit the Naina Devi Temple at the northern end of the lake",
+            "Trying local street food"
+          ],
+          "practicalInfo": {
+            "entryFee": "Toll tax to enter Nainital city",
+            "estimatedCost": "500-700 INR for boating; shopping as per preference",
+            "bestTime": "Morning to early afternoon",
+            "duration": "3-4 hours",
+            "accessibility": "Mall Road is a flat, paved surface. Boating is generally accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes for walking",
+              "A shopping bag",
+              "An umbrella, as the forecast shows a 20% chance of rain."
+            ],
+            "whatToBuy": [
+              "Scented candles",
+              "Kumaoni shawls and woolens",
+              "Wooden handicrafts"
+            ],
+            "safetyNotes": [
+              "Beware of monkeys on Mall Road.",
+              "Vehicles are often restricted on Mall Road during peak hours."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The colorful boats against the backdrop of the hills",
+              "The iconic 'Flats' (a large ground) area"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:30 PM - 4:30 PM",
+          "name": "Snow View Point (Ropeway Ride)",
+          "coordinates": {
+            "latitude": 29.3989,
+            "longitude": 79.4632
+          },
+          "distanceFromPrevious": 0.7,
+          "travelTimeFromPrevious": "Approx. 5 min drive + ropeway",
+          "description": "Accessible via an exciting aerial ropeway from Mallital, Snow View Point offers one of the most breathtaking views of the majestic Himalayan peaks like Nanda Devi, Trishul, and Nanda Kot. At an altitude of 2270 meters, the viewpoint provides a stunning panorama of the snow-clad mountains and a bird's-eye view of Nainital town and the lake. The area at the top has small eateries, souvenir shops, and activities for kids, making it a complete family entertainment spot.",
+          "whyVisit": "The thrilling ropeway ride combined with the spectacular, panoramic views of the Himalayas makes this an unforgettable experience for all ages.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Snow%20View%20Point%20(Ropeway%20Ride)&dates=20251101T143000/20251101T163000&details=Accessible%20by%20aerial%20ropeway,%20offering%20panoramic%20views%20of%20the%20Himalayas%20and%20Nainital.&location=Snow%20View%20Point,%20Nainital,%20Uttarakhand,%20India",
+          "activities": [
+            "Aerial ropeway ride",
+            "Himalayan peak viewing through binoculars",
+            "Enjoying snacks at the top",
+            "Kids' amusement park activities"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. 300-400 INR per person for the ropeway (two-way)",
+            "estimatedCost": "1000-1200 INR for ropeway tickets for the family",
+            "bestTime": "Clear afternoon",
+            "duration": "2 hours",
+            "accessibility": "The ropeway cabin is accessible, but the viewpoint area might have uneven terrain."
+          },
+          "tips": {
+            "whatToBring": [
+              "A good quality camera with zoom lens",
+              "Warm jackets, as it's colder at the top",
+              "Cash, as card machines may not work."
+            ],
+            "whatToBuy": [
+              "Himalayan peak photographs",
+              "Small souvenirs"
+            ],
+            "safetyNotes": [
+              "Follow all instructions given by the ropeway operator.",
+              "The ropeway may be closed during bad weather."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The view from inside the cable car",
+              "The designated Himalayan viewpoint platform"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "4:30 PM - 6:00 PM",
+          "name": "Tiffin Top (Dorothy's Seat)",
+          "coordinates": {
+            "latitude": 29.3813,
+            "longitude": 79.4561
+          },
+          "distanceFromPrevious": 5.82,
+          "travelTimeFromPrevious": "Approx. 20 min drive",
+          "description": "Tiffin Top, also known as Dorothy's Seat, is a terraced hilltop viewpoint on Ayarpatta hill. It offers a magnificent 360-degree view of Nainital town, the surrounding Kumaon hills, and the distant Himalayan peaks. The spot was named Dorothy's Seat after an English artist, Dorothy Kellet, who used to sit and paint here. It's a popular picnic spot and can be reached via a scenic trek or by hiring a pony from the Mall Road area. The peaceful atmosphere and stunning vistas make it a perfect end to a day of sightseeing.",
+          "whyVisit": "It provides a different, more expansive perspective of the region compared to Snow View Point and is perfect for those who enjoy a short hike or a fun pony ride, offering a memorable experience for the 12-year-old.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Tiffin%20Top%20(Dorothy's%20Seat)&dates=20251101T163000/20251101T180000&details=Tiffin%20Top%20offers%20another%20scenic%20viewpoint%20(requires%20a%20short%20pony%20ride%20or%20hike).&location=Tiffin%20Top,%20Nainital,%20Uttarakhand,%20India",
+          "activities": [
+            "Pony ride to the top",
+            "Hiking",
+            "Photography",
+            "Enjoying a picnic or snacks"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "700-900 INR per pony for a round trip",
+            "bestTime": "Late Afternoon for sunset views",
+            "duration": "1.5-2 hours",
+            "accessibility": "Not accessible for wheelchairs; requires hiking or a pony ride."
+          },
+          "tips": {
+            "whatToBring": [
+              "Sturdy shoes if you plan to hike",
+              "Water and snacks",
+              "A flashlight if you plan to stay until dusk"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Bargain for pony ride prices before starting.",
+              "The path can be steep in some places."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The stone perch known as Dorothy's Seat",
+              "The panoramic view of Naini Lake from the top"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 50.8,
+        "spending": {
+          "entryFees": 200,
+          "activities": 2500,
+          "transport": 1500,
+          "meals": 1500,
+          "shopping": 1000,
+          "total": 6700
+        },
+        "remainingBudget": 16200
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-02",
+      "theme": "Culture, Nature, and Leisure",
+      "optimizedRoute": "Hotel → Ghorakhal Golu Devta Temple → Butterfly Research Centre → Hotel",
+      "totalDistance": 33.72,
+      "totalTravelTime": "Approx. 1 hour 10 minutes driving",
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 11:00 AM",
+          "name": "Ghorakhal Golu Devta Temple",
+          "coordinates": {
+            "latitude": 29.4187,
+            "longitude": 79.5085
+          },
+          "distanceFromPrevious": 17.6,
+          "travelTimeFromPrevious": "Approx. 30 min",
+          "description": "Perched on a hill in Ghorakhal, this temple is dedicated to Golu Devta, an incarnation of Lord Shiva, who is revered as the 'God of Justice' in the Kumaon region. The temple is famous for the countless brass bells of all sizes that are hung by devotees whose wishes have been fulfilled. Devotees also submit written petitions on stamp papers to seek justice. The temple complex offers a serene atmosphere and provides panoramic views of the surrounding hills and valleys, including Bhimtal.",
+          "whyVisit": "It's a unique cultural and spiritual experience. The sight of thousands of bells and the practice of writing petitions offer a fascinating glimpse into local beliefs, which can be an interesting and educational experience for the entire family.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Ghorakhal%20Golu%20Devta%20Temple&dates=20251102T093000/20251102T110000&details=A%20unique%20temple%20dedicated%20to%20Lord%20Golu,%20famous%20for%20the%20bells%20offered%20by%20devotees.&location=Ghorakhal%20Golu%20Devta%20Temple,%20Bhowali%20Range,%20Uttarakhand,%20India",
+          "activities": [
+            "Observing the thousands of bells",
+            "Learning about the local deity and customs",
+            "Enjoying the panoramic views"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "100-200 INR for offerings",
+            "bestTime": "Morning",
+            "duration": "1-1.5 hours",
+            "accessibility": "There are stairs to climb to reach the main temple."
+          },
+          "tips": {
+            "whatToBring": [
+              "A scarf or stole to cover your head",
+              "Sunscreen and hats, as the weather is expected to be sunny and clear with a high UV index."
+            ],
+            "whatToBuy": [
+              "Small brass bells as souvenirs"
+            ],
+            "safetyNotes": [
+              "Be respectful of the religious customs.",
+              "Watch your step on the stairs."
+            ],
+            "customsEtiquette": [
+              "Dress modestly.",
+              "Follow the temple rituals if you choose to participate."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The courtyard filled with bells",
+              "The viewpoint overlooking the valley"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "11:30 AM - 1:30 PM",
+          "name": "Butterfly Research Centre",
+          "coordinates": {
+            "latitude": 29.3582,
+            "longitude": 79.5593
+          },
+          "distanceFromPrevious": 16.12,
+          "travelTimeFromPrevious": "Approx. 35 min",
+          "description": "The Butterfly Research Centre in Bhimtal is a unique private museum and research facility dedicated to the study and conservation of butterflies. It houses an impressive collection of butterfly and moth specimens from the region and beyond. Visitors can learn about the lifecycle of butterflies, their importance to the ecosystem, and the different species found in the Kumaon Himalayas. The center is run by experts who are passionate about their work and eager to share their knowledge with visitors.",
+          "whyVisit": "It offers a fascinating and educational experience, especially for a 12-year-old. It's a chance to see hundreds of vibrant butterfly species up close and learn about the delicate balance of nature in an engaging way.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Butterfly%20Research%20Centre&dates=20251102T113000/20251102T133000&details=A%20unique%20experience%20with%20butterflies.&location=Butterfly%20Research%20Centre,%20Bhimtal,%20Uttarakhand,%20India",
+          "activities": [
+            "Guided tour of the butterfly collection",
+            "Learning about butterfly life cycles",
+            "Spotting live butterflies in the surrounding area (seasonal)"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. 100-150 INR per person",
+            "estimatedCost": "300-450 INR for the family",
+            "bestTime": "Late morning when butterflies are active",
+            "duration": "1.5-2 hours",
+            "accessibility": "May have limited accessibility due to its location."
+          },
+          "tips": {
+            "whatToBring": [
+              "A notepad and pen for taking notes",
+              "A macro lens for your camera if you are a photography enthusiast"
+            ],
+            "whatToBuy": [
+              "Informational booklets or charts"
+            ],
+            "safetyNotes": [
+              "It's best to call ahead to confirm timings and availability as it is a private entity."
+            ],
+            "customsEtiquette": [
+              "Do not touch the specimens."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The colorful specimen displays"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 33.72,
+        "spending": {
+          "entryFees": 400,
+          "activities": 0,
+          "transport": 1000,
+          "meals": 1200,
+          "shopping": 500,
+          "total": 3100
+        },
+        "remainingBudget": 13100
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-03",
+      "theme": "Departure",
+      "optimizedRoute": "No local travel planned",
+      "totalDistance": 0,
+      "totalTravelTime": "0",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 11:00 AM",
+          "name": "Relaxed Morning & Check-out",
+          "coordinates": {
+            "latitude": 29.345677,
+            "longitude": 79.555872
+          },
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 min",
+          "description": "Enjoy the last morning of your trip with a relaxed breakfast at the hotel. Take in the final views of the serene Bhimtal surroundings. Pack your bags with the memories and souvenirs collected over the past few days. Complete the check-out formalities at the hotel reception before noon.",
+          "whyVisit": "A calm and organized departure ensures the trip ends on a positive and stress-free note, allowing for a comfortable journey back home.",
+          "add_to_calendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Relaxed%20Morning%20&%20Check-out&dates=20251103T090000/20251103T110000&details=Enjoy%20a%20final%20breakfast%20and%20prepare%20for%20departure.&location=Moonlight%20Lake%20Resort%20Bhimtal,%20Bhimtal,%20Uttarakhand,%20India",
+          "activities": [
+            "Leisurely breakfast",
+            "Packing",
+            "Hotel check-out"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "None",
+            "bestTime": "Morning",
+            "duration": "2 hours",
+            "accessibility": "Fully accessible"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Double-check your room to ensure you haven't left any belongings behind."
+            ],
+            "customsEtiquette": [
+              "Settle any outstanding bills at the hotel."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "One last family photo at the resort"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 0,
+        "spending": {
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 800,
+          "shopping": 0,
+          "total": 800
+        },
+        "remainingBudget": 12300
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 30000,
+    "currency": "INR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Round trip cab (Bareilly-Bhimtal)",
+          "total_cost": 4500
+        },
+        {
+          "transport_name": "Local sightseeing cab",
+          "total_cost": 4000
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Moonlight Lake Resort Bhimtal",
+        "pricePerNight": 2565,
+        "nights": 4,
+        "total": 10260
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "entryFees": 0,
+          "activities": 600,
+          "transport": 300,
+          "meals": 1000,
+          "shopping": 0,
+          "subtotal": 1900
+        },
+        {
+          "day": 2,
+          "entryFees": 0,
+          "activities": 2500,
+          "transport": 1200,
+          "meals": 1200,
+          "shopping": 300,
+          "subtotal": 5200
+        },
+        {
+          "day": 3,
+          "entryFees": 200,
+          "activities": 2500,
+          "transport": 1500,
+          "meals": 1500,
+          "shopping": 1000,
+          "subtotal": 6700
+        },
+        {
+          "day": 4,
+          "entryFees": 400,
+          "activities": 0,
+          "transport": 1000,
+          "meals": 1200,
+          "shopping": 500,
+          "subtotal": 3100
+        },
+        {
+          "day": 5,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 800,
+          "shopping": 0,
+          "subtotal": 800
+        }
+      ]
+    },
+    "totalSpent": 26460,
+    "remainingBudget": 3540,
+    "budgetTips": [
+      "Opt for local eateries and dhabas for lunch to save on meal costs.",
+      "Bargain respectfully while shopping for souvenirs and hiring ponies.",
+      "Utilize free activities like nature walks and temple visits."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Light woolens and sweaters",
+      "A warm jacket for evenings and higher altitudes",
+      "Comfortable t-shirts and trousers",
+      "Modest clothing for temple visits"
+    ],
+    "footwear": [
+      "Comfortable walking shoes or sneakers",
+      "A pair of casual slippers or sandals"
+    ],
+    "essentials": [
+      "Sunscreen with high SPF",
+      "Sunglasses and hats/caps",
+      "Moisturizer and lip balm",
+      "Personal toiletries",
+      "A small backpack for day trips"
+    ],
+    "medication": [
+      "Personal first-aid kit with antiseptic, bandages, etc.",
+      "Medication for motion sickness if needed",
+      "Any prescribed personal medications"
+    ],
+    "electronics": [
+      "Mobile phones and chargers",
+      "Power bank",
+      "Camera with extra batteries and memory card"
+    ],
+    "documents": [
+      "Government-issued ID cards (Aadhaar, etc.)",
+      "Hotel booking confirmation",
+      "Driving license if self-driving"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "task": "Confirm hotel booking and transport arrangements.",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Pack clothing according to the weather forecast (light woolens and jackets).",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "task": "Withdraw sufficient cash as ATMs might be sparse in some areas.",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Charge all electronic devices and power banks.",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "task": "Inform family or friends about your itinerary.",
+      "completed": false,
+      "priority": "low"
+    }
+  ]
+}
