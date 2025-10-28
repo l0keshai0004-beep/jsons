@@ -1,0 +1,1041 @@
+{
+  "tripOverview": {
+    "destination": "Osaka, Japan",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-10",
+    "duration": "7 nights",
+    "companions": "2 adults, 1 children",
+    "tripType": "Cultural and Nature-focused Family Trip"
+  },
+  "mode_of_transport": {
+    "flight": {
+      "destination": "Osaka, Japan",
+      "Approx_cost": "250000-600000 JPY for 3 travelers",
+      "Approx_time_of_flight(duration)": "5-12 hours",
+      "Nearest_airport_from_current_destination": "Delhi (DEL)",
+      "Nearest_airport_from_visiting_destination": "Kansai International Airport (KIX)"
+    }
+  },
+  "hotel": {
+    "name": "COGO TENNOJI",
+    "address": "1-14 Minamikawahoricho, Tennoji Ward, Osaka, 543-0054, Japan",
+    "coordinates": {
+      "latitude": 34.64884,
+      "longitude": 135.5183093
+    },
+    "pricePerNight": 9430,
+    "bookingLinks": [
+      "https://co-go.jp/tennoji/"
+    ],
+    "imageUrls": [
+      "https://lh3.googleusercontent.com/p/AF1QipND65nQI2c0XzlU4F7Yl6FKag0swRaMnoPH_SkE=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNKJfVChlgiVxNv56azlbB3cD0s7Q0LnBxhmwZL=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/proxy/2EQ5zTAoxB592kOuy4lLFE_1hNDn18bSDsHaimK93YI2D59J9V79YXBtnJJ5KKYR2OZHvksS9cQB2tFu-rG88a6gAhEbeZf5Hmnx4jKjYjLZV_AZ9M6Yc-MSlPP5XngzY1u2EmXn-WLpvts7F_dtw1FmkbDSjMA=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipP0qw-IO-5tEltm4EkOyl1SgnrxxDa-uRjBInm1=s287-w287-h192-n-k-no-v1"
+    ],
+    "amenities": [
+      "Free Wi-Fi",
+      "Kitchen in some rooms",
+      "Accessible",
+      "Kid-friendly"
+    ],
+    "reviewScore": 4.6
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-03",
+      "theme": "Arrival and Serene Beginnings",
+      "optimizedRoute": "Arrival at Kansai International Airport (KIX) -> COGO TENNOJI",
+      "totalDistance": 0,
+      "totalTravelTime": "Approx. 50-60 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "3:00 PM - 5:30 PM",
+          "name": "Arrival and Hotel Check-in",
+          "coordinates": {
+            "latitude": 34.64884,
+            "longitude": 135.5183093
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.64884,135.5183093",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A",
+          "description": "Welcome to Japan! Arrive at Kansai International Airport (KIX), clear immigration, and collect your luggage. Transfer to your hotel, COGO TENNOJI, located in a convenient yet relatively calm area. This first afternoon is all about settling in, unpacking, and shaking off the jet lag. The hotel's welcoming atmosphere provides a perfect start to your tranquil Japanese adventure, allowing you to acclimate at a relaxed pace before your explorations begin.",
+          "whyVisit": "This initial phase of your trip is crucial for setting a relaxed tone. By focusing on a smooth transfer and check-in, you ensure the whole family, especially your 8-year-old, starts the vacation feeling refreshed and not rushed.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrival%20and%20Hotel%20Check-in&dates=20251103T150000/20251103T173000&details=Arrive%20at%20Kansai%20International%20Airport%20(KIX)%20and%20transfer%20to%20COGO%20TENNOJI.%20Settle%20in%20and%20unwind.&location=COGO%20TENNOJI",
+          "activities": [
+            "Take the airport limousine bus or a train (like the JR Haruka) to the Tennoji area.",
+            "Check into your room and unpack.",
+            "Take a short, casual walk around the immediate neighborhood to get your bearings."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "3000-5000 JPY for airport transfer (train/bus)",
+            "bestTime": "N/A",
+            "duration": "2-3 hours",
+            "accessibility": "Kansai Airport and major train stations are highly accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Passport",
+              "Reservation confirmations (digital or print)",
+              "A pre-loaded IC card (like ICOCA) for easy transport fare payment."
+            ],
+            "whatToBuy": [
+              "A bottle of water or tea from a vending machine to stay hydrated."
+            ],
+            "safetyNotes": [
+              "Keep your luggage with you at all times.",
+              "Have the hotel address written in Japanese to show to taxi drivers or for asking directions."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM - 8:30 PM",
+          "name": "Welcome Dinner at a Local Eatery",
+          "coordinates": {
+            "latitude": 34.64884,
+            "longitude": 135.5183093
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.64884,135.5183093",
+          "distanceFromPrevious": 0.5,
+          "travelTimeFromPrevious": "5 minutes walk",
+          "description": "For your first meal, immerse yourself in the local food scene without venturing too far. The area around Tennoji offers a fantastic variety of authentic, family-friendly restaurants. Choose a cozy izakaya (Japanese pub, often with a wide menu) or a ramen shop to enjoy a relaxed and delicious dinner. This is a great opportunity to introduce your family to the flavors of Japan in a casual setting, setting the tone for the foodie adventures to come.",
+          "whyVisit": "A low-key local dinner is the perfect, stress-free introduction to Japanese cuisine for the family. It's a chance to have a satisfying meal and enjoy the local ambiance without the need for extensive travel after a long flight.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Welcome%20Dinner%20at%20a%20Local%20Eatery&dates=20251103T190000/20251103T203000&details=Enjoy%20a%20relaxed%20and%20authentic%20Japanese%20dinner%20in%20the%20Tennoji%20area.&location=Tennoji%20Ward%2C%20Osaka",
+          "activities": [
+            "Explore the nearby streets for a restaurant that looks appealing.",
+            "Try classic dishes like Karaage (Japanese fried chicken), Gyoza (dumplings), or a comforting bowl of Ramen.",
+            "Enjoy the quiet evening atmosphere of the neighborhood."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "4000-8000 JPY for the family",
+            "bestTime": "7:00 PM",
+            "duration": "1.5 hours",
+            "accessibility": "Most restaurants are accessible from the street level."
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash, as some smaller restaurants may not accept credit cards."
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "It's polite to say 'Itadakimasu' before eating.",
+              "Slurping noodles is considered acceptable and a sign of enjoyment."
+            ],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "0.5 km",
+        "spending": {
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 4000,
+          "Meals": 6000,
+          "Shopping": 1000,
+          "dailySubtotal": 11000
+        },
+        "remainingBudget": 389000
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-04",
+      "theme": "Nara's Gentle Giants and Serene Gardens",
+      "optimizedRoute": "COGO TENNOJI → Kofuku-ji Temple → Todai-ji Temple → Yoshikien Garden → Nara Park → COGO TENNOJI",
+      "totalDistance": 74.85,
+      "totalTravelTime": "1 hour 40 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 2:00 PM",
+          "name": "Nara Park & Todai-ji Temple",
+          "coordinates": {
+            "latitude": 34.6851,
+            "longitude": 135.8433
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.6851,135.8433",
+          "distanceFromPrevious": 34.06,
+          "travelTimeFromPrevious": "45 minutes",
+          "description": "Take a scenic train ride to Nara, Japan's first permanent capital. Your main destination is Nara Park, a vast and beautiful public park famous for its population of over 1,000 free-roaming, sacred deer. These deer are surprisingly tame and will bow for special crackers. Within the park lies the magnificent Todai-ji Temple, a UNESCO World Heritage site. It houses one of Japan's largest bronze Buddha statues (Daibutsu) and is one of the world's largest wooden buildings. The sheer scale of the temple and the serene presence of the deer create an unforgettable experience.",
+          "whyVisit": "This is a perfect family activity. Your 8-year-old will be absolutely enchanted by the friendly deer, and the awe-inspiring size of the Great Buddha provides a powerful cultural lesson. The wide-open spaces of the park allow for safe and enjoyable exploration.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Nara%20Park%20%26%20Todai-ji%20Temple&dates=20251104T090000/20251104T140000&details=Explore%20Nara%20Park%2C%20interact%20with%20the%20sacred%20deer%2C%20and%20visit%20the%20Great%20Buddha%20at%20Todai-ji%20Temple.&location=Nara%20Park%2C%20Nara%2C%20Japan",
+          "activities": [
+            "Buy special 'shika senbei' (deer crackers) to feed the deer.",
+            "Observe the deer bowing for treats.",
+            "Explore the main hall of Todai-ji to see the 15-meter tall Great Buddha.",
+            "Wander through the quieter, forested paths of the park for a peaceful stroll."
+          ],
+          "practicalInfo": {
+            "entryFee": "600 JPY per adult for Todai-ji, child free",
+            "estimatedCost": "4000-5000 JPY for transport, entry, and snacks",
+            "bestTime": "Morning to avoid the largest crowds.",
+            "duration": "4-5 hours",
+            "accessibility": "Main paths are accessible, though some temple areas have stairs. The park itself is very open."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes are essential.",
+              "Camera",
+              "Hand sanitizer for after feeding the deer."
+            ],
+            "whatToBuy": [
+              "Deer crackers (200 JPY per pack)",
+              "A small deer-themed souvenir from the local shops."
+            ],
+            "safetyNotes": [
+              "The deer are wild animals; supervise children closely.",
+              "Keep food hidden as deer can be assertive.",
+              "Do not feed them any human food."
+            ],
+            "customsEtiquette": [
+              "Be respectful in temple grounds.",
+              "Follow the designated paths for viewing the Buddha statue."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "In front of the main gate of Todai-ji Temple.",
+              "A photo of the deer bowing for a cracker.",
+              "A wide shot of the temple from across the pond."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:30 PM - 4:30 PM",
+          "name": "Yoshikien Garden & Kofuku-ji Temple Grounds",
+          "coordinates": {
+            "latitude": 34.6879,
+            "longitude": 135.8427
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.6879,135.8427",
+          "distanceFromPrevious": 0.85,
+          "travelTimeFromPrevious": "10 minutes walk",
+          "description": "After the grandeur of Todai-ji, find tranquility at Yoshikien Garden, a beautiful and often overlooked Japanese garden located nearby. It consists of three distinct gardens: a pond garden, a moss garden, and a tea ceremony garden, offering a peaceful respite. Afterwards, take a stroll through the grounds of Kofuku-ji Temple, another significant Nara landmark. While you can skip the museum, the sight of its iconic five-story pagoda against the sky is a classic Nara scene and provides a wonderful sense of history and place.",
+          "whyVisit": "This part of the day offers a perfect contrast to the bustling energy of the deer park. The serene gardens are a place for quiet reflection and appreciation of Japanese aesthetics, providing a calming experience for both adults and children.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Yoshikien%20Garden%20%26%20Kofuku-ji%20Temple%20Grounds&dates=20251104T143000/20251104T163000&details=Visit%20the%20tranquil%20Yoshikien%20Garden%20and%20stroll%20through%20the%20historic%20grounds%20of%20Kofuku-ji%20Temple.&location=Yoshikien%20Garden%2C%20Nara%2C%20Japan",
+          "activities": [
+            "Stroll through the three different sections of Yoshikien Garden.",
+            "Enjoy the quiet atmosphere and the sound of flowing water.",
+            "Take photos of the five-story pagoda at Kofuku-ji.",
+            "Relax on a bench and simply enjoy the peaceful surroundings."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free for foreign tourists (show passport at Yoshikien). Kofuku-ji grounds are free.",
+            "estimatedCost": "500 JPY for drinks or a snack",
+            "bestTime": "Mid-afternoon.",
+            "duration": "2 hours",
+            "accessibility": "Garden paths are mostly flat but can be gravel. Kofuku-ji grounds are paved."
+          },
+          "tips": {
+            "whatToBring": [
+              "Your passport to get free entry into Yoshikien Garden."
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Stay on the designated paths within the garden."
+            ],
+            "customsEtiquette": [
+              "Do not touch the moss or disturb the garden arrangements.",
+              "Keep voices low to maintain the tranquil atmosphere."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The reflection of trees in the pond at Yoshikien.",
+              "The view of the Kofuku-ji pagoda from the bottom of the main stairs."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "4:30 PM - 5:30 PM",
+          "name": "Traditional Tea Ceremony Experience",
+          "coordinates": {
+            "latitude": 34.683,
+            "longitude": 135.8258
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.683,135.8258",
+          "distanceFromPrevious": 2.8,
+          "travelTimeFromPrevious": "15 minutes walk",
+          "description": "Immerse your family in the grace and beauty of Japanese culture with a traditional tea ceremony. This experience, often held in a serene tea house, involves the ceremonial preparation and presentation of matcha, powdered green tea. An expert will guide you through the steps and explain the deep cultural significance of the ritual. It's a hands-on, calming, and deeply memorable activity that offers a window into the Japanese spirit of 'omotenashi' (hospitality).",
+          "whyVisit": "This is a wonderful, interactive cultural experience that is both educational and calming. It's a fantastic way for your son to learn about Japanese traditions in an engaging way, and the sweet treat that accompanies the tea is always a hit with kids.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Traditional%20Tea%20Ceremony%20Experience&dates=20251104T163000/20251104T173000&details=Participate%20in%20a%20traditional%20Japanese%20tea%20ceremony%20and%20learn%20about%20its%20cultural%20significance.&location=Nara%2C%20Japan",
+          "activities": [
+            "Watch a tea master prepare matcha with precise, graceful movements.",
+            "Learn how to properly hold the tea bowl and drink the matcha.",
+            "Enjoy a traditional Japanese sweet (wagashi) that complements the tea.",
+            "Ask questions about the history and philosophy of the tea ceremony."
+          ],
+          "practicalInfo": {
+            "entryFee": "Varies by location",
+            "estimatedCost": "6000-9000 JPY for the family",
+            "bestTime": "Late afternoon.",
+            "duration": "1 hour",
+            "accessibility": "Traditional tea houses may require you to sit on tatami mats."
+          },
+          "tips": {
+            "whatToBring": [
+              "An open mind and a willingness to participate."
+            ],
+            "whatToBuy": [
+              "You can often purchase high-quality matcha or tea ceremony utensils as a souvenir."
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Listen carefully to the instructions from the tea master.",
+              "Remove your shoes before entering the tea room.",
+              "It is polite to finish both your tea and your sweet."
+            ],
+            "bookingRequired": true,
+            "photoSpots": [
+              "The beautifully arranged wagashi and matcha bowl.",
+              "The serene interior of the tea room."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "74.85 km",
+        "spending": {
+          "Entry Fees": 1200,
+          "Activities": 7500,
+          "Transport": 4000,
+          "Meals": 7000,
+          "Shopping": 1500,
+          "dailySubtotal": 21200
+        },
+        "remainingBudget": 367800
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-05",
+      "theme": "Kyoto's Bamboo Forests and Riverside Serenity",
+      "optimizedRoute": "COGO TENNOJI → Arashiyama Bamboo Grove → Tenryu-ji Temple → Hozugawa River Area → COGO TENNOJI",
+      "totalDistance": 135.32,
+      "totalTravelTime": "2 hours 30 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 1:00 PM",
+          "name": "Arashiyama Bamboo Grove & Tenryu-ji Temple",
+          "coordinates": {
+            "latitude": 35.0173,
+            "longitude": 135.6666
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=35.0173,135.6666",
+          "distanceFromPrevious": 56.45,
+          "travelTimeFromPrevious": "1 hour 15 minutes",
+          "description": "Travel to the scenic Arashiyama district on the western outskirts of Kyoto. Your first stop is the world-famous Arashiyama Bamboo Grove. Walking through the path as towering stalks of bamboo sway gently in the wind is a surreal and magical experience. To catch it in its most serene state, an early arrival is key. Adjacent to the grove is Tenryu-ji Temple, a major Zen temple and UNESCO World Heritage site. While the buildings are impressive, the main draw is its stunning landscape garden, which masterfully incorporates the surrounding mountains into its design.",
+          "whyVisit": "The bamboo grove is a visual wonder that will fascinate all ages, making for incredible photos and memories. The Zen garden at Tenryu-ji offers a moment of profound peace and a lesson in Japanese aesthetics, providing a beautiful, contemplative space for the family.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arashiyama%20Bamboo%20Grove%20%26%20Tenryu-ji%20Temple&dates=20251105T090000/20251105T130000&details=Experience%20the%20iconic%20bamboo%20grove%20and%20explore%20the%20magnificent%20Zen%20garden%20at%20Tenryu-ji%20Temple.&location=Arashiyama%2C%20Kyoto%2C%20Japan",
+          "activities": [
+            "Walk the full length of the main path through the bamboo grove.",
+            "Listen to the sound of the rustling bamboo leaves.",
+            "Sit on the veranda of Tenryu-ji's main hall to contemplate the Zen garden.",
+            "Explore the different sections of the temple's garden, including the pond and hillside paths."
+          ],
+          "practicalInfo": {
+            "entryFee": "800 JPY per adult for Tenryu-ji, child might be less",
+            "estimatedCost": "6000-8000 JPY for transport and entry fees",
+            "bestTime": "As early as possible (before 9 AM) to avoid crowds in the bamboo grove.",
+            "duration": "3-4 hours",
+            "accessibility": "The bamboo grove path is paved. Tenryu-ji garden has some unpaved paths and steps."
+          },
+          "tips": {
+            "whatToBring": [
+              "An umbrella or raincoat, as rain is forecast for today.",
+              "Good walking shoes.",
+              "A wide-angle lens for photos in the bamboo grove."
+            ],
+            "whatToBuy": [
+              "Small bamboo crafts from the local shops.",
+              "A matcha-flavored soft-serve ice cream."
+            ],
+            "safetyNotes": [
+              "The path can get crowded; keep an eye on your child.",
+              "Be mindful of the occasional service vehicle that uses the path."
+            ],
+            "customsEtiquette": [
+              "Do not carve or damage the bamboo stalks.",
+              "Be quiet and respectful within the temple grounds."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Looking up from the middle of the bamboo grove path.",
+              "The view of the garden and pond from the temple's main hall.",
+              "The famous Togetsukyo Bridge over the Katsura River."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "1:00 PM - 4:00 PM",
+          "name": "Riverside Lunch and Leisurely Stroll",
+          "coordinates": {
+            "latitude": 35.016,
+            "longitude": 135.5805
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=35.016,135.5805",
+          "distanceFromPrevious": 19.74,
+          "travelTimeFromPrevious": "25 minutes",
+          "description": "Due to the rainy forecast, the Hozugawa River Boat Ride may not be ideal. Instead, enjoy a relaxing lunch at one of the many charming restaurants in Arashiyama, some of which offer beautiful views over the Katsura River. After lunch, take a leisurely stroll along the riverside. The misty, rainy atmosphere can actually enhance the beauty of the landscape, creating a moody and atmospheric scene. You can also explore the small shops and quieter backstreets of the town, discovering local crafts and snacks.",
+          "whyVisit": "This provides a flexible and weather-appropriate plan. A relaxed lunch and gentle walk allows the family to enjoy the beauty of Arashiyama at a comfortable pace, turning a rainy day into a cozy and memorable experience.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Riverside%20Lunch%20and%20Leisurely%20Stroll&dates=20251105T130000/20251105T160000&details=Enjoy%20a%20relaxing%20lunch%20in%20Arashiyama%20and%20take%20a%20peaceful%20walk%20along%20the%20Katsura%20River.&location=Arashiyama%2C%20Kyoto%2C%20Japan",
+          "activities": [
+            "Find a restaurant serving local Kyoto cuisine like yudofu (simmered tofu).",
+            "Walk across the historic Togetsukyo Bridge.",
+            "Watch the traditional cormorant fishing boats on the river (seasonal).",
+            "Browse the souvenir shops for unique gifts."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "4000-6000 JPY for lunch for the family",
+            "bestTime": "Early afternoon",
+            "duration": "2-3 hours",
+            "accessibility": "The main streets and riverside paths are paved and accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "A sturdy umbrella is a must today.",
+              "Waterproof jackets and shoes."
+            ],
+            "whatToBuy": [
+              "Yatsuhashi, a famous Kyoto confectionery.",
+              "A beautiful Japanese umbrella (wagasa) as a functional souvenir."
+            ],
+            "safetyNotes": [
+              "Be cautious on wet surfaces."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Togetsukyo Bridge with the misty mountains in the background.",
+              "The colorful boats moored along the riverbank."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "135.32 km",
+        "spending": {
+          "Entry Fees": 1600,
+          "Activities": 0,
+          "Transport": 7000,
+          "Meals": 8000,
+          "Shopping": 2000,
+          "dailySubtotal": 18600
+        },
+        "remainingBudget": 349200
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-06",
+      "theme": "Nature, History, and Culinary Fun",
+      "optimizedRoute": "COGO TENNOJI → Open-Air Museum of Old Japanese Farmhouses → Minoo Park & Waterfall → Osaka Cooking Class → COGO TENNOJI",
+      "totalDistance": 71.44,
+      "totalTravelTime": "1 hour 45 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 2:30 PM",
+          "name": "Minoo Park & Waterfall",
+          "coordinates": {
+            "latitude": 34.8625,
+            "longitude": 135.4744
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.8625,135.4744",
+          "distanceFromPrevious": 11.95,
+          "travelTimeFromPrevious": "20 minutes",
+          "description": "Dedicate the morning to Minoo Park, a beautiful forested valley on the outskirts of Osaka. A paved, gentle hiking trail runs alongside a picturesque river, leading to the stunning 33-meter high Minoo Waterfall. The walk is relatively easy and incredibly scenic, especially in autumn when the maple leaves are vibrant. The light rain forecast for today can make the forest feel even more lush and mystical. It’s a perfect escape into nature without traveling far from the city.",
+          "whyVisit": "This is an excellent outdoor activity for the family. The path is manageable for an 8-year-old, and the reward of seeing the beautiful waterfall is a great motivator. It’s a fantastic way to experience Japan's natural beauty and get some fresh air.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Minoo%20Park%20%26%20Waterfall&dates=20251106T093000/20251106T143000&details=Enjoy%20a%20leisurely%20hike%20through%20a%20forested%20valley%20to%20see%20the%20beautiful%20Minoo%20Waterfall.&location=Minoo%20Park%2C%20Osaka%2C%20Japan",
+          "activities": [
+            "Hike the 3-kilometer trail to the waterfall.",
+            "Try the local specialty, 'momiji tempura' (deep-fried maple leaves).",
+            "Visit the small insect museum near the park entrance (optional).",
+            "Enjoy the sounds of the forest and the river."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "2000-3000 JPY for transport and snacks",
+            "bestTime": "Morning",
+            "duration": "4-5 hours",
+            "accessibility": "The main trail to the waterfall is paved and mostly flat."
+          },
+          "tips": {
+            "whatToBring": [
+              "Waterproof hiking shoes or comfortable sneakers.",
+              "A light raincoat or umbrella.",
+              "Water bottles and some snacks."
+            ],
+            "whatToBuy": [
+              "Momiji tempura from one of the vendors along the trail."
+            ],
+            "safetyNotes": [
+              "Stay on the designated trail.",
+              "The path can be slippery when wet."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main waterfall.",
+              "The red bridge near the beginning of the trail.",
+              "Close-up shots of the vibrant autumn leaves."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "3:00 PM - 5:30 PM",
+          "name": "Open-Air Museum of Old Japanese Farmhouses",
+          "coordinates": {
+            "latitude": 34.8217,
+            "longitude": 135.5186
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.8217,135.5186",
+          "distanceFromPrevious": 25.01,
+          "travelTimeFromPrevious": "35 minutes",
+          "description": "After your nature walk, step back in time at this fascinating open-air museum. Located in Hattori Ryokuchi Park, it features a collection of beautifully preserved traditional farmhouses from different regions of Japan. You can enter the houses and see how people lived in rural Japan during the Edo period. The houses are set within a natural, green landscape, making it a pleasant and educational experience that feels worlds away from the modern city.",
+          "whyVisit": "This museum provides a hands-on history lesson that is far more engaging for a child than a typical museum. Exploring the old houses, seeing the unique architecture, and imagining life in the past is a fun and memorable way to learn about Japanese culture.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Open-Air%20Museum%20of%20Old%20Japanese%20Farmhouses&dates=20251106T150000/20251106T173000&details=Explore%20traditional%20Japanese%20farmhouses%20from%20various%20regions%20in%20a%20beautiful%20open-air%20setting.&location=Hattori%20Ryokuchi%20Park%2C%20Toyonaka%2C%20Osaka%2C%20Japan",
+          "activities": [
+            "Walk inside the various farmhouses to see their construction and layout.",
+            "Look for unique features like the 'irori' (sunken hearth).",
+            "Enjoy the peaceful atmosphere of the surrounding park.",
+            "Participate in any craft demonstrations that might be available."
+          ],
+          "practicalInfo": {
+            "entryFee": "500 JPY per adult",
+            "estimatedCost": "1000 JPY for entry fees",
+            "bestTime": "Afternoon",
+            "duration": "2-2.5 hours",
+            "accessibility": "Paths are generally accessible, but entering the farmhouses requires stepping up."
+          },
+          "tips": {
+            "whatToBring": [
+              "Your camera."
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Watch your head on the low beams inside the houses."
+            ],
+            "customsEtiquette": [
+              "You may need to remove your shoes before entering some of the houses.",
+              "Do not touch the artifacts or displays."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Gassho-style farmhouse from Shirakawa-go.",
+              "The view of the village from the small hill."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "6:30 PM - 9:30 PM",
+          "name": "Osaka Cooking Class",
+          "coordinates": {
+            "latitude": 34.6937,
+            "longitude": 135.5022
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.6937,135.5022",
+          "distanceFromPrevious": 27.69,
+          "travelTimeFromPrevious": "40 minutes",
+          "description": "End your day with a fun, interactive, and delicious experience: a Japanese cooking class. Many classes in Osaka are designed for tourists and families, offering a chance to learn how to make popular dishes like sushi, ramen, or okonomiyaki. Under the guidance of a friendly instructor, you'll get to prepare your own meal and then enjoy the fruits of your labor for dinner. It's a fantastic way to engage with Japanese food culture on a deeper level.",
+          "whyVisit": "This is the ultimate foodie experience and is incredibly engaging for an 8-year-old. It's a hands-on activity that teaches a new skill, ends with a delicious meal, and creates lasting memories. It's a perfect indoor evening activity, especially on a rainy day.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Osaka%20Cooking%20Class&dates=20251106T183000/20251106T213000&details=Learn%20to%20cook%20traditional%20Japanese%20dishes%20in%20a%20fun%2C%20hands-on%20class.&location=Osaka%2C%20Japan",
+          "activities": [
+            "Learn about Japanese ingredients and cooking techniques.",
+            "Follow the instructor's steps to prepare several dishes.",
+            "Enjoy eating the meal you cooked yourself.",
+            "Socialize with the instructor and other participants."
+          ],
+          "practicalInfo": {
+            "entryFee": "Varies by school",
+            "estimatedCost": "21000-30000 JPY for the family",
+            "bestTime": "Evening",
+            "duration": "3 hours",
+            "accessibility": "Check with the specific cooking school regarding accessibility."
+          },
+          "tips": {
+            "whatToBring": [
+              "A healthy appetite!"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be careful when using knives and other kitchen equipment."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Your beautifully arranged, self-made dishes.",
+              "A group photo with your instructor."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "71.44 km",
+        "spending": {
+          "Entry Fees": 1000,
+          "Activities": 25000,
+          "Transport": 4000,
+          "Meals": 3000,
+          "Shopping": 1000,
+          "dailySubtotal": 34000
+        },
+        "remainingBudget": 315200
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-07",
+      "theme": "Feudal Grandeur and Garden Tranquility",
+      "optimizedRoute": "COGO TENNOJI → Himeji Castle → Koko-en Garden → COGO TENNOJI",
+      "totalDistance": 214.81,
+      "totalTravelTime": "3 hours 5 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 3:00 PM",
+          "name": "Himeji Castle & Koko-en Garden",
+          "coordinates": {
+            "latitude": 34.8394,
+            "longitude": 134.6939
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.8394,134.6939",
+          "distanceFromPrevious": 111.86,
+          "travelTimeFromPrevious": "1 hour 30 minutes",
+          "description": "Embark on a day trip to see Japan's most spectacular and best-preserved feudal castle, Himeji Castle. Also known as the 'White Heron Castle' for its elegant, white appearance, this UNESCO World Heritage site is a national treasure. Explore its complex, multi-story main keep and defensive fortifications. Right next door is Koko-en, a stunningly beautiful garden consisting of nine separate, walled gardens designed in various styles of the Edo period. The combined ticket offers a perfect mix of imposing history and serene natural beauty.",
+          "whyVisit": "Himeji Castle is like stepping into a samurai movie. It's a thrilling and educational experience for all ages, offering a tangible connection to Japan's feudal past. The adjacent Koko-en garden provides a peaceful and beautiful contrast, a place to relax and admire masterful landscape design.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Himeji%20Castle%20%26%20Koko-en%20Garden&dates=20251107T090000/20251107T150000&details=Visit%20Japan's%20most%20beautiful%20feudal%20castle%20and%20the%20adjacent%20Koko-en%20Garden.&location=Himeji%2C%20Hyogo%2C%20Japan",
+          "activities": [
+            "Climb the steep, narrow staircases inside the main keep of Himeji Castle.",
+            "Peer through the archers' windows and imagine defending the castle.",
+            "Stroll through each of the nine unique gardens in Koko-en.",
+            "Enjoy tea at the teahouse overlooking the garden's main pond."
+          ],
+          "practicalInfo": {
+            "entryFee": "1050 JPY per adult for combo ticket (castle & garden)",
+            "estimatedCost": "8000-10000 JPY for transport and entry fees",
+            "bestTime": "Morning to allow ample time for both sites.",
+            "duration": "5-6 hours",
+            "accessibility": "Himeji Castle is not accessible for wheelchairs due to steep stairs. Koko-en is mostly accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes with good grip for the castle's steep stairs.",
+              "A water bottle."
+            ],
+            "whatToBuy": [
+              "A miniature model of the castle.",
+              "Postcards featuring the castle in different seasons."
+            ],
+            "safetyNotes": [
+              "Be very careful on the steep, slippery wooden stairs inside the castle.",
+              "Hold onto the handrails provided."
+            ],
+            "customsEtiquette": [
+              "You will need to remove your shoes inside the castle keep (plastic bags are provided)."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The classic view of the castle from the main lawn in front.",
+              "The carp-filled pond at Koko-en Garden with the waterfall in the background."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "214.81 km",
+        "spending": {
+          "Entry Fees": 2100,
+          "Activities": 0,
+          "Transport": 9000,
+          "Meals": 5000,
+          "Shopping": 1500,
+          "dailySubtotal": 17600
+        },
+        "remainingBudget": 297600
+      }
+    },
+    {
+      "day": 6,
+      "date": "2025-11-08",
+      "theme": "Mountain Vistas and Autumn Colors",
+      "optimizedRoute": "COGO TENNOJI → Mount Yoshino → COGO TENNOJI",
+      "totalDistance": 116.12,
+      "totalTravelTime": "2 hours 10 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 4:00 PM",
+          "name": "Mount Yoshino",
+          "coordinates": {
+            "latitude": 34.3687,
+            "longitude": 135.856
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.3687,135.856",
+          "distanceFromPrevious": 57.82,
+          "travelTimeFromPrevious": "1 hour 20 minutes",
+          "description": "Today is dedicated to a full immersion in Japan's stunning natural landscapes with a day trip to Mount Yoshino. This area, another UNESCO World Heritage site, is famously covered in thousands of cherry trees, but in autumn, it transforms into a breathtaking tapestry of red, orange, and yellow leaves. The mountain is divided into different areas, connected by scenic hiking trails and dotted with beautiful temples and shrines. You can take a ropeway or bus partway up and then explore the various viewpoints and cultural sites at a leisurely pace.",
+          "whyVisit": "This is the ultimate countryside experience of your trip. The crisp mountain air, panoramic views, and vibrant autumn foliage provide a powerful connection to nature. The hiking is invigorating, and the cultural sites along the way add a layer of historical interest.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Mount%20Yoshino&dates=20251108T090000/20251108T160000&details=Embark%20on%20a%20day%20trip%20to%20Mount%20Yoshino%20to%20enjoy%20hiking%2C%20stunning%20views%2C%20and%20vibrant%20autumn%20leaves.&location=Mount%20Yoshino%2C%20Nara%2C%20Japan",
+          "activities": [
+            "Hike on one of the many scenic trails.",
+            "Visit Kinpusen-ji Temple, the main temple of the Shugendo mountain religion.",
+            "Enjoy panoramic views from the Hanayagura viewpoint.",
+            "Savor local delicacies like kakinoha-zushi (persimmon leaf-wrapped sushi)."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free to explore, small fees for some temples.",
+            "estimatedCost": "5000-7000 JPY for transport, local buses, and food",
+            "bestTime": "All day",
+            "duration": "6-7 hours",
+            "accessibility": "The terrain is mountainous. Local buses can help, but significant walking and climbing are required to see the best views."
+          },
+          "tips": {
+            "whatToBring": [
+              "Sturdy hiking shoes.",
+              "Layered clothing, as temperatures can be cooler in the mountains.",
+              "Plenty of water and snacks.",
+              "Cash for local buses and small shops."
+            ],
+            "whatToBuy": [
+              "Kuzu-mochi, a local sweet made from arrowroot starch.",
+              "A wooden souvenir from one of the local craft shops."
+            ],
+            "safetyNotes": [
+              "Stay on the marked trails.",
+              "Be prepared for changing weather conditions in the mountains.",
+              "Check the last bus/ropeway times for your descent."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Any of the main viewpoints overlooking the valleys.",
+              "The impressive Zao-do Hall of Kinpusen-ji Temple."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM - 9:00 PM",
+          "name": "Special Farewell Dinner",
+          "coordinates": {
+            "latitude": 34.64884,
+            "longitude": 135.5183093
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.64884,135.5183093",
+          "distanceFromPrevious": 58.3,
+          "travelTimeFromPrevious": "1 hour 20 minutes",
+          "description": "After a rewarding day in the mountains, celebrate your trip with a special farewell dinner. Choose a highly-rated restaurant in the Tennoji or a nearby quiet neighborhood. This could be a chance to try a multi-course 'kaiseki' meal, high-quality sushi, or another Japanese cuisine you've been wanting to sample. The focus is on savoring exquisite food in a relaxed atmosphere, reflecting on the wonderful experiences you've had throughout your journey.",
+          "whyVisit": "A farewell dinner is a wonderful ritual to conclude a family vacation. It's a time to share favorite memories from the trip and enjoy one last, memorable Japanese meal together.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Special%20Farewell%20Dinner&dates=20251108T190000/20251108T210000&details=Enjoy%20a%20memorable%20final%20Japanese%20dinner%20to%20celebrate%20your%20trip.&location=Osaka%2C%20Japan",
+          "activities": [
+            "Make a reservation at a restaurant you've researched.",
+            "Try dishes you haven't had before.",
+            "Share your favorite moments from the trip with each other."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "10000-15000 JPY for the family",
+            "bestTime": "Evening",
+            "duration": "2 hours",
+            "accessibility": "Depends on the chosen restaurant."
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "116.12 km",
+        "spending": {
+          "Entry Fees": 500,
+          "Activities": 0,
+          "Transport": 6000,
+          "Meals": 12000,
+          "Shopping": 2000,
+          "dailySubtotal": 20500
+        },
+        "remainingBudget": 277100
+      }
+    },
+    {
+      "day": 7,
+      "date": "2025-11-09",
+      "theme": "Relaxed Osaka Exploration",
+      "optimizedRoute": "COGO TENNOJI → Osaka Castle Park → COGO TENNOJI",
+      "totalDistance": 12.6,
+      "totalTravelTime": "20 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Free Morning for Relaxation or Local Exploration",
+          "coordinates": {
+            "latitude": 34.64884,
+            "longitude": 135.5183093
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.64884,135.5183093",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A",
+          "description": "Enjoy a completely flexible and leisurely morning. After a series of busy day trips, this is your chance to recharge. You could sleep in, enjoy a long breakfast, or take a final stroll around your local neighborhood. It’s also a good opportunity for some last-minute souvenir shopping in a non-touristy area, or to revisit a favorite spot nearby. The goal is to unwind and enjoy the final full day of your trip at your own pace.",
+          "whyVisit": "Building downtime into the itinerary is essential, especially for family travel. A free morning prevents burnout and allows for spontaneity, letting you cater to how the family is feeling on the day.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Free%20Morning&dates=20251109T090000/20251109T120000&details=Enjoy%20a%20leisurely%20morning%20to%20relax%2C%20explore%20the%20local%20area%2C%20or%20do%20some%20last-minute%20shopping.&location=Osaka%2C%20Japan",
+          "activities": [
+            "Relax at the hotel.",
+            "Explore the Shitennoji Temple, which is very close to your hotel.",
+            "Visit a local market or shopping street.",
+            "Pack your suitcases at a leisurely pace."
+          ],
+          "practicalInfo": {
+            "entryFee": "Varies depending on activity",
+            "estimatedCost": "2000-5000 JPY for shopping or local transport",
+            "bestTime": "Morning",
+            "duration": "3 hours",
+            "accessibility": "N/A"
+          },
+          "tips": {
+            "whatToBring": [
+              "A reusable shopping bag."
+            ],
+            "whatToBuy": [
+              "Unique souvenirs, local snacks, or gifts for people back home."
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "1:30 PM - 4:00 PM",
+          "name": "Osaka Castle Park",
+          "coordinates": {
+            "latitude": 34.6873,
+            "longitude": 135.5262
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.6873,135.5262",
+          "distanceFromPrevious": 6.17,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "In the afternoon, make a relaxed trip to one of Osaka's most famous landmarks, Osaka Castle. The main goal today isn't to tour the museum inside, but to enjoy the vast and beautiful park that surrounds it. Stroll through the green spaces, admire the impressive stone walls and moats, and take in the magnificent view of the castle's exterior. It's a great way to see an iconic site without the pressure of a full tour, simply enjoying it as one of the city's most beloved public spaces.",
+          "whyVisit": "This is a low-stress way to see a major landmark. The park offers plenty of space for your son to run around and burn off energy, while the impressive castle provides a stunning backdrop for a relaxing afternoon walk.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Osaka%20Castle%20Park&dates=20251109T133000/20251109T160000&details=Enjoy%20an%20unhurried%20stroll%20through%20the%20expansive%20park%2C%20appreciating%20the%20castle's%20exterior%20and%20the%20surrounding%20nature.&location=Osaka%20Castle%20Park%2C%20Osaka%2C%20Japan",
+          "activities": [
+            "Walk around the castle moat.",
+            "Visit the Nishinomaru Garden for a great view of the castle (small entry fee).",
+            "Find a bench to relax and people-watch.",
+            "Take photos of the castle from different angles."
+          ],
+          "practicalInfo": {
+            "entryFee": "Park is free. Optional castle museum entry is 600 JPY/adult.",
+            "estimatedCost": "1000 JPY for transport",
+            "bestTime": "Afternoon",
+            "duration": "2.5 hours",
+            "accessibility": "The park's main paths are paved and accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes."
+            ],
+            "whatToBuy": [
+              "A castle-themed souvenir from the gift shop."
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "From the bridge leading to the main gate.",
+              "With the castle reflecting in the moat on a calm day."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "12.6 km",
+        "spending": {
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 1000,
+          "Meals": 6000,
+          "Shopping": 3000,
+          "dailySubtotal": 10000
+        },
+        "remainingBudget": 267100
+      }
+    },
+    {
+      "day": 8,
+      "date": "2025-11-10",
+      "theme": "Departure",
+      "optimizedRoute": "COGO TENNOJI -> Kansai International Airport (KIX)",
+      "totalDistance": 0,
+      "totalTravelTime": "Approx. 50-60 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "Prior to 12:00 PM",
+          "name": "Departure from Osaka",
+          "coordinates": {
+            "latitude": 34.4323,
+            "longitude": 135.2344
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.4323,135.2344",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A",
+          "description": "Enjoy a final Japanese breakfast at your hotel or a nearby cafe. Complete any last-minute packing and check out from the hotel. Transfer to Kansai International Airport (KIX) for your flight back to Delhi, filled with wonderful memories of your nature and culture-filled family adventure in the Kansai region.",
+          "whyVisit": "A smooth and organized departure ensures your trip ends on a positive note, leaving you with nothing but fond memories of your time in Japan.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure%20from%20Osaka&dates=20251110T090000/20251110T120000&details=Enjoy%20a%20final%20breakfast%2C%20check%20out%2C%20and%20transfer%20to%20Kansai%20International%20Airport%20(KIX)%20for%20your%20flight%20home.&location=Kansai%20International%20Airport%20(KIX)",
+          "activities": [
+            "Enjoy one last breakfast.",
+            "Double-check your room for any forgotten items.",
+            "Check out from the hotel.",
+            "Take your pre-arranged transport to the airport."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "3000-5000 JPY for airport transfer",
+            "bestTime": "N/A",
+            "duration": "3 hours",
+            "accessibility": "N/A"
+          },
+          "tips": {
+            "whatToBring": [
+              "Your passport and flight tickets."
+            ],
+            "whatToBuy": [
+              "Last-minute souvenirs or snacks from the airport duty-free shops."
+            ],
+            "safetyNotes": [
+              "Allow at least 3 hours at the airport for check-in, security, and immigration.",
+              "Confirm your flight status before leaving for the airport."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "0 km",
+        "spending": {
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 4000,
+          "Meals": 2500,
+          "Shopping": 0,
+          "dailySubtotal": 6500
+        },
+        "remainingBudget": 260600
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 400000,
+    "currency": "JPY",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Flights",
+          "total_cost": 0
+        }
+      ],
+      "accommodation": {
+        "hotelName": "COGO TENNOJI",
+        "pricePerNight": 9430,
+        "nights": 7,
+        "total": 66010
+      },
+      "dailyExpenses": [
+        11000,
+        21200,
+        18600,
+        34000,
+        17600,
+        20500,
+        10000,
+        6500
+      ]
+    },
+    "totalSpent": 205410,
+    "remainingBudget": 194590,
+    "budgetTips": [
+      "Utilize a Japan Rail Pass if your long-distance train travel exceeds the pass cost. For this itinerary, individual tickets are likely cheaper.",
+      "Enjoy delicious and affordable meals at convenience stores (konbini) like 7-Eleven or FamilyMart for breakfast or light lunches.",
+      "Look for restaurants offering lunch sets ('teishoku'), which are a great value.",
+      "Use an IC card (ICOCA, Suica) for all local transport; it's convenient and sometimes slightly cheaper than single tickets.",
+      "Take advantage of free attractions like parks, shrines, and exploring different neighborhoods on foot."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Layered clothing: long-sleeved shirts, sweaters, and a medium-weight jacket.",
+      "A waterproof jacket or raincoat (rain is expected on some days).",
+      "Comfortable trousers or jeans for walking.",
+      "One slightly smarter outfit for nice dinners."
+    ],
+    "footwear": [
+      "Comfortable, waterproof walking shoes or sneakers (essential).",
+      "A second pair of comfortable shoes to alternate."
+    ],
+    "essentials": [
+      "Personal medications and a small first-aid kit.",
+      "Sunscreen and sunglasses for clear days.",
+      "Travel-sized toiletries.",
+      "Hand sanitizer and tissues."
+    ],
+    "electronics": [
+      "Smartphone and portable power bank.",
+      "Camera with extra batteries and memory cards.",
+      "Universal travel adapter (Japan uses Type A plugs).",
+      "Personal electronic devices for entertainment."
+    ],
+    "documents": [
+      "Passports and any necessary visas.",
+      "Flight tickets and hotel booking confirmations (digital and paper copies).",
+      "Travel insurance information.",
+      "A list of emergency contacts and the address of your hotel in Japanese."
+    ],
+    "children-specific": [
+      "Any favorite books, small toys, or tablet for entertainment during travel.",
+      "Comfortable backpack for the 8-year-old to carry their own small items.",
+      "Snacks from home that they enjoy.",
+      "Any necessary personal items or medication for your child."
+    ]
+  },
+  "preTripChecklist": {
+    "highPriority": [
+      "Verify passport validity (at least 6 months remaining from your return date).",
+      "Check visa requirements for Indian citizens traveling to Japan and apply if necessary.",
+      "Book international flights from Delhi (DEL) to Osaka (KIX).",
+      "Confirm your hotel reservation at COGO TENNOJI.",
+      "Purchase comprehensive travel insurance for all three travelers.",
+      "Arrange for airport transfers or plan your train/bus route from KIX to your hotel."
+    ],
+    "mediumPriority": [
+      "Book the Osaka cooking class and any desired tea ceremony experiences in advance.",
+      "Exchange a starting amount of Japanese Yen (JPY) for immediate needs upon arrival.",
+      "Notify your bank and credit card companies of your travel dates.",
+      "Download offline maps (e.g., Google Maps for Osaka, Kyoto, Nara) and a translation app.",
+      "Research and purchase a Japan Rail Pass or decide on individual tickets based on cost analysis."
+    ],
+    "lowPriority": [
+      "Learn a few basic Japanese phrases like 'Arigato' (Thank you), 'Sumimasen' (Excuse me), and 'Konnichiwa' (Hello).",
+      "Research options for a pocket Wi-Fi rental or a travel SIM card for constant connectivity.",
+      "Make digital and physical photocopies of your passports and important documents.",
+      "Share your detailed itinerary with a family member or friend back home."
+    ]
+  }
+}
