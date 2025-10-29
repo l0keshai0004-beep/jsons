@@ -1,0 +1,735 @@
+{
+  "tripOverview": {
+    "destination": "Shillong, India",
+    "startDate": "2025-11-09",
+    "endDate": "2025-11-15",
+    "duration": "6 nights",
+    "companions": "2 adults, 0 children",
+    "tripType": "Romantic and Nature Escape"
+  },
+  "mode_of_transport": {
+    "flight": {
+      "destination": "Shillong",
+      "Approx_cost": "₹400-1000 for 2 travelers",
+      "Approx_time_of_flight(duration)": "2-4 hours",
+      "Nearest_airport_from_current_destination": "Pantnagar Airport (PGH)",
+      "Nearest_airport_from_visiting_destination": "Shillong Airport (SHL) or Lokpriya Gopinath Bordoloi International Airport (GAU)"
+    }
+  },
+  "hotel": {
+    "name": "HILLS ABODE | HOMESTAY | SHILLONG",
+    "address": "Address not available, please confirm with property.",
+    "coordinates": {
+      "latitude": 25.607142,
+      "longitude": 91.925889
+    },
+    "pricePerNight": 3500,
+    "totalCost": 21000,
+    "bookingLinks": [],
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipPzwQBRnyobutFf6piW82RdSddLLQZLCuuCIyo3=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPFxwgHAN-r-1W1NjBz4TtlgV-KAlG6kDGf68tR=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipP9ZIe5BalfUW1G6FbAXwGnrOkEGOssPbjdPPIc=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPhQE7WcrHyFjuvUBU4KBUaXLkl1VPGzPRNgcWb=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx629VRGPqZFA31dxyfU9r7VwqrCXbez2NMj5hxP69BnYuoAFkziACAZcTbClLS_nPv7XzJN6PF9ESwb85JgH7__jfq6QkIbe7OibvpvNBRYhx6Wi-jJWkqGeFBrSeTw_fsXlcOZw=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPFGA7WWvGk86waj97cS842q-0Rb8u6dTT7sQMh=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNwOnSBAlPnW-kBxDm9JVmx8pnPqGh1vhSIHJny=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPe3YbWVTW8j6y-G1MdAirX39DOCxFXdJQM84V2=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipOC36QIObPOqpx6UKmU7hEJEDu-bRtHiw0EIETj=s287-w287-h192-n-k-no-v1"
+    ],
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Room service",
+      "Kitchen in some rooms",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible"
+    ],
+    "reviewScore": 4.8
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-09",
+      "theme": "Arrival and Romantic Evening",
+      "optimizedRoute": "Arrival at hotel",
+      "totalDistance": 0,
+      "totalTravelTime": "0 minutes",
+      "places": [
+        {
+          "timeOfDay": "3:00 PM - 5:00 PM",
+          "name": "Arrival and Hotel Check-in",
+          "coordinates": {
+            "latitude": 25.607142,
+            "longitude": 91.925889
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.607142,91.925889",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Arrive in the beautiful city of Shillong, often referred to as the 'Scotland of the East'. Make your way to your charming accommodation, HILLS ABODE. This homestay is known for its cozy atmosphere and great hospitality, making it the perfect start to your romantic getaway. The afternoon is yours to settle in, unpack your bags, and shake off the travel fatigue. Let the cool, fresh air of the hills rejuvenate you as you prepare for a relaxing evening ahead.",
+          "whyVisit": "This initial period of calm is essential to transition from travel mode to vacation mode. It allows you to connect with your new surroundings and each other without any rush, setting a peaceful and intimate tone for the rest of your trip.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrival%20and%20Hotel%20Check-in&dates=20251109T093000Z/20251109T113000Z&details=Arrive%20and%20settle%20into%20your%20romantic%20accommodation%20at%20HILLS%20ABODE.&location=HILLS%20ABODE%20%7C%20HOMESTAY%20%7C%20SHILLONG",
+          "activities": [
+            "Complete check-in process at HILLS ABODE.",
+            "Unpack and organize your belongings for the week.",
+            "Take a few moments to relax on a balcony or near a window, soaking in the first views of Shillong."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "1500-2000 INR for dinner and local transport from airport/station",
+            "bestTime": "N/A",
+            "duration": "2 hours",
+            "accessibility": "Depends on the hotel's facilities; HILLS ABODE is listed as accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Printout of hotel confirmation",
+              "Light sweater or jacket"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Keep your luggage and personal belongings secure upon arrival.",
+              "Save the hotel's address and phone number on your mobile."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "0 km",
+        "spending": {
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 1000,
+          "Meals": 1000,
+          "Shopping": 0,
+          "Total": 2000
+        },
+        "remainingBudget": 98000
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-10",
+      "theme": "Lakeside Serenity and Garden Strolls",
+      "optimizedRoute": "HILLS ABODE | HOMESTAY | SHILLONG → Umiam Lake → Ward's Lake & Botanical Gardens → HILLS ABODE | HOMESTAY | SHILLONG",
+      "totalDistance": 49.43,
+      "totalTravelTime": "2 hours 8 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Umiam Lake",
+          "coordinates": {
+            "latitude": 25.6732,
+            "longitude": 91.9056
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.6732,91.9056",
+          "distanceFromPrevious": 22.02,
+          "travelTimeFromPrevious": "53 minutes",
+          "description": "Umiam Lake, also known as Barapani, is a stunning man-made reservoir surrounded by the lush green hills of Meghalaya. Its vast expanse of crystal-clear water creates a breathtaking landscape that resembles the lakes of Scotland. The serene environment is perfect for escaping the city's hustle and bustle. The lake was created in the early 1960s by damming the Umiam River for a hydroelectric power project, but it has since become one of Shillong's most popular tourist attractions, offering a range of water sports and leisure activities.",
+          "whyVisit": "The sheer beauty and tranquility of Umiam Lake make it an ideal spot for a romantic morning. A boat ride on the placid waters with your partner, surrounded by picturesque hills, is an unforgettable experience that offers both relaxation and stunning photo opportunities.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Umiam%20Lake&dates=20251110T033000Z/20251110T063000Z&details=Enjoy%20a%20relaxing%20boat%20ride%20on%20the%20beautiful%20lake.&location=Umiam%20Lake,%20Meghalaya",
+          "activities": [
+            "Take a romantic boat ride (paddle boat or speedboat options available).",
+            "Walk along the shores and find a quiet spot to admire the view.",
+            "Capture stunning photographs of the expansive water body and surrounding Khasi hills."
+          ],
+          "practicalInfo": {
+            "entryFee": "20 INR per person (viewpoint), Boating charges extra (approx. 200-600 INR)",
+            "estimatedCost": "1000 INR for entry, boating, and snacks for 2",
+            "bestTime": "Morning for calm waters and soft light",
+            "duration": "2-3 hours",
+            "accessibility": "Viewpoints are accessible, but access to boats may involve steps."
+          },
+          "tips": {
+            "whatToBring": [
+              "Sunglasses",
+              "Sunscreen",
+              "Camera",
+              "Light jacket as it can be breezy"
+            ],
+            "whatToBuy": [
+              "Local snacks from the small stalls near the viewpoint."
+            ],
+            "safetyNotes": [
+              "Wear life jackets during any boat activity.",
+              "Be cautious on the banks as they can be slippery."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Umiam Lake viewpoint for a panoramic shot.",
+              "From the boat in the middle of the lake.",
+              "Any of the small islands in the distance."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:00 PM - 4:00 PM",
+          "name": "Ward's Lake & Botanical Gardens",
+          "coordinates": {
+            "latitude": 25.5721,
+            "longitude": 91.8809
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.5721,91.8809",
+          "distanceFromPrevious": 18,
+          "travelTimeFromPrevious": "43 minutes",
+          "description": "Ward's Lake is a charming, horseshoe-shaped artificial lake located in the heart of Shillong. Surrounded by a lush botanical garden, it's a popular spot for both locals and tourists. The lake features an ornamental bridge, beautiful flowerbeds, and winding cobblestone footpaths. It's a tranquil oasis perfect for a leisurely afternoon. You can feed fish from the bridge, enjoy a boat ride, or simply relax on one of the many benches while admiring the vibrant floral displays. The adjacent botanical garden boasts a variety of rare and exotic plants, adding to the area's natural charm.",
+          "whyVisit": "This is the quintessential romantic spot in Shillong. A slow-paced walk hand-in-hand through the beautifully manicured gardens, feeding the fish from the picturesque white bridge, and a gentle boat paddle on the lake create a perfectly intimate and romantic atmosphere.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Stroll%20at%20Ward's%20Lake%20%26%20Botanical%20Gardens&dates=20251110T083000Z/20251110T103000Z&details=Picturesque%20lake%20and%20gardens%20for%20a%20romantic%20stroll.&location=Ward's%20Lake,%20Shillong",
+          "activities": [
+            "Take a leisurely stroll around the cobblestone paths.",
+            "Enjoy paddle boating on the lake.",
+            "Feed the fish from the ornamental bridge.",
+            "Relax on a bench and admire the vibrant flowerbeds."
+          ],
+          "practicalInfo": {
+            "entryFee": "10 INR per person",
+            "estimatedCost": "200 INR for entry, boating and fish food for 2",
+            "bestTime": "Afternoon for pleasant weather",
+            "duration": "1.5-2 hours",
+            "accessibility": "Pathways are generally flat and accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Puffed rice to feed the fish."
+            ],
+            "safetyNotes": [
+              "The lake is deep, so be careful near the edges."
+            ],
+            "customsEtiquette": [
+              "Do not pluck flowers.",
+              "Keep the area clean."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The white ornamental bridge is a classic spot.",
+              "Amidst the colorful flowerbeds.",
+              "On a boat with the garden in the background."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "49.43 km",
+        "spending": {
+          "Entry Fees": 60,
+          "Activities": 800,
+          "Transport": 1235,
+          "Meals": 2000,
+          "Shopping": 0,
+          "Total": 4095
+        },
+        "remainingBudget": 93905
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-11",
+      "theme": "Waterfalls and Panoramic Vistas",
+      "optimizedRoute": "HILLS ABODE | HOMESTAY | SHILLONG → Elephant Falls → Shillong Peak → HILLS ABODE | HOMESTAY | SHILLONG",
+      "totalDistance": 42.69,
+      "totalTravelTime": "1 hour 43 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 11:30 AM",
+          "name": "Elephant Falls",
+          "coordinates": {
+            "latitude": 25.5398,
+            "longitude": 91.8398
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.5398,91.8398",
+          "distanceFromPrevious": 18.7,
+          "travelTimeFromPrevious": "45 minutes",
+          "description": "Named by the British for a rock resembling an elephant (which was later destroyed in an earthquake), Elephant Falls is a stunning three-tiered waterfall located on the outskirts of Shillong. Each tier is unique, and visitors can explore them via a series of well-maintained steps and walkways. The first tier is broad and tucked among trees, the second is a gentle cascade, and the third and most impressive tier plunges powerfully into a clear pool. The sound of the rushing water combined with the lush greenery creates a mesmerizing and refreshing natural spectacle.",
+          "whyVisit": "The raw power and beauty of this multi-tiered waterfall offer a thrilling natural experience. Exploring the different levels together makes for a mini-adventure, and the mist from the falls adds a touch of magic and romance to the air.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Elephant%20Falls&dates=20251111T040000Z/20251111T060000Z&details=Majestic%20three-tiered%20waterfall.&location=Elephant%20Falls,%20Shillong",
+          "activities": [
+            "Walk down the steps to view all three tiers of the waterfall.",
+            "Take breathtaking photos against the backdrop of the cascading water.",
+            "Try on traditional Khasi attire for a unique photo opportunity at nearby stalls."
+          ],
+          "practicalInfo": {
+            "entryFee": "30 INR per person",
+            "estimatedCost": "200 INR for entry and camera fees for 2",
+            "bestTime": "Post-monsoon (like November) when the water flow is still strong.",
+            "duration": "1-1.5 hours",
+            "accessibility": "Involves climbing many steps, making it difficult for those with mobility issues."
+          },
+          "tips": {
+            "whatToBring": [
+              "Sturdy walking shoes with good grip.",
+              "Waterproof jacket or umbrella for the mist.",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Local bamboo handicrafts from the souvenir shops."
+            ],
+            "safetyNotes": [
+              "The steps can be very slippery; hold onto the handrails.",
+              "Be careful when taking photos near the edges."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main viewing platform for the third tier.",
+              "The halfway point with the second tier in the background."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "1:00 PM - 3:00 PM",
+          "name": "Shillong Peak",
+          "coordinates": {
+            "latitude": 25.5401,
+            "longitude": 91.8659
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.5401,91.8659",
+          "distanceFromPrevious": 7.27,
+          "travelTimeFromPrevious": "18 minutes",
+          "description": "Shillong Peak is the highest point in the state of Meghalaya, standing at an altitude of 1,965 meters (6,449 feet) above sea level. It offers a spectacular, sweeping panoramic view of the entire city of Shillong, the surrounding hills, and the distant plains of Bangladesh on a clear day. The peak is located within an Indian Air Force base, so visitors need to provide identification. There is a viewing tower with high-powered binoculars, allowing you to get a closer look at the cityscape below. Local folklore states that Shillong gets its name from this very peak.",
+          "whyVisit": "Sharing a breathtaking, bird's-eye view of the entire valley from the highest point is a powerful and romantic experience. It puts the beauty of your trip into perspective and is the perfect place for quiet reflection and stunning couple photos.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=View%20from%20Shillong%20Peak&dates=20251111T073000Z/20251111T093000Z&details=Highest%20point%20in%20Shillong,%20offering%20panoramic%20city%20views.&location=Shillong%20Peak,%20Shillong",
+          "activities": [
+            "Climb the viewing tower for a 360-degree panoramic view.",
+            "Use the installed binoculars to spot key landmarks in Shillong.",
+            "Enjoy a cup of hot tea and snacks from the local vendors."
+          ],
+          "practicalInfo": {
+            "entryFee": "30 INR per person",
+            "estimatedCost": "200 INR for entry and snacks for 2",
+            "bestTime": "Afternoon for clear views, though it can get foggy.",
+            "duration": "1-1.5 hours",
+            "accessibility": "The viewing tower has stairs."
+          },
+          "tips": {
+            "whatToBring": [
+              "Valid photo identification (Aadhaar, Passport, etc.) is mandatory for entry.",
+              "Binoculars",
+              "Warm jacket, as it's windy and cold at the top."
+            ],
+            "whatToBuy": [
+              "Roasted corn on the cob or momos from local stalls."
+            ],
+            "safetyNotes": [
+              "Follow all instructions given by the Air Force personnel.",
+              "Photography may be restricted in certain areas."
+            ],
+            "customsEtiquette": [
+              "Be respectful as it is an active military area."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The highest point of the viewing tower.",
+              "With the city of Shillong sprawling in the background."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "42.69 km",
+        "spending": {
+          "Entry Fees": 120,
+          "Activities": 0,
+          "Transport": 1067,
+          "Meals": 2000,
+          "Shopping": 200,
+          "Total": 3387
+        },
+        "remainingBudget": 90518
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-12",
+      "theme": "Sunrise over the Canyons",
+      "optimizedRoute": "HILLS ABODE | HOMESTAY | SHILLONG → Laitlum Canyons → HILLS ABODE | HOMESTAY | SHILLONG",
+      "totalDistance": 62.8,
+      "totalTravelTime": "2 hours 31 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "5:00 AM - 8:00 AM",
+          "name": "Laitlum Canyons",
+          "coordinates": {
+            "latitude": 25.5186,
+            "longitude": 91.9568
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.5186,91.9568",
+          "distanceFromPrevious": 31.37,
+          "travelTimeFromPrevious": "1 hour 15 minutes",
+          "description": "Laitlum Canyons, which translates to 'End of Hills', is a truly majestic and offbeat destination. This stunning natural formation offers an unparalleled, bird's-eye view of the deep, winding gorges and lush, rolling hills of Meghalaya. The landscape is often shrouded in mist, creating a mystical and ethereal atmosphere, especially during sunrise. From the top, you can see the tiny village of Rasong nestled deep in the valley, connected to the outside world by a steep, rustic stairway. The sheer scale and raw beauty of the canyons are awe-inspiring and provide a profound sense of peace and wonder.",
+          "whyVisit": "Witnessing the sunrise together from the 'End of the Hills' is an incredibly romantic and spiritual experience. The quiet solitude, the vast, breathtaking landscape, and the shared moment as the sun paints the sky will become a core memory of your trip.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Sunrise%20at%20Laitlum%20Canyons&dates=20251111T233000Z/20251112T023000Z&details=Awe-inspiring%20sunrise%20experience%20with%20spectacular%20views.&location=Laitlum%20Canyons,%20Meghalaya",
+          "activities": [
+            "Find a comfortable spot and watch the sunrise over the canyons.",
+            "Take epic landscape and portrait photographs with the gorges as a backdrop.",
+            "Take a short hike along the cliff edges to different viewpoints."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free, but sometimes a nominal fee of 20-30 INR is collected for upkeep.",
+            "estimatedCost": "100 INR for entry and tea/snacks for 2",
+            "bestTime": "Sunrise (around 5:00-6:00 AM) is essential for the best experience.",
+            "duration": "2-3 hours",
+            "accessibility": "The main viewpoint is easily accessible, but hikes can be on uneven terrain."
+          },
+          "tips": {
+            "whatToBring": [
+              "Very warm clothing (layers, hats, gloves) as it's extremely cold before sunrise.",
+              "A flask of hot coffee or tea.",
+              "A blanket or mat to sit on.",
+              "A tripod for stable sunrise photography."
+            ],
+            "whatToBuy": [
+              "A cup of hot tea from the small stall that opens early."
+            ],
+            "safetyNotes": [
+              "The cliff edges are unfenced and very dangerous; stay a safe distance back.",
+              "It will be dark when you arrive; use a flashlight and watch your step."
+            ],
+            "customsEtiquette": [
+              "Keep the area pristine; do not litter."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main flat-top viewing area for classic sunrise shots.",
+              "Along the path to the right for a different perspective of the valley."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "62.8 km",
+        "spending": {
+          "Entry Fees": 60,
+          "Activities": 0,
+          "Transport": 1570,
+          "Meals": 2000,
+          "Shopping": 0,
+          "Total": 3630
+        },
+        "remainingBudget": 86888
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-13",
+      "theme": "Cultural Immersion and Market Bustle",
+      "optimizedRoute": "HILLS ABODE | HOMESTAY | SHILLONG → Don Bosco Centre for Indigenous Cultures → Police Bazaar → HILLS ABODE | HOMESTAY | SHILLONG",
+      "totalDistance": 15.47,
+      "totalTravelTime": "37 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "10:00 AM - 12:30 PM",
+          "name": "Don Bosco Centre for Indigenous Cultures",
+          "coordinates": {
+            "latitude": 25.5862,
+            "longitude": 91.8986
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.5862,91.8986",
+          "distanceFromPrevious": 4.22,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "The Don Bosco Centre is a comprehensive museum and research center dedicated to preserving and showcasing the diverse cultures, traditions, and heritage of the indigenous peoples of Northeast India. The museum is housed in a unique hexagonal building with seven floors, representing the seven sister states of the region. Each gallery is meticulously curated with artifacts, costumes, dioramas, and interactive displays that cover everything from traditional attire and weaponry to agriculture and religion. The topmost floor, the Skywalk, offers a beautiful panoramic view of Shillong city.",
+          "whyVisit": "This museum offers a deep and fascinating insight into the rich cultural tapestry of the region you are visiting. It’s an educational and enriching experience that adds another layer of appreciation to your trip beyond just the natural sights.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Don%20Bosco%20Centre&dates=20251113T043000Z/20251113T070000Z&details=Learn%20about%20the%20rich%20culture%20of%20the%20North%20East.&location=Don%20Bosco%20Centre%20for%20Indigenous%20Cultures,%20Shillong",
+          "activities": [
+            "Explore the different galleries dedicated to each of the Northeastern states.",
+            "Watch the short informative videos played in the media hall.",
+            "Head to the Skywalk on the top floor for a panoramic city view."
+          ],
+          "practicalInfo": {
+            "entryFee": "100 INR per person for Indian nationals",
+            "estimatedCost": "300 INR for entry and camera fees for 2",
+            "bestTime": "Anytime during opening hours; allow ample time.",
+            "duration": "2-3 hours",
+            "accessibility": "The museum has ramps and an elevator, making it largely accessible."
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes, as you'll be on your feet for a while.",
+              "A notebook if you wish to take notes."
+            ],
+            "whatToBuy": [
+              "Books and unique handicrafts from the museum's gift shop."
+            ],
+            "safetyNotes": [
+              "Follow museum rules; do not touch the exhibits unless specified."
+            ],
+            "customsEtiquette": [
+              "Maintain silence and be respectful of the cultural artifacts."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Skywalk with the city view.",
+              "In front of the impressive traditional costumes."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:30 PM - 5:00 PM",
+          "name": "Police Bazaar",
+          "coordinates": {
+            "latitude": 25.576,
+            "longitude": 91.8841
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.576,91.8841",
+          "distanceFromPrevious": 2.93,
+          "travelTimeFromPrevious": "7 minutes",
+          "description": "Police Bazaar is the chaotic, vibrant, and commercial heart of Shillong. It's a bustling market area where modern shops, traditional stalls, hotels, and restaurants all converge. The market is a maze of lanes and bylanes, offering everything from branded apparel and electronics to local handicrafts, shawls, and street food. It's the best place to feel the pulse of the city, observe local life, and hunt for souvenirs to take back home. The energy is infectious, and the variety of goods is astounding, making it a must-visit for any traveler.",
+          "whyVisit": "This is the perfect place to dive into the local life and find authentic souvenirs from your trip. The lively atmosphere provides a fun contrast to the serene natural spots, offering a complete Shillong experience.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Shopping%20at%20Police%20Bazaar&dates=20251113T090000Z/20251113T113000Z&details=Bustling%20market%20for%20local%20souvenirs%20and%20handicrafts.&location=Police%20Bazaar,%20Shillong",
+          "activities": [
+            "Browse the local handicraft shops for souvenirs like shawls and bamboo items.",
+            "Try some local street food from the vendors.",
+            "Explore the different sections of the market, including the Tibetan market."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "2000 INR or more, depending on your shopping",
+            "bestTime": "Late afternoon to evening when the market is most lively.",
+            "duration": "2-3 hours",
+            "accessibility": "The area is very crowded and may have uneven pavements, making it challenging for accessibility."
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash, as not all vendors accept cards.",
+              "A sturdy shopping bag.",
+              "Bargaining skills!"
+            ],
+            "whatToBuy": [
+              "Naga and Khasi shawls",
+              "Bamboo and cane products",
+              "Local pickles and spices"
+            ],
+            "safetyNotes": [
+              "Be aware of your belongings in the crowd.",
+              "Be cautious of traffic in the busy streets."
+            ],
+            "customsEtiquette": [
+              "Bargaining is common, but do it politely."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The chaotic central square.",
+              "A colorful display of local shawls."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "15.47 km",
+        "spending": {
+          "Entry Fees": 200,
+          "Activities": 0,
+          "Transport": 387,
+          "Meals": 2000,
+          "Shopping": 2000,
+          "Total": 4587
+        },
+        "remainingBudget": 82301
+      }
+    },
+    {
+      "day": 6,
+      "date": "2025-11-14",
+      "theme": "Leisurely Morning and Departure",
+      "optimizedRoute": "Local exploration and packing",
+      "totalDistance": 0,
+      "totalTravelTime": "0 minutes",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Leisurely Morning & Departure Preparation",
+          "coordinates": {
+            "latitude": 25.607142,
+            "longitude": 91.925889
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.607142,91.925889",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy the last morning of your romantic Shillong getaway at your own pace. Savor a late breakfast or brunch at one of the city's charming cafes, soaking in the last of the hill station's ambiance. This is the perfect time for any last-minute souvenir shopping you might have missed or to simply relax and reflect on the wonderful memories you've made. Use the latter part of the morning to pack your belongings thoughtfully, ensuring you're ready for a smooth and stress-free departure the next day.",
+          "whyVisit": "A relaxed final day ensures you leave your vacation feeling refreshed, not rushed. It's a chance to savor the final moments together, find a special keepsake, and wrap up a beautiful journey on a calm and happy note.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Leisurely%20Morning%20%26%20Departure%20Prep&dates=20251114T033000Z/20251114T063000Z&details=Enjoy%20a%20relaxed%20morning,%20last-minute%20sightseeing%20or%20cafe%20visit.&location=Shillong",
+          "activities": [
+            "Have a delicious brunch at a popular local cafe like Dylan's Cafe or Cafe Shillong.",
+            "Do some last-minute souvenir shopping for friends and family.",
+            "Pack your luggage for your departure."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "1500 INR for brunch and last-minute shopping",
+            "bestTime": "Morning",
+            "duration": "3 hours",
+            "accessibility": "Depends on the chosen cafe/shops."
+          },
+          "tips": {
+            "whatToBring": [
+              "A checklist to ensure you don't leave anything behind."
+            ],
+            "whatToBuy": [
+              "Packaged local tea or coffee as a gift."
+            ],
+            "safetyNotes": [
+              "Double-check your flight or transport timings for the next day."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The aesthetic interior of a local cafe."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "0 km",
+        "spending": {
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 500,
+          "Meals": 2000,
+          "Shopping": 1500,
+          "Total": 4000
+        },
+        "remainingBudget": 78301
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 100000,
+    "currency": "INR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Flights",
+          "total_cost": 1000
+        }
+      ],
+      "accommodation": {
+        "hotelName": "HILLS ABODE | HOMESTAY | SHILLONG",
+        "pricePerNight": 3500,
+        "nights": 6,
+        "total": 21000
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 2000
+        },
+        {
+          "day": 2,
+          "cost": 4095
+        },
+        {
+          "day": 3,
+          "cost": 3387
+        },
+        {
+          "day": 4,
+          "cost": 3630
+        },
+        {
+          "day": 5,
+          "cost": 4587
+        },
+        {
+          "day": 6,
+          "cost": 4000
+        }
+      ]
+    },
+    "totalSpent": 43699,
+    "remainingBudget": 56301,
+    "budgetTips": [
+      "Eat at local Khasi food stalls for authentic and budget-friendly meals.",
+      "Use shared taxis (Maruti 800s) for short distances within the city; they are very economical.",
+      "Bargain respectfully at markets like Police Bazaar and Bara Bazar for better prices on souvenirs.",
+      "Carry a reusable water bottle and refill it to save money on buying bottled water."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Light sweaters and cardigans for the day",
+      "A warm jacket for early mornings and evenings",
+      "Comfortable trousers, jeans, or trekking pants",
+      "Several pairs of socks",
+      "A smart-casual outfit for a romantic dinner"
+    ],
+    "footwear": [
+      "Comfortable walking shoes with good grip (essential)",
+      "A pair of casual sandals or flats"
+    ],
+    "essentials": [
+      "Sunscreen and sunglasses",
+      "Moisturizer and lip balm (the air can be dry)",
+      "Basic first-aid kit with motion sickness medication for winding roads",
+      "Any personal medications",
+      "A light waterproof jacket or umbrella, just in case of a passing shower"
+    ],
+    "electronics": [
+      "Smartphone and charger",
+      "Portable power bank (very important for long day trips)",
+      "Camera, lenses, and extra batteries",
+      "Universal travel adapter (if applicable)"
+    ],
+    "documents": [
+      "Passports and/or valid photo ID (Aadhaar Card is mandatory for Shillong Peak)",
+      "Digital or printed copies of flight tickets and hotel confirmation",
+      "Travel insurance details",
+      "Emergency contact list"
+    ],
+    "children_specific_items": []
+  },
+  "preTripChecklist": [
+    {
+      "priority": "High",
+      "task": "Verify passport validity (if applicable) and carry valid government-issued photo ID."
+    },
+    {
+      "priority": "High",
+      "task": "Book round-trip flights or other primary mode of transport."
+    },
+    {
+      "priority": "High",
+      "task": "Confirm your hotel reservation with HILLS ABODE."
+    },
+    {
+      "priority": "High",
+      "task": "Purchase comprehensive travel insurance."
+    },
+    {
+      "priority": "Medium",
+      "task": "Arrange for airport transfers in Shillong or book a taxi in advance."
+    },
+    {
+      "priority": "Medium",
+      "task": "Exchange a sufficient amount of currency (INR) or inform your bank about your travel dates."
+    },
+    {
+      "priority": "Medium",
+      "task": "Download offline maps of Shillong on Google Maps or a similar app."
+    },
+    {
+      "priority": "Low",
+      "task": "Pack according to the provided packing list, focusing on layers."
+    },
+    {
+      "priority": "Low",
+      "task": "Learn a few basic Khasi phrases like 'Khublei' (Hello/Thank you)."
+    },
+    {
+      "priority": "Low",
+      "task": "Share your detailed itinerary with a family member or friend back home."
+    }
+  ]
+}
