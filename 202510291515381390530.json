@@ -1,0 +1,563 @@
+{
+  "tripOverview": {
+    "destination": "Harshil, India",
+    "startDate": "2025-11-04",
+    "endDate": "2025-11-07",
+    "duration": "3 nights, 4 days",
+    "companions": "2 adults, 0 children",
+    "tripType": "Nature and Cultural Exploration"
+  },
+  "mode_of_transport": {
+    "road": {
+      "message": "As this is a road trip from Delhi, here are the estimated options for the ~480 km mountainous journey.",
+      "cost": {
+        "private_cab": "12000 - 15000 INR (Round trip, recommended for comfort and flexibility)",
+        "bus": "3000 - 4000 INR (For 2 people, requires bus from Delhi to Uttarkashi, then a local taxi to Harshil)",
+        "self_drive_car": "8000 - 10000 INR (Fuel and tolls, assuming you have a suitable vehicle)"
+      },
+      "approx_time": {
+        "private_cab": "12-14 hours",
+        "bus": "15-17 hours (including transfers)",
+        "self_drive_car": "12-14 hours"
+      },
+      "stations": {
+        "bus_stations": "ISBT Kashmere Gate, Delhi to Uttarkashi Bus Stand",
+        "trainstations": "Nearest major stations are Rishikesh (RKSH) and Dehradun (DDN), both are about 220-250 km away, requiring a further 7-8 hour taxi ride."
+      },
+      "booking_apps": [
+        "MakeMyTrip",
+        "Goibibo",
+        "redBus",
+        "UTC Online (for government buses)"
+      ]
+    }
+  },
+  "hotel": {
+    "name": "Skyard Hostel & Homestay (Harsil Valley)",
+    "address": "Harsil Village, Uttarakhand, India",
+    "coordinates": {
+      "latitude": 31.0365829,
+      "longitude": 78.7518268
+    },
+    "rating": 4.9,
+    "reviews": 34,
+    "pricePerNight": 1070,
+    "totalPrice": 3210,
+    "booking_links": [
+      "https://skyardhostels.com/harshil-valley.php"
+    ],
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipN34e4I3Lw1cHFlS3BCRKw3aY80XQhCYlx7n8en=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNYMJy_PW8goY_J4ESCTDW3ocQ58Z0OQqu2CTMA=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPK41EBbBEjHG5aK8bAhWbj-jbXCgDbN2qUzzUB=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipOUZvcwAIsKFWhbPvUQ9SE83FLEI_KJqXeIKKu7=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMlmJV6l_Ab2il84KCZ1Nz-F6ymYPgxUPkmFwH3=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipND1K2QPPELWK-Lim2JprkEp81H7hkxaU0gOve0=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMe78OiskBctmCO71ir5bTkpw90i52NhBHywl8L=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipOE9zRKyMRF71bhuW6QpAjqvu1X__6XwkZQFm8z=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPhPxYIOCKIGFGyQ0OVQih5nd_DUW_Mr1LU_b87=s287-w287-h192-n-k-no-v1"
+    ],
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Pet-friendly",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-04",
+      "theme": "Arrival and Riverside Serenity",
+      "weather": "Cloudy, high -1.2°C, low -7.4°C. Feels very cold. Dress in heavy layers.",
+      "optimizedRoute": {
+        "route": "Hotel → Bhagirathi Riverbank → Harshil Village Local Market → Hotel",
+        "totalDistance": 2.5,
+        "totalTravelTime": "35 minutes (walking)",
+        "estimated": true
+      },
+      "places": [
+        {
+          "timeOfDay": "3:00 PM - 4:00 PM",
+          "name": "Arrival and Hotel Check-in",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.0365829,78.7518268",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Welcome to Harshil! After a long and scenic journey from Delhi, arrive at Skyard Hostel & Homestay. This property is known for its stunning valley views and cozy atmosphere. Take some time to settle in, acclimatize to the high altitude and crisp mountain air, and prepare for a serene Himalayan experience.",
+          "whyVisit": "The perfect start to your mountain getaway. Acclimatizing properly is key to enjoying your trip, and this quiet time allows you to adjust to the altitude and soak in the initial views of the majestic landscape.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrival%20and%20Hotel%20Check-in&dates=20251104T093000Z/20251104T103000Z&details=Arrive%20at%20Skyard%20Hostel%20%26%20Homestay%20and%20acclimatize%20to%20the%20high%20altitude.&location=Skyard%20Hostel%20%26%20Homestay%2C%20Harshil%2C%20India",
+          "activities": [
+            "Complete check-in formalities",
+            "Unpack and organize your belongings",
+            "Enjoy a hot cup of tea or coffee while admiring the mountain views from your room"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "0 INR",
+            "bestTime": "Afternoon",
+            "duration": "1 hour",
+            "accessibility": "Varies by hotel, confirm specific needs beforehand"
+          },
+          "tips": {
+            "whatToBring": ["Booking confirmation", "Valid ID"],
+            "whatToBuy": [],
+            "safetyNotes": ["Drink plenty of water to help with acclimatization", "Don't overexert yourself on the first day"],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": ["View from your hotel window or balcony"]
+          }
+        },
+        {
+          "timeOfDay": "4:30 PM - 7:00 PM",
+          "name": "Evening Walk along Bhagirathi River & Market",
+          "coordinates": {
+            "latitude": 31.036,
+            "longitude": 78.736
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.036,78.736",
+          "distanceFromPrevious": 1,
+          "travelTimeFromPrevious": "15 minutes walking",
+          "description": "Embark on a gentle stroll down to the banks of the Bhagirathi River, a major headstream of the Ganges. The river flows with pristine, clear water, and the valley resonates with its soothing sounds. Afterwards, wander through the small but charming Harshil Village market. This is the heart of the local community, offering a glimpse into the serene mountain life.",
+          "whyVisit": "This is the quintessential Harshil experience. The combination of the holy river's calming presence and the authentic village atmosphere provides a peaceful and culturally immersive introduction to the region.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Evening%20Walk%20along%20Bhagirathi%20River%20%26%20Market&dates=20251104T110000Z/20251104T133000Z&details=Enjoy%20a%20serene%20walk%20by%20the%20river%20and%20explore%20the%20local%20market.&location=Harshil%20Village%2C%20India",
+          "activities": [
+            "Listen to the sound of the flowing river",
+            "Take photos of the sunset reflecting on the water and mountains",
+            "Browse local shops for woolen items and handicrafts",
+            "Interact with the friendly local villagers"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "500 - 1000 INR for souvenirs or snacks",
+            "bestTime": "Late afternoon for golden hour light",
+            "duration": "2.5 hours",
+            "accessibility": "Uneven paths, may not be suitable for wheelchairs"
+          },
+          "tips": {
+            "whatToBring": ["Warm jacket", "Beanie", "Gloves", "Camera"],
+            "whatToBuy": ["Hand-knitted woolen socks or caps", "Local apples (if in season)"],
+            "safetyNotes": ["Stay away from the river's edge as currents can be strong", "It gets dark early in the mountains, carry a small flashlight"],
+            "customsEtiquette": ["Smile and greet locals with 'Namaste'", "Ask for permission before taking close-up photos of people"],
+            "bookingRequired": false,
+            "photoSpots": ["The bridge over the river", "Village homes with intricate wooden carvings"]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 2.5,
+        "spending": {
+          "Transport": 0,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Meals & Shopping": 1500
+        },
+        "dailyTotal": 1500,
+        "remainingBudget": 45290
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-05",
+      "theme": "Cultural Trek and Apple Orchards",
+      "weather": "Partly cloudy, high -3.2°C, low -7.5°C. Extremely cold. Sun protection needed despite the cold.",
+      "optimizedRoute": {
+        "route": "Hotel → Mukhba Village → Dharali → Hotel",
+        "totalDistance": 18.0,
+        "totalTravelTime": "45 minutes (driving) + trekking time",
+        "estimated": true
+      },
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 2:00 PM",
+          "name": "Trek to Mukhba Village",
+          "coordinates": {
+            "latitude": 31.045,
+            "longitude": 78.725
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.045,78.725",
+          "distanceFromPrevious": 4,
+          "travelTimeFromPrevious": "15 minutes driving to trailhead",
+          "description": "Mukhba Village holds immense religious significance as the winter home of the idol of Goddess Ganga when the main Gangotri Temple closes. The trek to this scenic village is as rewarding as the destination itself, passing through terraced fields and offering panoramic views of the Himalayas. The village showcases traditional Garhwali architecture with beautifully carved wooden houses.",
+          "whyVisit": "Perfect for combining adventure and culture. This trek offers a spiritual experience and a chance to witness authentic local traditions and architecture, providing a deeper connection to the region beyond its natural beauty.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Trek%20to%20Mukhba%20Village&dates=20251105T033000Z/20251105T083000Z&details=Trek%20to%20the%20winter%20abode%20of%20Goddess%20Gangotri%20and%20enjoy%20local%20cuisine.&location=Mukhba%20Village%2C%20Uttarakhand%2C%20India",
+          "activities": [
+            "Trek through the scenic mountain path",
+            "Visit the winter seat of Goddess Ganga",
+            "Observe the unique wooden architecture of the houses",
+            "Enjoy a traditional Garhwali lunch at a local homestay or eatery"
+          ],
+          "practicalInfo": {
+            "entryFee": "None, but a small donation at the temple is appreciated",
+            "estimatedCost": "1000 - 1500 INR for a guide (optional) and lunch for two",
+            "bestTime": "Morning",
+            "duration": "5 hours (including trek and lunch)",
+            "accessibility": "Not accessible; involves trekking on mountain trails"
+          },
+          "tips": {
+            "whatToBring": ["Sturdy hiking shoes", "Water bottle", "Energy snacks", "Sunscreen", "Trekking poles"],
+            "whatToBuy": [],
+            "safetyNotes": ["Walk at a steady pace to manage altitude", "Inform your hotel about your trekking plan", "A local guide is recommended"],
+            "customsEtiquette": ["Dress modestly, especially when visiting the temple", "Remove shoes before entering the temple premises"],
+            "bookingRequired": false,
+            "photoSpots": ["Panoramic view of the valley from the trail", "The intricately designed temple facade"]
+          }
+        },
+        {
+          "timeOfDay": "2:30 PM - 5:00 PM",
+          "name": "Explore Dharali",
+          "coordinates": {
+            "latitude": 31.026,
+            "longitude": 78.887
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.026,78.887",
+          "distanceFromPrevious": 10,
+          "travelTimeFromPrevious": "25 minutes driving",
+          "description": "Dharali is a picturesque village located a short drive from Harshil, famous for its sprawling apple orchards. According to legend, this is the spot where King Bhagirath meditated to bring the Ganges to earth. The area is exceptionally peaceful, with lush greenery (depending on the season) and stunning views of the surrounding snow-capped peaks.",
+          "whyVisit": "Dharali offers a tranquil escape and a chance to walk through beautiful apple orchards. It's a perfect spot for photography and quiet contemplation, contrasting nicely with the morning's more active trek.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Dharali&dates=20251105T090000Z/20251105T113000Z&details=Visit%20the%20picturesque%20village%20known%20for%20its%20apple%20orchards%20and%20serene%20beauty.&location=Dharali%2C%20Uttarakhand%2C%20India",
+          "activities": [
+            "Take a peaceful walk through the apple orchards",
+            "Visit the ancient Shiva temple",
+            "Relax by the riverside and enjoy the tranquility",
+            "Capture stunning landscape photographs"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "500 INR for local transport if not using a dedicated cab",
+            "bestTime": "Afternoon",
+            "duration": "2.5 hours",
+            "accessibility": "Partially accessible by road, but exploring orchards requires walking on uneven ground"
+          },
+          "tips": {
+            "whatToBring": ["Camera", "Warm clothes", "Sunglasses"],
+            "whatToBuy": ["Local apple products if available"],
+            "safetyNotes": ["Be mindful of the time, as it gets cold and dark quickly in the late afternoon"],
+            "customsEtiquette": ["Do not pluck apples from trees without permission"],
+            "bookingRequired": false,
+            "photoSpots": ["Rows of apple trees with mountains in the background", "The Shiva temple with its traditional architecture"]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 18.0,
+        "spending": {
+          "Transport": 1000,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Meals & Shopping": 2000
+        },
+        "dailyTotal": 3000,
+        "remainingBudget": 42290
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-06",
+      "theme": "Lakes, Forests, and Himalayan Vistas",
+      "weather": "Mostly clear, high 3.8°C, low -8.2°C. A cold but clear day, perfect for views.",
+      "optimizedRoute": {
+        "route": "Hotel → Sattal (Seven Lakes) → Gangotri Temple Viewpoint → Hotel",
+        "totalDistance": 45.0,
+        "totalTravelTime": "1 hour 45 minutes (driving)",
+        "estimated": true
+      },
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 1:00 PM",
+          "name": "Visit Sattal (Seven Lakes)",
+          "coordinates": {
+            "latitude": 31.051,
+            "longitude": 78.745
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.051,78.745",
+          "distanceFromPrevious": 2.5,
+          "travelTimeFromPrevious": "10 minutes driving",
+          "description": "Not to be confused with the more famous Sattal near Nainital, this is a beautiful cluster of high-altitude lakes near Harshil. A short drive followed by a walk through dense pine and oak forests leads you to this serene spot. The lakes are pristine, reflecting the surrounding landscape like a mirror. It's an ideal location for nature lovers and those seeking solitude.",
+          "whyVisit": "This off-the-beaten-path destination offers unparalleled tranquility. It's a fantastic opportunity for a peaceful nature walk, bird watching, and enjoying the raw beauty of the Himalayas away from any crowds.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Sattal%20(Seven%20Lakes)&dates=20251106T033000Z/20251106T073000Z&details=Explore%20a%20group%20of%20seven%20interconnected%20freshwater%20lakes%20surrounded%20by%20dense%20forests.&location=Sattal%2C%20near%20Harshil%2C%20India",
+          "activities": [
+            "Hike around the lakes",
+            "Engage in bird watching",
+            "Enjoy a packed picnic in the serene environment",
+            "Meditate or simply relax by the water's edge"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "1500 INR for lunch for two",
+            "bestTime": "Morning for clear skies and calm waters",
+            "duration": "4 hours (including travel and walk)",
+            "accessibility": "Not accessible, requires walking on forest trails"
+          },
+          "tips": {
+            "whatToBring": ["Comfortable walking shoes", "Packed lunch or snacks", "Water", "Binoculars for bird watching"],
+            "whatToBuy": [],
+            "safetyNotes": ["The trail may be slippery; walk carefully", "Stay on the marked paths to avoid getting lost", "Wildlife may be present, maintain a safe distance"],
+            "customsEtiquette": ["Leave no trace; carry all your trash back with you"],
+            "bookingRequired": false,
+            "photoSpots": ["Reflections of peaks in the lake water", "The trail leading through the dense pine forest"]
+          }
+        },
+        {
+          "timeOfDay": "2:30 PM - 5:30 PM",
+          "name": "Scenic Drive to Gangotri Temple Viewpoint",
+          "coordinates": {
+            "latitude": 30.994,
+            "longitude": 78.939
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=30.994,78.939",
+          "distanceFromPrevious": 20,
+          "travelTimeFromPrevious": "50 minutes driving",
+          "description": "While the Gangotri Temple itself will be closed in November, the drive towards it is one of the most breathtaking in the Garhwal Himalayas. The road carves through majestic mountains, offering jaw-dropping views of snow-clad peaks, deep gorges, and the Bhagirathi River. You will travel to a suitable viewpoint to appreciate the grandeur of the temple's location and the origin of the Ganges.",
+          "whyVisit": "This drive is an adventure in itself, providing access to some of the most dramatic and awe-inspiring landscapes in India. The sheer scale of the Himalayas is on full display, making it an unforgettable experience for any mountain lover.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Scenic%20Drive%20to%20Gangotri%20Temple%20Viewpoint&dates=20251106T090000Z/20251106T120000Z&details=Enjoy%20a%20breathtaking%20drive%20with%20views%20of%20the%20Himalayas%20and%20the%20Gangotri%20shrine's%20location.&location=Gangotri%20Highway%2C%20Uttarakhand%2C%20India",
+          "activities": [
+            "Stop at multiple points to take photographs",
+            "Admire the views of peaks like Sudarshan Parbat",
+            "Experience driving on high-altitude mountain roads"
+          ],
+          "practicalInfo": {
+            "entryFee": "None for the viewpoint",
+            "estimatedCost": "2000 INR for a dedicated taxi for the round trip",
+            "bestTime": "Afternoon for clear views, but start early enough to return before dark",
+            "duration": "3 hours",
+            "accessibility": "Accessible by vehicle to the viewpoint"
+          },
+          "tips": {
+            "whatToBring": ["Camera with extra batteries", "Warmest jacket", "Snacks", "Flask with a hot beverage"],
+            "whatToBuy": [],
+            "safetyNotes": ["Roads can be narrow and challenging; hire an experienced local driver", "Check road status before starting as snow can cause closures", "Be aware of potential roadblocks"],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": ["Any turn on the road offering a clear view of the valley", "The viewpoint overlooking the Gangotri region"]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 45.0,
+        "spending": {
+          "Transport": 2000,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Meals & Shopping": 2000
+        },
+        "dailyTotal": 4000,
+        "remainingBudget": 38290
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-07",
+      "theme": "Departure",
+      "weather": "Sunny, high 4.1°C, low -7.6°C. A clear day for travel.",
+      "optimizedRoute": {
+        "route": "Hotel → Delhi",
+        "totalDistance": 480.0,
+        "totalTravelTime": "12-14 hours (driving)",
+        "estimated": true
+      },
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 10:30 AM",
+          "name": "Leisurely Morning & Breakfast",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.0365829,78.7518268",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a final, peaceful morning in the lap of the Himalayas. Savor a hot breakfast while taking in the last views of the snow-capped mountains from your hotel. Use this time to pack your bags and reflect on the serene beauty and cultural experiences of your trip to Harshil.",
+          "whyVisit": "A relaxed morning ensures you are well-rested and prepared for the long journey back, allowing you to depart with fond memories rather than in a rush.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Leisurely%20Morning%20%26%20Breakfast&dates=20251107T033000Z/20251107T050000Z&details=Enjoy%20your%20last%20morning%20in%20the%20Himalayas%2C%20pack%2C%20and%20have%20breakfast.&location=Skyard%20Hostel%20%26%20Homestay%2C%20Harshil%2C%20India",
+          "activities": [
+            "Enjoy a final breakfast",
+            "Take some last-minute photos",
+            "Pack your luggage"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "800 INR for breakfast if not included",
+            "bestTime": "Morning",
+            "duration": "1.5 hours",
+            "accessibility": "Hotel dependent"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": ["Ensure all your belongings are packed before checking out"],
+            "customsEtiquette": ["Thank the hotel staff for their hospitality"],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "10:30 AM - 12:00 PM",
+          "name": "Check-out and Departure for Delhi",
+          "coordinates": {
+            "latitude": 31.0365829,
+            "longitude": 78.7518268
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.0365829,78.7518268",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Complete the check-out process at your hotel. Begin your journey back to Delhi, carrying with you the peace and memories of the majestic Harshil Valley. The drive back will again offer stunning landscapes, providing a final opportunity to soak in the beauty of Uttarakhand.",
+          "whyVisit": "The concluding step of your journey, marking the end of a memorable mountain retreat.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Check-out%20and%20Departure%20for%20Delhi&dates=20251107T050000Z/20251107T063000Z&details=Begin%20your%20road%20trip%20back%20to%20Delhi.&location=Skyard%20Hostel%20%26%20Homestay%2C%20Harshil%2C%20India",
+          "activities": [
+            "Settle any outstanding bills with the hotel",
+            "Load luggage into your vehicle",
+            "Start the drive towards Delhi"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "0 INR",
+            "bestTime": "Late morning to ensure maximum daylight for the journey",
+            "duration": "1.5 hours for checkout and loading",
+            "accessibility": "Hotel dependent"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": ["Plan for an overnight stop if you prefer not to drive for 12-14 hours straight", "Check weather and road conditions before you depart"],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": 480.0,
+        "spending": {
+          "Transport": 0,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Meals & Shopping": 1500
+        },
+        "dailyTotal": 1500,
+        "remainingBudget": 36790
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 50000,
+    "currency": "INR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Private Cab (Delhi-Harshil-Delhi)",
+          "total_cost": 13000
+        },
+        {
+          "transport_name": "Local Taxi",
+          "total_cost": 3000
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Skyard Hostel & Homestay (Harsil Valley)",
+        "pricePerNight": 1070,
+        "nights": 3,
+        "total": 3210
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 1500
+        },
+        {
+          "day": 2,
+          "cost": 2000
+        },
+        {
+          "day": 3,
+          "cost": 3500
+        },
+        {
+          "day": 4,
+          "cost": 1500
+        }
+      ]
+    },
+    "totalSpent": 27710,
+    "remainingBudget": 22290,
+    "budgetTips": [
+      "Eat at local dhabas and homestays for authentic and affordable meals.",
+      "Travel during the shoulder season (like November) often results in lower hotel prices.",
+      "Bargain respectfully at local markets for souvenirs.",
+      "Carry enough cash, as ATMs are scarce and may not be functional."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Heavy insulated/down jacket (essential)",
+      "Thermal innerwear (multiple pairs)",
+      "Fleece jackets or heavy wool sweaters",
+      "Woolen trousers or insulated pants",
+      "Woolen socks (multiple pairs)",
+      "Warm cap/beanie, scarf, and gloves/mittens"
+    ],
+    "footwear": [
+      "Waterproof hiking shoes with good grip",
+      "Comfortable slippers or shoes for the hotel"
+    ],
+    "essentials": [
+      "Sunscreen (high SPF)",
+      "Sunglasses (to prevent snow glare)",
+      "Moisturizer and lip balm",
+      "Personal medications and a basic first-aid kit (include medicine for altitude sickness)",
+      "Reusable water bottle",
+      "High-energy snacks like chocolate and nuts"
+    ],
+    "electronics": [
+      "Phone and charger",
+      "Power bank (crucial due to potential power cuts)",
+      "Camera with extra batteries (batteries drain faster in the cold)",
+      "Headlamp or small flashlight"
+    ],
+    "documents": [
+      "Government-issued ID (Aadhaar, Driver's License)",
+      "Hotel booking confirmation",
+      "Offline copy of itinerary and maps"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "priority": "High",
+      "task": "Book round-trip transportation from Delhi (confirm private cab or research bus timings)."
+    },
+    {
+      "priority": "High",
+      "task": "Confirm your hotel reservation at Skyard Hostel & Homestay."
+    },
+    {
+      "priority": "High",
+      "task": "Check the current road conditions and weather forecast for the Delhi-Harshil route a day before travel."
+    },
+    {
+      "priority": "Medium",
+      "task": "Withdraw sufficient cash for the trip as digital payments may not work."
+    },
+    {
+      "priority": "Medium",
+      "task": "Pack all necessary heavy winter clothing as per the packing list."
+    },
+    {
+      "priority": "Medium",
+      "task": "Download offline maps of the Harshil region on your phone."
+    },
+    {
+      "priority": "Low",
+      "task": "Inform a friend or family member of your detailed itinerary."
+    },
+    {
+      "priority": "Low",
+      "task": "Charge all electronic devices, including your power bank, to 100%."
+    }
+  ]
+}
