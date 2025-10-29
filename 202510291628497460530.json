@@ -1,0 +1,691 @@
+{
+  "tripOverview": {
+    "destination": "Mumbai, India",
+    "startDate": "2025-11-21",
+    "endDate": "2025-11-25",
+    "duration": "4 nights, 5 days",
+    "companions": "4 adults, 0 children",
+    "tripType": "Cultural and Culinary Exploration"
+  },
+  "mode_of_transport": {
+    "flight": {
+      "destination": "Mumbai",
+      "Approx_cost": "100000-130000 INR for 4 travelers",
+      "Approx_time_of_flight(duration)": "3 hours",
+      "Nearest_airport_from_current_destination": "Delhi (DEL)",
+      "Nearest_airport_from_visiting_destination": "Mumbai (BOM)"
+    }
+  },
+  "hotel": {
+    "name": "Gagal Home - Andheri Suite",
+    "address": "Andheri, Mumbai, Maharashtra, India",
+    "coordinates": {
+      "latitude": 19.1054589,
+      "longitude": 72.8619862
+    },
+    "pricePerNight": 8999,
+    "totalStayCost": 35996,
+    "bookingLinks": [
+      "https://gagalhome.com/"
+    ],
+    "imageUrls": [
+      "https://lh3.googleusercontent.com/p/AF1QipPiK_8lIoijuMtHDTo15ZBtEIKOFBMHH9H91dBh=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMnetGcqu_yyAFUqiZOL1PAXRKtGeeIdVY0tnaE=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPC-GArYcoVUGt5zf8oKbPfxojUljJ5tmvFpzUN=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNQJiYzc4ohsxGdf9kwQOF854WsiH-aJVxmO9ns=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzZQHSgJi3uJlgCsHXVQz9gMo3LlN64fzEVYVxJAMPoTNAA9r8ViIxK2wP2Jnyi1j6bE6garyLmSpYhdI7e9SnaHmd0br_rUxAhF8IBdEOy-xjZ4m-L99GdF6Z8c4NozF4Ol3kVbQVMZIQ=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNNWcQeCXrrO86RX623E6AMjruUFUnjhdyXSKDb=s287-w287-h192-n-k-no-v1"
+    ],
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Room service",
+      "Kitchen",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "reviewScore": 4.7,
+    "estimated": false
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-21",
+      "theme": "Arrival and Seaside Evening",
+      "optimizedRoute": "Gagal Home - Andheri Suite → Chowpatty Beach → Marine Drive → Gagal Home - Andheri Suite",
+      "totalDistance": 48.98,
+      "totalTravelTime": "1 hour 58 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "4:00 PM - 6:00 PM",
+          "name": "Chowpatty Beach",
+          "coordinates": {
+            "latitude": 18.9547,
+            "longitude": 72.8135
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=18.9547,72.8135",
+          "distanceFromPrevious": 22.34,
+          "travelTimeFromPrevious": "54 minutes",
+          "description": "Girgaon Chowpatty, commonly known as Chowpatty Beach, is one of Mumbai's most famous public beaches and a hub of local life. While not ideal for swimming, it's the perfect place to experience the city's vibrant street food culture, especially as the sun begins to set. The atmosphere is electric, filled with families, couples, vendors, and tourists all soaking in the lively environment. It's a quintessential Mumbai experience, offering a delightful assault on the senses with its sights, sounds, and delicious smells of sizzling snacks.",
+          "whyVisit": "This is the perfect introduction to Mumbai's legendary street food scene. For a group of adults, it's a fantastic, casual way to dive into the local culture and cuisine on your first evening.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Chowpatty%20Beach&dates=20251121T103000Z/20251121T123000Z&details=Famous%20for%20street%20food.%20Estimated%20duration%3A%201-2%20hours%2C%20cost%3A%20500-1000%20INR%20per%20person&location=Chowpatty%20Beach%2C%20Mumbai%2C%20India",
+          "activities": [
+            "Sample classic Mumbai street food like Pav Bhaji from stalls near the entrance.",
+            "Try local desserts such as Kulfi (traditional ice cream) or Gola (shaved ice).",
+            "Observe the various local activities, from street performers to families enjoying their evening."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free entry",
+            "estimatedCost": "2000-4000 INR for 4 people for food",
+            "bestTime": "Late afternoon to evening (5 PM onwards)",
+            "duration": "1.5-2 hours",
+            "accessibility": "The main beach area is sandy and can be difficult for wheelchairs. The promenade is accessible."
+          },
+          "tips": {
+            "whatToBring": ["Hand sanitizer", "Cash in small denominations", "An adventurous appetite"],
+            "whatToBuy": ["Pav Bhaji", "Bhel Puri", "Pani Puri", "Kulfi"],
+            "safetyNotes": ["Eat from busy, popular stalls to ensure freshness.", "Be mindful of your belongings in the crowd."],
+            "customsEtiquette": ["It's a casual environment, but be polite when ordering.", "Dispose of waste in designated bins."],
+            "bookingRequired": false,
+            "photoSpots": ["Against the backdrop of the setting sun.", "Capturing the vibrant chaos of the food stalls."]
+          }
+        },
+        {
+          "timeOfDay": "6:00 PM - 7:30 PM",
+          "name": "Marine Drive",
+          "coordinates": {
+            "latitude": 18.9433,
+            "longitude": 72.8236
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=18.9433,72.8236",
+          "distanceFromPrevious": 2.01,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "Marine Drive is a 3.6-kilometer-long C-shaped boulevard along the Arabian Sea coast, forming a natural bay. Known as the 'Queen's Necklace' because of the glittering streetlights at night that resemble a string of pearls, it's one of Mumbai's most iconic landmarks. The promenade is lined with palm trees and art deco buildings, offering a refreshing sea breeze and stunning views of the city skyline. It's a favorite spot for locals and tourists to walk, jog, or simply sit on the tetrapods and watch the world go by.",
+          "whyVisit": "An essential Mumbai experience. The beautiful sunset and the iconic view of the 'Queen's Necklace' after dark provide a relaxing and visually stunning end to your first day.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Marine%20Drive&dates=20251121T123000Z/20251121T140000Z&details=Relaxed%20evening%20stroll%2C%20beautiful%20sunset.%20Estimated%20duration%3A%201-2%20hours%2C%20cost%3A%20Free&location=Marine%20Drive%2C%20Mumbai%2C%20India",
+          "activities": [
+            "Take a leisurely stroll along the entire promenade from Chowpatty to Nariman Point.",
+            "Sit on the ledge and enjoy the cool sea breeze while watching the sunset.",
+            "Stay after dusk to witness the famous 'Queen's Necklace' view as the city lights turn on."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "0 INR",
+            "bestTime": "Sunset (around 6 PM) and evening",
+            "duration": "1-2 hours",
+            "accessibility": "The promenade is flat and wheelchair accessible."
+          },
+          "tips": {
+            "whatToBring": ["Comfortable walking shoes", "A light jacket or shawl for the sea breeze", "Camera"],
+            "whatToBuy": ["Roasted corn on the cob (Bhutta) or peanuts from local vendors."],
+            "safetyNotes": ["Be careful when crossing the busy road adjacent to the promenade.", "Avoid sitting on the lowest tetrapods during high tide."],
+            "customsEtiquette": ["Respect personal space as it can get crowded.", "Keep the area clean."],
+            "bookingRequired": false,
+            "photoSpots": ["The C-shaped curve of the bay from the southern end.", "The skyline during sunset and after dark."]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "48.98 km",
+        "spending": {
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 1800,
+          "Meals": 5000,
+          "Shopping": 0,
+          "Total": 6800
+        },
+        "remainingBudget": 93200
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-22",
+      "theme": "History, Views, and Bandra Bites",
+      "optimizedRoute": "Gagal Home - Andheri Suite → Gateway of India (for Elephanta Caves) → Hanging Gardens → Bandra Street Food → Gagal Home - Andheri Suite",
+      "totalDistance": 113.84,
+      "totalTravelTime": "4 hours 33 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 10:00 AM",
+          "name": "Gateway of India",
+          "coordinates": {
+            "latitude": 18.922,
+            "longitude": 72.8347
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=18.922,72.8347",
+          "distanceFromPrevious": 22.42,
+          "travelTimeFromPrevious": "54 minutes",
+          "description": "An iconic arch-monument built to commemorate the 1911 royal visit of King George V and Queen Mary, the Gateway of India is synonymous with Mumbai. Standing majestically on the waterfront at Apollo Bunder, this colossal basalt structure is a beautiful example of Indo-Saracenic architecture. It serves as the city's top tourist attraction and a symbolic 'gateway' to the country. The area is constantly buzzing with activity, offering picturesque views of the Arabian Sea and the historic Taj Mahal Palace Hotel.",
+          "whyVisit": "This is Mumbai's most recognized monument and a historical landmark. It's the starting point for the Elephanta Caves ferry, making it a perfect first stop for a day of historical exploration.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Gateway%20of%20India&dates=20251122T033000Z/20251122T043000Z&details=Iconic%20landmark.%20Estimated%20duration%3A%201-1.5%20hours%2C%20cost%3A%20Free&location=Gateway%20of%20India%2C%20Mumbai%2C%20India",
+          "activities": [
+            "Take classic photographs in front of the monument.",
+            "Admire the architecture and the intricate latticework.",
+            "Observe the boats and ferries in the harbor with the sea as a backdrop."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "0 INR for viewing",
+            "bestTime": "Early morning to avoid crowds",
+            "duration": "1 hour",
+            "accessibility": "The plaza is wheelchair accessible."
+          },
+          "tips": {
+            "whatToBring": ["Camera", "Sun hat", "Water bottle"],
+            "whatToBuy": ["Professional photos from local photographers (optional)."],
+            "safetyNotes": ["Be wary of unsolicited guides or vendors.", "Security checks are in place at the entrance."],
+            "customsEtiquette": ["Maintain decorum at this historic site."],
+            "bookingRequired": false,
+            "photoSpots": ["Directly in front for a classic shot.", "From the side to include the Taj Mahal Palace Hotel."]
+          }
+        },
+        {
+          "timeOfDay": "10:00 AM - 2:30 PM",
+          "name": "Elephanta Caves",
+          "coordinates": {
+            "latitude": 18.9634,
+            "longitude": 72.9315
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=18.9634,72.9315",
+          "distanceFromPrevious": 11.65,
+          "travelTimeFromPrevious": "1 hour by ferry",
+          "description": "Located on Elephanta Island in Mumbai Harbour, the Elephanta Caves are a UNESCO World Heritage Site featuring a collection of rock-cut temples dating back to the 5th and 6th centuries. The main cave is dedicated to Lord Shiva and is renowned for its magnificent sculptures, including the famous Trimurti sadashiva, a 20-foot-tall sculpture representing Shiva's three aspects: creator, preserver, and destroyer. The journey to the island involves a scenic one-hour ferry ride from the Gateway of India, adding to the overall experience.",
+          "whyVisit": "A must-do for anyone interested in history, art, and spirituality. The impressive rock-cut architecture and ancient sculptures offer a fascinating glimpse into India's rich mythological and cultural heritage.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Elephanta%20Caves&dates=20251122T043000Z/20251122T090000Z&details=Historical%20caves%2C%20ferry%20ride.%20Estimated%20duration%3A%203-4%20hours%2C%20cost%3A%20Ferry%20~200%20INR%2C%20entrance%20~600%20INR&location=Elephanta%20Caves%2C%20Gharapuri%2C%20Maharashtra%2C%20India",
+          "activities": [
+            "Take the ferry from the Gateway of India to Elephanta Island.",
+            "Explore the main Shiva cave and admire the intricate rock-cut sculptures.",
+            "Walk up the path to the smaller caves and enjoy the panoramic views of the sea."
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx 600 INR for foreigners, 40 INR for Indians. Ferry approx 220 INR.",
+            "estimatedCost": "3440 INR for 4 people (fees + ferry)",
+            "bestTime": "Take the first ferry of the day to avoid heat and crowds.",
+            "duration": "3-4 hours including travel",
+            "accessibility": "Not wheelchair friendly. Involves a long flight of stairs from the jetty to the caves."
+          },
+          "tips": {
+            "whatToBring": ["Comfortable walking shoes", "Plenty of water", "Sunscreen", "Cash for tickets and refreshments"],
+            "whatToBuy": ["Small stone sculptures or souvenirs from the island market."],
+            "safetyNotes": ["Beware of the monkeys on the island; they can be aggressive and snatch food/belongings.", "The last ferry back is usually around 5:30 PM, confirm the timing."],
+            "customsEtiquette": ["Do not touch the ancient carvings.", "Photography without flash is usually permitted."],
+            "bookingRequired": false,
+            "photoSpots": ["The main Trimurti sculpture.", "The entrance of the main cave.", "Views of Mumbai's skyline from the ferry."]
+          }
+        },
+        {
+          "timeOfDay": "3:30 PM - 5:00 PM",
+          "name": "Hanging Gardens",
+          "coordinates": {
+            "latitude": 18.9566,
+            "longitude": 72.8058
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=18.9566,72.8058",
+          "distanceFromPrevious": 16.77,
+          "travelTimeFromPrevious": "40 minutes",
+          "description": "Perched atop Malabar Hill, the Hanging Gardens (officially Pherozeshah Mehta Gardens) are a series of terraced gardens offering a peaceful retreat from the bustling city. Famous for their intricate animal-shaped hedges and lush greenery, the gardens provide a stunning panoramic view of Marine Drive and the Arabian Sea. It's a beautifully maintained green space, perfect for a relaxing stroll. The gardens are built on a water reservoir, and their elevated position is what gives them their 'hanging' moniker and excellent vantage point.",
+          "whyVisit": "Offers one of the best photo opportunities of the Queen's Necklace from a high vantage point. It's a great place to relax and unwind after the morning's historical tour.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hanging%20Gardens&dates=20251122T100000Z/20251122T113000Z&details=Terraced%20gardens%20with%20panoramic%20views.%20Estimated%20duration%3A%201-1.5%20hours%2C%20cost%3A%20Free&location=Hanging%20Gardens%2C%20Malabar%20Hill%2C%20Mumbai%2C%20India",
+          "activities": [
+            "Walk through the terraced gardens and admire the pruned hedges.",
+            "Find the best spot to photograph the sweeping view of Marine Drive.",
+            "Visit the Kamala Nehru Park opposite, famous for the 'Old Woman's Shoe' structure."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "0 INR",
+            "bestTime": "Late afternoon for pleasant weather and soft light for photos.",
+            "duration": "1-1.5 hours",
+            "accessibility": "The pathways are paved and mostly accessible."
+          },
+          "tips": {
+            "whatToBring": ["Water bottle", "Camera"],
+            "whatToBuy": ["Local snacks from vendors outside the park."],
+            "safetyNotes": ["Stay on the designated paths."],
+            "customsEtiquette": ["Do not litter.", "Avoid plucking flowers or damaging the hedges."],
+            "bookingRequired": false,
+            "photoSpots": ["The main viewpoint overlooking Marine Drive.", "With the various animal-shaped hedges."]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM - 8:30 PM",
+          "name": "Bandra Street Food",
+          "coordinates": {
+            "latitude": 19.0633,
+            "longitude": 72.8322
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=19.0633,72.8322",
+          "distanceFromPrevious": 15.8,
+          "travelTimeFromPrevious": "38 minutes",
+          "description": "Bandra, known as the 'Queen of the Suburbs', is a vibrant and trendy area famous for its lively atmosphere, celebrity homes, and fantastic food scene. The streets here offer a more diverse range of street food compared to South Mumbai, with a mix of traditional and modern culinary delights. From bustling stalls selling kebabs and rolls to legendary local eateries, Bandra is a food lover's paradise. Exploring the food scene here is a great way to experience the contemporary culture of Mumbai.",
+          "whyVisit": "To experience a different flavor of Mumbai's street food culture in a trendy, vibrant neighborhood. It's a great contrast to the more traditional fare of Chowpatty.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Bandra%20Street%20Food&dates=20251122T133000Z/20251122T150000Z&details=Vibrant%20area%20for%20street%20food.%20Estimated%20duration%3A%201.5-2%20hours%2C%20cost%3A%20500-1000%20INR%20per%20person&location=Bandra%20West%2C%20Mumbai%2C%20India",
+          "activities": [
+            "Try the famous non-vegetarian snacks like kebabs and shawarma.",
+            "Explore Linking Road or Hill Road for a combination of street shopping and food.",
+            "Visit a local bakery for some classic Mumbai snacks and sweets."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free to explore",
+            "estimatedCost": "2000-4000 INR for 4 people",
+            "bestTime": "Evening, when the area comes alive.",
+            "duration": "1.5-2 hours",
+            "accessibility": "Streets can be crowded and uneven, making accessibility a challenge."
+          },
+          "tips": {
+            "whatToBring": ["Cash", "An empty stomach"],
+            "whatToBuy": ["Chicken rolls", "Kebabs", "Vada Pav", "Sweets from local shops."],
+            "safetyNotes": ["Be mindful of traffic while walking and exploring.", "As always, choose clean and busy food stalls."],
+            "customsEtiquette": ["Bandra is a mix of traditional and modern; respectful behavior is always appreciated."],
+            "bookingRequired": false,
+            "photoSpots": ["The bustling food stalls under the streetlights.", "Colorful shopfronts and street art in the area."]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "113.84 km",
+        "spending": {
+          "Entry Fees": 3440,
+          "Activities": 0,
+          "Transport": 4200,
+          "Meals": 5000,
+          "Shopping": 0,
+          "Total": 12640
+        },
+        "remainingBudget": 80560
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-23",
+      "theme": "Spirituality, Scenic Drives, and Sunset on the Beach",
+      "optimizedRoute": "Gagal Home - Andheri Suite → Siddhivinayak Temple → Worli Sea Link → Juhu Beach → Gagal Home - Andheri Suite",
+      "totalDistance": 34.72,
+      "totalTravelTime": "1 hour 23 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 10:30 AM",
+          "name": "Siddhivinayak Temple",
+          "coordinates": {
+            "latitude": 19.017,
+            "longitude": 72.8301
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=19.017,72.8301",
+          "distanceFromPrevious": 13.78,
+          "travelTimeFromPrevious": "33 minutes",
+          "description": "The Shree Siddhivinayak Ganapati Mandir is one of India's most revered and wealthiest temples, dedicated to Lord Ganesh. Originally a small brick structure, it was rebuilt into the grand temple it is today in the late 20th century. The temple is famous for its black stone idol of Ganesh, whose trunk is tilted to the right, a feature considered particularly auspicious. It attracts a massive number of devotees daily, including many prominent personalities, who come to seek the blessings of the 'wish-fulfilling' deity.",
+          "whyVisit": "Offers a powerful spiritual and cultural experience. It provides insight into the deep religious faith that is a cornerstone of Indian life, and the temple's architecture and atmosphere are impressive.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Siddhivinayak%20Temple&dates=20251123T033000Z/20251123T050000Z&details=Famous%20Ganesh%20temple.%20Estimated%20duration%3A%201-1.5%20hours%2C%20cost%3A%20Free&location=Siddhivinayak%20Temple%2C%20Prabhadevi%2C%20Mumbai%2C%20India",
+          "activities": [
+            "Join the queue for 'darshan' (viewing) of the main idol.",
+            "Observe the intricate architecture of the temple's inner sanctum.",
+            "Spend a few moments in quiet contemplation within the temple complex."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free. VIP passes are available for a fee to skip long queues.",
+            "estimatedCost": "Donations are voluntary.",
+            "bestTime": "Early morning on a weekday to avoid the heaviest crowds.",
+            "duration": "1-2 hours, depending on the crowd.",
+            "accessibility": "The temple has arrangements for differently-abled visitors."
+          },
+          "tips": {
+            "whatToBring": ["Modest clothing (shoulders and knees covered)."],
+            "whatToBuy": ["'Prasad' (blessed sweets) from the temple counters."],
+            "safetyNotes": ["Secure your footwear at designated counters.", "Be cautious of your valuables.", "Phones and cameras are not allowed inside."],
+            "customsEtiquette": ["Remove shoes before entering.", "Maintain a respectful and quiet demeanor."],
+            "bookingRequired": false,
+            "photoSpots": ["Photography is prohibited inside, but the exterior facade is impressive."]
+          }
+        },
+        {
+          "timeOfDay": "11:00 AM - 11:30 AM",
+          "name": "Worli Sea Link",
+          "coordinates": {
+            "latitude": 19.0304,
+            "longitude": 72.8169
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=19.0304,72.8169",
+          "distanceFromPrevious": 4.64,
+          "travelTimeFromPrevious": "12 minutes",
+          "description": "The Bandra-Worli Sea Link is an engineering marvel and one of Mumbai's modern landmarks. This 5.6 km cable-stayed bridge stretches across the Arabian Sea, connecting the suburbs of Bandra to Worli in South Mumbai. It was built to reduce commute times but has become a tourist attraction in its own right due to its stunning architecture and the breathtaking views it offers of the sea and the Mumbai skyline. A drive across the Sea Link, especially on a clear day, is a memorable experience.",
+          "whyVisit": "To admire a feat of modern engineering and enjoy some of the best panoramic views of Mumbai's coastline and cityscape from a unique perspective.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Worli%20Sea%20Link&dates=20251123T053000Z/20251123T060000Z&details=Scenic%20drive.%20Estimated%20duration%3A%2030%20mins%2C%20cost%3A%20Toll%20applicable&location=Bandra-Worli%20Sea%20Link%2C%20Mumbai%2C%20India",
+          "activities": [
+            "Take a taxi or drive across the bridge to experience it fully.",
+            "Enjoy the views of the city skyline from the bridge.",
+            "Observe the cable-stayed design of the bridge itself."
+          ],
+          "practicalInfo": {
+            "entryFee": "Toll fee applies (approx. 85 INR for a one-way trip for a car).",
+            "estimatedCost": "170 INR for a round trip toll.",
+            "bestTime": "Daytime for clear views, or night for a view of the lit-up skyline.",
+            "duration": "20-30 minutes for a drive across and back.",
+            "accessibility": "Accessible only by vehicle."
+          },
+          "tips": {
+            "whatToBring": ["Camera (though stopping for photos is not allowed)."],
+            "whatToBuy": [],
+            "safetyNotes": ["Stopping on the bridge is strictly prohibited.", "Observe the speed limit."],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": ["The best photos are taken from the Bandra Fort or Worli Sea Face, with the bridge in the background."]
+          }
+        },
+        {
+          "timeOfDay": "4:00 PM - 6:30 PM",
+          "name": "Juhu Beach",
+          "coordinates": {
+            "latitude": 19.1073,
+            "longitude": 72.8253
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=19.1073,72.8253",
+          "distanceFromPrevious": 18.36,
+          "travelTimeFromPrevious": "44 minutes",
+          "description": "Juhu Beach is one of Mumbai's largest and most popular beaches, located in the affluent Juhu suburb. It's a vast expanse of sand that comes alive in the evenings with a carnival-like atmosphere. The beach is famous for its street food, particularly Bhel Puri and Pani Puri, and is a popular spot for locals to unwind. It's also known for being near the residences of many Bollywood celebrities. The sunset views here are spectacular, making it an ideal place to end a day of sightseeing.",
+          "whyVisit": "Offers a more expansive and perhaps slightly more relaxed beach experience than Chowpatty, with equally delicious street food and a stunning sunset view. Its proximity to the hotel makes it a convenient final stop.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Juhu%20Beach&dates=20251123T103000Z/20251123T130000Z&details=Relaxation%2C%20sunset%20views%2C%20street%20food.%20Estimated%20duration%3A%202-3%20hours%2C%20cost%3A%20Free%20(food%20extra)&location=Juhu%20Beach%2C%20Mumbai%2C%20India",
+          "activities": [
+            "Walk along the long stretch of the beach.",
+            "Find a good spot to sit and watch the sun set over the Arabian Sea.",
+            "Enjoy the famous Juhu beach street food from the cluster of stalls at the main entrance."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "2000-3000 INR for 4 people for food",
+            "bestTime": "Late afternoon and sunset",
+            "duration": "2-3 hours",
+            "accessibility": "The entrance area is paved, but the beach itself is sandy."
+          },
+          "tips": {
+            "whatToBring": ["A mat or sheet to sit on", "Cash for food"],
+            "whatToBuy": ["Bhel Puri", "Sev Puri", "Pav Bhaji"],
+            "safetyNotes": ["The water is not considered clean for swimming.", "Keep an eye on your belongings."],
+            "customsEtiquette": ["Dispose of plates and waste properly to help keep the beach clean."],
+            "bookingRequired": false,
+            "photoSpots": ["Silhouettes against the setting sun.", "The colorful and chaotic food stalls."]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "34.72 km",
+        "spending": {
+          "Entry Fees": 170,
+          "Activities": 0,
+          "Transport": 1300,
+          "Meals": 4000,
+          "Shopping": 0,
+          "Total": 5470
+        },
+        "remainingBudget": 75090
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-24",
+      "theme": "Leisurely Shopping and a Farewell Feast",
+      "optimizedRoute": "Gagal Home - Andheri Suite → Bandra Shopping → Gagal Home - Andheri Suite",
+      "totalDistance": 15.48,
+      "totalTravelTime": "37 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "11:00 AM - 3:00 PM",
+          "name": "Relaxed Shopping in Bandra",
+          "coordinates": {
+            "latitude": 19.0633,
+            "longitude": 72.8322
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=19.0633,72.8322",
+          "distanceFromPrevious": 7.74,
+          "travelTimeFromPrevious": "19 minutes",
+          "description": "Bandra is Mumbai's shopping hub, offering everything from high-end designer boutiques to quirky street-side stalls. This day is for leisurely exploring its famous shopping streets like Linking Road and Hill Road. Linking Road is renowned for its vast collection of shoes, bags, and trendy apparel at bargain prices, while Hill Road offers a mix of small, independent shops and street fashion. It's a fantastic place to hunt for souvenirs, gifts, or simply to soak in the youthful and fashionable vibe of the suburb.",
+          "whyVisit": "A perfect activity for a relaxed day, allowing you to engage with the local culture, practice your bargaining skills, and find unique items to take back home.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Shopping%20in%20Bandra&dates=20251124T053000Z/20251124T093000Z&details=Leisurely%20shopping%20experience.%20Estimated%20duration%3A%202-3%20hours%2C%20cost%3A%20Varies&location=Linking%20Road%2C%20Bandra%20West%2C%20Mumbai%2C%20India",
+          "activities": [
+            "Bargain hunt for shoes and accessories on Linking Road.",
+            "Explore the small boutiques and shops on Hill Road.",
+            "Take a break at one of the many charming cafes in the area for lunch or coffee."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free to explore",
+            "estimatedCost": "Varies based on shopping (Budget 5000-10000 INR)",
+            "bestTime": "Late morning to afternoon, before the evening rush.",
+            "duration": "3-4 hours",
+            "accessibility": "Shops are accessible but streets are crowded and may be difficult to navigate with a wheelchair."
+          },
+          "tips": {
+            "whatToBring": ["Comfortable shoes", "A large bag for purchases", "Cash", "Good bargaining skills"],
+            "whatToBuy": ["Fashion accessories", "Shoes", "Handbags", "Unique clothing items"],
+            "safetyNotes": ["Keep your wallet and phone secure in the crowded streets."],
+            "customsEtiquette": ["Bargaining is expected at street stalls; do it politely and with a smile."],
+            "bookingRequired": false,
+            "photoSpots": ["Colorful displays at street stalls.", "Interesting street art often found in Bandra's lanes."]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM - 9:00 PM",
+          "name": "Farewell Street Food Feast / Dinner with City Views",
+          "coordinates": {
+            "latitude": 19.076,
+            "longitude": 72.8777
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=19.076,72.8777",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "Varies",
+          "description": "For your last evening, you have a choice: either dive back into the city's incredible street food scene for one last hurrah, or opt for a more relaxed and upscale experience. You could revisit a favorite spot or explore a new culinary area like Carter Road in Bandra. Alternatively, Mumbai has numerous rooftop restaurants and bars, particularly in areas like Lower Parel or Bandra, that offer stunning views of the city's glittering skyline, providing a perfect setting for a memorable farewell dinner.",
+          "whyVisit": "This is your chance to cap off the trip in a way that best suits your group's mood – whether it's one last taste of authentic local flavor or a celebratory dinner with a spectacular view.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Farewell%20Dinner&dates=20251124T133000Z/20251124T153000Z&details=Indulge%20in%20a%20final%20street%20food%20experience%20or%20enjoy%20a%20special%20meal.&location=Mumbai%2C%20India",
+          "activities": [
+            "Option 1 (Street Food): Explore Carter Road promenade for its food stalls and vibrant sea-facing vibe.",
+            "Option 2 (Fine Dining): Book a table at a rooftop restaurant in a central location.",
+            "Reflect on the amazing experiences of your Mumbai trip."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "3000-6000 INR for street food, 8000-15000 INR for a rooftop dinner for 4.",
+            "bestTime": "Evening",
+            "duration": "2-3 hours",
+            "accessibility": "Varies by location. Rooftop restaurants are generally accessible."
+          },
+          "tips": {
+            "whatToBring": ["Smart casual attire for a restaurant."],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": ["Reservations are highly recommended for popular restaurants."],
+            "bookingRequired": true,
+            "photoSpots": ["The city skyline from a rooftop bar.", "The lively atmosphere of the food promenade."]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "15.48 km",
+        "spending": {
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 600,
+          "Meals": 8000,
+          "Shopping": 7000,
+          "Total": 15600
+        },
+        "remainingBudget": 59490
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-25",
+      "theme": "Departure",
+      "optimizedRoute": "N/A",
+      "totalDistance": 0,
+      "totalTravelTime": "0",
+      "estimated": true,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 11:00 AM",
+          "name": "Breakfast and Departure",
+          "coordinates": {
+            "latitude": 19.1054589,
+            "longitude": 72.8619862
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=19.1054589,72.8619862",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a final breakfast in Mumbai. Depending on your flight schedule, you can have a relaxed meal at the hotel or a nearby cafe. Pack your bags, recall the memorable moments from your trip, and check out from the hotel. Ensure you allow ample time to travel to Chhatrapati Shivaji Maharaj International Airport (BOM) for your flight back to Delhi.",
+          "whyVisit": "A smooth and organized departure ensures your trip ends on a positive and stress-free note.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure%20from%20Mumbai&dates=20251125T033000Z/20251125T053000Z&details=Enjoy%20a%20relaxed%20breakfast%2C%20check%20out%20from%20the%20hotel%2C%20and%20proceed%20to%20the%20airport.&location=Chhatrapati%20Shivaji%20Maharaj%20International%20Airport%20(BOM)%2C%20Mumbai%2C%20India",
+          "activities": [
+            "Enjoy a leisurely breakfast.",
+            "Complete hotel check-out procedures.",
+            "Book a taxi or use a ride-sharing service to get to the airport."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "1000-1500 INR for breakfast + 800 INR for airport taxi",
+            "bestTime": "N/A",
+            "duration": "2-3 hours",
+            "accessibility": "N/A"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": ["Any last-minute souvenirs at the airport."],
+            "safetyNotes": ["Leave for the airport at least 3-4 hours before your flight departure time to account for Mumbai's traffic."],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "0 km",
+        "spending": {
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 800,
+          "Meals": 1500,
+          "Shopping": 0,
+          "Total": 2300
+        },
+        "remainingBudget": 57190
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 100000,
+    "currency": "INR",
+    "budgetWarning": "Critical: The estimated flight cost of 100,000-130,000 INR for 4 people consumes or exceeds your entire trip budget of 100,000 INR. The following breakdown assumes flights are paid for separately. Please adjust your total budget accordingly.",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Flights (Delhi-Mumbai-Delhi)",
+          "total_cost": 100000
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Gagal Home - Andheri Suite",
+        "pricePerNight": 8999,
+        "nights": 4,
+        "total": 35996
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 6800
+        },
+        {
+          "day": 2,
+          "cost": 12640
+        },
+        {
+          "day": 3,
+          "cost": 5470
+        },
+        {
+          "day": 4,
+          "cost": 15600
+        },
+        {
+          "day": 5,
+          "cost": 2300
+        }
+      ]
+    },
+    "totalSpent": 178806,
+    "remainingBudget": -78806,
+    "budgetTips": [
+      "Utilize local trains for longer distances if you're adventurous; they are much cheaper than taxis.",
+      "Eat at local eateries and street food stalls for most meals to save significantly on food costs.",
+      "Bargain respectfully at street markets like Linking Road to get better prices.",
+      "Look for combo deals or happy hours if you decide to dine at more expensive restaurants."
+    ]
+  },
+  "packingList": {
+    "Clothing": [
+      "Lightweight cotton clothes for daytime",
+      "A light jacket or shawl for cooler evenings and air-conditioned spaces",
+      "Modest attire (covering shoulders and knees) for visiting temples",
+      "Smart casual outfits for evening dinners (optional)"
+    ],
+    "Footwear": [
+      "Comfortable walking shoes or sandals for sightseeing",
+      "Flip-flops for the beach"
+    ],
+    "Essentials": [
+      "Sunscreen and sunglasses",
+      "Sun hat or cap",
+      "Basic first-aid kit with any personal medications",
+      "Hand sanitizer and wet wipes",
+      "Insect repellent"
+    ],
+    "Electronics": [
+      "Smartphone and portable power bank",
+      "Camera and extra batteries",
+      "Universal travel adapter (India uses Type D, M, and C)"
+    ],
+    "Documents": [
+      "Government-issued ID (Aadhaar, Passport)",
+      "Digital or printed copies of flight and hotel bookings",
+      "Travel insurance details",
+      "Emergency contact list"
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "priority": "High",
+      "task": "Book round-trip flights from Delhi to Mumbai."
+    },
+    {
+      "priority": "High",
+      "task": "Confirm and book your hotel reservation."
+    },
+    {
+      "priority": "High",
+      "task": "Purchase comprehensive travel insurance."
+    },
+    {
+      "priority": "Medium",
+      "task": "Arrange airport transfers in Mumbai or download ride-sharing apps like Uber or Ola."
+    },
+    {
+      "priority": "Medium",
+      "task": "Notify your bank/credit card companies of your travel dates."
+    },
+    {
+      "priority": "Medium",
+      "task": "Download offline maps of Mumbai on your preferred navigation app."
+    },
+    {
+      "priority": "Low",
+      "task": "Learn a few basic phrases in Hindi or Marathi, such as 'Namaste' (Hello) and 'Dhanyavaad' (Thank you)."
+    },
+    {
+      "priority": "Low",
+      "task": "Share your detailed itinerary with a family member or friend back home."
+    }
+  ]
+}
