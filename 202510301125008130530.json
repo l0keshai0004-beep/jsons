@@ -1,0 +1,604 @@
+{
+  "tripOverview": {
+    "destination": "Meghalaya, India",
+    "startDate": "2025-11-01",
+    "endDate": "2025-11-05",
+    "duration": "4 nights",
+    "companions": "2 adults, 0 children",
+    "tripType": "Nature and Adventure"
+  },
+  "mode_of_transport": {
+    "road": {
+      "cost": {
+        "train": "N/A",
+        "bus": "600 INR",
+        "cab": "2500 INR"
+      },
+      "approx_time": {
+        "train": "N/A",
+        "bus": "4 hours",
+        "cab": "3 hours"
+      },
+      "stations": {
+        "bus_stations": "Guwahati ISBT to Shillong Bus Station",
+        "trainstations": "Guwahati Railway Station (Nearest Major)"
+      },
+      "notes": "The most common arrival point for Meghalaya is Guwahati, Assam. Transport estimates are from Guwahati Airport (GAU) to Shillong city center. A private cab is recommended for convenience and comfort."
+    }
+  },
+  "hotel": {
+    "status": "Hotel search unavailable. Budget allocated: 2500 per night × 4 nights = 10000 INR. Please book separately.",
+    "estimated": true,
+    "budget": {
+      "pricePerNight": 2500,
+      "nights": 4,
+      "total": 10000,
+      "currency": "INR"
+    },
+    "notes": "We recommend searching for hotels in the Police Bazar or Laitumkhrah areas for central access to restaurants and transport."
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-01",
+      "theme": "Arrival and Shillong's Local Charm",
+      "weather": "High 17.9°C, Low 15.1°C. Heavily cloudy, 22.5mm rain. UV index 0.6.",
+      "weatherTip": "Heavy rain is expected. Pack a waterproof jacket and umbrella. Plan for indoor activities if possible.",
+      "optimizedRoute": "Hotel → Don Bosco Centre for Indigenous Cultures → Ward's Lake → Hotel",
+      "totalDistance": 3.09,
+      "totalTravelTime": "20 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "2:00 PM - 4:30 PM",
+          "name": "Don Bosco Centre for Indigenous Cultures",
+          "coordinates": {
+            "latitude": 25.572,
+            "longitude": 91.8936
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.572,91.8936",
+          "distanceFromPrevious": 1.65,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "The Don Bosco Centre is a comprehensive museum dedicated to preserving and showcasing the rich, diverse cultures of Northeast India's indigenous peoples. Spread across seven floors, its hexagonal building offers a spiral journey through galleries filled with artifacts, traditional attire, intricate artwork, and detailed dioramas. It provides an immersive educational experience, covering everything from tribal history and customs to their unique agricultural practices and musical traditions. It's considered one of the finest cultural museums in Asia and offers panoramic views of Shillong from its skywalk.",
+          "whyVisit": "An excellent first stop to understand the cultural tapestry of Meghalaya and the entire Northeast region. It's a perfect indoor activity for a rainy arrival day, offering deep insights that will enrich the rest of your trip.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Don%20Bosco%20Centre&dates=20251101T083000Z/20251101T110000Z&details=Explore%20the%20rich%20cultures%20of%20Northeast%20India.&location=Don%20Bosco%20Centre%20for%20Indigenous%20Cultures%2C%20Shillong",
+          "activities": [
+            "Explore the 17 different galleries showcasing cultural artifacts.",
+            "Visit the skywalk on the top floor for a 360-degree view of Shillong.",
+            "Watch the short cultural films screened in the media hall."
+          ],
+          "practicalInfo": {
+            "entryFee": "100 INR per adult (Indian), 200 INR per adult (Foreigner)",
+            "estimatedCost": "400-600 INR for two people including tickets and auto fare",
+            "bestTime": "Afternoon",
+            "duration": "2-3 hours",
+            "accessibility": "Ramps and elevators are available, making it largely accessible."
+          },
+          "tips": {
+            "whatToBring": ["Camera", "Notepad", "Valid ID"],
+            "whatToBuy": ["Local handicrafts and books from the museum gift shop."],
+            "safetyNotes": ["Photography without flash is usually permitted, but check signage."],
+            "customsEtiquette": ["Maintain silence and be respectful of the cultural exhibits."],
+            "bookingRequired": false,
+            "photoSpots": ["The panoramic skywalk", "In front of the unique hexagonal building."]
+          }
+        },
+        {
+          "timeOfDay": "4:45 PM - 6:00 PM",
+          "name": "Ward's Lake",
+          "coordinates": {
+            "latitude": 25.5739,
+            "longitude": 91.8879
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.5739,91.8879",
+          "distanceFromPrevious": 1.44,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "Ward's Lake is a charming, horseshoe-shaped artificial lake located in the heart of Shillong. Surrounded by lush green gardens, vibrant flowerbeds, and walking cobble-stoned paths, it is a popular recreational spot for both locals and tourists. A picturesque white wooden bridge stands over the lake, offering a perfect photo opportunity. The tranquil atmosphere provides a peaceful escape from the city's hustle. Visitors can enjoy boating on the lake or simply stroll through the manicured gardens, enjoying the cool Meghalayan air. It's a remnant of the region's colonial past and continues to be a central landmark.",
+          "whyVisit": "A perfect spot for a relaxing evening stroll after your arrival. The serene environment and beautiful landscape offer a gentle introduction to the natural beauty of Meghalaya.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Evening%20at%20Ward's%20Lake&dates=20251101T111500Z/20251101T123000Z&details=Enjoy%20a%20peaceful%20walk%20and%20boating.&location=Ward's%20Lake%2C%20Shillong",
+          "activities": [
+            "Take a leisurely walk around the lake on the cobblestone path.",
+            "Enjoy paddle boating on the serene waters.",
+            "Feed the fish from the designated points along the lake."
+          ],
+          "practicalInfo": {
+            "entryFee": "10 INR per person",
+            "estimatedCost": "150-200 INR for two, including entry and boating",
+            "bestTime": "Late afternoon",
+            "duration": "1-1.5 hours",
+            "accessibility": "The main paths are paved and relatively flat."
+          },
+          "tips": {
+            "whatToBring": ["Light jacket", "Umbrella (due to forecast)"],
+            "whatToBuy": ["Local snacks from the small cafes nearby."],
+            "safetyNotes": ["The lake closes at dusk, so plan your visit accordingly."],
+            "customsEtiquette": ["Do not litter; help maintain the park's cleanliness."],
+            "bookingRequired": false,
+            "photoSpots": ["The iconic white wooden bridge", "Views of the lake with surrounding gardens."]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "3.09 km",
+        "spending": {
+          "Entry Fees": 220,
+          "Activities": 100,
+          "Transport": 300,
+          "Meals": 1200,
+          "Shopping": 300,
+          "subtotal": 2120
+        },
+        "remainingBudget": 7880,
+        "budgetWarning": "The total budget of 10000 INR is extremely low for a 4-night trip. The estimated accommodation cost alone is 10000 INR. The daily expenses listed are additional costs you will incur."
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-02",
+      "theme": "Cherrapunji: The Land of Clouds & Waterfalls",
+      "weather": "High 20.5°C, Low 16.2°C. Heavily cloudy, 10.4mm rain. UV index 4.85.",
+      "weatherTip": "Rain is likely. Waterfalls will be magnificent but viewpoints might be covered in fog. Carry rain gear and wear shoes with good grip.",
+      "optimizedRoute": "Hotel → Mawkdok Dympep Valley → Mawsmai Cave → Seven Sisters Falls → Nohkalikai Falls → Hotel",
+      "totalDistance": 107.59,
+      "totalTravelTime": "3 hours 30 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 10:00 AM",
+          "name": "Mawkdok Dympep Valley Viewpoint",
+          "coordinates": {
+            "latitude": 25.3687,
+            "longitude": 91.8294
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.3687,91.8294",
+          "distanceFromPrevious": 41.05,
+          "travelTimeFromPrevious": "1 hour 15 minutes",
+          "description": "The Mawkdok Dympep Valley is a breathtaking gorge that serves as a spectacular gateway to the Cherrapunji region. The viewpoint, located right off the main highway, offers a stunning panoramic vista of the lush, rolling hills and the deep, winding valley below. A zip-line often operates across the valley, providing an adventurous way to experience the landscape. The viewpoint is the first major scenic stop on the way from Shillong to Cherrapunji, setting the tone for the dramatic landscapes that lie ahead. The beauty is often enhanced by clouds and mist rising from the valley floor.",
+          "whyVisit": "This is your dramatic introduction to the Khasi Hills. The sheer scale and beauty of the valley is awe-inspiring and offers a fantastic photo opportunity to kickstart your day trip.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Mawkdok%20Dympep%20Valley%20View&dates=20251102T040000Z/20251102T043000Z&details=First%20scenic%20stop%20on%20the%20way%20to%20Cherrapunji.&location=Mawkdok%20Dympep%20Valley%20Viewpoint",
+          "activities": [
+            "Take in the panoramic views of the green valley.",
+            "Try zip-lining across the valley for an adrenaline rush (weather permitting).",
+            "Enjoy a hot cup of tea at the local stalls while admiring the view."
+          ],
+          "practicalInfo": {
+            "entryFee": "10-20 INR per person for viewpoint access",
+            "estimatedCost": "500-1000 INR if you opt for zip-lining",
+            "bestTime": "Morning for clearer views",
+            "duration": "30 minutes",
+            "accessibility": "The main viewpoint is right by the road and is accessible."
+          },
+          "tips": {
+            "whatToBring": ["Camera", "Binoculars", "Jacket"],
+            "whatToBuy": ["Local snacks like roasted corn."],
+            "safetyNotes": ["Be careful near the railings, especially in wet conditions."],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": ["The main platform overlooking the valley.", "Capturing zip-liners against the landscape."]
+          }
+        },
+        {
+          "timeOfDay": "10:45 AM - 12:00 PM",
+          "name": "Mawsmai Cave",
+          "coordinates": {
+            "latitude": 25.2753,
+            "longitude": 91.751
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.2753,91.751",
+          "distanceFromPrevious": 13.99,
+          "travelTimeFromPrevious": "25 minutes",
+          "description": "Mawsmai Cave is a magnificent natural limestone cave that offers a thrilling caving experience for all ages. It is one of the most accessible caves in Meghalaya, with a well-lit path covering about 150 meters of the larger cave network. Inside, you can witness the stunning formations of stalactites and stalagmites created over thousands of years. The passage narrows in some places, requiring you to squeeze and duck, adding to the adventure. Water drips continuously from the cave ceiling, and the cool, damp environment hosts a unique ecosystem. It's a fantastic glimpse into the underground world of the Khasi Hills.",
+          "whyVisit": "It's an easy and safe introduction to the world of caving. The intricate limestone formations and the thrill of navigating the dark passages make for an unforgettable adventure.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Mawsmai%20Cave&dates=20251102T051500Z/20251102T063000Z&details=Experience%20limestone%20caving.&location=Mawsmai%20Cave%2C%20Cherrapunji",
+          "activities": [
+            "Walk the entire lit tourist circuit of the cave.",
+            "Identify different stalactite and stalagmite formations.",
+            "Look for fossils embedded in the limestone walls."
+          ],
+          "practicalInfo": {
+            "entryFee": "20 INR per person",
+            "estimatedCost": "100 INR for two including entry and camera fees",
+            "bestTime": "Any time, as it's an underground activity",
+            "duration": "45-60 minutes",
+            "accessibility": "Not wheelchair accessible. Involves stooping and squeezing in places."
+          },
+          "tips": {
+            "whatToBring": ["Shoes with good grip as the floor is slippery.", "A light rain jacket as it's damp inside."],
+            "whatToBuy": ["Local spices and honey from shops outside the cave."],
+            "safetyNotes": ["Watch your head in low-ceiling areas.", "Stick to the designated path."],
+            "customsEtiquette": ["Do not touch the cave formations as oils from skin can damage them."],
+            "bookingRequired": false,
+            "photoSpots": ["The main cavern entrance.", "Sections with dramatic stalactite formations."]
+          }
+        },
+        {
+          "timeOfDay": "12:15 PM - 1:00 PM",
+          "name": "Seven Sisters Falls (Nohsngithiang Falls)",
+          "coordinates": {
+            "latitude": 25.2831,
+            "longitude": 91.734
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.2831,91.734",
+          "distanceFromPrevious": 2.59,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "Nohsngithiang Falls, popularly known as the Seven Sisters Falls, is a stunning seven-segmented waterfall that plunges over the limestone cliffs of the Khasi Hills. It is one of the tallest waterfalls in India. The falls are named for the seven streams that cascade down the cliffside, creating a majestic panorama, especially during the monsoon season when they are in their full glory. The viewpoint from the Eco Park provides a direct, breathtaking view of this natural spectacle. The changing play of light on the falls during sunset is said to create a magical atmosphere.",
+          "whyVisit": "The sheer scale and beauty of seven distinct waterfalls cascading side-by-side is a sight to behold. Given the rainy forecast, you are likely to see the falls in their powerful and voluminous form.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=View%20Seven%20Sisters%20Falls&dates=20251102T064500Z/20251102T073000Z&details=Witness%20the%20majestic%20seven-segmented%20waterfall.&location=Nohsngithiang%20Falls%20Viewpoint",
+          "activities": [
+            "Admire the view from the designated viewpoint.",
+            "Visit the adjacent Eco Park for different perspectives of the falls and the plains of Bangladesh.",
+            "Enjoy a picnic lunch with the falls as a backdrop."
+          ],
+          "practicalInfo": {
+            "entryFee": "10 INR per person for the park",
+            "estimatedCost": "50 INR for two",
+            "bestTime": "Post-monsoon (your travel time) when the flow is strong and skies might be clearer.",
+            "duration": "30-45 minutes",
+            "accessibility": "The viewpoint is easily accessible from the road."
+          },
+          "tips": {
+            "whatToBring": ["Binoculars for a closer look.", "Camera with a wide-angle lens."],
+            "whatToBuy": ["Homemade pickles and souvenirs from local vendors."],
+            "safetyNotes": ["Stay within the designated viewing areas."],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": ["The main viewpoint capturing all seven falls.", "Through the gardens of the Eco Park framing the falls."]
+          }
+        },
+        {
+          "timeOfDay": "1:45 PM - 2:30 PM",
+          "name": "Nohkalikai Falls",
+          "coordinates": {
+            "latitude": 25.2987,
+            "longitude": 91.758
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.2987,91.758",
+          "distanceFromPrevious": 16.75,
+          "travelTimeFromPrevious": "30 minutes",
+          "description": "Nohkalikai Falls is the tallest plunge waterfall in India, dropping from a height of 340 meters (1,115 ft). The falls are fed by rainwater collected on the summit of a small plateau and are at their most spectacular during the wet season. The water cascades directly into a deep plunge pool that turns a beautiful turquoise-green color when the sun is shining. The name of the falls is linked to a tragic local Khasi legend about a woman named Likai. A viewing gallery provides a stunning, unobstructed view of this powerful and dramatic force of nature.",
+          "whyVisit": "Witnessing India's tallest plunge waterfall is a bucket-list experience. The raw power and immense height of Nohkalikai are humbling and provide a dramatic climax to your Cherrapunji exploration.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Marvel%20at%20Nohkalikai%20Falls&dates=20251102T081500Z/20251102T090000Z&details=See%20India's%20tallest%20plunge%20waterfall.&location=Nohkalikai%20Falls%20Viewpoint",
+          "activities": [
+            "Take in the breathtaking view from the main viewpoint.",
+            "For the adventurous, there are stairs that lead down towards the base (can be slippery).",
+            "Shop for local spices like cinnamon and bay leaves from the stalls run by locals."
+          ],
+          "practicalInfo": {
+            "entryFee": "20 INR per person",
+            "estimatedCost": "100 INR for two, including entry and parking",
+            "bestTime": "Afternoon for better lighting, though mornings are less crowded.",
+            "duration": "45 minutes",
+            "accessibility": "The main viewing platform is accessible."
+          },
+          "tips": {
+            "whatToBring": ["A good zoom lens for your camera.", "Rain gear is essential."],
+            "whatToBuy": ["Authentic Meghalayan spices.", "Handmade bamboo crafts."],
+            "safetyNotes": ["The steps leading down can be extremely slippery and dangerous during rain; assess conditions before attempting."],
+            "customsEtiquette": ["Listen to the local legend from the guides or shopkeepers to appreciate the cultural context."],
+            "bookingRequired": false,
+            "photoSpots": ["The main platform for the classic waterfall shot.", "Side angles that show the scale of the surrounding cliffs."]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "107.59 km",
+        "spending": {
+          "Entry Fees": 140,
+          "Activities": 0,
+          "Transport": 3000,
+          "Meals": 1500,
+          "Shopping": 400,
+          "subtotal": 5040
+        },
+        "remainingBudget": 2840,
+        "budgetWarning": "A full-day cab to Cherrapunji is a significant cost. The overall trip budget is insufficient."
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-03",
+      "theme": "Asia's Cleanest Village & Crystal Clear Waters",
+      "weather": "High 21.2°C, Low 13.3°C. Mostly cloudy, slight rain chance. UV index 6.0.",
+      "weatherTip": "A better weather day. Perfect for the long drive and outdoor activities in Dawki and Mawlynnong. Still, carry a light jacket.",
+      "optimizedRoute": "Hotel → Mawlynnong Village → Umngot River, Dawki → Hotel",
+      "totalDistance": 170.04,
+      "totalTravelTime": "5 hours",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "10:30 AM - 12:30 PM",
+          "name": "Mawlynnong Village",
+          "coordinates": {
+            "latitude": 25.1831,
+            "longitude": 92.016
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.1831,92.016",
+          "distanceFromPrevious": 85.02,
+          "travelTimeFromPrevious": "2 hours 30 minutes",
+          "description": "Famed as 'Asia's Cleanest Village,' Mawlynnong is a small, picturesque settlement that stands as a testament to community-led eco-tourism. The village is impeccably clean, with bamboo dustbins everywhere and beautifully manicured gardens in every home. Cobblestone paths wind through traditional Khasi huts, and the air is filled with tranquility. The villagers have collectively worked to maintain this status for years. Key attractions within and around the village include the Living Root Bridge and a Sky Walk made of bamboo offering panoramic views of the village and the plains of Bangladesh.",
+          "whyVisit": "To experience a unique model of sustainable living and community effort. It's not just about cleanliness; it's about the serene atmosphere, the beautiful Khasi architecture, and the warm hospitality of the local people.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Mawlynnong%20Village&dates=20251103T050000Z/20251103T070000Z&details=Walk%20through%20Asia's%20Cleanest%20Village.&location=Mawlynnong%20Village%2C%20Meghalaya",
+          "activities": [
+            "Walk through the clean lanes and admire the local homes and gardens.",
+            "Climb the Sky Walk (Maw Shyrpong) for breathtaking views.",
+            "Visit the nearby Riwai Single-Decker Living Root Bridge."
+          ],
+          "practicalInfo": {
+            "entryFee": "50 INR per person (village entry fee)",
+            "estimatedCost": "200-300 INR for two, including fees for Sky Walk",
+            "bestTime": "Morning to early afternoon",
+            "duration": "2 hours",
+            "accessibility": "The village paths are walkable but may be uneven."
+          },
+          "tips": {
+            "whatToBring": ["Comfortable shoes", "Cash, as digital payments are limited."],
+            "whatToBuy": ["Hand-woven textiles", "Bamboo souvenirs."],
+            "safetyNotes": ["Respect the privacy of the villagers and do not enter homes uninvited."],
+            "customsEtiquette": ["Do not litter under any circumstances; use the bamboo bins provided."],
+            "bookingRequired": false,
+            "photoSpots": ["The main village square", "The Sky Walk viewpoint", "The Living Root Bridge."]
+          }
+        },
+        {
+          "timeOfDay": "1:30 PM - 3:00 PM",
+          "name": "Umngot River, Dawki",
+          "coordinates": {
+            "latitude": 25.1989,
+            "longitude": 91.975
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.1989,91.975",
+          "distanceFromPrevious": 17,
+          "travelTimeFromPrevious": "30 minutes",
+          "description": "The Umngot River in Dawki, a small border town, is famous for its stunningly clear, emerald-green water. The riverbed is visible from the surface, creating an illusion of boats floating in mid-air. A boat ride on the Umngot is the quintessential Dawki experience, allowing you to glide over these crystal waters, with the lush hills of the Jaintia and Khasi regions on either side. A historic suspension bridge, built by the British, spans the river and connects India with Bangladesh. This area is a bustling trade point and a hub of natural beauty.",
+          "whyVisit": "The surreal experience of boating on one of the clearest rivers in the world is unforgettable. It's a peaceful yet vibrant location where you can witness the beauty of nature at the Indo-Bangladesh border.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Boating%20on%20Umngot%20River&dates=20251103T080000Z/20251103T093000Z&details=Experience%20the%20crystal%20clear%20waters%20of%20Dawki.&location=Umngot%20River%2C%20Dawki",
+          "activities": [
+            "Take a boat ride on the Umngot River.",
+            "Walk on the Dawki Suspension Bridge for great views.",
+            "Engage in activities like cliff jumping and kayaking (seasonal)."
+          ],
+          "practicalInfo": {
+            "entryFee": "None, but boating has a fixed price.",
+            "estimatedCost": "800-1000 INR for a one-hour boat ride for two",
+            "bestTime": "Post-monsoon winter months (your travel time) when the water is clearest.",
+            "duration": "1.5-2 hours",
+            "accessibility": "Getting down to the river involves a short but steep walk."
+          },
+          "tips": {
+            "whatToBring": ["Polarized sunglasses to better see through the water's surface.", "Sunscreen and a hat.", "Valid ID as it is a border area."],
+            "whatToBuy": ["Local fish pickles", "Betel nuts and leaves."],
+            "safetyNotes": ["Listen to the boatman's instructions.", "Wear a life jacket if provided."],
+            "customsEtiquette": ["Bargain respectfully for souvenirs but boating prices are usually fixed."],
+            "bookingRequired": false,
+            "photoSpots": ["From the boat, looking down into the clear water.", "From the suspension bridge overlooking the river."]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "170.04 km",
+        "spending": {
+          "Entry Fees": 100,
+          "Activities": 800,
+          "Transport": 3500,
+          "Meals": 1500,
+          "Shopping": 300,
+          "subtotal": 6200
+        },
+        "remainingBudget": -3360,
+        "budgetWarning": "This is a long and expensive day trip. The trip is now significantly over the initial budget."
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-04",
+      "theme": "The Grand Canyons of Meghalaya",
+      "weather": "High 21.7°C, Low 13.9°C. Partly cloudy, minimal rain chance. UV index 5.75.",
+      "weatherTip": "Best weather day of the trip. Ideal for soaking in the expansive views at Laitlum. Wear layers as it can be windy.",
+      "optimizedRoute": "Hotel → Laitlum Canyons → Hotel",
+      "totalDistance": 45,
+      "totalTravelTime": "2 hours",
+      "estimated": true,
+      "places": [
+        {
+          "timeOfDay": "10:00 AM - 1:00 PM",
+          "name": "Laitlum Canyons",
+          "coordinates": {
+            "latitude": 25.523,
+            "longitude": 91.954
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=25.523,91.954",
+          "distanceFromPrevious": 22.5,
+          "travelTimeFromPrevious": "1 hour",
+          "description": "Laitlum Canyons, which translates to 'End of Hills,' is a spectacular and less-crowded viewpoint that offers an awe-inspiring 360-degree panorama of the Khasi Hills. The landscape is a vast expanse of deep gorges, winding valleys, and majestic, cloud-kissed hills. A steep stone staircase of over 3,000 steps descends into the valley, leading to the remote village of Rasong. The sheer scale and tranquility of the place are breathtaking. Often, you can sit on the grassy plateau and watch the clouds float by beneath you, making it a truly magical and meditative experience.",
+          "whyVisit": "For an unparalleled, panoramic view of Meghalaya's landscapes that feels otherworldly. It is less commercialized than other spots, offering a more peaceful and profound connection with nature.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Laitlum%20Canyons&dates=20251104T043000Z/20251104T073000Z&details=Witness%20the%20breathtaking%20panoramic%20views%20of%20the%20Khasi%20Hills.&location=Laitlum%20Canyons%2C%20Meghalaya",
+          "activities": [
+            "Sit at the edge of the plateau and soak in the magnificent views.",
+            "Hike a small portion of the trail that leads down to Rasong village.",
+            "Enjoy a simple picnic amidst the stunning scenery."
+          ],
+          "practicalInfo": {
+            "entryFee": "20 INR per person",
+            "estimatedCost": "100 INR for two, including parking.",
+            "bestTime": "Morning to early afternoon for the clearest views.",
+            "duration": "2-3 hours",
+            "accessibility": "The main viewing area is a short walk from the parking lot. The trek down is extremely strenuous."
+          },
+          "tips": {
+            "whatToBring": ["Water bottle", "Snacks (very few shops available)", "Sunscreen and hat", "A mat or blanket to sit on."],
+            "whatToBuy": ["Local tea and snacks from the one or two small shacks."],
+            "safetyNotes": ["The cliff edges are unfenced and extremely dangerous. Do not venture too close.", "The trek down is only for experienced hikers."],
+            "customsEtiquette": ["Carry back all your waste. Leave the pristine landscape as you found it."],
+            "bookingRequired": false,
+            "photoSpots": ["The main grassy meadow overlooking the gorges.", "The top of the staircase leading to the valley."]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "45 km",
+        "spending": {
+          "Entry Fees": 40,
+          "Activities": 0,
+          "Transport": 2000,
+          "Meals": 1200,
+          "Shopping": 200,
+          "subtotal": 3440
+        },
+        "remainingBudget": -6800
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-05",
+      "theme": "Departure",
+      "weather": "High 21.3°C, Low 13.7°C. Heavily cloudy, low rain chance. UV index 2.65.",
+      "weatherTip": "A cloudy but likely dry day for your departure. Plan your travel to the airport with some buffer time.",
+      "optimizedRoute": "Hotel → Guwahati Airport (GAU)",
+      "totalDistance": 98.21,
+      "totalTravelTime": "3 hours",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Travel to Guwahati Airport (GAU)",
+          "coordinates": {
+            "latitude": 26.1445,
+            "longitude": 91.7458
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.1445,91.7458",
+          "distanceFromPrevious": 98.21,
+          "travelTimeFromPrevious": "3 hours",
+          "description": "This is your departure day. The journey from Shillong back to Guwahati Airport in Assam offers a final opportunity to see the beautiful landscapes of the region as you descend from the hills to the plains. The route is scenic, passing by the iconic Umiam Lake one last time. Ensure you book a reliable cab and start on time to account for any potential traffic near Guwahati.",
+          "whyVisit": "N/A - Departure",
+          "addtocalendar": null,
+          "activities": [
+            "Have a final Meghalayan breakfast.",
+            "Do some last-minute souvenir shopping if time permits.",
+            "Enjoy the scenic drive back to the airport."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "2500-3000 INR for a cab drop-off",
+            "bestTime": "Start at least 4-5 hours before your flight departure time.",
+            "duration": "3 hours",
+            "accessibility": "N/A"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": ["Shillong Teas", "Bamboo crafts from Police Bazar."],
+            "safetyNotes": ["Confirm your cab booking a day in advance."],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": ["A final stop at Umiam Lake viewpoint if time allows."]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "98.21 km",
+        "spending": {
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 2500,
+          "Meals": 500,
+          "Shopping": 0,
+          "subtotal": 3000
+        },
+        "remainingBudget": -9800
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 10000,
+    "currency": "INR",
+    "budgetWarning": "The provided budget of 10000 INR is critically insufficient for this 4-night trip for two people. The estimated costs below far exceed this amount. A more realistic budget would be 35,000-45,000 INR.",
+    "expenses": {
+      "accommodation": {
+        "hotelName": "Hotel booking failed",
+        "pricePerNight": 2500,
+        "nights": 4,
+        "total": 10000,
+        "estimated": true
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 2120
+        },
+        {
+          "day": 2,
+          "cost": 5040
+        },
+        {
+          "day": 3,
+          "cost": 6200
+        },
+        {
+          "day": 4,
+          "cost": 3440
+        },
+        {
+          "day": 5,
+          "cost": 3000
+        }
+      ]
+    },
+    "totalSpent": 29800,
+    "remainingBudget": -19800,
+    "budgetTips": [
+      "Hire a single cab for the entire duration of your trip and negotiate a package price.",
+      "Eat at local Khasi food stalls and small restaurants instead of multi-cuisine tourist places.",
+      "Travel in a larger group to share transportation costs, which are the main expense.",
+      "Consider using shared sumos or buses between major points like Guwahati and Shillong."
+    ]
+  },
+  "packingList": {
+    "Clothing": [
+      "Waterproof/water-resistant jacket (essential)",
+      "Light sweater or fleece for evenings",
+      "Several pairs of quick-dry t-shirts/tops",
+      "Comfortable trousers/jeans for travel",
+      "One set of slightly dressier clothes for evenings in Shillong"
+    ],
+    "Footwear": [
+      "Waterproof hiking or walking shoes with excellent grip (essential)",
+      "A pair of comfortable sandals or floaters for evenings"
+    ],
+    "Essentials": [
+      "Umbrella",
+      "Sunscreen and hat",
+      "Insect repellent",
+      "Personal medications and a basic first-aid kit",
+      "Reusable water bottle"
+    ],
+    "Electronics": [
+      "Phone and portable power bank",
+      "Camera with extra batteries and memory cards",
+      "Universal travel adapter (Type D/M)"
+    ],
+    "Documents": [
+      "Passport/Aadhar Card/Valid Photo ID",
+      "Digital or printed copies of hotel and travel bookings",
+      "Emergency contact information"
+    ]
+  },
+  "preTripChecklist": {
+    "highPriority": [
+      "Book round-trip transport to Guwahati (Flights/Train).",
+      "Book a hotel in Shillong for 4 nights.",
+      "Arrange for a cab for airport transfers and day trips.",
+      "Purchase travel insurance covering trip cancellations and medical emergencies.",
+      "Verify your ID documents are valid."
+    ],
+    "mediumPriority": [
+      "Exchange currency or ensure your cards are activated for travel.",
+      "Download offline maps of the Meghalaya region on Google Maps.",
+      "Inform your bank of your travel dates to avoid blocked cards.",
+      "Pack according to the packing list, focusing on rain protection."
+    ],
+    "lowPriority": [
+      "Learn a few basic Khasi phrases like 'Khublei' (Hello/Thank you).",
+      "Research local Khasi cuisine to try.",
+      "Share your detailed itinerary with a family member or friend."
+    ]
+  }
+}
