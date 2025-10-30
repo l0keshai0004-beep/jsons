@@ -1,0 +1,847 @@
+{
+  "tripOverview": {
+    "destination": "Ajmer, India",
+    "startDate": "2025-11-02",
+    "endDate": "2025-11-07",
+    "duration": "5 nights, 6 days",
+    "companions": "2 adults, 0 children",
+    "tripType": "Cultural and Spiritual Journey"
+  },
+  "mode_of_transport": {
+    "road": {
+      "cost": {
+        "train": "1500-2500 INR per person (AC Chair Car/Sleeper)",
+        "bus": "800-1500 INR per person (Volvo/Sleeper)",
+        "cab": "7000-9000 INR (One way)"
+      },
+      "approx_time": {
+        "train": "6-7 hours",
+        "bus": "8-9 hours",
+        "cab": "6-7 hours"
+      },
+      "stations": {
+        "bus_stations": "Key bus terminals in Noida/Delhi include ISBT Kashmere Gate and Anand Vihar. The main drop-off point is the Ajmer Bus Stand.",
+        "trainstations": "Main stations to depart from near Noida are New Delhi Railway Station (NDLS) or Delhi Cantt (DEC). The arrival station is Ajmer Junction (AII)."
+      }
+    }
+  },
+  "hotel": {
+    "name": "Hotel Madni Royale - Best Affordable Hotel Near Ajmer Dargah",
+    "address": "Opposite Punjab National Bank, Dargah Road, Khadim Mohalla, Ajmer, Rajasthan 305001, India",
+    "coordinates": {
+      "latitude": 26.4576344,
+      "longitude": 74.6273274
+    },
+    "pricePerNight": 2252,
+    "totalCost": 11260,
+    "bookingLinks": [
+      "http://www.hotelmadniroyale.com/"
+    ],
+    "images": [
+      "https://lh4.googleusercontent.com/proxy/MRf5a0QMdL-UiLV_BgrmhHcB0iaiYg1IX5P7hO0XOD-au5Trno5a8W6BGKyDp8UnXbfHYhqWDq2oeMCeSbWy0zAeUDGMG3wPSxzCdRJbQOFnlWoWkPcF64AKRwSBbeSJG0ty6H6_mBDfpJ1grdwXdid28jLou2k=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipOSou3yQktX--c56yTnFD-BzDDEdfzvVzOo3wCR=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNe7iarJWVGSYkdKTCx-cpp_ZnthUutcICEe49u=s287-w287-h192-n-k-no-v1"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Pet-friendly",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Kid-friendly"
+    ],
+    "reviewScore": 4.6
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-02",
+      "theme": "Arrival and Acclimatization",
+      "optimizedRoute": "Arrival at Hotel Madni Royale",
+      "totalDistance": 0,
+      "totalTravelTime": "0 minutes",
+      "places": [
+        {
+          "timeOfDay": "3:00 PM onwards",
+          "name": "Hotel Check-in and Relaxation",
+          "coordinates": {
+            "latitude": 26.4576344,
+            "longitude": 74.6273274
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.4576344,74.6273274",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Arrive in the spiritual city of Ajmer and check into your hotel. Take the afternoon to unwind from your journey, settle into your room, and get a feel for the local surroundings. This is a perfect time to recharge before you begin your exploration of Ajmer's rich history and culture.",
+          "whyVisit": "A relaxed start to your trip allows you to acclimatize to the new environment without any rush, ensuring you are well-rested for the packed days ahead. It's an essential part of a well-paced travel experience.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hotel%20Check-in%20and%20Relaxation&dates=20251102T093000Z/20251102T133000Z&details=Arrive%20in%20the%20spiritual%20city%20of%20Ajmer%20and%20check%20into%20your%20hotel.%20Take%20the%20afternoon%20to%20unwind%20from%20your%20journey.&location=Hotel%20Madni%20Royale,%20Ajmer",
+          "activities": [
+            "Complete check-in process at Hotel Madni Royale.",
+            "Unpack and organize your belongings.",
+            "Take a short nap or enjoy a cup of tea at the hotel's restaurant."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "Dinner cost: 800-1200 INR for two.",
+            "bestTime": "N/A",
+            "duration": "Rest of the evening"
+          },
+          "tips": {
+            "whatToBring": [
+              "Hotel confirmation details",
+              "Comfortable lounge-wear"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Familiarize yourself with the hotel's emergency exits."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Max Temp: 30.2°C, Min Temp: 20.8°C. No rain, slightly cloudy. A pleasant evening for a stroll.",
+        "spending": {
+          "Hotel": 2252,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 200,
+          "Meals": 1200,
+          "Shopping": 0,
+          "dailySubtotal": 3652
+        },
+        "remainingBudget": 46348
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-03",
+      "theme": "Spiritual Heart of Ajmer",
+      "optimizedRoute": "Hotel → Ajmer Sharif Dargah → Adhai Din Ka Jhonpra → Ana Sagar Lake → Hotel",
+      "totalDistance": 6.8,
+      "totalTravelTime": "25 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Ajmer Sharif Dargah",
+          "coordinates": {
+            "latitude": 26.457,
+            "longitude": 74.6275
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.457,74.6275",
+          "distanceFromPrevious": 0.1,
+          "travelTimeFromPrevious": "2 minutes",
+          "description": "The Ajmer Sharif Dargah is a revered Sufi shrine and one of the most important pilgrimage sites in India. It is the final resting place of the Sufi saint Moinuddin Chishti, also known as Gharib Nawaz. The complex, with its magnificent gates, courtyards, and the main tomb made of marble and gold, exudes a powerful sense of peace and devotion. Millions of pilgrims from all faiths visit annually to offer prayers and seek blessings, making it a vibrant center of spiritual energy and communal harmony. The air is thick with the scent of roses and incense, and the sounds of qawwali music often echo through its halls.",
+          "whyVisit": "As the spiritual core of your Ajmer trip, this visit offers a profound cultural and devotional experience. Its atmosphere of universal acceptance and tranquility makes it a must-visit to understand the city's soul.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Ajmer%20Sharif%20Dargah&dates=20251103T033000Z/20251103T063000Z&details=Explore%20the%20revered%20Sufi%20shrine%20of%20Moinuddin%20Chishti.&location=Ajmer%20Sharif%20Dargah,%20Ajmer",
+          "activities": [
+            "Offer a 'chadar' (sacred cloth) and flowers at the main tomb.",
+            "Listen to the soul-stirring qawwali performances.",
+            "Spend a few moments in quiet reflection in the main courtyard."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (donations are welcome)",
+            "estimatedCost": "500-1000 INR for offerings and donations.",
+            "bestTime": "Early morning to avoid the biggest crowds.",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "A scarf or cap to cover your head.",
+              "A small bag for your shoes."
+            ],
+            "whatToBuy": [
+              "Rose petals and incense for offerings.",
+              "Small religious souvenirs from the market outside."
+            ],
+            "safetyNotes": [
+              "Be cautious of pickpockets in crowded areas.",
+              "Only accept guidance from official-looking personnel."
+            ],
+            "customsEtiquette": [
+              "Dress conservatively, ensuring shoulders and knees are covered.",
+              "Remove your shoes before entering the main complex.",
+              "Maintain a respectful and quiet demeanor."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The magnificent Buland Darwaza (main gate).",
+              "The intricate designs on the inner courtyards."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "1:00 PM - 2:30 PM",
+          "name": "Adhai Din Ka Jhonpra",
+          "coordinates": {
+            "latitude": 26.4549,
+            "longitude": 74.6254
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.4549,74.6254",
+          "distanceFromPrevious": 0.33,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "Just a short walk from the Dargah, Adhai Din Ka Jhonpra is a stunning example of early Indo-Islamic architecture. Originally a Sanskrit college, it was converted into a mosque in 1192 by Qutb-ud-Din-Aibak. The name, meaning 'the shed of two and a half days', is believed to have come from the duration of a festival held here. The structure is famed for its towering facade of seven arches, covered in intricate calligraphic inscriptions from the Quran. The interior hall is filled with a forest of pillars, each uniquely carved, showcasing the fusion of Hindu, Jain, and Islamic artistic styles. It's a photographer's and historian's delight.",
+          "whyVisit": "This architectural marvel provides a fascinating glimpse into India's layered history. Its unique blend of artistic styles and serene ambiance offers a perfect contrast to the bustling energy of the Dargah.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Adhai%20Din%20Ka%20Jhonpra&dates=20251103T073000Z/20251103T090000Z&details=Discover%20the%20ancient%20mosque%20known%20for%20its%20Indo-Islamic%20architecture.&location=Adhai%20Din%20Ka%20Jhonpra,%20Ajmer",
+          "activities": [
+            "Admire the detailed carvings on the main arched screen.",
+            "Walk among the numerous pillars in the main prayer hall.",
+            "Read the information plaques to understand the site's history."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "100-200 INR for a local guide (optional).",
+            "bestTime": "Early afternoon when the light is good for photography.",
+            "duration": "1-1.5 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Water bottle",
+              "Camera"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Watch your step on uneven surfaces."
+            ],
+            "customsEtiquette": [
+              "As it is a mosque, maintain a respectful silence.",
+              "Dress modestly."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The grand seven-arched facade.",
+              "The play of light and shadow among the interior pillars."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "5:00 PM - 7:00 PM",
+          "name": "Ana Sagar Lake",
+          "coordinates": {
+            "latitude": 26.4635,
+            "longitude": 74.6203
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.4635,74.6203",
+          "distanceFromPrevious": 3.32,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "Ana Sagar Lake is a picturesque artificial lake commissioned by Arnoraja (also known as Ana), the grandfather of Prithviraj Chauhan. The lake is flanked by the beautiful Daulat Bagh gardens, which were laid out by Emperor Jahangir. The marble pavilions, known as the Baradari, were later added by Emperor Shah Jahan, creating a serene and regal atmosphere. As the sun begins to set, the lake transforms into a canvas of spectacular colors, reflecting the sky and the surrounding Aravalli hills. It's a popular spot for locals and tourists alike to relax, enjoy the cool breeze, and take in the beautiful scenery. Boating facilities are also available.",
+          "whyVisit": "This is the perfect place to unwind after a day of historical exploration. The serene environment and stunning sunset views provide a peaceful conclusion to your day, showcasing the natural beauty of Ajmer.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Sunset%20at%20Ana%20Sagar%20Lake&dates=20251103T113000Z/20251103T133000Z&details=Enjoy%20a%20serene%20sunset%20by%20this%20artificial%20lake.%20Boating%20options%20available.&location=Ana%20Sagar%20Lake,%20Ajmer",
+          "activities": [
+            "Take a leisurely walk along the lake promenade.",
+            "Enjoy a boat ride on the lake for a different perspective.",
+            "Sit in the marble Baradari and watch the sunset."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free for the gardens. Boating has a separate charge.",
+            "estimatedCost": "200-400 INR for boating for two.",
+            "bestTime": "Late afternoon to sunset (5:00 PM - 6:30 PM).",
+            "duration": "1.5-2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "A light jacket as it can get breezy.",
+              "A camera for sunset photography."
+            ],
+            "whatToBuy": [
+              "Local snacks like bhutta (roasted corn) from vendors."
+            ],
+            "safetyNotes": [
+              "Be careful near the water's edge.",
+              "Ensure life jackets are provided if you go boating."
+            ],
+            "customsEtiquette": [
+              "Help keep the area clean by not littering."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The reflection of the sunset on the water.",
+              "Silhouettes against the setting sun from the Baradari."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Max Temp: 29.6°C, Min Temp: 18.6°C. No rain, overcast. The cloud cover will make for a pleasant, cool day of sightseeing.",
+        "spending": {
+          "Hotel": 2252,
+          "Entry Fees": 0,
+          "Activities": 800,
+          "Transport": 500,
+          "Meals": 1500,
+          "Shopping": 200,
+          "dailySubtotal": 5252
+        },
+        "remainingBudget": 41096
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-04",
+      "theme": "Forts, Temples, and Markets",
+      "optimizedRoute": "Hotel → Local Markets of Ajmer → Taragarh Fort → Nareli Jain Temple → Hotel",
+      "totalDistance": 25.0,
+      "totalTravelTime": "55 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 12:30 PM",
+          "name": "Taragarh Fort",
+          "coordinates": {
+            "latitude": 26.4465,
+            "longitude": 74.6247
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.4465,74.6247",
+          "distanceFromPrevious": 2.15,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "Perched on a steep hillside, Taragarh Fort is one of India's oldest hill forts, offering a testament to Rajput valor and architectural prowess. Built in the 8th century by Ajaypal Chauhan, the fort has witnessed centuries of history and conflict. Though much of it is in ruins, exploring its ramparts, gateways, and the large water reservoirs gives you a palpable sense of its former grandeur. The main attraction is the breathtaking panoramic view it offers of the entire city of Ajmer nestled in the valley below. The climb up to the fort is an experience in itself, passing through old city lanes and steep paths, making the reward at the top even sweeter.",
+          "whyVisit": "For the history enthusiast and the adventurer, Taragarh Fort provides a thrilling exploration. The stunning views are unparalleled and offer a fantastic photographic opportunity, giving you a king's-eye perspective of Ajmer.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Taragarh%20Fort&dates=20251104T040000Z/20251104T070000Z&details=Visit%20one%20of%20the%20oldest%20hill%20forts%20in%20India%20for%20panoramic%20views.&location=Taragarh%20Fort,%20Ajmer",
+          "activities": [
+            "Hike or take a vehicle up to the fort entrance.",
+            "Walk along the ancient ramparts and fortifications.",
+            "Identify key city landmarks from the viewpoint."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "300-500 INR for an auto-rickshaw to take you up.",
+            "bestTime": "Morning to avoid the harsh afternoon sun.",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Sturdy walking shoes are a must.",
+              "Sunscreen, hat, and sunglasses.",
+              "Plenty of water."
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "The paths can be steep and uneven; tread carefully.",
+              "Some areas are isolated, so it's best to stay aware of your surroundings."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main gate (Bhim Burj).",
+              "The panoramic city view from the highest point."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:00 PM - 3:30 PM",
+          "name": "Nareli Jain Temple",
+          "coordinates": {
+            "latitude": 26.4255,
+            "longitude": 74.6785
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.4255,74.6785",
+          "distanceFromPrevious": 10.13,
+          "travelTimeFromPrevious": "25 minutes",
+          "description": "The Nareli Jain Temple, located on the outskirts of Ajmer, is a modern architectural masterpiece that blends traditional and contemporary design. This sprawling complex, made primarily of marble, is known for its intricate carvings, detailed statues, and serene spiritual atmosphere. The main temple is situated on a hill, with 24 smaller temples, representing the 24 Jain Tirthankaras, lining the path below. The sheer scale and beauty of the structure are awe-inspiring. It's a place of peace and contemplation, offering visitors a chance to appreciate stunning craftsmanship while enjoying a tranquil environment away from the city's hustle.",
+          "whyVisit": "This temple offers a different spiritual flavor to your trip. It's a showcase of modern Indian craftsmanship and provides a peaceful retreat, perfect for an afternoon of quiet appreciation and reflection.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Nareli%20Jain%20Temple&dates=20251104T083000Z/20251104T100000Z&details=Appreciate%20the%20intricate%20marble%20carvings%20at%20this%20modern%20temple%20complex.&location=Nareli%20Jain%20Temple,%20Ajmer",
+          "activities": [
+            "Admire the detailed architecture of the main temple.",
+            "Walk around the complex to see the 24 smaller temples.",
+            "Enjoy the peaceful ambiance and the views of the surrounding hills."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "Transportation will be the main cost.",
+            "bestTime": "Afternoon, when the marble isn't too hot to walk on.",
+            "duration": "1.5-2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Socks, as you will need to remove your shoes and the marble can be cool."
+            ],
+            "whatToBuy": [
+              "Religious books or items from the temple shop."
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Dress modestly.",
+              "Follow the temple's rules, which may include restrictions on photography in certain areas.",
+              "Leather items are not allowed inside."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The grand entrance of the temple complex.",
+              "The view of the smaller temples lining the hillside."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "4:00 PM - 6:00 PM",
+          "name": "Local Markets of Ajmer",
+          "coordinates": {
+            "latitude": 26.456,
+            "longitude": 74.629
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.456,74.629",
+          "distanceFromPrevious": 12.56,
+          "travelTimeFromPrevious": "20 minutes",
+          "description": "Dive into the vibrant heart of Ajmer by exploring its bustling local markets, especially the area around Dargah Bazar and Mahila Mandi. These narrow lanes are a sensory explosion, filled with the sights, sounds, and smells of authentic Rajasthan. You'll find everything from colorful 'bandhani' (tie-dye) textiles and intricate silver jewelry to traditional 'ittar' (perfumes) and delicious local sweets like 'sohan halwa'. It’s the perfect place to witness daily life, interact with local artisans, and hunt for unique souvenirs. The lively atmosphere, combined with the friendly haggling of shoppers and vendors, makes for an unforgettable cultural experience.",
+          "whyVisit": "Shopping in Ajmer's local markets is an adventure in itself. It's the best way to find authentic souvenirs and immerse yourselves in the local culture, offering a slice of everyday life in this historic city.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Shopping%20in%20Local%20Markets&dates=20251104T103000Z/20251104T123000Z&details=Explore%20bustling%20markets%20for%20traditional%20Rajasthani%20goods%20and%20handicrafts.&location=Dargah%20Bazar,%20Ajmer",
+          "activities": [
+            "Bargain for traditional Rajasthani textiles and sarees.",
+            "Sample some local street food and sweets.",
+            "Shop for silver jewelry and handmade crafts."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "Depends on your shopping appetite. Budget 1500-2500 INR for souvenirs and snacks.",
+            "bestTime": "Late afternoon when the market is fully active.",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash, as many small shops may not accept cards.",
+              "A tote bag for your purchases."
+            ],
+            "whatToBuy": [
+              "Bandhani dupattas or sarees.",
+              "Sohan Halwa (a famous local sweet).",
+              "Handcrafted leather items (juttis)."
+            ],
+            "safetyNotes": [
+              "Keep your wallet and phone secure in the crowded lanes."
+            ],
+            "customsEtiquette": [
+              "A friendly smile and a bit of bargaining are part of the shopping culture."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "A colorful display of textiles.",
+              "A vendor skillfully preparing a local delicacy."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Max Temp: 31.6°C, Min Temp: 23.1°C. No rain, overcast. A warm day, stay hydrated while exploring the fort.",
+        "spending": {
+          "Hotel": 2252,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 800,
+          "Meals": 1500,
+          "Shopping": 2000,
+          "dailySubtotal": 6552
+        },
+        "remainingBudget": 34544
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-05",
+      "theme": "Imperial History and Local Flavors",
+      "optimizedRoute": "Hotel → Government Museum (Akbari Fort) → Hotel",
+      "totalDistance": 2.5,
+      "totalTravelTime": "10 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "10:00 AM - 1:00 PM",
+          "name": "Government Museum (Akbari Fort)",
+          "coordinates": {
+            "latitude": 26.4589,
+            "longitude": 74.6347
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.4589,74.6347",
+          "distanceFromPrevious": 1.2,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "Housed within the formidable Akbari Fort & Museum, this site holds significant historical importance. The fort was built by the Mughal emperor Akbar in 1570 and served as his residence during his visits to Ajmer. It was here that Sir Thomas Roe, the English ambassador, had his famous audience with Emperor Jahangir, securing permission for the British to trade in India. Today, the fort's museum showcases a fine collection of Mughal and Rajput armor, sculptures, inscriptions, and miniature paintings. The imposing structure itself, with its strong walls and grand gateway, is a major attraction, offering a deep dive into the region's imperial past.",
+          "whyVisit": "This visit is essential for understanding the Mughal influence on Ajmer and a pivotal moment in Indo-British history. The collection of artifacts provides a tangible connection to the region's royal and military past.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Government%20Museum%20(Akbari%20Fort)&dates=20251105T043000Z/20251105T073000Z&details=Explore%20archaeological%20exhibits%20and%20Rajputana%20artifacts%20in%20a%20former%20imperial%20palace.&location=Akbari%20Fort%20&%20Museum,%20Ajmer",
+          "activities": [
+            "Explore the different galleries showcasing sculptures and weapons.",
+            "Admire the architecture of the fort itself.",
+            "Locate the historical spot where Jahangir met Sir Thomas Roe."
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. 20-50 INR for Indian nationals.",
+            "estimatedCost": "Total 100-150 INR for two.",
+            "bestTime": "Morning, when it's cool and less crowded.",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "A notebook to jot down historical facts.",
+              "Government-issued ID."
+            ],
+            "whatToBuy": [
+              "History books or postcards from the museum shop."
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Photography may be restricted in some galleries.",
+              "Do not touch the exhibits."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main entrance gate of the fort.",
+              "The central courtyard."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:30 PM - 5:00 PM",
+          "name": "Relaxed Afternoon & Local Cafes",
+          "coordinates": {
+            "latitude": 26.46,
+            "longitude": 74.635
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.46,74.635",
+          "distanceFromPrevious": 0.19,
+          "travelTimeFromPrevious": "2 minutes",
+          "description": "After a morning of soaking in history, take a well-deserved break. The afternoon is yours to enjoy at a leisurely pace. Ajmer has several charming local cafes where you can relax with a book, a cup of masala chai, or a freshly brewed coffee. It's a great opportunity to observe local life, reflect on your travels, and simply enjoy each other's company. Find a cozy spot, try some regional snacks like 'kachori' or 'samosa', and let the city's relaxed afternoon vibe wash over you.",
+          "whyVisit": "A relaxed afternoon provides a perfect balance to a busy travel schedule. It allows for spontaneous discoveries and a deeper, more personal connection with the city's contemporary culture.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Relaxed%20Afternoon%20&%20Local%20Cafes&dates=20251105T090000Z/20251105T113000Z&details=Enjoy%20a%20leisurely%20afternoon%20at%20a%20local%20cafe%20trying%20some%20regional%20delights.&location=Ajmer",
+          "activities": [
+            "Find a highly-rated cafe near the city center.",
+            "Try local snacks and beverages.",
+            "Engage in conversation or simply people-watch."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "400-600 INR for two.",
+            "bestTime": "Mid-afternoon.",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "A book or a travel journal."
+            ],
+            "whatToBuy": [
+              "Local baked goods or coffee beans if available."
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Max Temp: 31.1°C, Min Temp: 23.8°C. No rain, mostly cloudy. Another warm day, perfect for a relaxed afternoon indoors at a cafe.",
+        "spending": {
+          "Hotel": 2252,
+          "Entry Fees": 100,
+          "Activities": 0,
+          "Transport": 300,
+          "Meals": 2000,
+          "Shopping": 0,
+          "dailySubtotal": 4652
+        },
+        "remainingBudget": 29892
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-06",
+      "theme": "Day Trip to Holy Pushkar",
+      "optimizedRoute": "Hotel → Pushkar Lake → Brahma Temple → Pushkar Market → Hotel",
+      "totalDistance": 28.5,
+      "totalTravelTime": "1 hour",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 5:00 PM",
+          "name": "Pushkar Day Trip (Pushkar Lake & Brahma Temple)",
+          "coordinates": {
+            "latitude": 26.4875,
+            "longitude": 74.5538
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.4875,74.5538",
+          "distanceFromPrevious": 14.13,
+          "travelTimeFromPrevious": "30 minutes",
+          "description": "Embark on a spiritual day trip to the enchanting town of Pushkar, a short drive from Ajmer. Your first stop is the sacred Pushkar Lake, believed to have been created by a lotus petal dropped by Lord Brahma. The lake is surrounded by 52 ghats where pilgrims perform religious rituals. After absorbing the serene atmosphere of the lake, visit the Jagatpita Brahma Mandir, one of the very few temples in the world dedicated to Lord Brahma. Its distinct red spire and the silver turtle at its entrance are iconic. The spiritual vibration of Pushkar, combined with its laid-back, bohemian vibe, makes it a unique and captivating destination.",
+          "whyVisit": "A trip to Ajmer is incomplete without visiting its sister city, Pushkar. It offers a different, more tranquil spiritual experience, centered around Hindu traditions, providing a beautiful contrast to Ajmer.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Pushkar%20Day%20Trip%20(Lake%20&%20Brahma%20Temple)&dates=20251106T033000Z/20251106T113000Z&details=A%20spiritual%20journey%20to%20the%20holy%20town%20of%20Pushkar,%20visiting%20the%20sacred%20Pushkar%20Lake%20and%20the%20only%20Brahma%20Temple%20in%20the%20world.&location=Pushkar,%20Rajasthan",
+          "activities": [
+            "Walk around the holy Pushkar Lake and observe the rituals at the ghats.",
+            "Visit the Brahma Temple and offer prayers.",
+            "Sit at a rooftop cafe overlooking the lake and the town."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free for both sites.",
+            "estimatedCost": "1000-1500 INR for a round-trip taxi from Ajmer.",
+            "bestTime": "Full day trip.",
+            "duration": "6-8 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Modest clothing for temple entry.",
+              "Sun protection."
+            ],
+            "whatToBuy": [
+              "Rose products, for which Pushkar is famous.",
+              "Silver jewelry and colorful textiles from the market."
+            ],
+            "safetyNotes": [
+              "Be firm but polite in declining unsolicited services from priests at the ghats.",
+              "Agree on taxi fare before starting the journey."
+            ],
+            "customsEtiquette": [
+              "Remove shoes before approaching the lake and entering the temple.",
+              "Consumption of non-vegetarian food and alcohol is prohibited in the holy town."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The ghats of Pushkar Lake during the morning light.",
+              "The iconic entrance of the Brahma Temple."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "5:00 PM - 7:00 PM",
+          "name": "Pushkar Market Exploration",
+          "coordinates": {
+            "latitude": 26.488,
+            "longitude": 74.555
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.488,74.555",
+          "distanceFromPrevious": 1.5,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "As evening descends, immerse yourself in the vibrant and eclectic Pushkar market. The main street is a kaleidoscope of colors, lined with shops selling everything from leather goods and block-printed textiles to intricate silver jewelry and quirky souvenirs. The market has a unique bohemian charm, attracting travelers from all over the world. It’s a fantastic place to browse, shop, and soak in the lively atmosphere. The fusion of traditional Rajasthani crafts with global traveler culture creates a shopping experience unlike any other.",
+          "whyVisit": "Pushkar's market is famous for its unique and artistic goods. It's an excellent place for souvenir shopping and to experience the town's creative and free-spirited energy.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Pushkar%20Market%20Exploration&dates=20251106T113000Z/20251106T133000Z&details=Wander%20through%20Pushkar's%20vibrant%20market%20known%20for%20unique%20handicrafts,%20textiles,%20and%20souvenirs.&location=Pushkar%20Market,%20Pushkar",
+          "activities": [
+            "Shop for unique souvenirs and clothing.",
+            "Bargain for silver jewelry.",
+            "Enjoy the bustling evening atmosphere."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "Budget 2000-3000 INR for shopping.",
+            "bestTime": "Evening, when the market is at its most lively.",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash for shopping."
+            ],
+            "whatToBuy": [
+              "Leather bags, belts, or sandals.",
+              "Rose water and other rose-based products."
+            ],
+            "safetyNotes": [
+              "Keep your belongings secure."
+            ],
+            "customsEtiquette": [
+              "Bargaining is expected, but do it with a smile."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The colorful displays of goods outside the shops.",
+              "The lively street scenes with camels and shoppers."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Max Temp: 26.6°C, Min Temp: 16.8°C. No rain, clear sky. A beautiful, clear day perfect for the day trip to Pushkar.",
+        "spending": {
+          "Hotel": 2252,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 1500,
+          "Meals": 1500,
+          "Shopping": 2500,
+          "dailySubtotal": 7752,
+          "budgetWarning": "Day 5 spending may exceed daily allocation due to the Pushkar day trip and shopping."
+        },
+        "remainingBudget": 22140
+      }
+    },
+    {
+      "day": 6,
+      "date": "2025-11-07",
+      "theme": "Departure",
+      "optimizedRoute": "Departure from Hotel Madni Royale",
+      "totalDistance": 0,
+      "totalTravelTime": "0 minutes",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Breakfast & Departure",
+          "coordinates": {
+            "latitude": 26.4576344,
+            "longitude": 74.6273274
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.4576344,74.6273274",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy one last Rajasthani breakfast at your hotel or a nearby eatery. Use the morning for any last-minute souvenir shopping or to revisit a favorite spot nearby. Pack your bags with memories of a wonderful trip and check out from the hotel. Proceed to the Ajmer Junction railway station or bus stand for your journey back home, carrying the serene and spiritual essence of Ajmer with you.",
+          "whyVisit": "A final, relaxed morning allows for a smooth and stress-free departure, wrapping up your cultural journey on a positive note.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Breakfast%20&%20Departure&dates=20251107T033000Z/20251107T063000Z&details=Enjoy%20your%20last%20breakfast%20in%20Ajmer%20and%20depart.&location=Hotel%20Madni%20Royale,%20Ajmer",
+          "activities": [
+            "Enjoy a leisurely breakfast.",
+            "Purchase any last-minute souvenirs or local sweets.",
+            "Check out from the hotel and depart for the station/bus stand."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "500-1000 INR for breakfast and transport to the station.",
+            "bestTime": "Morning",
+            "duration": "3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "All your packed luggage.",
+              "Tickets and identification."
+            ],
+            "whatToBuy": [
+              "Packaged Sohan Halwa to take home."
+            ],
+            "safetyNotes": [
+              "Double-check your room to ensure you haven't left anything behind.",
+              "Plan to reach the station/bus stand at least 30-45 minutes before departure."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Max Temp: 25.7°C, Min Temp: 14.2°C. No rain, clear sky. A cool and pleasant morning for your departure.",
+        "spending": {
+          "Hotel": 0,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 500,
+          "Meals": 800,
+          "Shopping": 1000,
+          "dailySubtotal": 2300
+        },
+        "remainingBudget": 19840
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 50000,
+    "currency": "INR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Train from Noida/Delhi (Estimated)",
+          "total_cost": 4000
+        },
+        {
+          "transport_name": "Local Transport (Cabs/Autos)",
+          "total_cost": 3800
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Hotel Madni Royale - Best Affordable Hotel Near Ajmer Dargah",
+        "pricePerNight": 2252,
+        "nights": 5,
+        "total": 11260
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 1400
+        },
+        {
+          "day": 2,
+          "cost": 2500
+        },
+        {
+          "day": 3,
+          "cost": 4300
+        },
+        {
+          "day": 4,
+          "cost": 2100
+        },
+        {
+          "day": 5,
+          "cost": 5500
+        },
+        {
+          "day": 6,
+          "cost": 2300
+        }
+      ]
+    },
+    "totalSpent": 37160,
+    "remainingBudget": 12840,
+    "budgetTips": [
+      "Utilize auto-rickshaws for short distances and agree on the fare before starting the ride.",
+      "Enjoy meals at local restaurants and dhabas for authentic and affordable food, especially thalis.",
+      "Bargaining is key in local markets; start at about 50-60% of the quoted price."
+    ]
+  },
+  "packingList": {
+    "Clothing": [
+      "Light cotton clothes for the day.",
+      "A light jacket, sweater, or shawl for the cool evenings.",
+      "Conservative outfits (long sleeves, pants/long skirts) for visiting religious sites.",
+      "A scarf or head covering is mandatory for the Dargah."
+    ],
+    "Footwear": [
+      "Comfortable walking shoes or sandals for sightseeing.",
+      "A pair of slip-on shoes for easy removal at temples and the Dargah."
+    ],
+    "Essentials": [
+      "Sunscreen, sunglasses, and a sun hat (UV index is moderate).",
+      "Basic first-aid kit with pain relievers, band-aids, and antiseptic.",
+      "Personal medications.",
+      "Hand sanitizer."
+    ],
+    "Electronics": [
+      "Smartphone and charger.",
+      "Portable power bank.",
+      "Camera with extra batteries."
+    ],
+    "Documents": [
+      "Government-issued photo ID (Aadhaar card, Passport).",
+      "Train or bus tickets.",
+      "Hotel confirmation voucher.",
+      "Digital or physical copies of all important documents."
+    ]
+  },
+  "preTripChecklist": [
+    {
+      "priority": "High",
+      "task": "Book round-trip train or bus tickets from Noida/Delhi to Ajmer."
+    },
+    {
+      "priority": "High",
+      "task": "Confirm your hotel reservation with Hotel Madni Royale."
+    },
+    {
+      "priority": "High",
+      "task": "Purchase comprehensive travel insurance."
+    },
+    {
+      "priority": "Medium",
+      "task": "Arrange for currency, ensuring you have enough cash for markets and smaller establishments."
+    },
+    {
+      "priority": "Medium",
+      "task": "Inform your bank or credit card company of your travel dates."
+    },
+    {
+      "priority": "Medium",
+      "task": "Download offline maps of Ajmer and Pushkar on your phone."
+    },
+    {
+      "priority": "Low",
+      "task": "Learn a few basic phrases in Hindi like 'Namaste' (Hello), 'Dhanyavaad' (Thank you), and 'Kitne ka hai?' (How much is this?)."
+    },
+    {
+      "priority": "Low",
+      "task": "Share your detailed itinerary with a family member or friend."
+    }
+  ]
+}
