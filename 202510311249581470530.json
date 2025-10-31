@@ -1,0 +1,975 @@
+{
+  "tripOverview": {
+    "destination": "Nepal",
+    "startDate": "2025-11-07",
+    "endDate": "2025-11-13",
+    "duration": "6 nights, 7 days",
+    "companions": "3 adults, 0 children",
+    "tripType": "Cultural and Adventure",
+    "currency": "NPR"
+  },
+  "mode_of_transport": {
+    "road": {
+      "cost": {
+        "train": "3000-4000 NPR per person (multi-leg journey)",
+        "bus": "4000-5000 NPR per person (direct from Delhi)",
+        "cab": "25000-35000 NPR (one way)"
+      },
+      "approx_time": {
+        "train": "30-36 hours",
+        "bus": "24-30 hours",
+        "cab": "20-24 hours"
+      },
+      "stations": {
+        "bus_stations": "Dr. Ambedkar Stadium Bus Terminal in Delhi for direct buses to Kathmandu. Local bus parks in Kathmandu for travel to Pokhara.",
+        "trainstations": "Gorakhpur Junction (GKP) is the nearest major Indian railway station to the Sunauli border crossing."
+      }
+    }
+  },
+  "hotel": {
+    "status": "Hotel search unavailable. Budget allocated: 24000 NPR for 6 nights. Please book separately.",
+    "estimated": true,
+    "notes": "We recommend looking for hotels in the Thamel area in Kathmandu and Lakeside area in Pokhara for convenience."
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-07",
+      "theme": "Arrival and Immersion in Kathmandu's Energy",
+      "optimizedRoute": "Arrival at Hotel -> Thamel Exploration -> Hotel",
+      "totalDistance": 2.0,
+      "totalTravelTime": "15 minutes (walking)",
+      "places": [
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Arrive and Settle In",
+          "coordinates": {
+            "latitude": 27.715,
+            "longitude": 85.312
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.715,85.312",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Welcome to Kathmandu, the vibrant capital of Nepal. After your long journey, the afternoon is reserved for checking into your hotel and taking some time to refresh. The city, nestled in a valley surrounded by Himalayan mountains, is a captivating blend of ancient traditions and modern energy. Use this time to acclimatize to the altitude and the city's bustling atmosphere before you begin your exploration.",
+          "whyVisit": "This initial downtime is crucial for resting after your travel and preparing for the exciting week ahead. It allows you to ease into the local environment and set a relaxed pace for your adventure.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrive%20and%20Settle%20In&dates=20251107T083000Z/20251107T103000Z&details=Check%20into%20your%20hotel%20and%20acclimatize%20to%20Kathmandu.&location=Kathmandu,%20Nepal",
+          "activities": [
+            "Complete hotel check-in process.",
+            "Unpack and organize your belongings for the week.",
+            "Enjoy a welcome drink and relax in the hotel lobby or your room."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "500-1000 NPR for transport from bus park to hotel",
+            "bestTime": "N/A",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Printed hotel confirmation",
+              "Passport or valid ID for check-in"
+            ],
+            "whatToBuy": [
+              "Local SIM card for connectivity"
+            ],
+            "safetyNotes": [
+              "Keep your luggage and personal belongings secure upon arrival.",
+              "Drink bottled or filtered water."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Explore Thamel",
+          "coordinates": {
+            "latitude": 27.715,
+            "longitude": 85.312
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.715,85.312",
+          "distanceFromPrevious": 1.0,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "Thamel is the tourist heart of Kathmandu, a vibrant maze of narrow streets teeming with life. As evening descends, the area comes alive with colorful prayer flags, glowing storefronts, and the aroma of incense and street food. It's a sensory overload in the best way possible, offering everything from trekking gear shops and souvenir stalls to cozy cafes and world-class restaurants. The energy is infectious, making it the perfect place to dive headfirst into the Kathmandu experience and find a great spot for your first dinner.",
+          "whyVisit": "For a first-time visitor, Thamel is an essential experience. It offers a fantastic introduction to the city's energy, provides ample dining and shopping opportunities, and is a great place to simply wander and soak in the atmosphere.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Thamel&dates=20251107T123000Z/20251107T153000Z&details=Explore%20the%20lively%20streets,%20shops,%20and%20restaurants%20of%20Thamel.&location=Thamel,%20Kathmandu,%20Nepal",
+          "activities": [
+            "Wander through the narrow alleyways and discover hidden courtyards.",
+            "Browse the countless shops for souvenirs, clothing, and local handicrafts.",
+            "Choose from a wide variety of restaurants for dinner, from traditional Nepali to international cuisine.",
+            "Enjoy the lively nightlife and street performances."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "2000-3000 NPR for dinner for three",
+            "bestTime": "Evening, when the lights and crowds create a vibrant atmosphere.",
+            "duration": "3-4 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash for small purchases",
+              "A light jacket as the evening will be cool (around 9°C)"
+            ],
+            "whatToBuy": [
+              "Pashmina shawls",
+              "Singing bowls",
+              "Handmade jewelry"
+            ],
+            "safetyNotes": [
+              "Be mindful of your belongings in crowded areas.",
+              "Bargaining is common, so negotiate prices politely."
+            ],
+            "customsEtiquette": [
+              "Always ask for permission before taking photos of people."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Colorful streets with prayer flags",
+              "Intricately decorated storefronts"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "2.0 km",
+        "spending": {
+          "Hotel": 4000,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 1000,
+          "Meals": 2500,
+          "Shopping": 1000,
+          "subtotal": 8500
+        },
+        "remainingBudget": 61500
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-08",
+      "theme": "Spiritual Kathmandu: Hindu and Buddhist Sanctuaries",
+      "optimizedRoute": "Hotel -> Pashupatinath Temple -> Boudhanath Stupa -> Hotel",
+      "totalDistance": 14.53,
+      "totalTravelTime": "45 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Pashupatinath Temple",
+          "coordinates": {
+            "latitude": 27.71,
+            "longitude": 85.348
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.71,85.348",
+          "distanceFromPrevious": 4.74,
+          "travelTimeFromPrevious": "15 minutes",
+          "description": "Pashupatinath Temple is Nepal's most sacred Hindu shrine and a UNESCO World Heritage Site, located on the banks of the holy Bagmati River. Dedicated to Lord Shiva, this sprawling complex of temples, ashrams, and inscriptions is a center of spiritual energy. While non-Hindus are not allowed inside the main temple, the surrounding area offers a profound, unfiltered glimpse into Hindu rituals, including open-air cremations on the riverbanks. The atmosphere is intense and deeply moving, filled with the sights of sadhus (holy men), pilgrims, and ancient architecture.",
+          "whyVisit": "This site offers a powerful and authentic insight into Hindu religious practices and beliefs about life and death. The clear sky forecast ensures a comfortable morning for exploring the extensive outdoor complex.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Pashupatinath%20Temple&dates=20251108T033000Z/20251108T060000Z&details=Visit%20the%20sacred%20Hindu%20temple%20complex%20on%20the%20banks%20of%20the%20Bagmati%20River.&location=Pashupatinath%20Temple,%20Kathmandu,%20Nepal",
+          "activities": [
+            "Observe the Hindu cremation rituals from the eastern bank of the Bagmati River.",
+            "Explore the surrounding temples and structures within the complex.",
+            "See the resident sadhus, who are often willing to be photographed for a small donation.",
+            "Walk up the steps to the terraces for a panoramic view of the temple and river."
+          ],
+          "practicalInfo": {
+            "entryFee": "1000 NPR per person for foreign nationals",
+            "estimatedCost": "3500-4000 NPR for entry and transport",
+            "bestTime": "Morning, to see the daily rituals and avoid larger crowds.",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Respectful attire (shoulders and knees covered)",
+              "Sun hat and sunglasses (UV index 5.3)"
+            ],
+            "whatToBuy": [
+              "Rudraksha beads",
+              "Small religious trinkets from stalls outside"
+            ],
+            "safetyNotes": [
+              "Be wary of monkeys that can be aggressive.",
+              "Be respectful and discreet when observing cremation ceremonies."
+            ],
+            "customsEtiquette": [
+              "Photography of cremations is sensitive; be mindful and ask for permission.",
+              "Do not enter the main temple if you are not Hindu."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "View of the main temple from across the river",
+              "Portraits of the colorful sadhus (with permission)"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Boudhanath Stupa",
+          "coordinates": {
+            "latitude": 27.721,
+            "longitude": 85.361
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.721,85.361",
+          "distanceFromPrevious": 3.63,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "Boudhanath Stupa is one of the largest spherical stupas in Nepal and a focal point of Tibetan Buddhism. The massive mandala of the stupa is mesmerizing, with the all-seeing eyes of the Buddha gazing out in four directions. The atmosphere here is one of peaceful reverence. Pilgrims and visitors alike perform the 'kora,' a clockwise circumambulation of the stupa, spinning prayer wheels and chanting mantras. The area is surrounded by monasteries and workshops of artisans creating thangkas and other Tibetan crafts, and rooftop restaurants offer stunning views of the monument.",
+          "whyVisit": "The serene and spiritual ambiance provides a beautiful contrast to the intensity of Pashupatinath. It's a place for peaceful reflection and a wonderful opportunity to learn about Tibetan Buddhism.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Boudhanath%20Stupa&dates=20251108T070000Z/20251108T093000Z&details=Visit%20the%20largest%20stupa%20in%20Nepal,%20a%20major%20Buddhist%20pilgrimage%20site.&location=Boudhanath%20Stupa,%20Kathmandu,%20Nepal",
+          "activities": [
+            "Walk around the stupa in a clockwise direction (kora), spinning the prayer wheels.",
+            "Climb the tiers of the stupa for a closer view of the Buddha's eyes.",
+            "Visit one of the surrounding monasteries to observe monks chanting.",
+            "Enjoy lunch at a rooftop restaurant with a direct view of the stupa."
+          ],
+          "practicalInfo": {
+            "entryFee": "400 NPR per person for foreign nationals",
+            "estimatedCost": "3000-4000 NPR for entry, lunch, and transport",
+            "bestTime": "Late afternoon for golden light and to see the butter lamps being lit.",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes for walking",
+              "A water bottle"
+            ],
+            "whatToBuy": [
+              "Thangka paintings",
+              "Prayer flags",
+              "Incense"
+            ],
+            "safetyNotes": [
+              "Always walk clockwise around the stupa.",
+              "Be aware of your surroundings in the crowded square."
+            ],
+            "customsEtiquette": [
+              "Maintain a quiet and respectful demeanor.",
+              "Spin prayer wheels with your right hand only."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The full stupa from a rooftop cafe",
+              "Close-up of the prayer flags with the stupa in the background",
+              "The all-seeing eyes from the base"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "14.53 km",
+        "spending": {
+          "Hotel": 4000,
+          "Entry Fees": "4200 (1000+400) x 3 adults = 4200",
+          "Activities": 0,
+          "Transport": 1500,
+          "Meals": 3000,
+          "Shopping": 1000,
+          "subtotal": 13700
+        },
+        "remainingBudget": 47800
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-09",
+      "theme": "Royal History and a Scenic Journey to Pokhara",
+      "optimizedRoute": "Hotel -> Kathmandu Durbar Square -> Bus Park -> Pokhara",
+      "totalDistance": 205.0,
+      "totalTravelTime": "7-8 hours",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Kathmandu Durbar Square",
+          "coordinates": {
+            "latitude": 27.704,
+            "longitude": 85.307
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.704,85.307",
+          "distanceFromPrevious": 2.0,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "Kathmandu Durbar Square is a historic plaza that showcases the heart of the old city. This UNESCO World Heritage site is a cluster of ancient temples, palaces, courtyards, and streets that date back to the 12th century. It was the royal palace of the Malla and Shah kings who once ruled the city. Despite damage from the 2015 earthquake, the square remains a stunning testament to traditional Nepali architecture, with intricate wood carvings and towering pagodas. It's a living museum where you can witness the daily life of locals amidst incredible history.",
+          "whyVisit": "It's a crucial stop for understanding the rich history and artistic heritage of the Kathmandu Valley. The morning's clear sky will beautifully illuminate the detailed craftsmanship of the temples.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Kathmandu%20Durbar%20Square&dates=20251109T033000Z/20251109T053000Z&details=Explore%20the%20UNESCO%20World%20Heritage%20site%20with%20ancient%20palaces%20and%20temples.&location=Kathmandu%20Durbar%20Square,%20Kathmandu,%20Nepal",
+          "activities": [
+            "Visit the Hanuman Dhoka Palace Museum.",
+            "Admire the architecture of the Taleju Temple and Jagannath Temple.",
+            "Try to catch a glimpse of the Kumari, the Living Goddess, at the Kumari Ghar.",
+            "Sit on the steps of a temple and observe the bustling daily life of the square."
+          ],
+          "practicalInfo": {
+            "entryFee": "1000 NPR per person for foreign nationals",
+            "estimatedCost": "3500-4000 NPR for entry and transport",
+            "bestTime": "Morning to see the square come to life.",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera to capture the intricate carvings",
+              "Sunscreen"
+            ],
+            "whatToBuy": [
+              "Miniature bronze statues",
+              "Puppets",
+              "Lokta paper products"
+            ],
+            "safetyNotes": [
+              "Some structures are still under restoration; respect the barriers.",
+              "Be cautious of unofficial guides; agree on a price beforehand if you hire one."
+            ],
+            "customsEtiquette": [
+              "Remove shoes before entering temples.",
+              "Dress modestly."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The multi-roofed pagodas",
+              "The elaborately carved windows of the palace",
+              "The giant statue of Kal Bhairav"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Travel to Pokhara",
+          "coordinates": {
+            "latitude": 28.2096,
+            "longitude": 83.9856
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.2096,83.9856",
+          "distanceFromPrevious": 200.0,
+          "travelTimeFromPrevious": "6-8 hours",
+          "description": "The journey from Kathmandu to Pokhara is an experience in itself. The road winds through lush green hills and river valleys, offering breathtaking views of the Nepali countryside. You'll pass terraced farms, small villages, and rushing rivers. While the journey can be long, it provides a fantastic opportunity to see the landscape change from the bustling valley to the serene foothills of the Annapurna mountain range. Pokhara, Nepal's second-largest city, awaits with its tranquil lakes and stunning mountain vistas.",
+          "whyVisit": "This scenic drive is the classic way to travel between Nepal's two main cities, offering a deeper appreciation for the country's stunning geography and rural life before you arrive in the peaceful paradise of Pokhara.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Travel%20to%20Pokhara&dates=20251109T063000Z/20251109T143000Z&details=Enjoy%20a%20scenic%20drive%20from%20Kathmandu%20to%20the%20lakeside%20city%20of%20Pokhara.&location=Pokhara,%20Nepal",
+          "activities": [
+            "Secure a window seat on the bus for the best views.",
+            "Enjoy the scenery of the Trishuli River valley.",
+            "Stop for a traditional Nepali lunch at a roadside restaurant.",
+            "Arrive in Pokhara and check into your hotel by the evening."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "3000-4500 NPR for tourist bus tickets for three",
+            "bestTime": "Take a morning bus to arrive in Pokhara before dark.",
+            "duration": "6-8 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Snacks and water for the journey",
+              "A neck pillow for comfort",
+              "A book or music"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "The road can be bumpy and winding; consider motion sickness medication if needed.",
+              "Use tourist buses as they are generally safer and more comfortable."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Views of the Trishuli River",
+              "Terraced hillsides along the highway"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "205.0 km",
+        "spending": {
+          "Hotel": 4000,
+          "Entry Fees": "3000 (1000 x 3 adults)",
+          "Activities": 0,
+          "Transport": 4500,
+          "Meals": 3000,
+          "Shopping": 500,
+          "subtotal": 15000
+        },
+        "remainingBudget": 32800
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-10",
+      "theme": "Himalayan Sunrise and Lakeside Serenity",
+      "optimizedRoute": "Hotel -> Sarangkot Viewpoint -> Phewa Lake -> Hotel",
+      "totalDistance": 20.0,
+      "totalTravelTime": "1 hour",
+      "places": [
+        {
+          "timeOfDay": "Early Morning",
+          "name": "Sunrise from Sarangkot",
+          "coordinates": {
+            "latitude": 28.258,
+            "longitude": 83.957
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.258,83.957",
+          "distanceFromPrevious": 9.67,
+          "travelTimeFromPrevious": "30 minutes",
+          "description": "An early morning trip to Sarangkot is a quintessential Pokhara experience. This viewpoint, located at an altitude of 1,600 meters, offers one of the most spectacular panoramic views of the Himalayas. As the sun begins to rise, its first rays touch the snow-capped peaks of the Annapurna and Dhaulagiri ranges, painting them in hues of gold, pink, and orange. The sight of Machapuchare (Fishtail Peak) catching the morning light is truly unforgettable. It's a moment of pure magic that makes the pre-dawn wake-up call completely worthwhile.",
+          "whyVisit": "This is your best opportunity to witness the majestic beauty of the Himalayas up close. The clear sky forecast for this day means a high chance of unobstructed, breathtaking views.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Sunrise%20from%20Sarangkot&dates=20251109T233000Z/20251110T023000Z&details=Witness%20a%20breathtaking%20sunrise%20over%20the%20Annapurna%20and%20Dhaulagiri%20mountain%20ranges.&location=Sarangkot,%20Pokhara,%20Nepal",
+          "activities": [
+            "Wake up before dawn and take a taxi to the viewpoint.",
+            "Find a good spot on the viewing platform and wait for the sunrise.",
+            "Photograph the changing colors on the Himalayan peaks.",
+            "Enjoy a hot cup of tea from a local vendor while soaking in the view."
+          ],
+          "practicalInfo": {
+            "entryFee": "60 NPR per person",
+            "estimatedCost": "2000-2500 NPR for taxi (round trip) and entry fees",
+            "bestTime": "Just before sunrise (around 5:30 AM - 6:00 AM in November).",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm layers, including a jacket, hat, and gloves (it's cold before sunrise, around 7°C)",
+              "A tripod for stable photography",
+              "Cash for entry and tea"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "The road to Sarangkot is steep; hire an experienced driver.",
+              "Be careful on the viewing platforms as they can get crowded."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The entire Annapurna range panorama",
+              "The iconic Machapuchare (Fishtail) peak"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Late Morning/Afternoon",
+          "name": "Boating on Phewa Lake",
+          "coordinates": {
+            "latitude": 28.21,
+            "longitude": 83.953
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.21,83.953",
+          "distanceFromPrevious": 10.31,
+          "travelTimeFromPrevious": "30 minutes",
+          "description": "Phewa Lake is the tranquil heart of Pokhara. After the morning's mountain spectacle, a leisurely boat ride on its calm waters is the perfect way to relax. You can hire a colorful wooden boat ('doonga') with a boatman, or row one yourself. In the middle of the lake is the Tal Barahi Temple, a two-story pagoda dedicated to the goddess Barahi. The reflection of the Annapurna range on the lake's surface on a clear day is a picture-perfect sight, creating a serene and idyllic atmosphere.",
+          "whyVisit": "This activity perfectly captures the peaceful, laid-back vibe of Pokhara. It combines gentle activity with stunning scenery, offering a relaxing contrast to the early start.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Boating%20on%20Phewa%20Lake&dates=20251110T050000Z/20251110T080000Z&details=Enjoy%20a%20leisurely%20boat%20ride%20on%20the%20serene%20Phewa%20Lake%20and%20visit%20Tal%20Barahi%20Temple.&location=Phewa%20Lake,%20Pokhara,%20Nepal",
+          "activities": [
+            "Hire a boat and row to the Tal Barahi Temple on the island.",
+            "Explore the temple and receive a blessing.",
+            "Simply float on the lake and enjoy the views of the mountains and the forested shoreline.",
+            "Have lunch at a restaurant along the Lakeside with a view of the water."
+          ],
+          "practicalInfo": {
+            "entryFee": "None for the lake, but boat hire costs approx. 500-1000 NPR per hour.",
+            "estimatedCost": "2500-3500 NPR for boat hire and lunch",
+            "bestTime": "Late morning or late afternoon when the water is calm and the light is soft.",
+            "duration": "2-4 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Sun hat, sunglasses, and sunscreen",
+              "A life jacket (should be provided with the boat)",
+              "Water"
+            ],
+            "whatToBuy": [
+              "Souvenirs from the shops along the Lakeside promenade"
+            ],
+            "safetyNotes": [
+              "Check weather conditions before heading out, as winds can pick up.",
+              "Ensure you have a life jacket, especially if you can't swim."
+            ],
+            "customsEtiquette": [
+              "Remove shoes before entering the Tal Barahi Temple."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The reflection of Machapuchare on the lake",
+              "The colorful boats lined up on the shore",
+              "Tal Barahi Temple from the water"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "20.0 km",
+        "spending": {
+          "Hotel": 4000,
+          "Entry Fees": "180 (60 x 3 adults)",
+          "Activities": 1000,
+          "Transport": 2000,
+          "Meals": 3000,
+          "Shopping": 1000,
+          "subtotal": 11180
+        },
+        "remainingBudget": 21620
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-11",
+      "theme": "Adventure and Altitude",
+      "optimizedRoute": "Hotel -> Paragliding Launch Point -> Hiking Trail -> Hotel",
+      "totalDistance": 25.0,
+      "totalTravelTime": "1 hour 15 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning/Afternoon",
+          "name": "Paragliding in Pokhara",
+          "coordinates": {
+            "latitude": 28.25,
+            "longitude": 83.96
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.25,83.96",
+          "distanceFromPrevious": 10.0,
+          "travelTimeFromPrevious": "30 minutes",
+          "description": "Pokhara is renowned as one of the world's best paragliding destinations, and for good reason. The experience involves a tandem flight where you are securely strapped to an experienced pilot. After launching from Sarangkot, you'll soar like a bird high above Phewa Lake, with the magnificent Annapurna range as your backdrop. The feeling of weightlessness combined with the jaw-dropping Himalayan scenery is an exhilarating and unforgettable adventure. It's a rush of adrenaline coupled with a unique, peaceful perspective of the stunning landscape below.",
+          "whyVisit": "This is a bucket-list adventure activity perfect for thrill-seekers. The stable weather conditions and clear skies forecasted for the day provide the ideal, safe environment for this high-flying experience.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Paragliding%20in%20Pokhara&dates=20251111T040000Z/20251111T070000Z&details=Experience%20an%20exhilarating%20tandem%20paragliding%20flight%20over%20Phewa%20Lake%20with%20stunning%20Himalayan%20views.&location=Sarangkot,%20Pokhara,%20Nepal",
+          "activities": [
+            "Get a safety briefing from your pilot.",
+            "Take off from the Sarangkot hillside.",
+            "Enjoy a 20-30 minute flight with spectacular views.",
+            "Land safely on the shores of Phewa Lake."
+          ],
+          "practicalInfo": {
+            "entryFee": "None, but the activity is costly.",
+            "estimatedCost": "5000-8000 NPR per person for a tandem flight",
+            "bestTime": "Mid-morning for the best thermal conditions for flying.",
+            "duration": "2-3 hours (including travel and preparation)"
+          },
+          "tips": {
+            "whatToBring": [
+              "Sturdy, closed-toe shoes",
+              "Sunglasses and sunscreen",
+              "A windproof jacket"
+            ],
+            "whatToBuy": [
+              "Photo and video package of your flight (usually offered by the company)"
+            ],
+            "safetyNotes": [
+              "Only fly with reputable, certified companies.",
+              "Listen carefully to your pilot's instructions.",
+              "The activity is weather-dependent and can be cancelled."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "In-flight views of the Himalayas and the lake below"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Morning/Afternoon",
+          "name": "Scenic Hike to World Peace Pagoda",
+          "coordinates": {
+            "latitude": 28.2,
+            "longitude": 83.95
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.2,83.95",
+          "distanceFromPrevious": 15.0,
+          "travelTimeFromPrevious": "45 minutes",
+          "description": "For those seeking a more grounded but equally rewarding experience, a hike to the World Peace Pagoda (Shanti Stupa) is a fantastic option. The trail starts with a boat ride across Phewa Lake, followed by a one-hour uphill trek through a lush forest. The stupa itself is a brilliant white monument offering panoramic views of the Annapurna range, Phewa Lake, and Pokhara city. It's a place of tranquility and a great way to experience the natural beauty of the area on foot.",
+          "whyVisit": "This is a great alternative or addition to paragliding, offering a physical challenge with a huge scenic payoff. It provides a different perspective of the landscape and a sense of accomplishment.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Scenic%20Hike%20to%20World%20Peace%20Pagoda&dates=20251111T040000Z/20251111T080000Z&details=Hike%20to%20the%20serene%20World%20Peace%20Pagoda%20for%20panoramic%20views.&location=World%20Peace%20Pagoda,%20Pokhara,%20Nepal",
+          "activities": [
+            "Take a boat across Phewa Lake to the starting point of the trail.",
+            "Hike for about an hour through the forest.",
+            "Explore the Peace Pagoda and enjoy the stunning 360-degree views.",
+            "Hike down a different trail to the Devi's Fall area."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "1000-1500 NPR for the boat ride and snacks",
+            "bestTime": "Morning or afternoon",
+            "duration": "3-4 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Good hiking shoes",
+              "Plenty of water",
+              "Snacks",
+              "Sun hat"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "The trail can be steep in places.",
+              "Pace yourself and take breaks as needed."
+            ],
+            "customsEtiquette": [
+              "Be quiet and respectful at the stupa.",
+              "Walk clockwise around the monument."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The view of the lake and mountains from the stupa",
+              "The stupa framed by prayer flags"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "25.0 km",
+        "spending": {
+          "Hotel": 4000,
+          "Entry Fees": 0,
+          "Activities": "15000 (Assuming two people paraglide and one hikes)",
+          "Transport": 1500,
+          "Meals": 3000,
+          "Shopping": 500,
+          "subtotal": 24000
+        },
+        "remainingBudget": -2380,
+        "budgetWarning": "Day 5 spending will significantly exceed the daily allocation due to adventure activities. This will likely consume your remaining budget."
+      }
+    },
+    {
+      "day": 6,
+      "date": "2025-11-12",
+      "theme": "Leisurely Farewell to Pokhara and Return to Kathmandu",
+      "optimizedRoute": "Pokhara Exploration -> Bus Park -> Kathmandu",
+      "totalDistance": 205.0,
+      "totalTravelTime": "7-8 hours",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Leisure in Pokhara",
+          "coordinates": {
+            "latitude": 28.215,
+            "longitude": 83.96
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.215,83.96",
+          "distanceFromPrevious": 0.0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Spend your last morning in Pokhara at a relaxed pace. This is the perfect opportunity to revisit a favorite spot, do some last-minute souvenir shopping along the Lakeside, or simply enjoy a leisurely breakfast at a cafe with a view of the lake and mountains. You could also explore other nearby attractions you might have missed, such as Devi's Fall or Gupteshwor Cave. The morning is yours to soak in the peaceful ambiance of this beautiful city one last time before your journey back to the capital.",
+          "whyVisit": "This unstructured time allows for flexibility and relaxation after an adventurous day, ensuring you leave Pokhara feeling refreshed rather than rushed.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Leisure%20in%20Pokhara&dates=20251112T033000Z/20251112T060000Z&details=Enjoy%20a%20relaxing%20morning%20for%20last-minute%20exploration%20or%20souvenir%20shopping%20in%20Pokhara.&location=Pokhara,%20Nepal",
+          "activities": [
+            "Enjoy a final breakfast with a view of Phewa Lake.",
+            "Shop for souvenirs like singing bowls, prayer flags, or local textiles.",
+            "Take a final stroll along the Lakeside promenade.",
+            "Visit Devi's Fall, an interesting underground waterfall."
+          ],
+          "practicalInfo": {
+            "entryFee": "Varies (e.g., Devi's Fall is ~30 NPR)",
+            "estimatedCost": "1000-2000 NPR for breakfast and shopping",
+            "bestTime": "Morning",
+            "duration": "3-4 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "A tote bag for shopping",
+              "Cash"
+            ],
+            "whatToBuy": [
+              "High-quality coffee from local plantations",
+              "Hand-knitted woolen goods"
+            ],
+            "safetyNotes": [
+              "Pack your bags and check out of the hotel on time."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Lakeside path with paragliders in the sky"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Travel back to Kathmandu",
+          "coordinates": {
+            "latitude": 27.7172,
+            "longitude": 85.324
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.7172,85.324",
+          "distanceFromPrevious": 200.0,
+          "travelTimeFromPrevious": "6-8 hours",
+          "description": "The return journey to Kathmandu offers another chance to witness the beautiful landscapes of Nepal's hilly region from a different perspective. As you leave the serene Annapurna foothills behind, the landscape transitions back towards the more bustling environment of the central valley. Use this time to reflect on your adventures in Pokhara, read a book, or simply watch the scenery roll by. You'll arrive in Kathmandu in the evening, ready for your final night in Nepal.",
+          "whyVisit": "A necessary part of the itinerary, this journey serves as a transition from the tranquil, adventurous part of your trip back to the historic, bustling capital.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Travel%20back%20to%20Kathmandu&dates=20251112T070000Z/20251112T150000Z&details=Take%20the%20scenic%20bus%20journey%20from%20Pokhara%20back%20to%20Kathmandu.&location=Kathmandu,%20Nepal",
+          "activities": [
+            "Board your pre-booked tourist bus.",
+            "Enjoy the views of the countryside.",
+            "Arrive in Kathmandu and check back into your hotel.",
+            "Have a final group dinner in Thamel."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "3000-4500 NPR for tourist bus tickets for three",
+            "bestTime": "Take a bus that leaves around midday.",
+            "duration": "6-8 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Remaining snacks and water",
+              "Entertainment for the ride"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Confirm your arrival point in Kathmandu to plan your transport to the hotel.",
+              "Keep your valuables with you on the bus."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "205.0 km",
+        "spending": {
+          "Hotel": 4000,
+          "Entry Fees": 90,
+          "Activities": 0,
+          "Transport": 4500,
+          "Meals": 3000,
+          "Shopping": 1500,
+          "subtotal": 13090
+        },
+        "remainingBudget": -15470
+      }
+    },
+    {
+      "day": 7,
+      "date": "2025-11-13",
+      "theme": "Final Farewells and Departure",
+      "optimizedRoute": "Hotel -> Shopping in Thamel -> Airport",
+      "totalDistance": 6.0,
+      "totalTravelTime": "30 minutes",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Final Breakfast and Souvenir Shopping",
+          "coordinates": {
+            "latitude": 27.715,
+            "longitude": 85.312
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.715,85.312",
+          "distanceFromPrevious": 0.0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy one last delicious Nepali breakfast, perhaps trying something new you've had your eye on. Afterward, take the opportunity to dive back into the vibrant streets of Thamel for any last-minute souvenir shopping. This is your chance to pick up gifts for friends and family back home, or a special memento to remember your incredible journey through Nepal. From intricate handicrafts to high-quality pashminas, there's something for everyone.",
+          "whyVisit": "This relaxed morning ensures you can enjoy your final hours in Nepal without rushing, allowing for a satisfying conclusion to your trip by finding perfect keepsakes.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Final%20Breakfast%20and%20Souvenir%20Shopping&dates=20251113T033000Z/20251113T060000Z&details=Enjoy%20a%20final%20Nepali%20meal%20and%20do%20some%20last-minute%20souvenir%20shopping.&location=Thamel,%20Kathmandu,%20Nepal",
+          "activities": [
+            "Have a leisurely breakfast at a local cafe.",
+            "Haggle for souvenirs in the shops of Thamel.",
+            "Pack your final purchases into your luggage.",
+            "Check out of your hotel."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "2000-5000+ NPR depending on shopping",
+            "bestTime": "Morning",
+            "duration": "3-4 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "A list of souvenirs you want to buy",
+              "Cash in various denominations for easier bargaining"
+            ],
+            "whatToBuy": [
+              "Thangka paintings",
+              "Singing bowls",
+              "Khukuri knives (check airline regulations)",
+              "Spices"
+            ],
+            "safetyNotes": [
+              "Keep an eye on the time to ensure you don't miss your departure.",
+              "Double-check your luggage to make sure you have everything."
+            ],
+            "customsEtiquette": [
+              "A friendly smile and polite negotiation will get you better prices."
+            ],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Departure from Kathmandu",
+          "coordinates": {
+            "latitude": 27.6966,
+            "longitude": 85.3593
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.6966,85.3593",
+          "distanceFromPrevious": 6.0,
+          "travelTimeFromPrevious": "30 minutes",
+          "description": "It's time to head to Tribhuvan International Airport (or the bus station) for your journey home. Reflect on the incredible experiences you've had, from the spiritual sanctuaries of Kathmandu to the majestic Himalayan views in Pokhara. Nepal leaves a lasting impression on all who visit, and you'll be departing with a wealth of new memories. Plan to arrive at the airport or bus station with plenty of time to spare for check-in and security procedures.",
+          "whyVisit": "The final step of your journey, ensuring a smooth and stress-free departure from the wonderful country of Nepal.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure%20from%20Kathmandu&dates=20251113T083000Z/20251113T100000Z&details=Head%20to%20the%20airport%20or%20bus%20station%20for%20your%20journey%20home.&location=Tribhuvan%20International%20Airport,%20Kathmandu,%20Nepal",
+          "activities": [
+            "Take a taxi to the airport or bus station.",
+            "Complete check-in and security procedures.",
+            "Board your transport and begin your journey home."
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "800-1200 NPR for a taxi to the airport",
+            "bestTime": "N/A",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Passport and travel documents",
+              "Remaining Nepali currency to exchange if needed"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Allow extra time for traffic, especially when heading to the airport.",
+              "Confirm your baggage allowance."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "6.0 km",
+        "spending": {
+          "Hotel": 0,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 1200,
+          "Meals": 1500,
+          "Shopping": 3000,
+          "subtotal": 5700
+        },
+        "remainingBudget": -21170
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 70000,
+    "currency": "NPR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Bus (Noida-KTM-Noida)",
+          "total_cost": 27000
+        },
+        {
+          "transport_name": "Bus (KTM-Pokhara-KTM)",
+          "total_cost": 9000
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Not Booked (Search Failed)",
+        "pricePerNight": 4000,
+        "nights": 6,
+        "total": 24000
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 4500
+        },
+        {
+          "day": 2,
+          "cost": 9700
+        },
+        {
+          "day": 3,
+          "cost": 11000
+        },
+        {
+          "day": 4,
+          "cost": 7180
+        },
+        {
+          "day": 5,
+          "cost": 20000
+        },
+        {
+          "day": 6,
+          "cost": 9090
+        },
+        {
+          "day": 7,
+          "cost": 5700
+        }
+      ]
+    },
+    "totalSpent": 127170,
+    "remainingBudget": -57170,
+    "budgetTips": [
+      "The current itinerary, especially with paragliding and round-trip bus travel, significantly exceeds your 70,000 NPR budget. Consider removing high-cost activities like paragliding.",
+      "Eat at local eateries ('bhattis') instead of tourist-focused restaurants in Thamel and Lakeside to save significantly on food costs.",
+      "Utilize local buses for shorter distances within cities where possible, as they are much cheaper than taxis.",
+      "Bargain politely but firmly for all souvenirs and taxi rides to ensure you get a fair price."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Layered clothing: T-shirts, long-sleeved shirts",
+      "Warm fleece or sweater",
+      "A light windproof and waterproof jacket",
+      "Comfortable trousers or hiking pants",
+      "One slightly smarter outfit for dinners"
+    ],
+    "footwear": [
+      "Comfortable walking shoes or hiking boots",
+      "Sandals or flip-flops for the hotel"
+    ],
+    "essentials": [
+      "Sunscreen (UV index is high)",
+      "Sunglasses and a sun hat",
+      "Basic first-aid kit with medication for motion sickness, pain relief, and stomach issues",
+      "Personal toiletries",
+      "Hand sanitizer"
+    ],
+    "electronics": [
+      "Smartphone",
+      "Power bank",
+      "Universal travel adapter (Type C/D/M)",
+      "Camera with extra batteries and memory card"
+    ],
+    "documents": [
+      "Passport or other valid government ID (e.g., Voter ID for Indian nationals)",
+      "Copies of important documents (digital and physical)",
+      "Travel insurance details",
+      "Hotel and transport confirmations"
+    ],
+    "children-specific items": []
+  },
+  "preTripChecklist": [
+    {
+      "priority": "High",
+      "task": "Verify passport or ID validity."
+    },
+    {
+      "priority": "High",
+      "task": "Book round-trip bus tickets from Noida/Delhi to Kathmandu."
+    },
+    {
+      "priority": "High",
+      "task": "Book your hotels in Kathmandu and Pokhara, as the automated search failed."
+    },
+    {
+      "priority": "High",
+      "task": "Purchase comprehensive travel insurance."
+    },
+    {
+      "priority": "Medium",
+      "task": "Book inter-city bus tickets between Kathmandu and Pokhara."
+    },
+    {
+      "priority": "Medium",
+      "task": "Pre-book paragliding with a reputable company if you decide to include it."
+    },
+    {
+      "priority": "Medium",
+      "task": "Exchange a portion of your money into Nepali Rupees (NPR), although Indian Rupees (INR) are widely accepted (100 INR notes)."
+    },
+    {
+      "priority": "Medium",
+      "task": "Inform your bank of your travel dates to avoid card issues."
+    },
+    {
+      "priority": "Low",
+      "task": "Download offline maps of Kathmandu and Pokhara on Google Maps."
+    },
+    {
+      "priority": "Low",
+      "task": "Learn a few basic Nepali phrases like 'Namaste' (Hello) and 'Dhanyabad' (Thank you)."
+    }
+  ]
+}
