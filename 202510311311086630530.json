@@ -1,0 +1,795 @@
+{
+  "tripOverview": {
+    "destination": "Shimla, India",
+    "startDate": "2025-11-05",
+    "endDate": "2025-11-12",
+    "duration": "7 nights",
+    "companions": "2 adults, 0 children",
+    "tripType": "Cultural and Nature-focused Adventure",
+    "currency": "INR"
+  },
+  "mode_of_transport": {
+    "road": {
+      "cost": {
+        "train": "1500-2500 per person (Noida to Kalka via train, then Kalka-Shimla Toy Train)",
+        "bus": "800-1500 per person (overnight Volvo/Scania from Delhi/Noida)",
+        "cab": "8000-12000 one way (private taxi)"
+      },
+      "approx_time": {
+        "train": "10-12 hours",
+        "bus": "9-11 hours",
+        "cab": "8-10 hours"
+      },
+      "stations": {
+        "bus_stations": "ISBT Kashmiri Gate, Delhi is the primary hub for buses to Shimla.",
+        "trainstations": "New Delhi Railway Station (NDLS) or Anand Vihar Terminal (ANVT) to Kalka (KLK). Then Kalka Railway Station for the toy train to Shimla (SML)."
+      }
+    }
+  },
+  "hotel": {
+    "name": "The Getaway",
+    "rating": 4.8,
+    "reviews": 228,
+    "pricePerNight": 1469,
+    "total": 10283,
+    "bookingLink": null,
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipP26kZG7IJfBTlwNahXYP8K-HuB8e6no50JVE9u=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipNvgB_Tk0Cc9EKO39qWC48vCBf41E3JT9WcJYbE=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipPrA-4im0N_84s1jfyZsSSNBrL0CP-W1M5xVM5F=s287-w287-h192-n-k-no-v1"
+    ],
+    "amenities": [],
+    "coordinates": {
+      "latitude": 31.0554608,
+      "longitude": 77.1772281
+    }
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-05",
+      "theme": "Arrival and Colonial Charm",
+      "optimizedRoute": "The Getaway → Mall Road → The Getaway",
+      "totalDistance": 28.2,
+      "totalTravelTime": "1 hour 5 minutes",
+      "places": [
+        {
+          "timeOfDay": "4:00 PM - 7:00 PM",
+          "name": "Mall Road",
+          "coordinates": {
+            "latitude": 31.1045,
+            "longitude": 77.1745
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.1045,77.1745",
+          "distanceFromPrevious": 14.1,
+          "travelTimeFromPrevious": "34 minutes",
+          "description": "Mall Road is the vibrant heart of Shimla, a bustling promenade set against the backdrop of the majestic Himalayas. This iconic street is lined with colonial-era buildings, showcasing Victorian architecture that transports you back in time. It's a vehicle-free zone, making it perfect for a leisurely stroll. The atmosphere is filled with the cheerful chatter of tourists and locals, the aroma of local delicacies, and the sight of numerous shops selling everything from traditional handicrafts to modern apparel. As evening descends, the road lights up, creating a magical and inviting ambiance perfect for your first day.",
+          "whyVisit": "This is the perfect introduction to Shimla's unique blend of Indian culture and colonial heritage. The relaxed, vehicle-free environment allows for a peaceful yet engaging evening to unwind after your journey and soak in the city's atmosphere.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Stroll%20on%20Mall%20Road&dates=20251105T103000Z/20251105T133000Z&details=Leisurely%20stroll,%20soaking%20in%20colonial%20architecture%20and%20vibrant%20atmosphere.&location=Mall%20Road,%20Shimla,%20India",
+          "activities": [
+            "Take a leisurely walk from one end of the road to the other, admiring the colonial architecture.",
+            "Browse the various shops for local handicrafts, woollen clothing, and souvenirs.",
+            "Enjoy a coffee or a snack at one of the many cafes with a view of the surrounding hills."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "1000-1500 JPY for snacks and light shopping for two",
+            "bestTime": "Late afternoon and evening when the street is beautifully lit.",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "A light jacket or shawl as it gets chilly in the evening",
+              "Camera to capture the colonial buildings"
+            ],
+            "whatToBuy": [
+              "Himachali shawls",
+              "Wooden handicrafts",
+              "Local jams and pickles"
+            ],
+            "safetyNotes": [
+              "Beware of monkeys that can sometimes be mischievous.",
+              "Keep your belongings secure in the crowded areas."
+            ],
+            "customsEtiquette": [
+              "Be polite while bargaining in local shops.",
+              "Dispose of litter in designated bins to maintain cleanliness."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "In front of the Town Hall",
+              "Any viewpoint overlooking the valley",
+              "The historic Gaiety Theatre facade"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "28.2 km",
+        "spending": {
+          "Hotel": 1469,
+          "Entry Fees": "0 (for 2 adults)",
+          "Activities": 0,
+          "Transport": 1000,
+          "Meals": 2000,
+          "Shopping": 1500
+        },
+        "remainingBudget": "44031"
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-06",
+      "theme": "Adventure in Kufri",
+      "optimizedRoute": "The Getaway → Kufri → The Getaway",
+      "totalDistance": 42.22,
+      "totalTravelTime": "1 hour 40 minutes",
+      "places": [
+        {
+          "timeOfDay": "10:00 AM - 4:00 PM",
+          "name": "Kufri",
+          "coordinates": {
+            "latitude": 31.0986,
+            "longitude": 77.2678
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.0986,77.2678",
+          "distanceFromPrevious": 21.11,
+          "travelTimeFromPrevious": "50 minutes",
+          "description": "Kufri, a small hill station located just a short drive from Shimla, is an adventurer's paradise. Known for its stunning panoramic views of the snow-capped Himalayan peaks, Kufri offers a refreshing escape into nature. The main attraction is the journey up to the Mahasu Peak, which can be done on horseback or by trekking, offering thrilling experiences along the way. The area is home to the Himalayan Nature Park, a high-altitude zoo where you can spot rare animals like the snow leopard and brown bear. In winter, Kufri transforms into a ski resort, but in November, it offers crisp mountain air and beautiful autumnal scenery, perfect for outdoor activities.",
+          "whyVisit": "Kufri provides a perfect day-trip for adventure and nature lovers. It offers a change of scenery from the main town and a chance to engage in exciting activities like horse riding, making for a memorable and active day out.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Full%20Day%20at%20Kufri&dates=20251106T043000Z/20251106T103000Z&details=Adventure%20activities%20like%20horse%20riding,%20yak%20riding.%20Explore%20Himalayan%20Nature%20Park%20and%20Fagu%20Valley.&location=Kufri,%20Himachal%20Pradesh,%20India",
+          "activities": [
+            "Enjoy a horse or yak ride up to Mahasu Peak for breathtaking views.",
+            "Visit the Himalayan Nature Park to see native Himalayan wildlife.",
+            "Try your hand at go-karting on one of the world's highest tracks."
+          ],
+          "practicalInfo": {
+            "entryFee": "Himalayan Nature Park: 30 INR per adult. Horse ride: 500-800 INR per person (negotiable).",
+            "estimatedCost": "2500-3500 INR for transport, activities, and lunch for two",
+            "bestTime": "Morning to early afternoon to make the most of the daylight.",
+            "duration": "5-6 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Sturdy walking shoes",
+              "Warm jacket and cap",
+              "Sunscreen and sunglasses",
+              "Cash, as digital payments may not be available everywhere"
+            ],
+            "whatToBuy": [
+              "Saffron (Kesar) from local vendors",
+              "Handmade trinkets"
+            ],
+            "safetyNotes": [
+              "Bargain hard for horse rides and confirm the price and duration beforehand.",
+              "Be cautious while walking on uneven paths."
+            ],
+            "customsEtiquette": [
+              "Be respectful of the local environment and do not litter.",
+              "Follow instructions from guides during adventure activities."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Mahasu Peak viewpoint",
+              "Inside the Himalayan Nature Park",
+              "Fagu Valley viewpoint on the way"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "42.22 km",
+        "spending": {
+          "Hotel": 1469,
+          "Entry Fees": "60 (for 2 adults)",
+          "Activities": 1600,
+          "Transport": 1500,
+          "Meals": 1800,
+          "Shopping": 500
+        },
+        "remainingBudget": "37102"
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-07",
+      "theme": "Spiritual Heights and Historic Views",
+      "optimizedRoute": "The Getaway → Jakhoo Temple → The Ridge & Christ Church → The Getaway",
+      "totalDistance": 26.89,
+      "totalTravelTime": "1 hour 5 minutes",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 11:30 AM",
+          "name": "Jakhoo Temple",
+          "coordinates": {
+            "latitude": 31.1017,
+            "longitude": 77.1818
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.1017,77.1818",
+          "distanceFromPrevious": 11.84,
+          "travelTimeFromPrevious": "28 minutes",
+          "description": "Perched atop Jakhoo Hill, Shimla's highest peak, the Jakhoo Temple is an ancient temple dedicated to the Hindu deity Hanuman. The temple is famous for its colossal 108-foot-tall statue of Hanuman, which stands taller than the surrounding pine trees and is visible from most parts of Shimla. Reaching the temple is an adventure in itself; you can opt for a scenic ropeway ride offering panoramic views of the valley, or embark on a steep but rewarding trek through the dense forest. The temple premises are home to a large population of monkeys, believed to be the companions of Hanuman, adding a unique and lively element to the spiritual atmosphere.",
+          "whyVisit": "This visit combines spirituality, adventure, and the best panoramic views of Shimla. The giant statue is an incredible sight, and the choice between a trek and a ropeway makes it accessible and exciting for everyone.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Jakhoo%20Temple&dates=20251107T033000Z/20251107T060000Z&details=Trek%20or%20ropeway%20ride,%20spectacular%20360-degree%20views%20of%20Shimla%20valley.&location=Jakhoo%20Temple,%20Shimla,%20India",
+          "activities": [
+            "Take the Jakhoo Ropeway for stunning aerial views of Shimla.",
+            "Marvel at the 108-foot-tall Hanuman statue and seek blessings at the temple.",
+            "Enjoy the panoramic views of the Himalayas and the town below from the viewpoint."
+          ],
+          "practicalInfo": {
+            "entryFee": "Temple entry is free. Ropeway: ~500 INR per person for a round trip.",
+            "estimatedCost": "1500-2000 INR for ropeway, transport, and offerings for two",
+            "bestTime": "Morning for clear views and pleasant weather.",
+            "duration": "2-2.5 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Sunglasses and hats",
+              "Any offerings for the temple"
+            ],
+            "whatToBuy": [
+              "Religious souvenirs from the temple shop"
+            ],
+            "safetyNotes": [
+              "Secure your belongings (especially glasses, caps, and food) from the monkeys.",
+              "Do not feed or tease the monkeys."
+            ],
+            "customsEtiquette": [
+              "Dress modestly as it is a place of worship.",
+              "Remove shoes before entering the temple premises."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Base of the Hanuman statue",
+              "Viewpoint overlooking the Shimla valley",
+              "Inside the ropeway cabin"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "12:00 PM - 2:00 PM",
+          "name": "The Ridge & Christ Church",
+          "coordinates": {
+            "latitude": 31.1058,
+            "longitude": 77.1738
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.1058,77.1738",
+          "distanceFromPrevious": 1.49,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "The Ridge is a large open space in the heart of Shimla that serves as the city's social and cultural hub. It offers breathtaking views of the mountain ranges and connects the Mall Road to other important landmarks. Dominating the landscape of The Ridge is the iconic Christ Church, the second oldest church in North India. Its magnificent neo-Gothic architecture, complete with beautiful stained-glass windows, a pipe organ, and a towering spire, makes it a prominent and serene landmark. The area is a hub of activity, with locals and tourists alike gathering to enjoy the open space, the views, and the various cultural events that often take place here.",
+          "whyVisit": "Visiting The Ridge and Christ Church is essential to experiencing the historic and cultural core of Shimla. The combination of the open-air plaza and the stunning church provides a perfect setting for photography, relaxation, and absorbing the city's colonial legacy.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20The%20Ridge%20&%20Christ%20Church&dates=20251107T063000Z/20251107T083000Z&details=Explore%20historic%20sites%20and%20colonial%20architecture.&location=The%20Ridge,%20Shimla,%20India",
+          "activities": [
+            "Admire the architecture of Christ Church and step inside to see the stained-glass windows.",
+            "Take photographs with the church and the Himalayan range in the background.",
+            "Sit on the benches and enjoy the lively atmosphere of The Ridge."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free for The Ridge. Entry to the church is also free, donations are welcome.",
+            "estimatedCost": "500-800 INR for lunch or snacks nearby",
+            "bestTime": "Anytime, but the afternoon light is great for photography.",
+            "duration": "1.5-2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "A good book to read while relaxing on a bench",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Street snacks like corn on the cob",
+              "Souvenirs from the adjacent Lakkar Bazar"
+            ],
+            "safetyNotes": [
+              "The area is generally safe, but keep an eye on your belongings."
+            ],
+            "customsEtiquette": [
+              "Maintain silence and decorum inside Christ Church.",
+              "Photography may be restricted inside the church."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Directly in front of Christ Church",
+              "The 'Scandal Point' end of The Ridge",
+              "View towards the mountains from the edge of the plaza"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "26.89 km",
+        "spending": {
+          "Hotel": 1469,
+          "Entry Fees": "1000 (for 2 adults for ropeway)",
+          "Activities": 0,
+          "Transport": 1000,
+          "Meals": 2000,
+          "Shopping": 500
+        },
+        "remainingBudget": "31133"
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-08",
+      "theme": "Forest Trails of Mashobra",
+      "optimizedRoute": "The Getaway → Mashobra → The Getaway",
+      "totalDistance": 38.66,
+      "totalTravelTime": "1 hour 35 minutes",
+      "places": [
+        {
+          "timeOfDay": "10:30 AM - 3:30 PM",
+          "name": "Mashobra",
+          "coordinates": {
+            "latitude": 31.1292,
+            "longitude": 77.2332
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.1292,77.2332",
+          "distanceFromPrevious": 19.33,
+          "travelTimeFromPrevious": "48 minutes",
+          "description": "Mashobra is a lush, tranquil town located in the Shimla district, known for its dense forests of pine, oak, and deodar. Often called the 'quieter Shimla', it offers a serene retreat away from the crowded tourist spots. The area is a haven for nature lovers and adventure enthusiasts, with numerous trails for trekking, bird watching, and opportunities for activities like rappelling and zip-lining. The forest is rich in biodiversity, and a walk through its winding paths is a rejuvenating experience. Mashobra is also home to the Presidential Retreat, where the President of India stays during official visits, adding a touch of prestige to this peaceful hamlet.",
+          "whyVisit": "This is the perfect day to immerse yourself in the natural beauty of the Himalayas. Mashobra offers a peaceful contrast to the main city, allowing you to connect with nature through a quiet walk or a thrilling adventure, based on your preference.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Day%20Trip%20to%20Mashobra&dates=20251108T050000Z/20251108T100000Z&details=Light%20adventure%20(rappelling/zip-lining)%20or%20peaceful%20walk%20amidst%20deodar%20forests.&location=Mashobra,%20Himachal%20Pradesh,%20India",
+          "activities": [
+            "Take a long walk or a short trek through the dense deodar forests.",
+            "Engage in adventure sports like zip-lining or rappelling with local operators.",
+            "Enjoy a picnic amidst the serene natural surroundings."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free to explore. Adventure activities are charged separately (approx. 500-1000 INR per person).",
+            "estimatedCost": "2500-3000 INR for transport, activities and meals for two",
+            "bestTime": "Daytime, as the forests can get dark early.",
+            "duration": "4-5 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable trekking shoes",
+              "Water bottle and snacks",
+              "A small first-aid kit",
+              "Binoculars for bird watching"
+            ],
+            "whatToBuy": [
+              "Fresh local produce like apples (if in season)",
+              "Honey"
+            ],
+            "safetyNotes": [
+              "Stay on marked trails to avoid getting lost.",
+              "Inform someone of your trekking plans.",
+              "Ensure adventure sports operators have proper safety equipment."
+            ],
+            "customsEtiquette": [
+              "Do not disturb the wildlife.",
+              "Carry back all your trash to keep the forest clean."
+            ],
+            "bookingRequired": "Recommended to book adventure slots in advance during peak season.",
+            "photoSpots": [
+              "Anywhere within the forest trails",
+              "Viewpoints overlooking the valleys",
+              "The area around the Presidential Retreat (from a distance)"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "38.66 km",
+        "spending": {
+          "Hotel": 1469,
+          "Entry Fees": 0,
+          "Activities": 1500,
+          "Transport": 1200,
+          "Meals": 1500,
+          "Shopping": 200
+        },
+        "remainingBudget": "25264"
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-09",
+      "theme": "History and Nature's Cascade",
+      "optimizedRoute": "The Getaway → Shimla State Museum → Chadwick Falls → The Getaway",
+      "totalDistance": 42.33,
+      "totalTravelTime": "1 hour 45 minutes",
+      "places": [
+        {
+          "timeOfDay": "10:00 AM - 12:30 PM",
+          "name": "Shimla State Museum",
+          "coordinates": {
+            "latitude": 31.1077,
+            "longitude": 77.161
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.1077,77.161",
+          "distanceFromPrevious": 16.09,
+          "travelTimeFromPrevious": "40 minutes",
+          "description": "The Shimla State Museum, housed in a grand Victorian mansion on Mount Pleasant, is a treasure trove of Himachal Pradesh's rich history, art, and culture. The museum's collection includes an impressive array of ancient artifacts, sculptures, paintings, and handicrafts. It provides a deep insight into the state's diverse heritage, from its colonial past to its vibrant tribal cultures. The galleries display everything from Pahari miniature paintings and traditional costumes to archaeological finds. The building itself, with its sprawling lawns and colonial architecture, is a sight to behold and offers a peaceful environment for exploration and learning.",
+          "whyVisit": "This museum offers a cultural deep-dive into the region's history, providing context to the beautiful landscapes you've been exploring. It's a perfect morning activity to appreciate the art and soul of Himachal Pradesh.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Shimla%20State%20Museum&dates=20251109T043000Z/20251109T070000Z&details=Showcasing%20Himachali%20art%20and%20history.&location=Shimla%20State%20Museum,%20Shimla,%20India",
+          "activities": [
+            "Explore the different galleries showcasing sculptures, paintings, and historical artifacts.",
+            "Learn about the colonial history of Shimla and its significance.",
+            "Stroll through the well-maintained lawns surrounding the museum."
+          ],
+          "practicalInfo": {
+            "entryFee": "20 INR for Indian adults.",
+            "estimatedCost": "500 INR including tickets and transport",
+            "bestTime": "Morning, when you are fresh and can absorb the information.",
+            "duration": "2-2.5 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "A notebook to jot down interesting facts",
+              "Your camera (check for photography rules inside)"
+            ],
+            "whatToBuy": [
+              "Books on Himachali culture from the museum shop"
+            ],
+            "safetyNotes": [
+              "Follow the museum's rules and do not touch the exhibits."
+            ],
+            "customsEtiquette": [
+              "Maintain silence inside the galleries.",
+              "Photography with flash is usually prohibited."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The facade of the Victorian mansion",
+              "The lush green lawns",
+              "Specific exhibits where photography is allowed"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "1:30 PM - 3:30 PM",
+          "name": "Chadwick Falls",
+          "coordinates": {
+            "latitude": 31.1118,
+            "longitude": 77.135
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.1118,77.135",
+          "distanceFromPrevious": 7.29,
+          "travelTimeFromPrevious": "20 minutes",
+          "description": "Nestled within the dense Glen Forests, Chadwick Falls is a beautiful natural cascade that offers a serene and refreshing experience. The water plunges from a height of approximately 86 meters, creating a mesmerizing sight, especially during the post-monsoon season. Reaching the falls requires a short, pleasant walk through the forest, which is an experience in itself, filled with the sounds of nature and the scent of pine and deodar trees. While the water flow in November might be less, the tranquility of the location and the beauty of the surrounding forest make it a worthwhile visit for those seeking peace and a connection with nature.",
+          "whyVisit": "This is your chance to experience the raw, untouched nature around Shimla. The walk to the falls is as beautiful as the destination itself, offering a peaceful afternoon away from the main city hustle.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Walk%20to%20Chadwick%20Falls&dates=20251109T080000Z/20251109T100000Z&details=Beautiful%20natural%20cascade%20nestled%20in%20the%20forest,%20refreshing%20walk.&location=Chadwick%20Falls,%20Shimla,%20India",
+          "activities": [
+            "Take a refreshing walk through the Glen Forest to reach the falls.",
+            "Spend some time in solitude, enjoying the sound of the cascading water and the forest.",
+            "Capture photographs of the waterfall and the lush green surroundings."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "800-1000 INR for transport and snacks",
+            "bestTime": "Afternoon, but ensure you leave before it gets dark.",
+            "duration": "1.5-2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Good grip walking shoes as the path can be slippery.",
+              "A light raincoat or umbrella, as the weather can change quickly.",
+              "Insect repellent."
+            ],
+            "whatToBuy": [
+              "There are no shops, so bring your own snacks and water."
+            ],
+            "safetyNotes": [
+              "The rocks near the waterfall can be very slippery; avoid climbing on them.",
+              "It's advisable to visit in a group and leave the area before sunset."
+            ],
+            "customsEtiquette": [
+              "Do not leave any plastic or trash behind.",
+              "Keep noise levels low to respect the natural environment."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "At the base of the falls",
+              "The trail leading to the falls with the forest canopy",
+              "Any small streams you cross on the way"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "42.33 km",
+        "spending": {
+          "Hotel": 1469,
+          "Entry Fees": "40 (for 2 adults)",
+          "Activities": 0,
+          "Transport": 1500,
+          "Meals": 1800,
+          "Shopping": 300
+        },
+        "remainingBudget": "20155"
+      }
+    },
+    {
+      "day": 6,
+      "date": "2025-11-10",
+      "theme": "Heritage Ride and Market Finds",
+      "optimizedRoute": "The Getaway → Shimla Railway Station → Lakkar Bazar → The Getaway",
+      "totalDistance": 31.79,
+      "totalTravelTime": "1 hour 15 minutes",
+      "places": [
+        {
+          "timeOfDay": "10:00 AM - 1:00 PM",
+          "name": "Kalka-Shimla Toy Train",
+          "coordinates": {
+            "latitude": 31.097,
+            "longitude": 77.1656
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.097,77.1656",
+          "distanceFromPrevious": 11.28,
+          "travelTimeFromPrevious": "27 minutes",
+          "description": "The Kalka-Shimla Railway is a UNESCO World Heritage Site and a remarkable feat of engineering from the British era. This narrow-gauge railway traverses a picturesque route through the mountains, crossing over 800 bridges and going through more than 100 tunnels. While the full journey from Kalka is long, taking a short joyride on a segment of the track (e.g., Shimla to Shoghi and back) is a fantastic way to experience this historic journey. The train moves at a slow pace, allowing you to soak in the stunning views of the lush valleys, pine forests, and charming hillside villages. It’s a nostalgic and scenic experience that captures the romance of mountain travel.",
+          "whyVisit": "This is a unique opportunity to ride a piece of history. The scenic beauty and the slow, rhythmic journey of the toy train offer a different perspective of the Himalayas and a truly unforgettable experience.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Kalka-Shimla%20Toy%20Train%20Ride&dates=20251110T043000Z/20251110T073000Z&details=UNESCO%20World%20Heritage,%20scenic%20ride.&location=Shimla%20Railway%20Station,%20India",
+          "activities": [
+            "Take a short joyride between Shimla and a nearby station like Shoghi or Taradevi.",
+            "Enjoy the breathtaking scenery from the large windows of the train.",
+            "Experience the thrill of passing through historic tunnels and over viaducts."
+          ],
+          "practicalInfo": {
+            "entryFee": "Ticket prices vary, but a short ride costs between 100-300 INR per person.",
+            "estimatedCost": "800-1200 INR for tickets and transport for two",
+            "bestTime": "The morning rides offer the best light and views.",
+            "duration": "2-3 hours (including travel to/from station)"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera is a must",
+              "Snacks and water for the journey",
+              "A book to read"
+            ],
+            "whatToBuy": [
+              "Souvenir train models from the station"
+            ],
+            "safetyNotes": [
+              "Do not lean out of the train doors or windows.",
+              "Keep your tickets handy for inspection."
+            ],
+            "customsEtiquette": [
+              "Do not block the view for other passengers.",
+              "Keep the train coaches clean."
+            ],
+            "bookingRequired": "Highly recommended to book tickets online in advance, as they sell out quickly.",
+            "photoSpots": [
+              "The iconic arched bridges",
+              "The entrance of the Barog tunnel (if you travel that far)",
+              "The view of the valley from your window seat"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "2:00 PM - 4:00 PM",
+          "name": "Local Markets (Lakkar Bazar)",
+          "coordinates": {
+            "latitude": 31.1068,
+            "longitude": 77.1755
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.1068,77.1755",
+          "distanceFromPrevious": 7.14,
+          "travelTimeFromPrevious": "18 minutes",
+          "description": "Adjacent to The Ridge, Lakkar Bazar is a famous market in Shimla, renowned for its wooden crafts and souvenirs. The market is lined with small shops where artisans can be seen carving intricate designs into wooden items. The air is filled with the pleasant smell of cedar wood. Here, you can find a variety of products, from walking sticks and keychains to decorative items and furniture. It's a vibrant and bustling market that offers a glimpse into the local craftsmanship of Himachal Pradesh. Besides woodwork, you can also find winter wear, local snacks, and other trinkets, making it a great place for some last-minute souvenir shopping.",
+          "whyVisit": "Lakkar Bazar is the best place in Shimla to buy authentic, locally-made wooden souvenirs. It's a fantastic place to find unique gifts and mementos to remember your trip by, while also supporting local artisans.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Shopping%20at%20Local%20Markets&dates=20251110T083000Z/20251110T103000Z&details=Explore%20for%20unique%20souvenirs.&location=Lakkar%20Bazar,%20Shimla,%20India",
+          "activities": [
+            "Browse the shops for unique wooden handicrafts and souvenirs.",
+            "Watch the artisans at work, carving the wood.",
+            "Bargain for a good price on items you wish to purchase."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "1500-2500 INR for shopping and lunch",
+            "bestTime": "Afternoon, when the market is fully active.",
+            "duration": "1.5-2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash, as some smaller shops may not accept cards.",
+              "A sturdy bag to carry your purchases."
+            ],
+            "whatToBuy": [
+              "Wooden walking sticks",
+              "Carved photo frames",
+              "Small wooden toys and decorative items"
+            ],
+            "safetyNotes": [
+              "Be aware of your surroundings in the crowded market.",
+              "Check the quality of items before purchasing."
+            ],
+            "customsEtiquette": [
+              "Bargaining is common, but do so politely.",
+              "Ask for permission before photographing the artisans."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "A shopfront with a colorful display of wooden items",
+              "An artisan at their craft",
+              "The bustling market street"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "31.79 km",
+        "spending": {
+          "Hotel": 1469,
+          "Entry Fees": "600 (for 2 adults for train)",
+          "Activities": 0,
+          "Transport": 1000,
+          "Meals": 2000,
+          "Shopping": 2500
+        },
+        "remainingBudget": "12586"
+      }
+    },
+    {
+      "day": 7,
+      "date": "2025-11-11",
+      "theme": "Leisurely Departure",
+      "optimizedRoute": "N/A",
+      "totalDistance": 0,
+      "totalTravelTime": "N/A",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 11:00 AM",
+          "name": "Departure",
+          "coordinates": {
+            "latitude": 31.0554608,
+            "longitude": 77.1772281
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=31.0554608,77.1772281",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a final, leisurely morning in the serene environment of Shimla. Savor a delicious Himachali breakfast, perhaps trying some local specialties like Siddu or Mittha. This is a good time to pack your bags, reflect on the wonderful memories you've made, and do any last-minute souvenir shopping if you missed anything. Take one last look at the beautiful Himalayan landscape before you begin your journey back to Noida, carrying with you the peace and charm of the mountains.",
+          "whyVisit": "A relaxed morning ensures a stress-free start to your journey home, allowing you to fully enjoy the last moments of your vacation.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure%20from%20Shimla&dates=20251111T033000Z/20251111T053000Z&details=Enjoy%20final%20Himachali%20breakfast%20before%20journey%20back%20to%20Noida.&location=Shimla,%20India",
+          "activities": [
+            "Have a hearty breakfast at a local cafe or your hotel.",
+            "Buy any last-minute souvenirs or local snacks for the journey.",
+            "Check out from the hotel and begin your travel back to Noida."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "1000 INR for breakfast and snacks",
+            "bestTime": "Morning",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "All your packed luggage"
+            ],
+            "whatToBuy": [
+              "Packed local snacks for the road"
+            ],
+            "safetyNotes": [
+              "Double-check your hotel room for any left-behind belongings.",
+              "Confirm your travel arrangements (bus/train/cab) in advance."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "One last photo from your hotel's viewpoint"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "0 km",
+        "spending": {
+          "Hotel": 1469,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 0,
+          "Meals": 1000,
+          "Shopping": 500
+        },
+        "remainingBudget": "9617"
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 50000,
+    "currency": "INR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Cab to Shimla and back (estimated)",
+          "total_cost": 0
+        }
+      ],
+      "accommodation": {
+        "hotelName": "The Getaway",
+        "pricePerNight": 1469,
+        "nights": 7,
+        "total": 10283
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 5969
+        },
+        {
+          "day": 2,
+          "cost": 6929
+        },
+        {
+          "day": 3,
+          "cost": 5969
+        },
+        {
+          "day": 4,
+          "cost": 5869
+        },
+        {
+          "day": 5,
+          "cost": 5109
+        },
+        {
+          "day": 6,
+          "cost": 7569
+        },
+        {
+          "day": 7,
+          "cost": 2969
+        }
+      ]
+    },
+    "totalSpent": 40383,
+    "remainingBudget": 9617,
+    "budgetTips": [
+      "Eat at local dhabas and smaller restaurants for authentic and budget-friendly meals.",
+      "Use local buses for short distances to save on taxi fares.",
+      "Bargain respectfully at local markets to get better prices on souvenirs.",
+      "Carry a reusable water bottle and refill it to save money on buying bottled water."
+    ]
+  },
+  "packingList": {
+    "Clothing": [
+      "Several layers: T-shirts, long-sleeved shirts, sweaters",
+      "A warm, windproof jacket for evenings and Kufri",
+      "Comfortable trousers or jeans for daily wear",
+      "Thermal wear for the cold nights",
+      "Woollen socks, caps, gloves, and a scarf"
+    ],
+    "Footwear": [
+      "Sturdy, comfortable walking shoes with good grip",
+      "A pair of casual shoes or slippers for the hotel"
+    ],
+    "Essentials": [
+      "Sunscreen and lip balm with SPF",
+      "Moisturizer for dry skin",
+      "Personal medications and a basic first-aid kit",
+      "Toiletries"
+    ],
+    "Electronics": [
+      "Phone and charger",
+      "Portable power bank",
+      "Camera with extra batteries and memory card"
+    ],
+    "Documents": [
+      "Government-issued ID (Aadhaar card, Driver's License)",
+      "Hotel booking confirmation",
+      "Digital copies of all important documents"
+    ]
+  },
+  "preTripChecklist": {
+    "High Priority": [
+      "Confirm hotel reservation and payment details.",
+      "Book round-trip transportation to Shimla (bus, train, or cab).",
+      "Purchase travel insurance, especially for road travel.",
+      "Check weather forecast again closer to the departure date and adjust packing if needed."
+    ],
+    "Medium Priority": [
+      "Book Kalka-Shimla toy train tickets online in advance.",
+      "Inform your bank of your travel plans to avoid any card issues.",
+      "Download offline maps of Shimla on your phone.",
+      "Pack according to the provided packing list."
+    ],
+    "Low Priority": [
+      "Learn a few basic Hindi phrases if you are not a native speaker.",
+      "Research some highly-rated local restaurants.",
+      "Share your detailed itinerary with a family member or friend."
+    ]
+  }
+}
