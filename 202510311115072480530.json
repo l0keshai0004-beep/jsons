@@ -1,0 +1,827 @@
+{
+  "tripOverview": {
+    "destination": "London, UK",
+    "startDate": "2025-11-05",
+    "endDate": "2025-11-10",
+    "duration": "5 nights",
+    "companions": "1 adults, 1 children",
+    "tripType": "Sports, Culture, and Entertainment",
+    "currency": "EUR"
+  },
+  "mode_of_transport": {
+    "flight": {
+      "destination": "London, UK (e.g., Heathrow Airport - LHR, Gatwick Airport - LGW)",
+      "Approx_cost": "800 - 1200 EUR per person (round trip)",
+      "Approx_time_of_flight(duration)": "9 to 12 hours (non-stop)",
+      "Nearest_airport_from_current_destination": "Indira Gandhi International Airport (DEL), Delhi, India",
+      "Nearest_airport_from_visiting_destination": "Heathrow Airport (LHR)",
+      "Stops": "Direct flights are available, but connecting flights through Middle Eastern hubs (like DXB, DOH) can sometimes be more economical."
+    }
+  },
+  "hotel": {
+    "name": "Wilde Aparthotels, London, Paddington",
+    "address": "42-45 Praed St, Tyburnia, London W2 1NY, United Kingdom",
+    "coordinates": {
+      "latitude": 51.519586,
+      "longitude": -0.1733297
+    },
+    "pricePerNight": 252,
+    "totalCost": 1260,
+    "bookingLinks": [
+      "https://www.wilde.com/london/paddington/?utm_source=google&utm_medium=Organic&utm_campaign=googlemybusiness_london_paddington"
+    ],
+    "images": [
+      "https://lh3.googleusercontent.com/p/AF1QipOXFD4AieZt5OZrbd5AdRMn7tlSf-_LtmxtrrNA=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipO_-5tMknvNJMC6qYfNGjBy038eNRTb5ttIIqUQ=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipONPzK0RbRgZ2EMkYPMRER8brWw_FDLKNtW22f7=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipP2498Q5RK-uksr_ehCB5iMaFnd661S9S6tdkwM=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/p/AF1QipMJvjOx-vZ0DQZ_H0da7FdKCyTKT4gQAKV3M7EF=s287-w287-h192-n-k-no-v1"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free Wi-Fi",
+      "Parking",
+      "Air conditioning",
+      "Pet-friendly",
+      "Fitness center",
+      "Bar",
+      "Restaurant",
+      "Accessible",
+      "Smoke-free property"
+    ],
+    "reviewScore": 4.8
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-05",
+      "theme": "Arrival and City Lights",
+      "optimizedRoute": "Wilde Aparthotels, London, Paddington → Leicester Square → Wilde Aparthotels, London, Paddington",
+      "totalDistance": 9.88,
+      "totalTravelTime": "25 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "3:00 PM onwards",
+          "name": "Hotel Check-in",
+          "coordinates": {
+            "latitude": 51.519586,
+            "longitude": -0.1733297
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.519586,-0.1733297",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Arrive at Wilde Aparthotels in the well-connected Paddington area. This stylish aparthotel offers the comfort of an apartment with the services of a hotel, providing a perfect home base. Settle in, unpack, and freshen up after your journey before heading out to experience the electric atmosphere of London's West End. The property's convenient location near Paddington Station ensures easy access to public transport for your adventures over the next few days.",
+          "whyVisit": "A comfortable and highly-rated base with excellent transport links, ensuring a smooth start to your London adventure. The kitchenette facilities are great for preparing quick snacks for a teenager.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hotel%20Check-in&dates=20251105T150000/20251105T160000&details=Arrive%20and%20check%20into%20your%20centrally%20located%20hotel.&location=42-45%20Praed%20St%2C%20Tyburnia%2C%20London%20W2%201NY%2C%20United%20Kingdom",
+          "activities": [
+            "Complete the check-in process",
+            "Unpack and organize your belongings",
+            "Connect to the Wi-Fi and inform family of your safe arrival"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "0",
+            "bestTime": "Check-in is from 3:00 PM",
+            "duration": "1 hour"
+          },
+          "tips": {
+            "whatToBring": [
+              "Passport and booking confirmation",
+              "Credit card for incidentals"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Keep your luggage with you at all times",
+              "Note the location of the nearest fire exits"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "Evening",
+          "name": "Leicester Square",
+          "coordinates": {
+            "latitude": 51.5105,
+            "longitude": -0.1301
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5105,-0.1301",
+          "distanceFromPrevious": 5.01,
+          "travelTimeFromPrevious": "12 minutes",
+          "description": "Immerse yourself in the heart of London's entertainment district. Leicester Square is famous for its cinemas, which host star-studded film premieres. The area is constantly buzzing with energy, street performers, and bright lights. It's a fantastic place to get a feel for the city's vibrant nightlife and cultural scene. The central gardens provide a nice spot to sit and people-watch, surrounded by iconic theaters and shops like the M&M's World and the LEGO Store, which are often a hit with teenagers.",
+          "whyVisit": "A perfect introduction to London's dynamic atmosphere. It's a safe and lively area for an evening walk, with plenty of sights and sounds to keep both you and your teen entertained.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Leicester%20Square&dates=20251105T180000/20251105T200000&details=Evening%20stroll%20around%20vibrant%20Leicester%20Square%2C%20soaking%20in%20the%20city's%20buzz.&location=Leicester%20Square%2C%20London%2C%20UK",
+          "activities": [
+            "Walk through the square and see the famous cinemas",
+            "Visit the M&M's World or the LEGO Store for a fun diversion",
+            "Watch some of the street performers and musicians"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free to visit",
+            "estimatedCost": "30-50 EUR for snacks or souvenirs",
+            "bestTime": "Early evening as the lights begin to come on",
+            "duration": "1.5-2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "A light jacket as it can be cool",
+              "Comfortable shoes"
+            ],
+            "whatToBuy": [
+              "Theatre tickets from the official TKTS booth for a future show",
+              "Unique LEGO or M&M's merchandise"
+            ],
+            "safetyNotes": [
+              "Be aware of your surroundings and keep valuables secure in crowded areas",
+              "Be cautious of street scams or unofficial ticket sellers"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "With the statue of William Shakespeare in the central gardens",
+              "In front of the brightly lit cinema facades"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "9.88 km",
+        "spending": {
+          "Hotel": 252,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 15,
+          "Meals": 120,
+          "Shopping": 40,
+          "Daily subtotal": 427,
+          "budgetWarning": "Day 1 spending is well within the daily allocation."
+        },
+        "remainingBudget": 18313
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-06",
+      "theme": "Football Legends and World History",
+      "optimizedRoute": "Wilde Aparthotels, London, Paddington → Wembley Stadium → British Museum → Wilde Aparthotels, London, Paddington",
+      "totalDistance": 38.95,
+      "totalTravelTime": "1 hour 35 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Wembley Stadium Tour",
+          "coordinates": {
+            "latitude": 51.5561,
+            "longitude": -0.2796
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5561,-0.2796",
+          "distanceFromPrevious": 13.3,
+          "travelTimeFromPrevious": "32 minutes",
+          "description": "Go behind the scenes at the most famous sports and music venue in the UK. The Wembley Stadium Tour gives you the chance to visit the England team's changing rooms, walk through the players' tunnel, and climb the 107 steps to the Royal Box to get your hands on a replica of the FA Cup. The sheer scale of the stadium is breathtaking, and the tour is packed with fascinating stories and memorabilia from some of football's and music's greatest moments. It’s an inspiring experience for any sports fan.",
+          "whyVisit": "An absolute must for a football enthusiast. It offers an unforgettable, immersive experience into the heart of English football history, which will be a highlight for your 15-year-old.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Wembley%20Stadium%20Tour&dates=20251106T100000/20251106T120000&details=Immerse%20yourselves%20in%20the%20world%20of%20football%20with%20a%20morning%20tour%20of%20a%20legendary%20stadium.&location=Wembley%20Stadium%2C%20London%2C%20UK",
+          "activities": [
+            "Walk through the players' tunnel towards the pitch",
+            "Sit in the manager's hot seat in the press conference room",
+            "Take a picture with the replica FA Cup in the Royal Box"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx 28 EUR per adult, 20 EUR per child (15)",
+            "estimatedCost": "80-100 EUR total for tickets and merchandise",
+            "bestTime": "First tour of the morning to avoid crowds",
+            "duration": "1.5-2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Comfortable footwear for walking"
+            ],
+            "whatToBuy": [
+              "A personalized souvenir from the stadium shop",
+              "A photo of you lifting the replica FA Cup"
+            ],
+            "safetyNotes": [
+              "Follow the instructions of the tour guide at all times",
+              "Some areas may have restricted access"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "By the pitch side",
+              "In the England changing room",
+              "From the highest tier of the stadium for a panoramic view"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "British Museum",
+          "coordinates": {
+            "latitude": 51.5194,
+            "longitude": -0.127
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5194,-0.127",
+          "distanceFromPrevious": 20.58,
+          "travelTimeFromPrevious": "49 minutes",
+          "description": "Discover a vast collection of world art and artifacts at the British Museum, one of the world's oldest and most respected museums. Housing a permanent collection of over eight million works, it documents the story of human culture from its beginnings to the present. The magnificent Great Court, with its stunning glass roof, is an architectural marvel in itself. Key highlights include the Rosetta Stone, the Parthenon sculptures, and the Egyptian mummies. The museum's sheer breadth is incredible, offering a journey across continents and through millennia under one roof.",
+          "whyVisit": "A fantastic educational experience. You can focus on specific exhibits like the Egyptian or Roman sections that are often fascinating for teenagers, making history tangible and exciting.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=British%20Museum&dates=20251106T140000/20251106T170000&details=Dive%20into%20history%20at%20the%20iconic%20British%20Museum.&location=British%20Museum%2C%20Great%20Russell%20St%2C%20London%20WC1B%203DG%2C%20United%20Kingdom",
+          "activities": [
+            "See the Rosetta Stone, the key to deciphering hieroglyphs",
+            "Explore the Egyptian Sculpture Gallery",
+            "Marvel at the intricate details of the Sutton Hoo ship-burial helmet"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (donations welcome). Special exhibitions may have a charge.",
+            "estimatedCost": "20-30 EUR for a donation and guidebook",
+            "bestTime": "Weekday afternoons are generally less crowded",
+            "duration": "2.5-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "A bottle of water",
+              "A small bag, as large backpacks may need to be checked"
+            ],
+            "whatToBuy": [
+              "A themed souvenir related to your favorite exhibit",
+              "A detailed guidebook to enhance your visit"
+            ],
+            "safetyNotes": [
+              "Arrange a meeting point in case you get separated",
+              "Do not touch the exhibits"
+            ],
+            "customsEtiquette": [
+              "Speak in a quiet voice",
+              "Photography without flash is usually permitted, but check signage"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "In the Great Court under the glass roof",
+              "With the colossal statues in the Egyptian Sculpture Gallery"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "38.95 km",
+        "spending": {
+          "Hotel": 252,
+          "Entry Fees": 48,
+          "Activities": 0,
+          "Transport": 30,
+          "Meals": 150,
+          "Shopping": 50,
+          "Daily subtotal": 530,
+          "budgetWarning": "Day 2 spending is well within the daily allocation."
+        },
+        "remainingBudget": 17783
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-07",
+      "theme": "Chelsea FC and Scientific Wonders",
+      "optimizedRoute": "Wilde Aparthotels, London, Paddington → Stamford Bridge → Science Museum → Wilde Aparthotels, London, Paddington",
+      "totalDistance": 15.09,
+      "totalTravelTime": "36 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Stamford Bridge (Chelsea FC) Stadium Tour",
+          "coordinates": {
+            "latitude": 51.4817,
+            "longitude": -0.191
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.4817,-0.191",
+          "distanceFromPrevious": 6.81,
+          "travelTimeFromPrevious": "16 minutes",
+          "description": "Experience the world of the Premier League with a tour of Stamford Bridge, the historic home of Chelsea Football Club. This award-winning tour takes you behind the scenes, offering access to key areas such as the press room, home and away dressing rooms, the players' tunnel, and the pitchside. The passionate tour guides share stories of the club's illustrious history. The visit also includes entry to the Chelsea FC Museum, which showcases the club's extensive collection of trophies and memorabilia, including the UEFA Champions League trophies.",
+          "whyVisit": "Another fantastic opportunity for a football fan to get up close to a top-tier club. Comparing the different stadium atmospheres and histories makes for a richer experience.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Stamford%20Bridge%20Stadium%20Tour&dates=20251107T103000/20251107T123000&details=Another%20thrilling%20stadium%20tour%20awaits.&location=Stamford%20Bridge%2C%20Fulham%20Rd%2C%20London%20SW6%201HS%2C%20United%20Kingdom",
+          "activities": [
+            "Visit the home and away dressing rooms",
+            "Sit in the manager's seat in the dugout",
+            "Explore the Chelsea FC Museum and see the trophy collection"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx 30 EUR per adult, 22 EUR per child (15)",
+            "estimatedCost": "80-100 EUR for tickets and merchandise",
+            "bestTime": "Mid-morning on a non-match day",
+            "duration": "1.5-2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Your confirmation email if booked online"
+            ],
+            "whatToBuy": [
+              "A Chelsea FC scarf or jersey",
+              "A souvenir from the Megastore"
+            ],
+            "safetyNotes": [
+              "Tours involve a lot of walking and stairs"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Pitchside with the stadium in the background",
+              "In the press room behind the desk",
+              "With the Champions League trophy in the museum"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon",
+          "name": "Science Museum",
+          "coordinates": {
+            "latitude": 51.4978,
+            "longitude": -0.1745
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.4978,-0.1745",
+          "distanceFromPrevious": 2.93,
+          "travelTimeFromPrevious": "7 minutes",
+          "description": "Ignite your curiosity at the Science Museum, a treasure trove of scientific and technological history. With seven floors of galleries, the museum is highly interactive and engaging for all ages. You can see iconic items like Stephenson's Rocket and the Apollo 10 command capsule, explore the future of space travel in the 'Exploring Space' gallery, or get hands-on in the Wonderlab. The museum makes complex concepts accessible and fun, offering a stimulating counterpoint to the morning's sporting focus and providing a perfect indoor activity.",
+          "whyVisit": "The interactive exhibits are perfect for a 15-year-old, making learning about science and technology an exciting, hands-on adventure. It's a great choice for a potentially rainy November afternoon.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Science%20Museum&dates=20251107T143000/20251107T173000&details=Exploring%20the%20interactive%20wonders%20of%20the%20Science%20Museum.&location=Science%20Museum%2C%20Exhibition%20Rd%2C%20South%20Kensington%2C%20London%20SW7%202DD%2C%20United%20Kingdom",
+          "activities": [
+            "Experience forces and friction in the interactive Wonderlab gallery",
+            "See real spacecraft in the 'Exploring Space' gallery",
+            "Watch a film on the giant screen at the IMAX theatre (separate charge)"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (donations welcome). Wonderlab and special exhibitions have a charge.",
+            "estimatedCost": "30-40 EUR for a donation and maybe a special exhibit ticket",
+            "bestTime": "Later in the afternoon when school groups have left",
+            "duration": "2.5-3 hours"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [
+              "A science kit or gadget from the gift shop",
+              "Freeze-dried astronaut ice cream for a quirky snack"
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Next to the Apollo 10 command module",
+              "Inside the giant telescope model"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "15.09 km",
+        "spending": {
+          "Hotel": 252,
+          "Entry Fees": 52,
+          "Activities": 0,
+          "Transport": 20,
+          "Meals": 150,
+          "Shopping": 60,
+          "Daily subtotal": 534,
+          "budgetWarning": "Day 3 spending is well within the daily allocation. Weather: Cloudy with light rain, bring an umbrella."
+        },
+        "remainingBudget": 17249
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-08",
+      "theme": "The Magic of Harry Potter",
+      "optimizedRoute": "Wilde Aparthotels, London, Paddington → Warner Bros. Studio Tour London → Wilde Aparthotels, London, Paddington",
+      "totalDistance": 60.24,
+      "totalTravelTime": "1 hour 26 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "Full Day",
+          "name": "Warner Bros. Studio Tour London – The Making of Harry Potter",
+          "coordinates": {
+            "latitude": 51.6903,
+            "longitude": -0.4173
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.6903,-0.4173",
+          "distanceFromPrevious": 30.72,
+          "travelTimeFromPrevious": "43 minutes",
+          "description": "Step into the enchanting world of Harry Potter with a visit to the authentic sets where the film series was made. This incredible experience allows you to walk through the Great Hall, explore Dumbledore's office, stroll down Diagon Alley, and see the actual props, costumes, and special effects that brought the magic to life. You can sample Butterbeer, ride a broomstick against a green screen, and marvel at the intricate detail of the Hogwarts castle model. It's a truly immersive and magical day out for fans of all ages.",
+          "whyVisit": "An unforgettable experience for any Harry Potter fan. The level of detail and craftsmanship is astounding, and the interactive elements make it a captivating adventure for a teenager.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Warner%20Bros.%20Studio%20Tour%20London&dates=20251108T100000/20251108T160000&details=A%20magical%20full-day%20adventure%2C%20fantastic%20experience%20for%20all%20ages.&location=Warner%20Bros.%20Studio%20Tour%20London%2C%20Studio%20Tour%20Dr%2C%20Leavesden%2C%20Watford%20WD25%207LR%2C%20United%20Kingdom",
+          "activities": [
+            "Walk through the iconic Great Hall set",
+            "Board the Hogwarts Express on Platform 9¾",
+            "Discover the secrets of the animatronics in the Creature Shop"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx 60 EUR per person",
+            "estimatedCost": "200-250 EUR for tickets, transport, food, and souvenirs",
+            "bestTime": "Allow at least 4-5 hours for the tour itself",
+            "duration": "6-7 hours (including travel)"
+          },
+          "tips": {
+            "whatToBring": [
+              "Your ticket confirmation",
+              "A portable charger for your phone, as you'll take many pictures"
+            ],
+            "whatToBuy": [
+              "A wand from Ollivanders",
+              "A chocolate frog with a collectible wizard card",
+              "A glass of Butterbeer"
+            ],
+            "safetyNotes": [
+              "The tour is a one-way experience, so make sure you don't miss anything"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Pushing a trolley through the wall at Platform 9¾",
+              "In front of the Hogwarts castle model",
+              "Walking down Diagon Alley"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "60.24 km",
+        "spending": {
+          "Hotel": 252,
+          "Entry Fees": 120,
+          "Activities": 0,
+          "Transport": 40,
+          "Meals": 150,
+          "Shopping": 100,
+          "Daily subtotal": 662,
+          "budgetWarning": "Day 4 spending is well within the daily allocation. Weather: Cloudy with light rain, perfect for an indoor attraction."
+        },
+        "remainingBudget": 16587
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-09",
+      "theme": "Iconic Views and Football Fever",
+      "optimizedRoute": "Wilde Aparthotels, London, Paddington → London Eye → River Thames Cruise → Sports Bar / Football Fan Store (Newcastle focus) → Wilde Aparthotels, London, Paddington",
+      "totalDistance": 15.5,
+      "totalTravelTime": "37 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "London Eye",
+          "coordinates": {
+            "latitude": 51.5033,
+            "longitude": -0.1195
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5033,-0.1195",
+          "distanceFromPrevious": 6.84,
+          "travelTimeFromPrevious": "16 minutes",
+          "description": "Get a bird's-eye view of London's skyline from one of its most famous modern landmarks. The London Eye is a giant cantilevered observation wheel on the South Bank of the River Thames. A full rotation in one of the 32 glass capsules takes about 30 minutes, offering breathtaking 360-degree views of the capital. On a clear day, you can see up to 40 kilometers in all directions. It's a fantastic way to see the layout of the city and spot iconic landmarks like the Houses of Parliament, Big Ben, and Buckingham Palace.",
+          "whyVisit": "The panoramic views are spectacular and provide a great perspective of the city you've been exploring. It's a quintessential London experience that's enjoyable for all ages.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=London%20Eye&dates=20251109T100000/20251109T110000&details=Enjoy%20breathtaking%20views%20from%20the%20London%20Eye.&location=London%20Eye%2C%20Riverside%20Building%2C%20County%20Hall%2C%20London%20SE1%207PB%2C%20United%20Kingdom",
+          "activities": [
+            "Identify major landmarks from the top",
+            "Use the interactive tablets inside the capsule to learn more about the sights",
+            "Take stunning photos of the cityscape"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx 35 EUR per person if booked in advance",
+            "estimatedCost": "70-80 EUR for tickets",
+            "bestTime": "Late morning for better light",
+            "duration": "1 hour (including queuing)"
+          },
+          "tips": {
+            "whatToBring": [
+              "A camera or smartphone with a full battery"
+            ],
+            "whatToBuy": [
+              "A souvenir photo of your experience"
+            ],
+            "safetyNotes": [
+              "Book 'Fast Track' tickets to reduce queue times, especially on weekends"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "From the highest point of the rotation",
+              "Of the Houses of Parliament across the river"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Morning/Afternoon",
+          "name": "River Thames Cruise",
+          "coordinates": {
+            "latitude": 51.5015,
+            "longitude": -0.1235
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5015,-0.1235",
+          "distanceFromPrevious": 1.02,
+          "travelTimeFromPrevious": "3 minutes",
+          "description": "See London from a different perspective on a relaxing cruise along the River Thames. These cruises offer a unique vantage point for many of London's most famous sights, including the Tower of London, Tower Bridge, Shakespeare's Globe, and the Houses of Parliament. Many tours feature live commentary, providing historical context and amusing anecdotes about the city's past and present. It's a comfortable and leisurely way to sightsee, offering a respite from walking while still covering a lot of ground.",
+          "whyVisit": "It's a relaxing way to see many of London's key landmarks without the fatigue of walking. The commentary adds a fun, educational layer to the sightseeing.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=River%20Thames%20Cruise&dates=20251109T113000/20251109T130000&details=A%20relaxing%20River%20Thames%20cruise.&location=Thames%20River%2C%20London%2C%20UK",
+          "activities": [
+            "Listen to the live commentary to learn about the sights",
+            "Get photos of Tower Bridge from the water",
+            "Enjoy a snack or drink on board"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx 20-25 EUR per person for a standard sightseeing cruise",
+            "estimatedCost": "40-50 EUR for tickets",
+            "bestTime": "Any time, but midday can offer good lighting for photos",
+            "duration": "1-1.5 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "A jacket, as it can be windy on the river"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Stay seated when the boat is docking or undocking"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Approaching Tower Bridge",
+              "With the Houses of Parliament and Big Ben in the background"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "Afternoon/Evening",
+          "name": "Sports Bar / Football Fan Store",
+          "coordinates": {
+            "latitude": 51.512,
+            "longitude": -0.1252
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.512,-0.1252",
+          "distanceFromPrevious": 1.87,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "Cap off your sports-themed trip by immersing yourselves in the live football atmosphere. Find a lively sports bar in the Covent Garden or Leicester Square area to watch a match. For a Newcastle United focus, visit the nearby classic football shirt stores to hunt for vintage jerseys. These shops are treasure troves for fans, offering kits from different eras. It's a great way to experience the passion of English football culture, whether you're watching a live game with local fans or finding a unique piece of memorabilia.",
+          "whyVisit": "A fun, relaxed way to engage with the football theme of the trip. It provides a chance to experience the contemporary fan culture and maybe find a unique souvenir.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Sports%20Bar%20%2F%20Football%20Fan%20Store&dates=20251109T150000/20251109T170000&details=Catch%20a%20live%20football%20game%20or%20explore%20a%20fan%20store%2C%20incorporating%20that%20Newcastle%20spirit!&location=Covent%20Garden%2C%20London",
+          "activities": [
+            "Watch a live Premier League match in a sports bar",
+            "Browse for vintage or current Newcastle United merchandise",
+            "Enjoy the atmosphere with local and visiting fans"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (cost of drinks/food in bar)",
+            "estimatedCost": "40-60 EUR for drinks, snacks, and any purchases",
+            "bestTime": "During a live match broadcast",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [
+              "A classic football shirt",
+              "A team scarf or other memorabilia"
+            ],
+            "safetyNotes": [
+              "Bars can be crowded during big matches"
+            ],
+            "customsEtiquette": [
+              "It's all about passionate but respectful support for your team"
+            ],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "15.5 km",
+        "spending": {
+          "Hotel": 252,
+          "Entry Fees": 110,
+          "Activities": 0,
+          "Transport": 20,
+          "Meals": 150,
+          "Shopping": 50,
+          "Daily subtotal": 582,
+          "budgetWarning": "Day 5 spending is well within the daily allocation. Weather: Cloudy with heavy rain, be prepared with waterproof jackets and shoes."
+        },
+        "remainingBudget": 16005
+      }
+    },
+    {
+      "day": 6,
+      "date": "2025-11-10",
+      "theme": "Leisurely Morning and Departure",
+      "optimizedRoute": "Wilde Aparthotels, London, Paddington → Hyde Park → Wilde Aparthotels, London, Paddington",
+      "totalDistance": 7.58,
+      "totalTravelTime": "18 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Hyde Park",
+          "coordinates": {
+            "latitude": 51.5073,
+            "longitude": -0.1657
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5073,-0.1657",
+          "distanceFromPrevious": 4.31,
+          "travelTimeFromPrevious": "10 minutes",
+          "description": "Enjoy a final, peaceful London morning with a stroll through one of the city's most famous Royal Parks. Hyde Park offers 350 acres of green space, with beautiful gardens, a large lake (the Serpentine), and numerous memorials and fountains. You can walk along the tree-lined paths, watch the swans on the lake, or simply find a bench to relax and reflect on your trip. It's a refreshing escape from the city's hustle and bustle and a perfect way to spend your last few hours before heading to the airport.",
+          "whyVisit": "A relaxing and free activity to wind down your trip. The open space is perfect for a leisurely walk and some fresh air before a long flight.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hyde%20Park&dates=20251110T090000/20251110T103000&details=Leisurely%20morning%20for%20some%20last-minute%20souvenir%20shopping%20or%20a%20peaceful%20walk%20in%20Hyde%20Park.&location=Hyde%20Park%2C%20London%2C%20UK",
+          "activities": [
+            "Walk along the Serpentine lake",
+            "Visit the Diana, Princess of Wales Memorial Fountain",
+            "See the famous Speaker's Corner"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "10-15 EUR for a coffee or snack",
+            "bestTime": "Early morning for a quiet walk",
+            "duration": "1.5 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "An umbrella, given the weather forecast"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Stay on the main paths"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "On the Serpentine Bridge with the lake in the background",
+              "In the Rose Garden"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "12:00 PM onwards",
+          "name": "Departure",
+          "coordinates": {
+            "latitude": 51.4700,
+            "longitude": -0.4543
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.4700,-0.4543",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Check out of your hotel and travel to the airport for your flight home. Depending on your flight time and airport, there are several transport options available from Paddington, including the Heathrow Express, the Elizabeth Line, or a pre-booked taxi. Ensure you allow plenty of time for check-in, security, and any last-minute duty-free shopping. Reflect on a fantastic trip filled with football, history, and magic.",
+          "whyVisit": "The final step of your journey, ensuring a smooth and timely departure.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure&dates=20251110T120000/20251110T130000&details=Head%20to%20the%20airport%20for%20your%20direct%20flight%20home.&location=Heathrow%20Airport%20(LHR)%2C%20London%2C%20UK",
+          "activities": [
+            "Check out from the hotel",
+            "Travel to the airport",
+            "Complete airline check-in and security procedures"
+          ],
+          "practicalInfo": {
+            "entryFee": "None",
+            "estimatedCost": "40-80 EUR for airport transfer",
+            "bestTime": "Leave for the airport at least 4 hours before your flight departure time",
+            "duration": "3-4 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Passports and flight tickets",
+              "All your packed luggage"
+            ],
+            "whatToBuy": [
+              "Last-minute gifts or travel essentials at the airport"
+            ],
+            "safetyNotes": [
+              "Double-check you have all your belongings before leaving the hotel",
+              "Verify your flight status before heading to the airport"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "7.58 km",
+        "spending": {
+          "Hotel": 252,
+          "Entry Fees": 0,
+          "Activities": 0,
+          "Transport": 50,
+          "Meals": 80,
+          "Shopping": 20,
+          "Daily subtotal": 402,
+          "budgetWarning": "Day 6 spending is well within the daily allocation. Weather: Cloudy with moderate rain, dress accordingly for your walk and travel."
+        },
+        "remainingBudget": 15603
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 20000,
+    "currency": "EUR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Flights (Estimated)",
+          "total_cost": 2000
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Wilde Aparthotels, London, Paddington",
+        "pricePerNight": 252,
+        "nights": 5,
+        "total": 1260
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 427
+        },
+        {
+          "day": 2,
+          "cost": 530
+        },
+        {
+          "day": 3,
+          "cost": 534
+        },
+        {
+          "day": 4,
+          "cost": 662
+        },
+        {
+          "day": 5,
+          "cost": 582
+        },
+        {
+          "day": 6,
+          "cost": 402
+        }
+      ]
+    },
+    "totalSpent": 6397,
+    "remainingBudget": 13603,
+    "budgetTips": [
+      "Use an Oyster card or contactless payment for the London Underground and buses, as it's cheaper than buying single tickets.",
+      "Look for 'meal deals' at supermarkets like Tesco or Sainsbury's for an affordable lunch on the go.",
+      "Many museums have free entry for their main collections; focus on these to save on admission fees.",
+      "Drink tap water. It's safe to drink in London, and you can refill a reusable bottle at many public fountains and cafes."
+    ]
+  },
+  "packingList": {
+    "Clothing": [
+      "Waterproof jacket or trench coat",
+      "Warm sweaters or fleece jackets",
+      "Long-sleeved shirts and t-shirts for layering",
+      "2 pairs of comfortable trousers or jeans",
+      "Smart casual outfit for evenings"
+    ],
+    "Footwear": [
+      "Comfortable, waterproof walking shoes or boots",
+      "A second pair of casual shoes"
+    ],
+    "Essentials": [
+      "Umbrella",
+      "Sunscreen (even on cloudy days)",
+      "Any personal medications",
+      "Basic first-aid kit (plasters, pain relievers)",
+      "Reusable water bottle"
+    ],
+    "Electronics": [
+      "Smartphone and portable charger/power bank",
+      "Camera with extra battery and memory card",
+      "UK-specific travel adapter (Type G)"
+    ],
+    "Documents": [
+      "Passport and UK visa",
+      "Flight tickets and hotel booking confirmations",
+      "Copy of travel insurance policy",
+      "Digital and physical copies of important documents",
+      "Emergency contact list"
+    ],
+    "Children-specific items": [
+      "Book or tablet for travel downtime",
+      "Favorite snacks from home",
+      "Headphones"
+    ]
+  },
+  "preTripChecklist": {
+    "High Priority": [
+      "Verify passport is valid for at least 6 months beyond your return date.",
+      "Apply for a UK Standard Visitor visa well in advance (required for Indian citizens).",
+      "Book international flights from Delhi (DEL) to London (LHR).",
+      "Confirm your reservation at Wilde Aparthotels.",
+      "Purchase comprehensive travel insurance covering health, trip cancellation, and luggage.",
+      "Arrange transport from Haldwani to Delhi airport."
+    ],
+    "Medium Priority": [
+      "Pre-book tickets for Warner Bros. Studio Tour, stadium tours, and the London Eye to secure your spot and potentially save money.",
+      "Exchange some currency to British Pounds (GBP) for immediate expenses, though cards are widely accepted.",
+      "Notify your bank and credit card companies of your travel dates.",
+      "Download offline Google Maps for London and the Transport for London (TfL) app."
+    ],
+    "Low Priority": [
+      "Learn a few basic British phrases (e.g., 'cheers' for thank you, 'loo' for toilet).",
+      "Research local SIM card options or international roaming plans.",
+      "Make digital copies of your passport and visa and save them to a secure cloud service.",
+      "Share your completed itinerary with a family member or friend back home."
+    ]
+  }
+}
