@@ -1,0 +1,917 @@
+{
+  "tripOverview": {
+    "destination": "London, UK",
+    "startDate": "2025-11-07",
+    "endDate": "2025-11-10",
+    "duration": "3 nights, 4 days",
+    "companions": "2 adults, 0 children",
+    "tripType": "Cultural and Historic City Exploration",
+    "currency": "GBP"
+  },
+  "mode_of_transport": {
+    "flight": {
+      "destination": "London, UK (Heathrow - LHR or Gatwick - LGW)",
+      "Approx_cost": "700 GBP",
+      "Approx_time_of_flight(duration)": "9-10 hours",
+      "Nearest_airport_from_current_destination": "Indira Gandhi International Airport, Delhi (DEL)",
+      "Nearest_airport_from_visiting_destination": "London Heathrow (LHR) or Gatwick (LGW)",
+      "Stops": "Direct flights are commonly available, though some routes may include one stop in the Middle East or Europe."
+    }
+  },
+  "hotel": {
+    "name": "citizenM Tower of London",
+    "rating": 4.6,
+    "reviews": 4905,
+    "pricePerNight": "157 GBP",
+    "totalCost": "471 GBP",
+    "bookingLink": "https://www.marriott.com/en-us/hotels/lontl-citizenm-tower-of-london/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "coordinates": {
+      "latitude": 51.5102183,
+      "longitude": -0.07644419999999999
+    },
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Bar",
+      "Restaurant",
+      "Accessible"
+    ],
+    "description": "Trendy, colourful rooms in a streamlined hotel with a relaxed lounge and an upscale bar, located conveniently next to the Tower of London.",
+    "thumbnails": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxSlD_sHQqQ51qvlzW4GAnq-0jKnrOdWqQ0htPrZpEg1MJ4-V3zt0SyLu_6eF2UdWuX0rfgHTC2jWw-aTVAymkIA8D9bXT4MIJDocVmt8t6o1ClI-uMVFRqCpO_DSgln1HLVKnSsGFiVps=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzBOQK4LmUKrkUbPETHWa_u6NMpkGaZpMfw-5Ix3Wvh6jhPrBc1i1lt-svtWS-NwKiQ2ovHIkOdIX-Py0keCGI2wAQ6OmemFioell2MWXsRdgvf2fmzTmetTsXc0ZVIyMNaj5t3_w=s287-w287-h192-n-k-no-v1",
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSx8Bho6U4I0dCSbzS7wFqXzJmdP1fDnzBr99K-89L-LA8EWl9XwLDeHF8lVO5_dFYaQ8Di4ilXQzCPU2nwzYQEpZyWKVXwnSHkJP6YrDByELomin3XrEDVycVLj5DSrMErGU6HFIw=s287-w287-h192-n-k-no-v1"
+    ]
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-07",
+      "theme": "Royal London & West End Lights",
+      "optimizedRoute": "citizenM Tower of London → Trafalgar Square & National Gallery → St. James's area → Buckingham Palace → Piccadilly Circus → citizenM Tower of London",
+      "totalDistance": 12.7,
+      "totalTravelTime": "45 minutes",
+      "estimated": false,
+      "weather": "High 14.5°C, Low 12.1°C. Light rain possible (0.7mm). Overcast. Pack an umbrella and a light waterproof jacket.",
+      "places": [
+        {
+          "timeOfDay": "3:00 PM - 4:00 PM",
+          "name": "Hotel Check-in at citizenM Tower of London",
+          "coordinates": {
+            "latitude": 51.5102183,
+            "longitude": -0.0764442
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5102183,-0.0764442",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Arrive and settle into your modern, centrally located hotel. The citizenM brand is known for its smart, compact rooms and vibrant social spaces. Take a moment to freshen up before heading out to explore the city.",
+          "whyVisit": "A comfortable and stylish base for your London adventure, perfectly situated to minimize travel time to many of the key attractions on your itinerary.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hotel%20Check-in%20at%20citizenM%20Tower%20of%20London&dates=20251107T150000/20251107T160000&details=Arrive%20and%20settle%20into%20your%20hotel.&location=citizenM%20Tower%20of%20London",
+          "activities": [
+            "Complete the check-in process.",
+            "Unpack your essentials for the evening.",
+            "Connect to the hotel's free Wi-Fi to download offline maps."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "0 GBP",
+            "bestTime": "As per your arrival.",
+            "duration": "1 hour"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "4:30 PM - 5:30 PM",
+          "name": "Trafalgar Square & National Gallery (Exterior)",
+          "coordinates": {
+            "latitude": 51.508,
+            "longitude": -0.1281
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.508,-0.1281",
+          "distanceFromPrevious": 4,
+          "travelTimeFromPrevious": "25 minutes by Tube",
+          "description": "Trafalgar Square is one of London's most famous public spaces, a vibrant hub of culture and history. Dominated by Nelson's Column and guarded by four bronze lions, it's a popular spot for photos, events, and people-watching. Admire the grand architecture of the National Gallery from the outside, and see the iconic fountains and statues that define this quintessential London landmark.",
+          "whyVisit": "It's the perfect introduction to the grandeur of London's public spaces and architecture. The lively atmosphere provides an immediate immersion into the city's energy.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Trafalgar%20Square%20%26%20National%20Gallery%20(exterior)&dates=20251107T163000/20251107T173000&details=Explore%20one%20of%20London's%20most%20famous%20public%20squares.&location=Trafalgar%20Square,%20London",
+          "activities": [
+            "Take photos with Nelson's Column and the lion statues.",
+            "View the facade of the National Gallery and the church of St Martin-in-the-Fields.",
+            "Observe the street performers and the general buzz of the square."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free to enter the square.",
+            "estimatedCost": "5-10 GBP for Tube fare.",
+            "bestTime": "Late afternoon as the city lights begin to turn on.",
+            "duration": "1 hour"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Comfortable shoes"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be mindful of your belongings in crowded areas.",
+              "Watch out for traffic around the square."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "On the steps of the National Gallery overlooking the square.",
+              "At the base of one of the lion statues."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "5:30 PM - 6:30 PM",
+          "name": "Buckingham Palace (Exterior View)",
+          "coordinates": {
+            "latitude": 51.5014,
+            "longitude": -0.1419
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5014,-0.1419",
+          "distanceFromPrevious": 1.5,
+          "travelTimeFromPrevious": "15 minutes walk through St. James's Park",
+          "description": "As the official residence of the monarch, Buckingham Palace is one of the most recognizable buildings in the world. Stroll down The Mall, the grand processional route, to arrive at the iconic gates. While tours are not available this time of year, the exterior itself is a magnificent sight. Witness the famous King's Guard in their red tunics and bearskin hats, a symbol of British pageantry and tradition.",
+          "whyVisit": "A must-see London landmark, offering a glimpse into the heart of the British monarchy and a perfect photo opportunity.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Buckingham%20Palace%20(Exterior%20View)&dates=20251107T173000/20251107T183000&details=View%20the%20official%20residence%20of%20the%20monarch.&location=Buckingham%20Palace,%20London",
+          "activities": [
+            "Walk along The Mall for a grand approach to the palace.",
+            "Take photos in front of the palace gates and the Victoria Memorial.",
+            "Watch the guards on duty (note: the full Changing of the Guard ceremony happens in the morning)."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free for exterior viewing.",
+            "estimatedCost": "0 GBP",
+            "bestTime": "Dusk provides a beautiful light for photography.",
+            "duration": "1 hour"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Do not touch or distract the guards on duty."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Directly in front of the main gates.",
+              "From the steps of the Victoria Memorial for a wider shot."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM - 9:00 PM",
+          "name": "Dinner in St. James's or Piccadilly",
+          "coordinates": {
+            "latitude": 51.508,
+            "longitude": -0.135
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.508,-0.135",
+          "distanceFromPrevious": 1.6,
+          "travelTimeFromPrevious": "15 minutes walk",
+          "description": "The areas of St. James's and Piccadilly offer a fantastic range of dining options, from historic pubs to upscale restaurants. This is your first evening, so immerse yourself in London's culinary scene. Whether you're looking for traditional British fare like fish and chips or something more international, you'll find it here. The ambiance is refined and quintessentially London.",
+          "whyVisit": "Experience classic London dining in an area known for its quality and history, setting a perfect tone for your trip.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Dinner%20in%20St.%20James's%20or%20Piccadilly&dates=20251107T190000/20251107T210000&details=Enjoy%20your%20first%20dinner%20in%20London.&location=St.%20James's,%20London",
+          "activities": [
+            "Choose a restaurant based on your preference (e.g., The Wolseley for grand cafe dining, or a traditional pub).",
+            "Enjoy a relaxing meal after your first afternoon of exploration.",
+            "Soak in the atmosphere of London's West End at night."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "80-150 GBP for two for dinner.",
+            "bestTime": "N/A",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Reservations are recommended for popular restaurants, especially on a Friday night."
+            ],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "9:00 PM - 9:30 PM",
+          "name": "Piccadilly Circus at Night",
+          "coordinates": {
+            "latitude": 51.5101,
+            "longitude": -0.1361
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5101,-0.1361",
+          "distanceFromPrevious": 0.5,
+          "travelTimeFromPrevious": "5 minutes walk",
+          "description": "End your day by experiencing the dazzling lights of Piccadilly Circus. Famous for its giant, illuminated advertising screens and the Shaftesbury Memorial Fountain (often mistaken for Eros), this is London's version of Times Square. It's a bustling junction where the West End's entertainment district comes alive, full of energy, theatres, shops, and restaurants.",
+          "whyVisit": "A truly iconic London experience, witnessing the vibrant, electric atmosphere of the city's heart after dark is unforgettable.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Piccadilly%20Circus%20at%20Night&dates=20251107T210000/20251107T213000&details=Experience%20the%20dazzling%20lights%20of%20Piccadilly%20Circus.&location=Piccadilly%20Circus,%20London",
+          "activities": [
+            "Marvel at the huge electronic billboards.",
+            "Take photos by the famous fountain.",
+            "Absorb the high energy of this famous London intersection."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free.",
+            "estimatedCost": "0 GBP",
+            "bestTime": "After dark for the full effect of the lights.",
+            "duration": "30 minutes"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "It's a very busy area; stay aware of your surroundings."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "In front of the illuminated screens.",
+              "On the steps of the Shaftesbury Memorial Fountain."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "12.7 km",
+        "spending": {
+          "Hotel": "157 GBP",
+          "Entry Fees": "0 GBP",
+          "Activities": "0 GBP",
+          "Transport": "10 GBP",
+          "Meals": "100 GBP",
+          "Shopping": "0 GBP",
+          "total": "267 GBP"
+        },
+        "remainingBudget": "14241 GBP"
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-08",
+      "theme": "Museums, Markets & Shopping",
+      "optimizedRoute": "citizenM Tower of London → Covent Garden → British Museum → Regent Street → Oxford Street → citizenM Tower of London",
+      "totalDistance": 13.5,
+      "totalTravelTime": "50 minutes",
+      "estimated": false,
+      "weather": "High 13°C, Low 7.5°C. No rain expected. Mostly cloudy with good sunshine. A great day for walking.",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "British Museum",
+          "coordinates": {
+            "latitude": 51.5194,
+            "longitude": -0.126
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5194,-0.126",
+          "distanceFromPrevious": 4.2,
+          "travelTimeFromPrevious": "20 minutes by Tube",
+          "description": "Home to a vast collection of world art and artifacts, the British Museum is an unmissable cultural institution. Its permanent collection, numbering some 8 million works, is among the largest and most comprehensive in existence. Marvel at the Rosetta Stone, the Parthenon sculptures, and the Egyptian mummies. The museum's Great Court, with its magnificent glass roof, is an architectural wonder in itself.",
+          "whyVisit": "It offers an unparalleled journey through human history and culture. As entry is free, it's an incredible opportunity to see world-famous treasures up close.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=British%20Museum&dates=20251108T090000/20251108T120000&details=Explore%20world%20art%20and%20artifacts.&location=British%20Museum,%20London",
+          "activities": [
+            "Visit the Rosetta Stone in the Egyptian Sculpture Gallery.",
+            "Explore the Egyptian mummies exhibit.",
+            "See the Parthenon Marbles (Elgin Marbles).",
+            "Look up and admire the Great Court's glass ceiling."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free for permanent collections. Some special exhibitions may have a fee.",
+            "estimatedCost": "5-15 GBP for a donation or guide book.",
+            "bestTime": "Early morning to avoid the biggest crowds.",
+            "duration": "3 hours recommended"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes",
+              "Water bottle"
+            ],
+            "whatToBuy": [
+              "A museum guidebook or a souvenir related to your favorite exhibit."
+            ],
+            "safetyNotes": [
+              "The museum can be very crowded; agree on a meeting point if you get separated."
+            ],
+            "customsEtiquette": [
+              "Photography without flash is generally allowed.",
+              "Keep your voice low in the galleries."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Great Court.",
+              "In front of the Rosetta Stone."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "12:00 PM - 1:00 PM",
+          "name": "Lunch near British Museum",
+          "coordinates": {
+            "latitude": 51.518,
+            "longitude": -0.125
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.518,-0.125",
+          "distanceFromPrevious": 0.5,
+          "travelTimeFromPrevious": "5 minutes walk",
+          "description": "The area around the British Museum is filled with charming pubs, cafes, and restaurants. From traditional pub lunches to international cuisine in the nearby neighborhoods of Bloomsbury or Fitzrovia, there are plenty of options to refuel after a morning of history.",
+          "whyVisit": "A convenient and tasty break before your afternoon activities, offering a chance to experience London's diverse lunch scene.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Lunch%20near%20British%20Museum&dates=20251108T120000/20251108T130000&details=Refuel%20after%20a%20morning%20of%20history.&location=Bloomsbury,%20London",
+          "activities": [
+            "Find a traditional pub for pie and mash or fish and chips.",
+            "Explore the small streets for independent cafes.",
+            "Relax and plan your afternoon."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "40-60 GBP for two.",
+            "bestTime": "N/A",
+            "duration": "1 hour"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "1:00 PM - 3:00 PM",
+          "name": "Covent Garden",
+          "coordinates": {
+            "latitude": 51.5129,
+            "longitude": -0.1276
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5129,-0.1276",
+          "distanceFromPrevious": 1.6,
+          "travelTimeFromPrevious": "15 minutes walk",
+          "description": "Covent Garden is a world-famous district known for its vibrant market, high-end boutiques, and captivating street performers. The central Apple Market features unique crafts and antiques, while the surrounding piazza is home to the Royal Opera House and numerous shops and restaurants. The atmosphere is always lively, with classical musicians and magicians entertaining the crowds.",
+          "whyVisit": "It's the heart of London's entertainment district, offering a perfect blend of shopping, culture, and free entertainment in a beautiful historic setting.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Covent%20Garden&dates=20251108T130000/20251108T150000&details=Explore%20the%20vibrant%20market%20and%20watch%20street%20performers.&location=Covent%20Garden,%20London",
+          "activities": [
+            "Watch the street performers in the piazza.",
+            "Browse the craft stalls in the Apple Market.",
+            "Explore the unique shops in Neal's Yard.",
+            "Visit the London Transport Museum (optional, requires ticket)."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free to explore.",
+            "estimatedCost": "User-dependent (shopping).",
+            "bestTime": "Afternoon when the area is at its most vibrant.",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash for tipping street performers if you enjoy their show."
+            ],
+            "whatToBuy": [
+              "Handmade crafts from the market.",
+              "Specialty teas from Whittard of Chelsea."
+            ],
+            "safetyNotes": [
+              "Keep an eye on your belongings in the dense crowds."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main market building.",
+              "The colourful Neal's Yard."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "3:00 PM - 5:00 PM",
+          "name": "Oxford Street & Regent Street (Shopping)",
+          "coordinates": {
+            "latitude": 51.5155,
+            "longitude": -0.1415
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5155,-0.1415",
+          "distanceFromPrevious": 1.5,
+          "travelTimeFromPrevious": "15 minutes walk",
+          "description": "Dive into London's premier shopping district. Oxford Street is Europe's busiest shopping street, with over 300 shops, including major department stores like Selfridges. Just around the corner, the elegant curve of Regent Street offers more upmarket brands and the world-famous Hamleys toy store. Even if you're just window shopping, the energy and scale of the area are impressive.",
+          "whyVisit": "This is the epicenter of London shopping, offering everything from high-street fashion to luxury goods. It's a key part of the modern London experience.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Oxford%20Street%20%26%20Regent%20Street%20(Shopping)&dates=20251108T150000/20251108T170000&details=Explore%20London's%20premier%20shopping%20district.&location=Oxford%20Street,%20London",
+          "activities": [
+            "Visit iconic department stores like Selfridges or Liberty London.",
+            "Browse high-street fashion brands on Oxford Street.",
+            "Walk down the gracefully curving Regent Street."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "User-dependent.",
+            "bestTime": "Weekdays are slightly less crowded than weekends.",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Reusable shopping bag."
+            ],
+            "whatToBuy": [
+              "British fashion brands, souvenirs from department stores."
+            ],
+            "safetyNotes": [
+              "The streets and stores can be extremely crowded."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The curve of Regent Street.",
+              "The impressive window displays of Selfridges."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "5:00 PM - 7:00 PM",
+          "name": "Farewell Dinner",
+          "coordinates": {
+            "latitude": 51.511,
+            "longitude": -0.13
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.511,-0.13",
+          "distanceFromPrevious": 1.0,
+          "travelTimeFromPrevious": "10 minutes walk",
+          "description": "For your final dinner, choose from the incredible variety of restaurants in Soho or Covent Garden. These areas are packed with culinary gems, from Michelin-starred establishments to hidden casual eateries. It's a great opportunity to try a specific cuisine you've been wanting to sample or to revisit a classic British dish.",
+          "whyVisit": "Celebrate the end of a fantastic trip with a memorable meal in one of London's most exciting and diverse dining neighborhoods.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Farewell%20Dinner&dates=20251108T170000/20251108T190000&details=Enjoy%20a%20final%20memorable%20meal.&location=Soho,%20London",
+          "activities": [
+            "Choose a restaurant in the vibrant Soho or Covent Garden area.",
+            "Reflect on your favorite moments from the trip.",
+            "Enjoy the bustling evening atmosphere of the West End."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "100-200 GBP for a special farewell dinner for two.",
+            "bestTime": "N/A",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Booking is highly recommended, especially for popular spots on a Saturday night."
+            ],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "13.5 km",
+        "spending": {
+          "Hotel": "157 GBP",
+          "Entry Fees": "0 GBP",
+          "Activities": "0 GBP",
+          "Transport": "10 GBP",
+          "Meals": "200 GBP",
+          "Shopping": "100 GBP",
+          "total": "467 GBP"
+        },
+        "remainingBudget": "13774 GBP"
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-09",
+      "theme": "Historic Towers, Bridges & Markets",
+      "optimizedRoute": "citizenM Tower of London → Tower of London → Tower Bridge → Borough Market → South Bank/Shakespeare's Globe → Covent Garden → citizenM Tower of London",
+      "totalDistance": 10.6,
+      "totalTravelTime": "40 minutes",
+      "estimated": false,
+      "weather": "High 12.5°C, Low 6.2°C. No rain expected. Partly cloudy with good sunshine. Perfect for walking along the Thames.",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Tower of London",
+          "coordinates": {
+            "latitude": 51.5081,
+            "longitude": -0.0759
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5081,-0.0759",
+          "distanceFromPrevious": 0.2,
+          "travelTimeFromPrevious": "2 minutes walk",
+          "description": "A historic castle located on the north bank of the River Thames, the Tower of London has served as a royal palace, a prison, an armoury, and even a zoo. This UNESCO World Heritage site is home to the Crown Jewels, a dazzling collection of ceremonial treasures. Join a tour led by the Yeoman Warders (Beefeaters) to hear captivating stories of its thousand-year history, from royal intrigue to imprisonment.",
+          "whyVisit": "It is one of the most important historical sites in the UK. Seeing the Crown Jewels and learning about the Tower's dramatic past is a quintessential London experience.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Tower%20of%20London&dates=20251109T090000/20251109T120000&details=Explore%20this%20historic%20castle%20and%20see%20the%20Crown%20Jewels.&location=Tower%20of%20London",
+          "activities": [
+            "View the Crown Jewels exhibit (go here first to avoid queues).",
+            "Take a Yeoman Warder tour for fascinating stories and insights.",
+            "See the famous ravens and learn about the legend that protects the Tower.",
+            "Walk the medieval walls and explore the White Tower."
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. 34 GBP per adult.",
+            "estimatedCost": "70 GBP for two for entry.",
+            "bestTime": "Right at opening time to get ahead of the crowds.",
+            "duration": "3-4 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes as there are many cobblestones and stairs."
+            ],
+            "whatToBuy": [
+              "Souvenirs from the official gift shop."
+            ],
+            "safetyNotes": [
+              "Some areas have uneven surfaces and steep stairs."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "With a Yeoman Warder.",
+              "The view of Tower Bridge from the fortress walls."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "12:00 PM - 1:00 PM",
+          "name": "Tower Bridge",
+          "coordinates": {
+            "latitude": 51.5055,
+            "longitude": -0.0754
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5055,-0.0754",
+          "distanceFromPrevious": 0.3,
+          "travelTimeFromPrevious": "5 minutes walk",
+          "description": "Often mistaken for London Bridge, Tower Bridge is one of the most iconic structures in the world. This combined bascule and suspension bridge is an engineering marvel. You can walk across the bridge at ground level for free or purchase a ticket to explore the high-level walkways, which feature a thrilling glass floor, and the Victorian Engine Rooms.",
+          "whyVisit": "An absolute must-see London icon. The view from the top walkway provides a stunning perspective of the city and the River Thames.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Tower%20Bridge&dates=20251109T120000/20251109T130000&details=Walk%20across%20London's%20most%20famous%20bridge.&location=Tower%20Bridge,%20London",
+          "activities": [
+            "Walk across the bridge and take photos.",
+            "Optional: Visit the Tower Bridge Exhibition to walk on the glass floor and see the engine rooms.",
+            "Check the bridge lift times online to potentially see it in action."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free to walk across. Approx. 13 GBP per adult for the exhibition.",
+            "estimatedCost": "26 GBP for two for the exhibition (optional).",
+            "bestTime": "Any time, but the views are particularly good on a clear day.",
+            "duration": "1 hour"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "From the middle of the bridge with the Tower of London in the background.",
+              "From the riverside near City Hall for a classic wide shot."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "1:00 PM - 3:00 PM",
+          "name": "Lunch at Borough Market",
+          "coordinates": {
+            "latitude": 51.5045,
+            "longitude": -0.0945
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5045,-0.0945",
+          "distanceFromPrevious": 1.5,
+          "travelTimeFromPrevious": "15 minutes walk across the bridge and along the South Bank",
+          "description": "Borough Market is London's most renowned food and drink market, with a history stretching back over 1,000 years. It's a feast for the senses, with countless stalls offering artisanal British and international produce. From fresh oysters and gourmet cheese toasties to spicy curries and delicious cakes, it's the perfect place to grab a diverse and high-quality lunch.",
+          "whyVisit": "To experience the vibrant, bustling atmosphere of a historic London market and sample some of the best street food the city has to offer.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Lunch%20at%20Borough%20Market&dates=20251109T130000/20251109T150000&details=Experience%20London's%20most%20famous%20food%20market.&location=Borough%20Market,%20London",
+          "activities": [
+            "Wander through the stalls and sample different foods.",
+            "Grab lunch from one of the many street food vendors.",
+            "Browse for unique food souvenirs like specialty cheeses, jams, or oils.",
+            "Visit the nearby Southwark Cathedral."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free to enter.",
+            "estimatedCost": "30-50 GBP for lunch for two.",
+            "bestTime": "It's busiest at lunchtime, which is part of the fun. Weekdays are less crowded.",
+            "duration": "1.5-2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "An appetite!",
+              "Cash, as some smaller vendors may not accept cards."
+            ],
+            "whatToBuy": [
+              "A gourmet cheese toastie from Kappacasein Dairy.",
+              "Freshly baked goods from Bread Ahead Bakery."
+            ],
+            "safetyNotes": [
+              "The market is very crowded, so be patient and aware of your surroundings."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The vibrant fruit and vegetable displays.",
+              "The iconic market entrance."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "3:00 PM - 5:00 PM",
+          "name": "South Bank Stroll & Shakespeare's Globe",
+          "coordinates": {
+            "latitude": 51.5068,
+            "longitude": -0.103
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5068,-0.103",
+          "distanceFromPrevious": 0.7,
+          "travelTimeFromPrevious": "10 minutes walk",
+          "description": "Take a scenic walk along the South Bank of the Thames, a cultural hub with fantastic views of the city skyline, including St. Paul's Cathedral. Along the way, you'll pass Shakespeare's Globe, a faithful reconstruction of the original Elizabethan playhouse. You can take photos from the outside or opt for a guided tour to learn about theatre in Shakespeare's time. The walk also takes you past the Tate Modern art gallery and the Millennium Bridge.",
+          "whyVisit": "This walk offers some of the best views in London and a chance to see several major landmarks in a short, pleasant stroll.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=South%20Bank%20Stroll%20%26%20Shakespeare's%20Globe&dates=20251109T150000/20251109T170000&details=Enjoy%20a%20scenic%20walk%20with%20views%20of%20the%20city.&location=South%20Bank,%20London",
+          "activities": [
+            "Walk along the river from Borough Market towards the London Eye.",
+            "View Shakespeare's Globe Theatre (optional tour).",
+            "Cross the Millennium Bridge for a direct view of St. Paul's Cathedral.",
+            "Enjoy the views of the city skyline."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free to walk. Globe tour is approx. 17 GBP per adult.",
+            "estimatedCost": "34 GBP for two for the Globe tour (optional).",
+            "bestTime": "Late afternoon for beautiful light on the river.",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Millennium Bridge with St. Paul's in the background.",
+              "The exterior of Shakespeare's Globe."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "5:00 PM onwards",
+          "name": "Optional: West End Show",
+          "coordinates": {
+            "latitude": 51.5115,
+            "longitude": -0.1245
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5115,-0.1245",
+          "distanceFromPrevious": 2.7,
+          "travelTimeFromPrevious": "20 minutes by Tube/Bus",
+          "description": "London's West End is synonymous with world-class theatre. Seeing a show here is a classic London experience. From long-running musicals like 'The Phantom of the Opera' and 'Les Misérables' to critically acclaimed plays, there is something for every taste. The atmosphere in the historic theatres is electric and makes for an unforgettable evening.",
+          "whyVisit": "To experience the magic of live theatre in one of the world's most famous theatre districts.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Optional%3A%20West%20End%20Show&dates=20251109T170000/20251109T220000&details=Experience%20world-class%20theatre.&location=West%20End,%20London",
+          "activities": [
+            "Choose a show based on your interests.",
+            "Enjoy a pre-theatre dinner in Covent Garden or Soho.",
+            "Immerse yourself in a spectacular performance."
+          ],
+          "practicalInfo": {
+            "entryFee": "Ticket prices vary widely, from 30 GBP to over 150 GBP per person.",
+            "estimatedCost": "100-200 GBP for two for mid-range seats.",
+            "bestTime": "Evening performances usually start around 7:30 PM.",
+            "duration": "2.5-3 hours"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [
+              "A show programme as a souvenir."
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [
+              "Arrive at least 30 minutes before the show starts.",
+              "Turn off your phone completely."
+            ],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Under the marquee of the theatre before the show."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "10.6 km",
+        "spending": {
+          "Hotel": "157 GBP",
+          "Entry Fees": "96 GBP",
+          "Activities": "150 GBP",
+          "Transport": "10 GBP",
+          "Meals": "100 GBP",
+          "Shopping": "0 GBP",
+          "total": "513 GBP"
+        },
+        "remainingBudget": "13261 GBP"
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-10",
+      "theme": "Leisurely Farewell",
+      "optimizedRoute": "N/A",
+      "totalDistance": 0,
+      "totalTravelTime": "0 minutes",
+      "estimated": false,
+      "weather": "High 10.6°C, Low 7.4°C. Moderate rain likely (6mm). Overcast. Plan for indoor activities before departure.",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 11:00 AM",
+          "name": "Leisurely Breakfast & Last-minute Souvenirs",
+          "coordinates": {
+            "latitude": 51.5102183,
+            "longitude": -0.0764442
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5102183,-0.0764442",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a relaxed final breakfast, either at the hotel or a nearby cafe. Use this time to pack your bags and purchase any last-minute souvenirs you may have missed. Given the rainy forecast, staying close to the hotel or finding a covered market or shop nearby is a good idea.",
+          "whyVisit": "A stress-free morning to wrap up your trip, ensuring you have everything packed and ready before heading to the airport.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Leisurely%20Breakfast%20%26%20Last-minute%20Souvenirs&dates=20251110T090000/20251110T110000&details=Enjoy%20a%20final%20breakfast%20and%20pack%20up.&location=citizenM%20Tower%20of%20London",
+          "activities": [
+            "Enjoy a full English breakfast.",
+            "Pack your luggage.",
+            "Visit a nearby souvenir shop for gifts."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "30-50 GBP for breakfast and 50 GBP for souvenirs.",
+            "bestTime": "N/A",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [
+              "Tea, biscuits, or small gifts."
+            ],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "11:00 AM - 12:00 PM",
+          "name": "Hotel Check-out & Departure",
+          "coordinates": {
+            "latitude": 51.5102183,
+            "longitude": -0.0764442
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5102183,-0.0764442",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Complete the check-out process at your hotel. Depending on your flight time, you may be able to store your luggage with the hotel concierge for a few hours. Plan your transport to the airport (Heathrow or Gatwick), allowing ample time for travel and airport procedures.",
+          "whyVisit": "The final step of your London journey.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hotel%20Check-out%20%26%20Departure&dates=20251110T110000/20251110T120000&details=Check%20out%20and%20head%20to%20the%20airport.&location=citizenM%20Tower%20of%20London",
+          "activities": [
+            "Settle any final bills with the hotel.",
+            "Confirm your transport to the airport (e.g., Heathrow Express, Gatwick Express, Tube, or taxi).",
+            "Begin your journey home."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "40-80 GBP for airport transfer for two.",
+            "bestTime": "Allow at least 1.5 hours to get to LHR/LGW from central London.",
+            "duration": "1 hour"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Leave for the airport at least 4 hours before your flight's departure time."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "0 km",
+        "spending": {
+          "Hotel": "0 GBP",
+          "Entry Fees": "0 GBP",
+          "Activities": "0 GBP",
+          "Transport": "60 GBP",
+          "Meals": "40 GBP",
+          "Shopping": "50 GBP",
+          "total": "150 GBP"
+        },
+        "remainingBudget": "13111 GBP"
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": "15000",
+    "currency": "GBP",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Flights",
+          "total_cost": "700"
+        }
+      ],
+      "accommodation": {
+        "hotelName": "citizenM Tower of London",
+        "pricePerNight": "157",
+        "nights": "3",
+        "total": "471"
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 267
+        },
+        {
+          "day": 2,
+          "cost": 467
+        },
+        {
+          "day": 3,
+          "cost": 513
+        },
+        {
+          "day": 4,
+          "cost": 150
+        }
+      ]
+    },
+    "totalSpent": "2568",
+    "remainingBudget": "12432",
+    "budgetTips": [
+      "Use a contactless card or Oyster card for transport. The daily price is capped, making it cheaper than buying individual tickets.",
+      "Take advantage of free museums and galleries like the British Museum, National Gallery, and Tate Modern.",
+      "Enjoy lunch at street food markets like Borough Market for high-quality, affordable meals.",
+      "Many pubs offer reasonably priced 'pub grub' which is a great way to have a filling, traditional meal."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Waterproof jacket with a hood",
+      "Warm sweaters or fleece jackets for layering",
+      "2-3 pairs of trousers or jeans",
+      "1 smart casual outfit for dinners or a show",
+      "T-shirts and long-sleeved tops for layering"
+    ],
+    "footwear": [
+      "Comfortable, waterproof walking shoes or boots",
+      "A smarter pair of shoes for evenings (optional)"
+    ],
+    "essentials": [
+      "Umbrella",
+      "Sunscreen (even on cloudy days)",
+      "Any personal medications",
+      "Basic first-aid kit (plasters, pain relievers)",
+      "Reusable water bottle"
+    ],
+    "electronics": [
+      "Smartphone",
+      "Portable power bank",
+      "Camera and spare batteries",
+      "UK-specific travel adapter (Type G)",
+      "Chargers for all devices"
+    ],
+    "documents": [
+      "Passports and UK Visas",
+      "Flight tickets and confirmations",
+      "Hotel reservation confirmation",
+      "Travel insurance details",
+      "Digital or physical copies of important documents"
+    ],
+    "children-specific": []
+  },
+  "preTripChecklist": {
+    "highPriority": [
+      "Verify passport is valid for at least 6 months beyond your return date.",
+      "Apply for UK Standard Visitor visa well in advance (required for Indian citizens).",
+      "Book round-trip flights from Delhi (DEL) to London (LHR/LGW).",
+      "Confirm your reservation at citizenM Tower of London.",
+      "Purchase comprehensive travel insurance.",
+      "Arrange airport transfers for your arrival in London."
+    ],
+    "mediumPriority": [
+      "Pre-book tickets for the Tower of London to secure your spot.",
+      "Exchange a sufficient amount of currency to Great British Pounds (GBP) or inform your bank of your travel dates.",
+      "Download offline Google Maps for London.",
+      "Download the 'Citymapper' app for easy public transport navigation.",
+      "Research and save emergency contact numbers (local embassy, police)."
+    ],
+    "lowPriority": [
+      "Learn a few basic British phrases (e.g., 'cheers' for thank you, 'queue' for line).",
+      "Consider purchasing a local SIM card at the airport for cheaper data.",
+      "Make digital backups of your passport, visa, and tickets.",
+      "Share your detailed itinerary with a family member or friend back home."
+    ]
+  }
+}
