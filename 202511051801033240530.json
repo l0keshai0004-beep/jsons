@@ -1,0 +1,661 @@
+{
+  "tripOverview": {
+    "destination": "London, UK",
+    "startDate": "2025-11-07",
+    "endDate": "2025-11-13",
+    "duration": "6 nights",
+    "companions": "2 adults, 0 children",
+    "tripType": "Cultural and Sports Experience",
+    "currency": "GBP"
+  },
+  "mode_of_transport": {
+    "flight": {
+      "destination": "London, UK (Heathrow or Gatwick Airport)",
+      "Approx_cost": "500-800",
+      "Approx_time_of_flight(duration)": "9-10 hours",
+      "Nearest_airport_from_current_destination": "Indira Gandhi International Airport (DEL), Delhi",
+      "Nearest_airport_from_visiting_destination": "London Heathrow (LHR) or London Gatwick (LGW)",
+      "Stops": "Direct"
+    }
+  },
+  "hotel": {
+    "status": "Hotel search unavailable.",
+    "message": "Hotel search unavailable after multiple attempts. A budget of 150 GBP per night for 6 nights (Total: 900 GBP) has been allocated. Please book your accommodation separately. We recommend looking for hotels in the Covent Garden or South Bank areas for central access to attractions.",
+    "estimated": true,
+    "budget": {
+      "pricePerNight": 150,
+      "nights": 6,
+      "total": 900
+    },
+    "coordinates": {
+      "latitude": 51.5074,
+      "longitude": -0.1278
+    }
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-07",
+      "theme": "Arrival and Royal History",
+      "optimizedRoute": "Centrally Located Hotel → Westminster Abbey → Centrally Located Hotel",
+      "totalDistance": 1.94,
+      "totalTravelTime": "15 minutes",
+      "places": [
+        {
+          "timeOfDay": "3:00 PM - 5:00 PM",
+          "name": "Westminster Abbey",
+          "coordinates": {
+            "latitude": 51.4994,
+            "longitude": -0.1273
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.4994,-0.1273",
+          "distanceFromPrevious": 0.97,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "Begin your London adventure at the heart of British history, Westminster Abbey. This stunning Gothic church is a masterpiece of architecture and has been the setting for every coronation since 1066, along with sixteen royal weddings. It serves as the final resting place for over 3,300 significant figures in British history, including monarchs, poets, and scientists. As you walk through its hallowed halls, you'll feel the weight of centuries of tradition, politics, and culture. The intricate stained-glass windows, soaring vaulted ceilings, and countless memorials create an atmosphere of reverence and awe, offering a profound connection to the UK's past.",
+          "whyVisit": "As your first stop, the Abbey provides a magnificent introduction to the deep-rooted history and political significance of London. It's the perfect way to immerse yourselves in the grandeur and stories that have shaped the nation.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Westminster%20Abbey&dates=20251107T150000/20251107T170000&details=Immerse%20yourselves%20in%20history%20and%20politics.%20Explore%20the%20Abbey%2C%20learn%20about%20its%20significance.&location=Westminster%20Abbey%2C%20London%2C%20UK",
+          "activities": [
+            "Take a guided tour or use an audio guide to discover the tombs of figures like Queen Elizabeth I and Sir Isaac Newton.",
+            "Visit the Coronation Chair, one of the most famous pieces of furniture in the world.",
+            "Admire the architectural details of the Lady Chapel and the Chapter House."
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. 29 GBP per adult when booked online",
+            "estimatedCost": "80-100 GBP for two people including tickets, transport, and a nearby snack",
+            "bestTime": "Late afternoon on weekdays to avoid the largest tour groups.",
+            "duration": "1.5-2 hours recommended"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes",
+              "Camera (check photography rules inside)",
+              "A light jacket"
+            ],
+            "whatToBuy": [
+              "A detailed guidebook from the Abbey shop",
+              "Commemorative coins or ornaments"
+            ],
+            "safetyNotes": [
+              "Be aware of your surroundings in crowded areas.",
+              "Floors can be uneven, so watch your step."
+            ],
+            "customsEtiquette": [
+              "Dress respectfully as it is a place of worship.",
+              "Maintain a quiet and respectful demeanor inside.",
+              "Photography may be restricted in certain areas."
+            ],
+            "bookingRequired": true,
+            "photoSpots": [
+              "The West Door exterior for a classic shot.",
+              "The Cloisters for atmospheric photos.",
+              "The view from across the street near the Supreme Court."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Cloudy with light rain. High 15°C, Low 12°C. Bring an umbrella.",
+        "spending": {
+          "Hotel": 150,
+          "Entry Fees": "58 GBP (for 2 adults)",
+          "Activities": "0 GBP",
+          "Transport": "15 GBP (Daily Travelcard estimate)",
+          "Meals": "80 GBP",
+          "Shopping": "20 GBP"
+        },
+        "dailyTotal": 323,
+        "remainingBudget": 13777
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-08",
+      "theme": "Football Mecca",
+      "optimizedRoute": "Centrally Located Hotel → Wembley Stadium → Centrally Located Hotel",
+      "totalDistance": 38.92,
+      "totalTravelTime": "1 hour 10 minutes",
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 12:00 PM",
+          "name": "Wembley Stadium Tour",
+          "coordinates": {
+            "latitude": 51.556,
+            "longitude": -0.2795
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.556,-0.2795",
+          "distanceFromPrevious": 17.98,
+          "travelTimeFromPrevious": "35 minutes",
+          "description": "Experience the magic of the UK's most famous sports and music venue, Wembley Stadium. The tour offers an exclusive behind-the-scenes look at the home of English football. You'll get to walk in the footsteps of legends as you visit the England team's changing rooms, sit in the manager's hot seat in the press room, and even walk out of the players' tunnel towards the hallowed pitch. The sheer scale of the stadium and its iconic arch is breathtaking. The tour also includes a visit to the Royal Box, where you can hold a replica of the FA Cup, creating a memorable photo opportunity for any football fan.",
+          "whyVisit": "This is a must-do for sports enthusiasts, offering an immersive dive into the history and grandeur of English football at one of the world's most iconic stadiums.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Wembley%20Stadium%20Tour&dates=20251108T093000/20251108T120000&details=Dive%20into%20football%20history.%20Guided%20tour%20of%20the%20iconic%20stadium%2C%20including%20changing%20rooms%20and%20pitchside.&location=Wembley%20Stadium%2C%20London%2C%20UK",
+          "activities": [
+            "Explore the players' changing rooms and imagine the pre-match tension.",
+            "Walk through the players' tunnel towards the pitch.",
+            "Take a photo with a replica of the FA Cup in the Royal Box.",
+            "Visit the exhibition showcasing the stadium's historic moments."
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. 25 GBP per adult",
+            "estimatedCost": "90-110 GBP for two people including tickets, transport, and merchandise",
+            "bestTime": "The first tour of the morning is often the least crowded.",
+            "duration": "75-90 minutes"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Your favourite team's scarf for photos",
+              "A fully charged phone/camera."
+            ],
+            "whatToBuy": [
+              "Personalised merchandise from the stadium store.",
+              "A souvenir photo of you with the FA Cup replica."
+            ],
+            "safetyNotes": [
+              "The tour involves a fair amount of walking and stairs.",
+              "Follow the guide's instructions at all times."
+            ],
+            "customsEtiquette": [
+              "Be respectful of the facilities.",
+              "Don't touch the pitch grass."
+            ],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Pitchside from the manager's technical area.",
+              "Inside the players' tunnel.",
+              "Holding the FA Cup replica in the Royal Box."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Partly cloudy. High 13°C, Low 8°C. Good day for being outdoors.",
+        "spending": {
+          "Hotel": 150,
+          "Entry Fees": "50 GBP (for 2 adults)",
+          "Activities": "0 GBP",
+          "Transport": "20 GBP (Travelcard covering Wembley's zone)",
+          "Meals": "100 GBP",
+          "Shopping": "50 GBP"
+        },
+        "dailyTotal": 370,
+        "remainingBudget": 13407
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-09",
+      "theme": "Culinary Exploration",
+      "optimizedRoute": "Centrally Located Hotel → Borough Market → Centrally Located Hotel",
+      "totalDistance": 6.86,
+      "totalTravelTime": "25 minutes",
+      "places": [
+        {
+          "timeOfDay": "10:00 AM - 12:00 PM",
+          "name": "Borough Market",
+          "coordinates": {
+            "latitude": 51.5055,
+            "longitude": -0.0913
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5055,-0.0913",
+          "distanceFromPrevious": 3.42,
+          "travelTimeFromPrevious": "12 minutes",
+          "description": "Dive into a vibrant world of culinary delights at Borough Market, London's most renowned food and drink market. With a history stretching back over 1,000 years, this bustling hub is a feast for the senses. Under the Victorian wrought-iron roof, you'll find a labyrinth of stalls offering an incredible array of artisanal foods. From gourmet cheeses and freshly baked bread to exotic street food and organic produce, the market showcases the best of British and international cuisine. The atmosphere is electric, filled with the chatter of vendors, the sizzle of cooking, and the aromas of spices, coffee, and grilled meats.",
+          "whyVisit": "This is the perfect experience for food lovers to indulge their senses. It offers a chance to sample a wide variety of high-quality foods and experience a lively, authentic slice of London life.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Borough%20Market&dates=20251109T100000/20251109T120000&details=Indulge%20in%20culinary%20delights%2C%20sampling%20local%20foods.%20Explore%20food%20stalls%2C%20try%20street%20food%2C%20buy%20local%20produce.&location=Borough%20Market%2C%20London%2C%20UK",
+          "activities": [
+            "Sample artisanal cheeses, cured meats, and olives from various traders.",
+            "Enjoy a delicious lunch from one of the many street food stalls – options range from gourmet grilled cheese to Ethiopian stew.",
+            "Browse the stalls for unique foodie souvenirs like specialty jams, oils, or teas."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "50-70 GBP for a generous lunch and some treats for two",
+            "bestTime": "Go on a weekday morning to avoid the intense weekend crowds.",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "An empty stomach!",
+              "Cash, as some smaller stalls may not accept cards.",
+              "A reusable bag for your purchases."
+            ],
+            "whatToBuy": [
+              "A salt beef sandwich from one of the dedicated stalls.",
+              "A selection of British cheeses.",
+              "Freshly baked goods from Bread Ahead bakery."
+            ],
+            "safetyNotes": [
+              "The market can get very crowded; keep your belongings secure.",
+              "Be mindful of your surroundings."
+            ],
+            "customsEtiquette": [
+              "It's polite to ask before sampling items.",
+              "Don't block the narrow walkways."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The colourful fruit and vegetable displays.",
+              "The action at a busy street food stall.",
+              "The market's iconic ironwork structure."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Partly cloudy. High 13°C, Low 6°C. Another pleasant day.",
+        "spending": {
+          "Hotel": 150,
+          "Entry Fees": "0 GBP",
+          "Activities": "0 GBP",
+          "Transport": "15 GBP",
+          "Meals": "70 GBP (Lunch at market, lighter dinner)",
+          "Shopping": "40 GBP"
+        },
+        "dailyTotal": 275,
+        "remainingBudget": 13132
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-10",
+      "theme": "Royal Residence and Parkland",
+      "optimizedRoute": "Centrally Located Hotel → Buckingham Palace → Centrally Located Hotel",
+      "totalDistance": 2.72,
+      "totalTravelTime": "15 minutes",
+      "places": [
+        {
+          "timeOfDay": "10:00 AM - 11:00 AM",
+          "name": "Buckingham Palace",
+          "coordinates": {
+            "latitude": 51.5014,
+            "longitude": -0.1419
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5014,-0.1419",
+          "distanceFromPrevious": 1.54,
+          "travelTimeFromPrevious": "6 minutes",
+          "description": "Stand before one of the world's most recognizable buildings, Buckingham Palace. As the official London residence of the United Kingdom's monarchs since 1837, it is a symbol of the British monarchy. While entry to the State Rooms is only available in the summer, the exterior itself is a magnificent sight. Witness the famous balcony where the Royal Family appears on momentous occasions. The palace is guarded by the King's Guard, whose famous red tunics and bearskin hats are an iconic image. The Changing of the Guard ceremony (check schedule, as it's not daily in November) is a display of British pageantry. After viewing the palace, take a stroll through the beautiful St. James's Park.",
+          "whyVisit": "A quintessential London experience, offering a glimpse into the heart of the monarchy and a chance to witness iconic British pageantry, followed by a relaxing walk in a beautiful Royal Park.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Buckingham%20Palace&dates=20251110T100000/20251110T110000&details=Witness%20the%20grandeur%20(outside)%20and%20enjoy%20a%20peaceful%20walk.%20See%20the%20palace%20facade%2C%20walk%20through%20St.%20James's%20Park.&location=Buckingham%20Palace%2C%20London%2C%20UK",
+          "activities": [
+            "Take photos in front of the iconic palace gates and the Victoria Memorial.",
+            "Check the schedule for the Changing of the Guard ceremony for a spectacular display of military precision.",
+            "Enjoy a peaceful walk through St. James's Park, feeding the squirrels and enjoying the views back towards the palace."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free to view from the outside.",
+            "estimatedCost": "15-25 GBP for transport and a coffee in the park.",
+            "bestTime": "Around 10:30 AM if the Changing of the Guard is scheduled, otherwise any time.",
+            "duration": "1-1.5 hours (including park walk)"
+          },
+          "tips": {
+            "whatToBring": [
+              "An umbrella, as moderate rain is forecast.",
+              "A good camera for capturing the scale of the palace.",
+              "Comfortable shoes for walking in the park."
+            ],
+            "whatToBuy": [
+              "Royal-themed souvenirs from nearby shops.",
+              "Roasted nuts from a park vendor."
+            ],
+            "safetyNotes": [
+              "Crowds can be large, especially during the guard change; be mindful of your belongings.",
+              "Use designated pedestrian crossings."
+            ],
+            "customsEtiquette": [
+              "Do not obstruct the guards' path.",
+              "Be respectful of the Royal residence."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Directly in front of the main gates.",
+              "From the Victoria Memorial for a raised perspective.",
+              "From the bridge over the lake in St. James's Park with the palace in the background."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Overcast with moderate rain. High 11°C, Low 7°C. A day for waterproofs.",
+        "spending": {
+          "Hotel": 150,
+          "Entry Fees": "0 GBP",
+          "Activities": "0 GBP",
+          "Transport": "15 GBP",
+          "Meals": "90 GBP",
+          "Shopping": "30 GBP"
+        },
+        "dailyTotal": 285,
+        "remainingBudget": 12847
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-11",
+      "theme": "Medieval Fortress and Crown Jewels",
+      "optimizedRoute": "Centrally Located Hotel → Tower of London → Centrally Located Hotel",
+      "totalDistance": 8.52,
+      "totalTravelTime": "30 minutes",
+      "places": [
+        {
+          "timeOfDay": "9:30 AM - 1:00 PM",
+          "name": "Tower of London",
+          "coordinates": {
+            "latitude": 51.5081,
+            "longitude": -0.0759
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5081,-0.0759",
+          "distanceFromPrevious": 4.26,
+          "travelTimeFromPrevious": "15 minutes",
+          "description": "Explore one of the most famous fortresses in the world, the Tower of London. With a history steeped in power, intrigue, and imprisonment, this UNESCO World Heritage site has served as a royal palace, a prison, an armoury, and even a zoo. Your visit will be brought to life by the Yeoman Warders (or 'Beefeaters'), who share captivating stories of its past. The highlight for many is the Jewel House, home to the spectacular Crown Jewels, a dazzling collection of over 23,000 gemstones. You can also explore the White Tower, the oldest part of the fortress, see the legendary ravens, and walk the medieval battlements for fantastic views of the River Thames and Tower Bridge.",
+          "whyVisit": "This is a cornerstone of London's history, offering a fascinating journey through centuries of royal drama, mystery, and tradition, topped off by the breathtaking sight of the Crown Jewels.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Tower%20of%20London&dates=20251111T093000/20251111T130000&details=Uncovering%20centuries%20of%20royal%20intrigue.%20Explore%20the%20White%20Tower%2C%20see%20the%20Crown%20Jewels%2C%20meet%20the%20Yeoman%20Warders.&location=Tower%20of%20London%2C%20London%2C%20UK",
+          "activities": [
+            "Join a Yeoman Warder tour for an entertaining and informative history lesson.",
+            "Marvel at the Crown Jewels, including the Imperial State Crown.",
+            "Visit the White Tower to see the Royal Armouries collection.",
+            "Look for the famous ravens – legend says the kingdom will fall if they leave."
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. 34 GBP per adult when booked online.",
+            "estimatedCost": "110-130 GBP for two including tickets, transport, and a snack.",
+            "bestTime": "Arrive right at opening to see the Crown Jewels before the queues build up.",
+            "duration": "3-4 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes, as there are many cobblestones and stairs.",
+              "A bottle of water.",
+              "A portable charger for your phone."
+            ],
+            "whatToBuy": [
+              "A raven-themed souvenir.",
+              "A book on the history of the Tower."
+            ],
+            "safetyNotes": [
+              "Some staircases are narrow and steep.",
+              "Keep an eye on children, especially on the battlements."
+            ],
+            "customsEtiquette": [
+              "Listen attentively during the Yeoman Warder tours.",
+              "Follow instructions in the Jewel House (e.g., no photography)."
+            ],
+            "bookingRequired": true,
+            "photoSpots": [
+              "With a Yeoman Warder (ask politely).",
+              "On the battlements with Tower Bridge in the background.",
+              "The exterior of the White Tower."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Cloudy. High 11°C, Low 6°C. No rain expected, good for exploring.",
+        "spending": {
+          "Hotel": 150,
+          "Entry Fees": "68 GBP (for 2 adults)",
+          "Activities": "0 GBP",
+          "Transport": "15 GBP",
+          "Meals": "100 GBP",
+          "Shopping": "30 GBP"
+        },
+        "dailyTotal": 363,
+        "remainingBudget": 12484
+      }
+    },
+    {
+      "day": 6,
+      "date": "2025-11-12",
+      "theme": "Blue is the Colour",
+      "optimizedRoute": "Centrally Located Hotel → Stamford Bridge Stadium → Centrally Located Hotel",
+      "totalDistance": 12.12,
+      "totalTravelTime": "40 minutes",
+      "places": [
+        {
+          "timeOfDay": "10:00 AM - 12:30 PM",
+          "name": "Stamford Bridge (Chelsea FC) Stadium Tour",
+          "coordinates": {
+            "latitude": 51.4817,
+            "longitude": -0.191
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.4817,-0.191",
+          "distanceFromPrevious": 6.26,
+          "travelTimeFromPrevious": "20 minutes",
+          "description": "Continue your football pilgrimage with a visit to Stamford Bridge, the historic home of Chelsea Football Club. This tour offers a different perspective from Wembley, providing an intimate look at a Premier League club's daily operations. You'll gain access to areas normally reserved for players and officials, including the dressing rooms, the press room, and the players' tunnel. A highlight is walking out pitchside and imagining the roar of 40,000 fans. The tour also includes entry to the Chelsea FC Museum, which showcases the club's illustrious history and impressive trophy cabinet, including the coveted Champions League trophies.",
+          "whyVisit": "An essential visit for any Chelsea fan and a fascinating experience for general football lovers, offering a detailed, behind-the-scenes look at one of the world's top football clubs.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Stamford%20Bridge%20(Chelsea%20FC)%20Stadium%20Tour&dates=20251112T100000/20251112T123000&details=Enjoy%20another%20football%20experience.%20Guided%20tour%20of%20Chelsea%20FC's%20home%20ground%2C%20including%20museum%20access.&location=Stamford%20Bridge%2C%20London%2C%20UK",
+          "activities": [
+            "Sit in the home and away dressing rooms.",
+            "Take the manager's seat in the press conference room.",
+            "Explore the extensive trophy collection in the museum.",
+            "Walk pitchside and sit in the dugout."
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. 28 GBP per adult for the tour and museum.",
+            "estimatedCost": "100-120 GBP for two including tickets, transport, and merchandise.",
+            "bestTime": "Book the first or last tour of the day for a smaller group experience.",
+            "duration": "Tour is about 1 hour, plus 1 hour for the museum."
+          },
+          "tips": {
+            "whatToBring": [
+              "A Chelsea FC jersey or scarf if you're a fan.",
+              "Comfortable shoes for walking around the stadium.",
+              "An umbrella for the short walk from the station (very light rain forecast)."
+            ],
+            "whatToBuy": [
+              "Official merchandise from the Megastore.",
+              "A personalised souvenir photo from the tour."
+            ],
+            "safetyNotes": [
+              "Stay with your tour group and follow the guide's instructions.",
+              "Some areas may have restricted access."
+            ],
+            "customsEtiquette": [
+              "Be respectful of the club's home ground.",
+              "Rival team colours are generally accepted but be sensible."
+            ],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Behind the news desk in the press room.",
+              "By the pitch from the dugout.",
+              "With the trophies in the museum."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Cloudy with very light rain. High 11°C, Low 6°C.",
+        "spending": {
+          "Hotel": 150,
+          "Entry Fees": "56 GBP (for 2 adults)",
+          "Activities": "0 GBP",
+          "Transport": "15 GBP",
+          "Meals": "100 GBP",
+          "Shopping": "50 GBP"
+        },
+        "dailyTotal": 371,
+        "remainingBudget": 12113
+      }
+    },
+    {
+      "day": 7,
+      "date": "2025-11-13",
+      "theme": "Departure",
+      "optimizedRoute": "N/A",
+      "totalDistance": 0,
+      "totalTravelTime": "N/A",
+      "places": [
+        {
+          "timeOfDay": "Morning",
+          "name": "Departure",
+          "coordinates": {
+            "latitude": 51.5074,
+            "longitude": -0.1278
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=51.5074,-0.1278",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "N/A",
+          "description": "Enjoy a final English breakfast and take the opportunity for any last-minute souvenir shopping before heading to the airport. Depending on your flight time, you could visit a local cafe for a relaxed morning or browse the shops in areas like Covent Garden or Oxford Street for gifts to take home. Ensure you leave ample time for your journey to Heathrow or Gatwick airport, accounting for potential traffic. Reflect on a wonderful week of exploring London's history, culture, and sporting landmarks.",
+          "whyVisit": "A relaxed farewell to London, ensuring a stress-free journey to the airport for your flight home.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure&dates=20251113T090000/20251113T120000&details=Last-minute%20souvenir%20shopping%20or%20a%20relaxed%20breakfast.%20Check-out%20and%20head%20to%20the%20airport.&location=London%2C%20UK",
+          "activities": [
+            "Have a traditional Full English Breakfast.",
+            "Purchase souvenirs or gifts.",
+            "Check out from your hotel and travel to the airport."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "60-100 GBP for breakfast, last-minute shopping, and airport transfer.",
+            "bestTime": "N/A",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "All your packed luggage.",
+              "Passport and travel documents."
+            ],
+            "whatToBuy": [
+              "Tea, biscuits, or other British snacks.",
+              "Last-minute gifts from airport duty-free."
+            ],
+            "safetyNotes": [
+              "Double-check you have all your belongings before leaving the hotel.",
+              "Book a reputable taxi or use public transport for airport transfer."
+            ],
+            "customsEtiquette": [
+              "Be polite to hotel staff during check-out."
+            ],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "weather": "Overcast with moderate rain. High 12°C, Low 9°C. A wet travel day.",
+        "spending": {
+          "Hotel": 0,
+          "Entry Fees": "0 GBP",
+          "Activities": "0 GBP",
+          "Transport": "50 GBP (Airport Transfer)",
+          "Meals": "30 GBP (Breakfast)",
+          "Shopping": "40 GBP"
+        },
+        "dailyTotal": 120,
+        "remainingBudget": 11993
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 15000,
+    "currency": "GBP",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Flights",
+          "total_cost": 650
+        }
+      ],
+      "accommodation": {
+        "hotelName": "To be booked separately",
+        "pricePerNight": 150,
+        "nights": 6,
+        "total": 900
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 323
+        },
+        {
+          "day": 2,
+          "cost": 370
+        },
+        {
+          "day": 3,
+          "cost": 275
+        },
+        {
+          "day": 4,
+          "cost": 285
+        },
+        {
+          "day": 5,
+          "cost": 363
+        },
+        {
+          "day": 6,
+          "cost": 371
+        },
+        {
+          "day": 7,
+          "cost": 120
+        }
+      ]
+    },
+    "totalSpent": 3657,
+    "remainingBudget": 11343,
+    "budgetTips": [
+      "Utilize the London Underground with an Oyster card or contactless payment for the most cost-effective way to travel.",
+      "Look for 'meal deals' at supermarkets like Tesco or Sainsbury's for an affordable lunch on the go.",
+      "Many world-class museums in London (like the British Museum, National Gallery) are free to enter; consider adding one if you have spare time.",
+      "Take advantage of free walking tours, but remember to tip your guide."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Waterproof jacket with a hood (essential)",
+      "Warm sweaters or fleece jackets for layering",
+      "Several pairs of long trousers or jeans",
+      "Smart casual outfit for dinners",
+      "Socks (bring extra pairs)",
+      "Pajamas"
+    ],
+    "footwear": [
+      "Comfortable, waterproof walking shoes or boots",
+      "A second pair of casual shoes"
+    ],
+    "essentials": [
+      "Compact umbrella",
+      "Sunscreen (even on cloudy days, UV can be present)",
+      "Basic toiletries",
+      "Any personal medications",
+      "Small first-aid kit (plasters, pain relievers)"
+    ],
+    "electronics": [
+      "Smartphone",
+      "Portable power bank",
+      "UK-specific power adapter (Type G)",
+      "Camera with extra batteries/memory card",
+      "Chargers for all devices"
+    ],
+    "documents": [
+      "Passport and UK Visa",
+      "Flight tickets/confirmation",
+      "Hotel reservation confirmation",
+      "Copy of travel insurance policy",
+      "Digital and physical copies of important documents"
+    ],
+    "children-specific items": []
+  },
+  "preTripChecklist": {
+    "highPriority": [
+      "Verify passport is valid for at least 6 months beyond your return date.",
+      "Apply for and obtain a UK Standard Visitor visa (mandatory for Indian citizens).",
+      "Book round-trip flights from Delhi (DEL) to London (LHR/LGW).",
+      "Book your accommodation in London.",
+      "Purchase comprehensive travel insurance."
+    ],
+    "mediumPriority": [
+      "Book stadium tours and attraction tickets online in advance to secure your spot and potentially save money.",
+      "Exchange a portion of your currency to GBP for immediate needs upon arrival.",
+      "Inform your bank/credit card companies of your travel dates to avoid blocked transactions.",
+      "Download offline Google Maps for London.",
+      "Research and book your airport transfer (e.g., Heathrow Express, taxi)."
+    ],
+    "lowPriority": [
+      "Learn a few basic British phrases (e.g., 'cheers' for thank you, 'tube' for the subway).",
+      "Research local SIM card options (e.g., EE, Vodafone, Three) for cheaper data.",
+      "Make digital backups of your passport, visa, and tickets.",
+      "Share your itinerary with a family member or friend back home."
+    ]
+  }
+}
