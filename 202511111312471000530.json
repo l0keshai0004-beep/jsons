@@ -1,0 +1,536 @@
+{
+  "tripOverview": {
+    "destination": "Kathmandu, Nepal",
+    "startDate": "2025-11-27",
+    "endDate": "2025-11-29",
+    "duration": "2 nights, 3 days",
+    "companions": "2 adults, 1 children",
+    "tripType": "Family-friendly Cultural Exploration",
+    "currency": "INR"
+  },
+  "mode_of_transport": {
+    "flight": {
+      "destination": "Kathmandu, Nepal (KTM)",
+      "Approx_cost": "15000 - 25000 INR per person (Round Trip)",
+      "Approx_time_of_flight(duration)": "1 hour 40 minutes (Direct)",
+      "Nearest_airport_from_current_destination": "Indira Gandhi International Airport, Delhi (DEL)",
+      "Nearest_airport_from_visiting_destination": "Tribhuvan International Airport, Kathmandu (KTM)",
+      "Stops": "Direct flights are commonly available."
+    }
+  },
+  "hotel": {
+    "status": "Hotel search unavailable.",
+    "message": "Hotel search could not be completed after multiple attempts. A budget has been allocated based on your request. Please book your accommodation separately.",
+    "budgetAllocated": {
+      "pricePerNight": 1500,
+      "nights": 2,
+      "total": 3000,
+      "currency": "INR"
+    },
+    "suggestedLocation": "Thamel, Kathmandu. This area is central, vibrant, and close to many attractions listed in your itinerary.",
+    "bookingPlatforms": [
+      "Booking.com",
+      "Agoda",
+      "MakeMyTrip"
+    ],
+    "estimated": true
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-27",
+      "theme": "Arrival and Immersion in Vibrant Thamel",
+      "optimizedRoute": "Airport → Hotel in Thamel → Local Exploration on Foot",
+      "totalDistance": 6.5,
+      "totalTravelTime": "25 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "3:00 PM - 4:00 PM",
+          "name": "Arrival at Tribhuvan International Airport (KTM) & Hotel Check-in",
+          "coordinates": {
+            "latitude": 27.6966,
+            "longitude": 85.3592
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.6966,85.3592",
+          "distanceFromPrevious": 6.5,
+          "travelTimeFromPrevious": "25 minutes",
+          "description": "Welcome to Nepal! Upon arrival at Tribhuvan International Airport, you will collect your luggage and proceed to your pre-booked taxi or hotel transfer. The drive to the Thamel area, where your accommodation is recommended, offers the first glimpse into the lively and bustling atmosphere of Kathmandu. After settling into your hotel, take a moment to relax and freshen up after your flight from Noida, preparing for a gentle evening exploration.",
+          "whyVisit": "This is the essential first step of your journey, allowing for a smooth transition from travel to vacation mode. Settling in quickly ensures you and your family, especially your 5-year-old, are well-rested for the adventures ahead.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrival%20%26%20Hotel%20Check-in&dates=20251127T093000Z/20251127T103000Z&details=Arrive%20at%20KTM%2C%20transfer%20to%20hotel%20in%20Thamel%20and%20settle%20in.&location=Tribhuvan%20International%20Airport%2C%20Kathmandu%2C%20Nepal",
+          "activities": [
+            "Complete visa-on-arrival formalities if required.",
+            "Collect your baggage and find your pre-arranged transport.",
+            "Check into your hotel and unpack the essentials."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "800-1200 NPR (500-750 INR) for a taxi to Thamel",
+            "bestTime": "N/A",
+            "duration": "1 hour"
+          },
+          "tips": {
+            "whatToBring": [
+              "Passport",
+              "Visa documents (if applicable)",
+              "Hotel confirmation details",
+              "Local currency (NPR) for taxi"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Use official, pre-paid taxis from the airport counter to ensure fair pricing.",
+              "Keep your luggage and personal belongings secure at all times."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "4:00 PM - 7:00 PM",
+          "name": "Thamel Exploration & Dinner",
+          "coordinates": {
+            "latitude": 27.715,
+            "longitude": 85.3113
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.715,85.3113",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Thamel is the tourist heart of Kathmandu, a vibrant maze of narrow streets brimming with colorful shops, cozy cafes, and restaurants serving global cuisines. It's a fantastic place to ease into the local culture. The pedestrian-friendly lanes make it relatively safe to walk with a child. Explore the shops selling everything from handcrafted jewelry and souvenirs to trekking gear. As evening sets in, choose one of the many family-friendly restaurants for a delicious dinner, perhaps trying a traditional Nepali thali.",
+          "whyVisit": "It's the perfect, low-pressure introduction to Kathmandu. The lively sights and sounds will captivate your child, while the variety of shops and restaurants caters to every taste, ensuring a relaxed and enjoyable first evening for the whole family.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Thamel%20Exploration%20%26%20Dinner&dates=20251127T103000Z/20251127T133000Z&details=Explore%20the%20vibrant%20streets%20of%20Thamel%2C%20do%20some%20light%20shopping%2C%20and%20enjoy%20dinner.&location=Thamel%2C%20Kathmandu%2C%20Nepal",
+          "activities": [
+            "Wander through the streets and browse the unique shops.",
+            "Enjoy a cup of local tea or a fresh lassi at a cafe.",
+            "Select a restaurant for dinner; many have rooftop seating."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "2000-3000 NPR (1250-1875 INR) for dinner and snacks",
+            "bestTime": "Late afternoon and evening when the area is lively.",
+            "duration": "3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes",
+              "A light jacket",
+              "Cash for small purchases"
+            ],
+            "whatToBuy": [
+              "Small souvenirs",
+              "Local snacks like momos",
+              "A colorful Pashmina shawl"
+            ],
+            "safetyNotes": [
+              "Keep an eye on your child as the streets can get crowded.",
+              "Be mindful of motorbikes in the narrow lanes."
+            ],
+            "customsEtiquette": [
+              "A friendly 'Namaste' (hello) is always appreciated by locals.",
+              "Bargaining is common in souvenir shops, but do so politely."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Colorful prayer flags hanging across the streets.",
+              "Intricately carved wooden windows of traditional buildings."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "weatherTip": "Weather data is currently unavailable. Late November in Kathmandu is typically cool and dry. Pack layers, including a warm jacket for the evening.",
+        "spending": {
+          "Hotel": 0,
+          "Entry Fees": "0 INR",
+          "Activities": "0 INR",
+          "Transport": "500-750 INR",
+          "Meals": "1250-1875 INR",
+          "Shopping": "500 INR (Estimated)",
+          "dailySubtotal": "2250-3125 INR"
+        },
+        "remainingBudget": "46875 INR"
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-28",
+      "theme": "Spiritual Sites and Serene Gardens",
+      "optimizedRoute": "Hotel → Garden of Dreams → Pashupatinath Temple → Boudhanath Stupa → Hotel",
+      "totalDistance": 15.2,
+      "totalTravelTime": "1 hour 5 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 10:30 AM",
+          "name": "Garden of Dreams",
+          "coordinates": {
+            "latitude": 27.7122,
+            "longitude": 85.3142
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.7122,85.3142",
+          "distanceFromPrevious": 0.9,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "Escape the city's hustle in this beautifully restored neo-classical garden. Created in the early 1920s, the Garden of Dreams is a serene oasis with fountains, pavilions, and a diverse collection of exotic plants. Its immaculate lawns, ponds with water lilies, and hidden corners provide a tranquil environment. The European architectural style contrasts wonderfully with the surrounding city, offering a unique and peaceful experience. It's a perfect spot for a morning stroll, allowing you to relax and enjoy a moment of calm before a day of sightseeing.",
+          "whyVisit": "This garden is an excellent start to the day for your family. The enclosed, safe space allows your 5-year-old to walk around freely, while the beautiful, quiet surroundings provide a gentle and visually appealing experience for everyone.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Garden%20of%20Dreams&dates=20251128T033000Z/20251128T050000Z&details=Explore%20the%20beautifully%20restored%20neo-classical%20garden%2C%20a%20peaceful%20oasis%20in%20Kathmandu.&location=Garden%20of%20Dreams%2C%20Kathmandu%2C%20Nepal",
+          "activities": [
+            "Stroll through the themed gardens and pavilions.",
+            "Let your child enjoy the open lawn spaces.",
+            "Take family photos by the fountains and architectural features."
+          ],
+          "practicalInfo": {
+            "entryFee": "400 NPR per adult, child likely free",
+            "estimatedCost": "800 NPR for 2 adults (500 INR)",
+            "bestTime": "Morning, when it's less crowded and the light is soft.",
+            "duration": "1.5 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Water bottle",
+              "A book or journal"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Keep an eye on children near the water features."
+            ],
+            "customsEtiquette": [
+              "Keep your voice low to maintain the tranquil atmosphere."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main pavilion with the fountains in the foreground.",
+              "The amphitheater steps.",
+              "Close-ups of the exotic flowers."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "10:30 AM - 12:30 PM",
+          "name": "Pashupatinath Temple (External Viewing)",
+          "coordinates": {
+            "latitude": 27.7107,
+            "longitude": 85.3485
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.7107,85.3485",
+          "distanceFromPrevious": 4.1,
+          "travelTimeFromPrevious": "20 minutes",
+          "description": "Pashupatinath Temple is one of the most sacred Hindu temples in the world, located on the banks of the holy Bagmati River. As a UNESCO World Heritage site, the sprawling complex is a vibrant center of religious and cultural activity. While non-Hindus are not permitted inside the main temple, the exterior areas and the opposite river bank offer a profound and unique viewing experience. You can observe the ancient architecture, watch the rituals unfold from a distance, and see the resident monkeys and Sadhus (holy men) that populate the area.",
+          "whyVisit": "This site offers a powerful cultural insight into Hindu traditions. For your child, the fascination will be in observing the lively atmosphere, the wandering monkeys, and the colorful Sadhus, making it an engaging (if respectful) observational experience.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Pashupatinath%20Temple&dates=20251128T050000Z/20251128T070000Z&details=Observe%20the%20sacred%20Hindu%20temple%20complex%20from%20the%20viewing%20areas%20across%20the%20Bagmati%20River.&location=Pashupatinath%20Temple%2C%20Kathmandu%2C%20Nepal",
+          "activities": [
+            "Walk along the viewing terraces on the eastern bank of the river.",
+            "Observe the intricate carvings on the temple buildings.",
+            "Watch for the troops of macaque monkeys that live in the complex."
+          ],
+          "practicalInfo": {
+            "entryFee": "1000 NPR per adult for complex entry (viewing main temple is from outside)",
+            "estimatedCost": "2000 NPR for 2 adults (1250 INR)",
+            "bestTime": "Morning or late afternoon to see ritual activities.",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "A scarf or shawl for respectful attire.",
+              "Hand sanitizer."
+            ],
+            "whatToBuy": [
+              "Marigold garlands from local vendors outside."
+            ],
+            "safetyNotes": [
+              "Be prepared for the sensory intensity of the site, including smoke from cremations.",
+              "Do not feed the monkeys and keep a safe distance.",
+              "Be wary of unsolicited guides; agree on a price beforehand if you hire one."
+            ],
+            "customsEtiquette": [
+              "Photography of cremations is considered disrespectful.",
+              "Dress modestly, covering shoulders and knees.",
+              "Maintain a respectful and quiet demeanor."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The view of the temple complex from the opposite bank.",
+              "The deer park and surrounding smaller shrines."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "12:30 PM - 2:30 PM",
+          "name": "Boudhanath Stupa & Lunch",
+          "coordinates": {
+            "latitude": 27.7215,
+            "longitude": 85.3621
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.7215,85.3621",
+          "distanceFromPrevious": 3.5,
+          "travelTimeFromPrevious": "15 minutes",
+          "description": "Boudhanath Stupa is an awe-inspiring sight, one of the largest spherical stupas in Nepal and a beacon of Buddhist faith. The massive mandala of the stupa is topped by a golden tower painted with the all-seeing eyes of the Buddha, a symbol of wisdom and compassion. The atmosphere here is deeply spiritual and peaceful. Devotees and pilgrims continually circumambulate the stupa, spinning prayer wheels and chanting mantras. The area is surrounded by monasteries and rooftop restaurants that offer stunning views and a chance to absorb the serene energy.",
+          "whyVisit": "The sheer scale and peaceful atmosphere of the stupa are captivating for all ages. Your child can safely walk around the wide circular path, observe the colorful prayer flags, and the experience provides a calm yet stimulating cultural immersion. The rooftop restaurants are perfect for a family lunch with a view.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Boudhanath%20Stupa%20%26%20Lunch&dates=20251128T070000Z/20251128T090000Z&details=Explore%20the%20magnificent%20Boudhanath%20Stupa%2C%20a%20UNESCO%20World%20Heritage%20site%2C%20and%20enjoy%20lunch%20at%20a%20rooftop%20restaurant.&location=Boudhanath%20Stupa%2C%20Kathmandu%2C%20Nepal",
+          "activities": [
+            "Walk clockwise around the stupa (a 'kora') with pilgrims.",
+            "Spin the brass prayer wheels set into the wall.",
+            "Enjoy lunch at a rooftop restaurant with a direct view of the stupa."
+          ],
+          "practicalInfo": {
+            "entryFee": "400 NPR per adult",
+            "estimatedCost": "800 NPR for 2 adults (500 INR) + Lunch cost",
+            "bestTime": "Morning or late afternoon for the best light and spiritual ambiance.",
+            "duration": "2 hours (including lunch)"
+          },
+          "tips": {
+            "whatToBring": [
+              "Sunglasses and a hat, as the white stupa reflects sunlight.",
+              "Cash for lunch and souvenirs."
+            ],
+            "whatToBuy": [
+              "Miniature prayer wheels",
+              "Incense",
+              "Thangka paintings from surrounding shops."
+            ],
+            "safetyNotes": [
+              "The area is generally very safe."
+            ],
+            "customsEtiquette": [
+              "Always walk in a clockwise direction around the stupa.",
+              "Dress modestly.",
+              "Do not climb onto the stupa's platforms unless permitted."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "From a rooftop restaurant to capture the entire stupa.",
+              "At ground level, looking up at the Buddha's eyes.",
+              "The prayer flags fluttering in the wind."
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "weatherTip": "Weather data is currently unavailable. Expect cool, sunny conditions. A light jacket is useful as temperatures can drop in the shade or as evening approaches.",
+        "spending": {
+          "Hotel": 0,
+          "Entry Fees": "For 2 adults: (500 Garden + 1250 Pashupati + 500 Boudha) = 2250 INR",
+          "Activities": "0 INR",
+          "Transport": "1000-1500 INR (Taxi for the day's circuit)",
+          "Meals": "2500-3500 INR (Lunch and Dinner)",
+          "Shopping": "500 INR (Estimated)",
+          "dailySubtotal": "6250-7750 INR"
+        },
+        "budgetWarning": "Day 2 spending is projected to be high due to multiple entry fees and transport costs, potentially exceeding your daily allocation. Consider packing snacks or choosing budget-friendly restaurants to manage costs.",
+        "remainingBudget": "39125 INR"
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-29",
+      "theme": "Ancient Royalty and Departure",
+      "optimizedRoute": "Hotel → Patan Durbar Square → Tribhuvan International Airport (KTM)",
+      "totalDistance": 11.0,
+      "totalTravelTime": "45 minutes",
+      "estimated": false,
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 11:00 AM",
+          "name": "Patan Durbar Square",
+          "coordinates": {
+            "latitude": 27.673,
+            "longitude": 85.3255
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.673,85.3255",
+          "distanceFromPrevious": 5.5,
+          "travelTimeFromPrevious": "20 minutes",
+          "description": "Patan Durbar Square, located in the heart of the city of Lalitpur, is a marvel of Newar architecture. As a UNESCO World Heritage Site, this square is densely packed with ancient palaces, temples, and shrines, all noted for their exquisite carvings. The former royal palace complex is the center of Patan's religious and social life and houses a museum containing a fine collection of bronze statues and religious objects. Compared to Kathmandu's Durbar Square, Patan is often considered more spacious and less crowded, making it a more relaxed environment for exploration.",
+          "whyVisit": "This is a perfect final activity, offering a deep dive into Nepal's artistic heritage. The open square is great for your child to explore, and the stunning architecture provides a beautiful backdrop for final family photos. Its relatively compact nature makes it manageable before heading to the airport.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Patan%20Durbar%20Square&dates=20251129T033000Z/20251129T053000Z&details=Visit%20the%20ancient%20palaces%2C%20temples%2C%20and%20courtyards%20of%20this%20UNESCO%20World%20Heritage%20site.&location=Patan%20Durbar%20Square%2C%20Lalitpur%2C%20Nepal",
+          "activities": [
+            "Admire the architecture of Krishna Mandir and the Golden Temple (Hiranya Varna Mahavihar).",
+            "Visit the Patan Museum to see incredible examples of traditional art.",
+            "Watch local artisans at work in the surrounding workshops."
+          ],
+          "practicalInfo": {
+            "entryFee": "1000 NPR per adult",
+            "estimatedCost": "2000 NPR for 2 adults (1250 INR)",
+            "bestTime": "Early morning to avoid crowds and enjoy the soft light.",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Comfortable walking shoes",
+              "Water"
+            ],
+            "whatToBuy": [
+              "Bronze statues",
+              "Handmade paper products",
+              "Thanka paintings"
+            ],
+            "safetyNotes": [
+              "Some structures are still under repair from the 2015 earthquake; respect any restricted areas.",
+              "Watch your step on the uneven stone pavements."
+            ],
+            "customsEtiquette": [
+              "Remove your shoes before entering temples.",
+              "Be respectful of active worshipers.",
+              "Ask for permission before photographing people."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The main palace complex with its multiple courtyards.",
+              "The stone-carved Krishna Mandir.",
+              "The ornate Golden Temple entrance."
+            ]
+          }
+        },
+        {
+          "timeOfDay": "11:00 AM - 12:00 PM",
+          "name": "Final Lunch & Departure",
+          "coordinates": {
+            "latitude": 27.6966,
+            "longitude": 85.3592
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=27.6966,85.3592",
+          "distanceFromPrevious": 5.5,
+          "travelTimeFromPrevious": "25 minutes",
+          "description": "After immersing yourself in the ancient art and architecture of Patan, enjoy a final Nepali lunch at one of the charming local restaurants in the area. Following your meal, your pre-arranged transport will take you from Patan to Tribhuvan International Airport (KTM). It is essential to allow ample time for the journey, check-in, and security procedures to ensure a stress-free conclusion to your memorable trip.",
+          "whyVisit": "A relaxed final meal allows for reflection on your trip's adventures before heading into the formalities of airport travel, ensuring your Nepal experience ends on a high and positive note.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Final%20Lunch%20%26%20Departure&dates=20251129T053000Z/20251129T063000Z&details=Enjoy%20a%20last%20Nepali%20meal%20before%20checking%20out%20and%20heading%20to%20the%20airport%20for%20your%20flight%20home.&location=Patan%2C%20Nepal",
+          "activities": [
+            "Savor a final Nepali meal.",
+            "Purchase any last-minute souvenirs.",
+            "Check out from the hotel (if not already done).",
+            "Travel to the airport and complete departure formalities."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "1500-2000 NPR (950-1250 INR) for lunch + 800-1000 NPR (500-625 INR) for taxi to airport",
+            "bestTime": "N/A",
+            "duration": "1 hour + travel time"
+          },
+          "tips": {
+            "whatToBring": [
+              "Flight tickets and passports.",
+              "Any remaining currency."
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Leave for the airport at least 3 hours before your flight's departure time.",
+              "Confirm your flight status before leaving for the airport."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "weatherTip": "Weather data is currently unavailable. A clear morning is typical for November. Ensure you have a jacket handy for the air-conditioned airport.",
+        "spending": {
+          "Hotel": 0,
+          "Entry Fees": "1250 INR",
+          "Activities": "0 INR",
+          "Transport": "1000-1250 INR",
+          "Meals": "950-1250 INR",
+          "Shopping": "500 INR (Estimated)",
+          "dailySubtotal": "3700-4250 INR"
+        },
+        "remainingBudget": "34875 INR"
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 50000,
+    "currency": "INR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Flights (Estimated for 2 adults, 1 child)",
+          "total_cost": 35000
+        }
+      ],
+      "accommodation": {
+        "hotelName": "To be booked separately (Fallback)",
+        "pricePerNight": 1500,
+        "nights": 2,
+        "total": 3000
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 3125
+        },
+        {
+          "day": 2,
+          "cost": 7750
+        },
+        {
+          "day": 3,
+          "cost": 4250
+        }
+      ]
+    },
+    "totalSpent": 53125,
+    "remainingBudget": -3125,
+    "budgetTips": [
+      "Your current plan might exceed the total budget. To save money, consider using local buses instead of taxis for longer distances.",
+      "Eat at local eateries ('bhattis') instead of tourist-focused restaurants for more authentic and affordable meals.",
+      "Prioritize which sites you want to pay entry for; observing some from the outside can also be a rich experience.",
+      "Always carry small denominations of NPR for easier transactions with local vendors and transport."
+    ]
+  },
+  "packingList": {
+    "clothing": [
+      "Layered clothing: T-shirts, long-sleeved shirts",
+      "A warm fleece or jacket for evenings and mornings",
+      "Comfortable trousers or jeans for sightseeing",
+      "A set of modest clothing (covering shoulders/knees) for temple visits"
+    ],
+    "footwear": [
+      "Comfortable walking shoes or sneakers (essential)",
+      "A pair of sandals or flip-flops for the hotel"
+    ],
+    "essentials": [
+      "Sunscreen, sunglasses, and a sun hat",
+      "Basic first-aid kit with medications for common ailments",
+      "Hand sanitizer and wet wipes",
+      "Any personal prescription medications"
+    ],
+    "electronics": [
+      "Smartphone and charger",
+      "Portable power bank",
+      "Universal travel adapter (Types C, D, and M are used in Nepal)",
+      "Camera with extra batteries"
+    ],
+    "documents": [
+      "Passports and Visas (Visa on Arrival available for Indian citizens)",
+      "Flight tickets and hotel booking confirmations (digital and paper copies)",
+      "Travel insurance details",
+      "Emergency contact list"
+    ],
+    "children-specific": [
+      "Favorite snacks from home",
+      "A small backpack for your child to carry their toys",
+      "Small toys, coloring books, or a tablet for downtime and travel",
+      "A comfortable neck pillow for the flight"
+    ]
+  },
+  "preTripChecklist": {
+    "highPriority": [
+      "Verify passport validity (at least 6 months remaining).",
+      "Book round-trip flights from Delhi (DEL) to Kathmandu (KTM).",
+      "Book your hotel in the Thamel area immediately, as this was not completed.",
+      "Purchase comprehensive travel insurance for all travelers.",
+      "Arrange for airport transfer in Kathmandu."
+    ],
+    "mediumPriority": [
+      "Exchange a sufficient amount of INR to NPR for immediate expenses like taxis and food.",
+      "Notify your bank and credit card companies of your travel dates.",
+      "Download offline maps of Kathmandu on Google Maps or a similar app.",
+      "Research and save local emergency numbers (Police: 100, Tourist Police: 1144)."
+    ],
+    "lowPriority": [
+      "Learn a few basic Nepali phrases like 'Namaste' (Hello), 'Dhanyabad' (Thank you), and 'Kati paisa?' (How much?).",
+      "Make digital and physical photocopies of important documents.",
+      "Share your completed itinerary with a family member or friend back home."
+    ]
+  }
+}
