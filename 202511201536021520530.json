@@ -1,0 +1,642 @@
+{
+  "tripOverview": {
+    "destination": "Ladakh, India",
+    "startDate": "2025-11-24",
+    "endDate": "2025-11-28",
+    "duration": "4 nights",
+    "companions": "2 adults, 0 children",
+    "tripType": "Cultural and Nature-focused Adventure",
+    "currency": "INR"
+  },
+  "mode_of_transport": {
+    "road": {
+      "cost": {
+        "train": "Not directly accessible, approximately 1500-2500 INR to Jammu Tawi then bus/cab",
+        "bus": "Approximately 1500-2000 INR from Delhi to Leh (if routes are open in November, very challenging due to snow)",
+        "cab": "Approximately 20000-30000 INR from Noida to Leh (very high chances of road closures in November due to snow)"
+      },
+      "approx_time": {
+        "train": "Approx. 12-14 hours to Jammu Tawi, then 1-2 days by road (if open)",
+        "bus": "Approx. 24-30 hours (if roads are open)",
+        "cab": "Approx. 20-24 hours (if roads are open)"
+      },
+      "stations": {
+        "bus_stations": "ISBT Kashmiri Gate (Delhi) for buses towards Leh (seasonal); Leh Bus Stand for local travel",
+        "trainstations": "Nearest major train station is Jammu Tawi (JAT)"
+      }
+    }
+  },
+  "hotel": {
+    "name": "Ladakh Residency",
+    "price": "1800-2000 INR (Per night)",
+    "location": {
+      "latitude": 34.1667,
+      "longitude": 77.5833
+    },
+    "address": "Leh City Center, Leh, Ladakh, India",
+    "Rating": "3.5 stars (Estimated)",
+    "Amenities": "Heating, Hot Water, Restaurant, Free Wi-Fi, Parking, Doctor on Call, Laundry Service"
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-24",
+      "theme": "Historical Exploration of Leh",
+      "optimizedRoute": "Hotel Ladakh Residency → Leh Palace → Hotel Ladakh Residency",
+      "totalDistance": "1.3",
+      "totalTravelTime": "4 minutes",
+      "weather": "Max -3.7°C, Min -12.5°C. UV index 5.05. Clear skies, no rain or snow. Cold but clear.",
+      "places": [
+        {
+          "timeOfDay": "3:00 PM - 5:00 PM",
+          "name": "Leh Palace",
+          "coordinates": {
+            "latitude": 34.1681,
+            "longitude": 77.5847
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.1681,77.5847",
+          "distanceFromPrevious": 0.6,
+          "travelTimeFromPrevious": "2 minutes",
+          "description": "Leh Palace, a former royal palace of the Kingdom of Ladakh, was built by King Sengge Namgyal in the 17th century. It is a nine-story high structure inspired by the Potala Palace in Lhasa, Tibet. The palace offers panoramic views of the Leh town, the Indus Valley, and the Zanskar range. While much of it is in ruins, the palace museum houses a rich collection of old thangkas, paintings, and traditional Ladakhi ornaments.",
+          "whyVisit": "An iconic historical landmark, Leh Palace provides a glimpse into Ladakh's royal past and offers breathtaking views of the surrounding landscapes. It's an excellent way to start your exploration of Leh, offering both cultural insight and photographic opportunities.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Leh%20Palace&dates=20251124T150000/20251124T170000&details=Explore%20the%20historic%20Leh%20Palace%2C%20a%20former%20royal%20residence%20offering%20panoramic%20views%20of%20Leh%20town%20and%20the%20Indus%20Valley.&location=Leh%20Palace%2C%20Leh%2C%20Ladakh%2C%20India",
+          "activities": [
+            "Explore the various rooms and prayer halls within the palace.",
+            "Visit the palace museum to see ancient artifacts and paintings.",
+            "Enjoy panoramic views of Leh town, Stok Kangri, and the Indus Valley from the rooftop.",
+            "Capture stunning photographs of the palace and its surroundings."
+          ],
+          "practicalInfo": {
+            "entryFee": "25 INR per person for Indians, 100 INR for foreigners",
+            "estimatedCost": "50-100 INR total for entry fees",
+            "bestTime": "Late afternoon for beautiful sunset views",
+            "duration": "1.5 - 2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm layers of clothing",
+              "Comfortable walking shoes",
+              "Camera",
+              "Water bottle"
+            ],
+            "whatToBuy": [
+              "Small souvenirs from local vendors near the palace"
+            ],
+            "safetyNotes": [
+              "The palace involves climbing stairs; take it slow due to high altitude.",
+              "Be mindful of uneven surfaces inside the palace."
+            ],
+            "customsEtiquette": [
+              "No specific dress code, but modest clothing is always appreciated at historical sites."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The palace facade against the sky",
+              "Views from the rooftop overlooking Leh",
+              "Inside the prayer halls"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "1.3 km",
+        "spending": {
+          "hotel": "2000 INR",
+          "entryFees": "50 INR",
+          "activities": "0 INR",
+          "transport": "100 INR (local cab/auto for short distances)",
+          "meals": {
+            "breakfast": "0 INR (assuming hotel breakfast or light snack)",
+            "lunch": "250 INR",
+            "dinner": "300 INR",
+            "snacks": "100 INR"
+          },
+          "shopping": "150 INR"
+        },
+        "remainingBudget": "75090 INR"
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-25",
+      "theme": "Majestic Pangong Tso Lake Excursion",
+      "optimizedRoute": "Hotel Ladakh Residency → Pangong Tso Lake → Hotel Ladakh Residency",
+      "totalDistance": "302.5",
+      "totalTravelTime": "6 hours 43 minutes",
+      "weather": "Max -4.7°C, Min -12.9°C. UV index 4.55. Clear skies, no rain or snow. Very cold.",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 7:00 PM",
+          "name": "Pangong Tso Lake",
+          "coordinates": {
+            "latitude": 34.0000,
+            "longitude": 78.0000
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.0000,78.0000",
+          "distanceFromPrevious": 151.2,
+          "travelTimeFromPrevious": "3 hours 21 minutes",
+          "description": "Pangong Tso, meaning 'high grassland lake', is an endorheic lake in the Himalayas situated at a height of about 4,225 meters (13,862 ft). It is 134 km long and extends from India to China. The lake is famous for its color-changing abilities, appearing blue, green, and red at different times. The surrounding barren mountains add to its ethereal beauty. Due to extreme cold in November, parts of the lake might be frozen, offering a unique landscape.",
+          "whyVisit": "Experience the surreal beauty of one of the world's highest saltwater lakes, renowned for its stunning reflections and ever-changing hues. This full-day trip offers breathtaking landscapes, unique wildlife spotting opportunities, and a chance to witness the remote beauty of the Himalayas, even with potentially frozen parts of the lake.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Pangong%20Tso%20Lake&dates=20251125T090000/20251125T190000&details=Embark%20on%20a%20full-day%20excursion%20to%20the%20majestic%20Pangong%20Tso%20Lake%2C%20known%20for%20its%20changing%20colors%20and%20stunning%20Himalayan%20backdrop.&location=Pangong%20Tso%20Lake%2C%20Ladakh%2C%20India",
+          "activities": [
+            "Enjoy the scenic drive through Chang La pass, one of the highest motorable passes.",
+            "Spend time admiring the changing colors of the lake and its vastness.",
+            "Take photographs of the pristine landscape and the surrounding mountains.",
+            "Observe migratory birds (if any are still present) and local wildlife."
+          ],
+          "practicalInfo": {
+            "entryFee": "No entry fee for the lake itself, but inner line permits are required for Indian nationals (foreigner permits may vary)",
+            "estimatedCost": "5000-8000 INR for a private taxi (shared taxis cheaper)",
+            "bestTime": "Early morning departure to make the most of the daylight",
+            "duration": "10-12 hours (including travel time)"
+          },
+          "tips": {
+            "whatToBring": [
+              "Very warm winter clothing (thermals, heavy jacket, gloves, woollen cap)",
+              "Sunglasses (for glare from snow/ice)",
+              "High-altitude sickness medication (if prescribed)",
+              "Snacks and hot beverages",
+              "Power bank for electronics"
+            ],
+            "whatToBuy": [
+              "Small local handicrafts from stalls (if open)"
+            ],
+            "safetyNotes": [
+              "Stay hydrated and avoid strenuous activities.",
+              "Be aware of the symptoms of acute mountain sickness (AMS).",
+              "Roads can be challenging; ensure your vehicle is well-maintained.",
+              "The lake water is extremely cold; do not attempt to swim."
+            ],
+            "customsEtiquette": [
+              "Respect local customs and the pristine environment.",
+              "Do not litter."
+            ],
+            "bookingRequired": true,
+            "photoSpots": [
+              "The iconic '3 Idiots' point (if accessible)",
+              "Reflections of mountains in the lake",
+              "The vast expanse of the lake with changing colors"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "302.5 km",
+        "spending": {
+          "hotel": "2000 INR",
+          "entryFees": "0 INR",
+          "activities": "0 INR",
+          "transport": "6500 INR (estimated private taxi for Pangong)",
+          "meals": {
+            "breakfast": "0 INR",
+            "lunch": "300 INR (packed lunch or small eatery)",
+            "dinner": "350 INR",
+            "snacks": "150 INR"
+          },
+          "shopping": "100 INR"
+        },
+        "remainingBudget": "69690 INR"
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-26",
+      "theme": "Monasteries and Serenity",
+      "optimizedRoute": "Hotel Ladakh Residency → Shanti Stupa → Thiksey Monastery → Hotel Ladakh Residency",
+      "totalDistance": "47.3",
+      "totalTravelTime": "1 hour 15 minutes",
+      "weather": "Max -4.5°C, Min -13.7°C. UV index 4.55. Clear skies, no rain or snow. Extremely cold.",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Shanti Stupa",
+          "coordinates": {
+            "latitude": 34.1633,
+            "longitude": 77.5684
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.1633,77.5684",
+          "distanceFromPrevious": 3.4,
+          "travelTimeFromPrevious": "8 minutes",
+          "description": "Shanti Stupa is a white-domed Buddhist stupa on a hilltop in Chanspa, Leh. It was built by a Japanese Buddhist bhikshu Gyomyo Nakamura as a part of the Peace Pagoda mission and inaugurated by the 14th Dalai Lama in 1991. The stupa offers spectacular panoramic views of the surrounding landscapes, including Leh town, the Indus Valley, and the snow-capped mountains. It is a symbol of peace and prosperity.",
+          "whyVisit": "Visit for its serene ambiance and unparalleled 360-degree views of Leh and the Himalayan ranges. It's a perfect spot for photography and quiet contemplation, especially beautiful during sunrise or sunset, though cold in November.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Shanti%20Stupa&dates=20251126T090000/20251126T120000&details=Visit%20the%20peaceful%20Shanti%20Stupa%20for%20panoramic%20views%20of%20Leh%20and%20the%20Himalayas%2C%20a%20symbol%20of%20peace%20and%20prosperity.&location=Shanti%20Stupa%2C%20Leh%2C%20Ladakh%2C%20India",
+          "activities": [
+            "Climb to the top for panoramic views.",
+            "Circumambulate the stupa in a clockwise direction.",
+            "Enjoy the peaceful atmosphere and meditate.",
+            "Take stunning photographs of the landscape."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "100-200 INR (for shared taxi/auto)",
+            "bestTime": "Early morning for sunrise or late afternoon for sunset",
+            "duration": "1-2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm jacket and layers",
+              "Camera",
+              "Water bottle"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "The steps can be icy in November, walk carefully.",
+              "Be cautious of strong winds at the hilltop."
+            ],
+            "customsEtiquette": [
+              "Dress modestly.",
+              "Remove shoes if entering the prayer hall inside (unlikely to be open in extreme cold)."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The stupa with Leh town in the background",
+              "Panoramic views of the mountains",
+              "The golden Buddha statue inside"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "1:30 PM - 5:00 PM",
+          "name": "Thiksey Monastery",
+          "coordinates": {
+            "latitude": 34.0487,
+            "longitude": 77.6751
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.0487,77.6751",
+          "distanceFromPrevious": 25.1,
+          "travelTimeFromPrevious": "33 minutes",
+          "description": "Thiksey Monastery is a grand Buddhist monastery of the Yellow Hat (Gelugpa) sect of Tibetan Buddhism. It is located on a hillock, approximately 19 kilometers east of Leh. The monastery is noted for its resemblance to the Potala Palace in Lhasa, Tibet, and houses a magnificent 15-meter high statue of Maitreya Buddha (Future Buddha). It is a hub of Buddhist culture and education, offering insights into monastic life.",
+          "whyVisit": "Discover one of Ladakh's most impressive monasteries, with its multi-story complex, ancient relics, and the awe-inspiring Maitreya Buddha statue. It offers a profound cultural experience and stunning architectural beauty against the dramatic Ladakhi landscape.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Thiksey%20Monastery&dates=20251126T133000/20251126T170000&details=Explore%20the%20magnificent%20Thiksey%20Monastery%2C%20known%20for%20its%20resemblance%20to%20Potala%20Palace%20and%20its%20impressive%20Maitreya%20Buddha%20statue.&location=Thiksey%20Monastery%2C%20Ladakh%2C%20India",
+          "activities": [
+            "Explore the various temples, prayer rooms, and assembly halls.",
+            "Admire the grand 15-meter Maitreya Buddha statue.",
+            "Observe the monastic daily life (if possible).",
+            "Enjoy the architecture and wall paintings."
+          ],
+          "practicalInfo": {
+            "entryFee": "30 INR per person",
+            "estimatedCost": "60 INR (entry fees) + 800-1200 INR (for taxi to and from Leh)",
+            "bestTime": "Morning for prayer ceremonies (if held in November) or afternoon for general visit",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm clothing",
+              "Camera",
+              "Respectful attire"
+            ],
+            "whatToBuy": [
+              "Buddhist religious items or handicrafts from the monastery shop"
+            ],
+            "safetyNotes": [
+              "The monastery is on a hillside; be careful on stairs, especially if icy."
+            ],
+            "customsEtiquette": [
+              "Remove shoes before entering prayer halls.",
+              "Do not touch artifacts or murals.",
+              "Speak softly and maintain silence in prayer areas.",
+              "Spin prayer wheels clockwise."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The entire monastery complex from a distance",
+              "The Maitreya Buddha statue (photography sometimes restricted)",
+              "Views of the Indus Valley from the monastery"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "47.3 km",
+        "spending": {
+          "hotel": "2000 INR",
+          "entryFees": "90 INR",
+          "activities": "0 INR",
+          "transport": "1000 INR (for half-day taxi to Shanti Stupa and Thiksey)",
+          "meals": {
+            "breakfast": "0 INR",
+            "lunch": "250 INR",
+            "dinner": "300 INR",
+            "snacks": "100 INR"
+          },
+          "shopping": "150 INR"
+        },
+        "remainingBudget": "65800 INR"
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-27",
+      "theme": "Mysteries and Monastic Life",
+      "optimizedRoute": "Hotel Ladakh Residency → Magnetic Hill and Gurudwara Pathar Sahib → Stok Village Hike → Hotel Ladakh Residency",
+      "totalDistance": "83.6",
+      "totalTravelTime": "2 hours 15 minutes",
+      "weather": "Max -4.7°C, Min -13.8°C. UV index 4.55. Clear skies, no rain or snow. Freezing temperatures.",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Magnetic Hill and Gurudwara Pathar Sahib",
+          "coordinates": {
+            "latitude": 34.2570,
+            "longitude": 77.2912
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.2570,77.2912",
+          "distanceFromPrevious": 28.3,
+          "travelTimeFromPrevious": "38 minutes",
+          "description": "Magnetic Hill is a 'cyclops hill' located near Leh, where vehicles appear to defy gravity and move upwards on a downhill slope. This is an optical illusion, but it's a fascinating experience. Just a short distance away is Gurudwara Pathar Sahib, a beautiful Sikh temple maintained by the Indian Army. It is believed that Guru Nanak Dev, the founder of Sikhism, rested here during his journey to Tibet. The Gurudwara houses a sacred rock with an imprint believed to be of Guru Nanak's back.",
+          "whyVisit": "Experience the intriguing phenomenon of Magnetic Hill and then find peace and learn about the local legends at Gurudwara Pathar Sahib. This combination offers a blend of natural wonder and spiritual solace, showcasing the diverse experiences Ladakh has to offer.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Magnetic%20Hill%20and%20Gurudwara%20Pathar%20Sahib&dates=20251127T090000/20251127T120000&details=Experience%20the%20optical%20illusion%20of%20Magnetic%20Hill%20and%20visit%20the%20sacred%20Gurudwara%20Pathar%20Sahib%20with%20its%20fascinating%20legends.&location=Magnetic%20Hill%2C%20Ladakh%2C%20India",
+          "activities": [
+            "Park your vehicle at the designated spot on Magnetic Hill and observe the illusion.",
+            "Take photographs at Magnetic Hill.",
+            "Visit Gurudwara Pathar Sahib, offer prayers, and listen to the 'Langar' (community kitchen) stories.",
+            "Enjoy the serene atmosphere around the Gurudwara."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free for both",
+            "estimatedCost": "1500-2000 INR (for private taxi covering Magnetic Hill, Gurudwara, and Stok)",
+            "bestTime": "Morning or early afternoon",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm clothing",
+              "Camera"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Be careful on the road around Magnetic Hill, as vehicles stop to experience the illusion.",
+              "Maintain decorum inside the Gurudwara."
+            ],
+            "customsEtiquette": [
+              "Remove shoes and cover head inside the Gurudwara.",
+              "Respect the sanctity of the place."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "The Magnetic Hill sign with your vehicle",
+              "The Gurudwara facade",
+              "The sacred rock inside the Gurudwara"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "1:30 PM - 5:00 PM",
+          "name": "Stok Village Hike",
+          "coordinates": {
+            "latitude": 34.1030,
+            "longitude": 77.5517
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.1030,77.5517",
+          "distanceFromPrevious": 30.6,
+          "travelTimeFromPrevious": "41 minutes",
+          "description": "Stok Village is a charming traditional Ladakhi village located about 15 kilometers south of Leh. It is known for Stok Palace, the current residence of the Namgyal dynasty, the former royal family of Ladakh. The village offers beautiful views of Stok Kangri, a popular trekking peak, and the surrounding Indus Valley. A hike around the village allows visitors to experience local life, traditional architecture, and serene landscapes.",
+          "whyVisit": "Experience authentic Ladakhi village life and get a glimpse into the region's royal heritage. A hike through Stok offers stunning views, a chance to interact with locals, and a peaceful escape from the bustling town, providing a unique cultural immersion.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Stok%20Village%20Hike&dates=20251127T133000/20251127T170000&details=Explore%20the%20charming%20Stok%20Village%2C%20visit%20Stok%20Palace%2C%20and%20enjoy%20a%20hike%20through%20traditional%20Ladakhi%20landscapes%20with%20views%20of%20Stok%20Kangri.&location=Stok%20Village%2C%20Ladakh%2C%20India",
+          "activities": [
+            "Visit Stok Palace Museum to see royal artifacts and thangkas.",
+            "Take a leisurely hike around Stok village, exploring local houses and fields.",
+            "Interact with locals and learn about their way of life.",
+            "Enjoy views of Stok Kangri and the surrounding valley."
+          ],
+          "practicalInfo": {
+            "entryFee": "50-100 INR for Stok Palace Museum",
+            "estimatedCost": "100 INR (museum entry) + part of taxi cost",
+            "bestTime": "Afternoon",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Warm clothing and sturdy hiking shoes",
+              "Water bottle",
+              "Camera"
+            ],
+            "whatToBuy": [
+              "Local handicrafts from village shops"
+            ],
+            "safetyNotes": [
+              "Be mindful of uneven terrain during hikes.",
+              "Respect private property in the village."
+            ],
+            "customsEtiquette": [
+              "Ask for permission before taking photos of people.",
+              "Be respectful of local traditions."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Stok Palace facade",
+              "Traditional Ladakhi houses",
+              "Views of Stok Kangri",
+              "Local villagers in traditional attire (with permission)"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "83.6 km",
+        "spending": {
+          "hotel": "2000 INR",
+          "entryFees": "100 INR",
+          "activities": "0 INR",
+          "transport": "2000 INR (for full-day taxi covering all points)",
+          "meals": {
+            "breakfast": "0 INR",
+            "lunch": "250 INR",
+            "dinner": "300 INR",
+            "snacks": "100 INR"
+          },
+          "shopping": "150 INR"
+        },
+        "remainingBudget": "60900 INR"
+      }
+    },
+    {
+      "day": 5,
+      "date": "2025-11-28",
+      "theme": "Departure from Ladakh",
+      "optimizedRoute": "Hotel Ladakh Residency → Leh Airport → Home",
+      "totalDistance": "3.5",
+      "totalTravelTime": "9 minutes",
+      "weather": "Max -1.4°C, Min -8.4°C. UV index 4.5. Clear skies, no rain or snow. Still very cold.",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Departure",
+          "coordinates": {
+            "latitude": 34.1350,
+            "longitude": 77.5460
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=34.1350,77.5460",
+          "distanceFromPrevious": 3.5,
+          "travelTimeFromPrevious": "9 minutes",
+          "description": "After an incredible journey through the mystical landscapes of Ladakh, it's time to bid farewell. Depending on your flight schedule, you might have some time for last-minute souvenir shopping or enjoying a final Ladakhi breakfast. The drive to Leh Airport (Kushok Bakula Rimpochee Airport) offers one last glimpse of the stunning mountain vistas.",
+          "whyVisit": "Reflect on your unforgettable Ladakhi adventure and carry cherished memories of its breathtaking landscapes, vibrant culture, and serene monasteries as you depart.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure%20from%20Ladakh&dates=20251128T090000/20251128T120000&details=Depart%20from%20Leh%20after%20an%20unforgettable%20trip%20to%20Ladakh%2C%20reflecting%20on%20its%20breathtaking%20landscapes%20and%20vibrant%20culture.&location=Leh%20Airport%2C%20Ladakh%2C%20India",
+          "activities": [
+            "Enjoy a final Ladakhi breakfast.",
+            "Do some last-minute souvenir shopping in Leh market (if time permits).",
+            "Transfer to Leh Airport for your onward journey."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "300-500 INR (for taxi to airport)",
+            "bestTime": "As per flight schedule",
+            "duration": "Depending on flight schedule"
+          },
+          "tips": {
+            "whatToBring": [
+              "All travel documents (tickets, ID)",
+              "Warm clothing for the airport"
+            ],
+            "whatToBuy": [
+              "Any last-minute souvenirs you might have missed"
+            ],
+            "safetyNotes": [
+              "Arrive at the airport well in advance, especially in winter, due to potential delays.",
+              "Check flight status due to weather conditions."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "The panoramic views from the airport"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "3.5 km",
+        "spending": {
+          "hotel": "0 INR",
+          "entryFees": "0 INR",
+          "activities": "0 INR",
+          "transport": "400 INR (taxi to airport)",
+          "meals": {
+            "breakfast": "0 INR (light snack)",
+            "lunch": "0 INR",
+            "dinner": "0 INR",
+            "snacks": "50 INR"
+          },
+          "shopping": "100 INR"
+        },
+        "remainingBudget": "60350 INR"
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": "80000",
+    "currency": "INR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Road (estimated to Leh)",
+          "total_cost": "20000"
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Ladakh Residency",
+        "pricePerNight": "2000",
+        "nights": "4",
+        "total": "8000"
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 2900
+        },
+        {
+          "day": 2,
+          "cost": 9100
+        },
+        {
+          "day": 3,
+          "cost": 3900
+        },
+        {
+          "day": 4,
+          "cost": 4900
+        },
+        {
+          "day": 5,
+          "cost": 550
+        }
+      ]
+    },
+    "totalSpent": "49450",
+    "remainingBudget": "30550",
+    "budgetTips": [
+      "Consider shared taxis for longer distances (like Pangong Tso) to significantly reduce transport costs.",
+      "Eat at local eateries (dhabas) for authentic and budget-friendly meals.",
+      "Bargain politely at local markets for souvenirs.",
+      "Carry sufficient cash as ATM availability can be limited in remote areas and during power outages."
+    ]
+  },
+  "packingList": {
+    "Clothing": [
+      "Heavy thermal wear (top and bottom)",
+      "Woolen sweaters/fleeces (2-3 layers)",
+      "Heavy padded jacket (waterproof and windproof)",
+      "Warm trousers (ski pants or insulated pants)",
+      "Woolen socks (multiple pairs)",
+      "Warm hats/beanies",
+      "Gloves (waterproof and warm)",
+      "Muffler/scarf"
+    ],
+    "Footwear": [
+      "Waterproof and insulated winter boots with good grip",
+      "Comfortable walking shoes for indoor/hotel use"
+    ],
+    "Essentials": [
+      "Sunscreen (high SPF, essential due to high altitude)",
+      "Lip balm with SPF",
+      "Moisturizer (skin gets very dry)",
+      "Personal medications (especially for altitude sickness if prone)",
+      "Basic first-aid kit (band-aids, antiseptic, pain relievers)",
+      "Water bottle (stay hydrated)",
+      "High-energy snacks (nuts, chocolates, energy bars)",
+      "Toiletries",
+      "Hand sanitizer"
+    ],
+    "Electronics": [
+      "Mobile phone and charger",
+      "Power bank (batteries drain faster in cold)",
+      "Camera and extra batteries",
+      "Headphones"
+    ],
+    "Documents": [
+      "Passport/ID cards",
+      "Flight/bus tickets",
+      "Hotel reservation confirmations",
+      "Inner Line Permit (if applicable, can be obtained online or locally)",
+      "Travel insurance details",
+      "Copies of all important documents",
+      "Emergency contact numbers"
+    ],
+    "Children-specific items": []
+  },
+  "preTripChecklist": {
+    "High Priority": [
+      "Verify passport/ID validity.",
+      "Obtain Inner Line Permits for Ladakh (essential for Indian nationals for certain areas like Pangong Tso).",
+      "Book flights to Leh well in advance (Leh Airport is the most practical entry point in November).",
+      "Confirm hotel reservation and heating facilities.",
+      "Purchase travel insurance covering high-altitude regions.",
+      "Arrange airport transfers in Leh.",
+      "Consult a doctor regarding high-altitude travel and necessary medications."
+    ],
+    "Medium Priority": [
+      "Pre-book any specific activities or private taxis, especially for Pangong Tso.",
+      "Exchange currency or notify bank of travel plans.",
+      "Download offline maps of Leh and surrounding areas.",
+      "Download translation apps (if needed).",
+      "Research local emergency numbers (police, medical).",
+      "Pack according to the detailed packing list, prioritizing warm layers."
+    ],
+    "Low Priority": [
+      "Learn basic Ladakhi/Hindi phrases (e.g., 'Julley' for hello/thank you).",
+      "Research local SIM card options (BSNL/Jio/Airtel work best in Ladakh).",
+      "Create backup copies of important documents (digital and physical).",
+      "Share itinerary with family/friends."
+    ]
+  }
+}
