@@ -1,0 +1,666 @@
+{
+  "tripOverview": {
+    "destination": "Noida, India",
+    "startDate": "2025-11-26",
+    "endDate": "2025-11-29",
+    "duration": "3",
+    "companions": "2 adults",
+    "tripType": "Family Fun and Cultural Exploration",
+    "currency": "INR"
+  },
+  "mode_of_transport": {
+    "road": {
+      "cost": {
+        "train": "Approximately 400 - 700 INR per person",
+        "bus": "Approximately 300 - 600 INR per person",
+        "cab": "Approximately 2500 - 4000 INR"
+      },
+      "approx_time": {
+        "train": "Approximately 6-8 hours",
+        "bus": "Approximately 7-9 hours",
+        "cab": "Approximately 5-7 hours"
+      },
+      "stations": {
+        "bus_stations": "Haldwani Bus Stand, Noida Sector 37 Bus Stop, Noida Expressway Bus Stop",
+        "trainstations": "Haldwani Railway Station, Ghaziabad Junction, Anand Vihar Terminal, New Delhi Railway Station"
+      }
+    }
+  },
+  "hotel": {
+    "name": "Hotel Ascent Noida",
+    "price": "1400 - 1500 (Per night)",
+    "location": {
+      "latitude": 28.5682,
+      "longitude": 77.3245
+    },
+    "address": "Block P, Sector 18, Noida, Uttar Pradesh 201301",
+    "Rating": "3.8/5",
+    "Amenities": "Free Wi-Fi, Air Conditioning, Room Service, Parking, Restaurant, Flat-screen TV, Private Bathroom"
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-26",
+      "theme": "Arrival and Entertainment",
+      "optimizedRoute": "Hotel Ascent Noida → The Great India Place Mall → Hotel Ascent Noida",
+      "totalDistance": 2.2,
+      "totalTravelTime": "8 minutes",
+      "weather": "Sunny, 23.5°C high, 9.7°C low. UV index 4.05. No rain.",
+      "places": [
+        {
+          "timeOfDay": "3:00 PM - 7:00 PM",
+          "name": "The Great India Place Mall",
+          "coordinates": {
+            "latitude": 28.5678,
+            "longitude": 77.3242
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.5678,77.3242",
+          "distanceFromPrevious": 0.4,
+          "travelTimeFromPrevious": "2 minutes",
+          "description": "The Great India Place (TGIP) Mall is one of the largest shopping malls in North India, offering a vast array of international and domestic brands. It's a vibrant hub for shopping, dining, and entertainment, including a multiplex cinema. Its sprawling design and diverse offerings make it a popular destination for families and individuals seeking a modern retail experience in Noida.",
+          "whyVisit": "Perfect for an afternoon of leisure and retail therapy after your journey. You can explore a wide range of stores, catch a movie, or simply enjoy the lively atmosphere. It's also an excellent spot for indoor activities, regardless of the weather, and a great place to pick up any forgotten essentials.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=The%20Great%20India%20Place%20Mall&dates=20251126T150000/20251126T190000&details=The%20Great%20India%20Place%20(TGIP)%20Mall%20is%20one%20of%20the%20largest%20shopping%20malls%20in%20North%20India%2C%20offering%20a%20vast%20array%20of%20international%20and%20domestic%20brands.&location=Block%20P%2C%20Sector%2018%2C%20Noida%2C%20Uttar%20Pradesh%20201301",
+          "activities": [
+            "Explore various retail stores and boutique shops.",
+            "Enjoy a coffee or snack at one of the many cafes.",
+            "Watch a movie at the multiplex cinema."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "Varies based on shopping and dining choices.",
+            "bestTime": "Late afternoon to early evening for a vibrant atmosphere.",
+            "duration": "3-4 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Shopping bags (if planning purchases)"
+            ],
+            "whatToBuy": [
+              "Fashion apparel",
+              "Accessories",
+              "Electronics"
+            ],
+            "safetyNotes": [
+              "Keep an eye on personal belongings in crowded areas."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Outside the mall with its grand facade",
+              "Inside at themed decorations during festive seasons"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM - 9:00 PM",
+          "name": "Dinner and Relaxation",
+          "coordinates": {
+            "latitude": 28.5682,
+            "longitude": 77.3245
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.5682,77.3245",
+          "distanceFromPrevious": 0.4,
+          "travelTimeFromPrevious": "2 minutes",
+          "description": "After a day of travel and exploring The Great India Place, unwind with a relaxed dinner. Noida offers a plethora of dining options, from fine dining to casual eateries, and diverse cuisines. You can choose to dine at a restaurant within the mall, near your hotel, or explore local culinary hotspots for an authentic taste of the region.",
+          "whyVisit": "To refuel and relax after a busy first day. It's an opportunity to savor local flavors or enjoy a familiar meal, preparing you for the adventures of the coming days. The cool evening weather will make a pleasant walk to a nearby restaurant enjoyable.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Dinner%20and%20Relaxation&dates=20251126T190000/20251126T210000&details=Unwind%20with%20a%20relaxed%20dinner%20after%20a%20day%20of%20travel%20and%20exploring%20The%20Great%20India%20Place.&location=Block%20P%2C%20Sector%2018%2C%20Noida%2C%20Uttar%20Pradesh%20201301",
+          "activities": [
+            "Enjoy a delicious meal at a restaurant of your choice.",
+            "Reflect on the day's experiences.",
+            "Plan for the next day's activities."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "1000 - 2000 INR (for two adults)",
+            "bestTime": "Evening",
+            "duration": "1-2 hours"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "0.8 km",
+        "spending": {
+          "hotel": 1500,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 100,
+          "meals": 1365,
+          "shopping": 585
+        },
+        "remainingBudget": 56450
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-27",
+      "theme": "Amusement and Family Fun",
+      "optimizedRoute": "Hotel Ascent Noida → KidZania Delhi NCR → Worlds of Wonder → Hotel Ascent Noida",
+      "totalDistance": 2.2,
+      "totalTravelTime": "8 minutes",
+      "weather": "Sunny, 23.7°C high, 11.6°C low. UV index 4.05. No rain.",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "KidZania Delhi NCR",
+          "coordinates": {
+            "latitude": 28.5668,
+            "longitude": 77.3235
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.5668,77.3235",
+          "distanceFromPrevious": 0.4,
+          "travelTimeFromPrevious": "2 minutes",
+          "description": "KidZania Delhi NCR is an interactive indoor theme park designed to educate and entertain children through role-playing activities. Kids can experience various professions in a realistic miniature city, earning 'kidZos' (the local currency) which they can spend. It offers a unique blend of learning and fun, fostering creativity and life skills in a safe environment.",
+          "whyVisit": "An engaging and educational experience for children, allowing them to explore different careers in a fun, interactive setting. While there are no children in your group, the concept of a miniature city and the detailed role-playing scenarios can be fascinating to observe, or you might find enjoyment in the overall lively atmosphere and innovative design.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=KidZania%20Delhi%20NCR&dates=20251127T090000/20251127T120000&details=KidZania%20Delhi%20NCR%20is%20an%20interactive%20indoor%20theme%20park%20designed%20to%20educate%20and%20entertain%20children%20through%20role-playing%20activities.&location=Entertainment%20City%2C%20Gate%20No.%2011%2C%20Sector%2038%20A%2C%20Noida%2C%20Uttar%20Pradesh%20201301",
+          "activities": [
+            "Observe children participating in various role-playing activities.",
+            "Explore the miniature city and its detailed establishments.",
+            "Enjoy the vibrant and energetic atmosphere."
+          ],
+          "practicalInfo": {
+            "entryFee": "Adult: 1500 INR",
+            "estimatedCost": "3000 INR (for two adults)",
+            "bestTime": "Morning to avoid large crowds",
+            "duration": "3-4 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable shoes",
+              "Camera (if allowed)"
+            ],
+            "whatToBuy": [
+              "Souvenirs from the gift shop"
+            ],
+            "safetyNotes": [
+              "Follow all park rules and guidelines."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Inside various establishments within the park"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "12:00 PM - 1:00 PM",
+          "name": "Lunch",
+          "coordinates": {
+            "latitude": 28.5675,
+            "longitude": 77.3255
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.5675,77.3255",
+          "distanceFromPrevious": 0.2,
+          "travelTimeFromPrevious": "1 minute",
+          "description": "Enjoy a satisfying lunch after your morning at KidZania. You can find several dining options within The Great India Place Mall, which is adjacent to KidZania, or explore nearby restaurants for a quick and delicious meal. Choose from various cuisines, including Indian, Chinese, and Continental, to suit your palate.",
+          "whyVisit": "To refuel and prepare for an exciting afternoon at Worlds of Wonder. The proximity to your next destination makes it convenient to grab a quick bite without wasting travel time. Consider trying some local fast food or a more relaxed sit-down meal.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Lunch&dates=20251127T120000/20251127T130000&details=Enjoy%20a%20satisfying%20lunch%20after%20your%20morning%20at%20KidZania.&location=Entertainment%20City%2C%20Sector%2038%20A%2C%20Noida%2C%20Uttar%20Pradesh%20201301",
+          "activities": [
+            "Dine at a restaurant of your choice."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "800 - 1500 INR (for two adults)",
+            "bestTime": "Lunchtime",
+            "duration": "1 hour"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "1:00 PM - 5:00 PM",
+          "name": "Worlds of Wonder",
+          "coordinates": {
+            "latitude": 28.5675,
+            "longitude": 77.3255
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.5675,77.3255",
+          "distanceFromPrevious": 0.1,
+          "travelTimeFromPrevious": "1 minute",
+          "description": "Worlds of Wonder is a popular amusement park in Noida, offering a wide array of thrilling rides, water slides, and entertainment options for all ages. It features a dedicated amusement park section with exhilarating rides and a water park for cooling off. It's a perfect destination for those seeking adventure and fun-filled experiences.",
+          "whyVisit": "For an afternoon of excitement and thrills! Worlds of Wonder provides a great escape with its diverse range of rides, from family-friendly attractions to high-adrenaline roller coasters. It’s an ideal spot to let loose and enjoy some playful moments. The sunny weather will be perfect for outdoor activities.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Worlds%20of%20Wonder&dates=20251127T130000/20251127T170000&details=Worlds%20of%20Wonder%20is%20a%20popular%20amusement%20park%20in%20Noida%2C%20offering%20a%20wide%20array%20of%20thrilling%20rides%2C%20water%20slides%2C%20and%20entertainment%20options%20for%20all%20ages.&location=Entertainment%20City%2C%20Sector%2038%20A%2C%20Noida%2C%20Uttar%20Pradesh%20201301",
+          "activities": [
+            "Enjoy various amusement rides, from gentle to thrilling.",
+            "Explore the different themed zones within the park.",
+            "Take photos with mascots and at scenic spots."
+          ],
+          "practicalInfo": {
+            "entryFee": "Adult: 1000 INR (Amusement Park), 1300 INR (Water Park), Combo: 1500 INR",
+            "estimatedCost": "2000 INR (for two adults, Amusement Park only)",
+            "bestTime": "Afternoon",
+            "duration": "3-4 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable clothes and shoes",
+              "Sunscreen",
+              "Hat",
+              "Water bottle"
+            ],
+            "whatToBuy": [
+              "Souvenirs",
+              "Snacks and beverages"
+            ],
+            "safetyNotes": [
+              "Follow all safety instructions for rides.",
+              "Stay hydrated."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": [
+              "In front of iconic rides",
+              "At various themed photo booths"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM - 7:30 PM",
+          "name": "Dinner",
+          "coordinates": {
+            "latitude": 28.5682,
+            "longitude": 77.3245
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.5682,77.3245",
+          "distanceFromPrevious": 0.4,
+          "travelTimeFromPrevious": "2 minutes",
+          "description": "Conclude your day of adventure with a relaxing dinner. You can choose from a range of restaurants near your hotel or explore the diverse culinary scene of Noida. Whether you prefer traditional Indian cuisine, international dishes, or a casual eatery, Noida offers plenty of options to satisfy your taste buds.",
+          "whyVisit": "To unwind and discuss the day's exciting experiences at the amusement parks. A good dinner is the perfect way to recharge and get ready for another day of exploration. Consider trying a local specialty to immerse yourself in the regional culture.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Dinner&dates=20251127T190000/20251127T193000&details=Conclude%20your%20day%20of%20adventure%20with%20a%20relaxing%20dinner.&location=Block%20P%2C%20Sector%2018%2C%20Noida%2C%20Uttar%20Pradesh%20201301",
+          "activities": [
+            "Enjoy a delicious meal."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "1000 - 2000 INR (for two adults)",
+            "bestTime": "Evening",
+            "duration": "1-2 hours"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "1.1 km",
+        "spending": {
+          "hotel": 1500,
+          "entryFees": 5000,
+          "activities": 0,
+          "transport": 100,
+          "meals": 1365,
+          "shopping": 585
+        },
+        "remainingBudget": 48100
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-28",
+      "theme": "Culture and Local Flavors",
+      "optimizedRoute": "Hotel Ascent Noida → ISKCON Temple Noida → Brahmaputra Market (Local shopping and street food) → Hotel Ascent Noida",
+      "totalDistance": 10.9,
+      "totalTravelTime": "26 minutes",
+      "weather": "Partially cloudy, 22.7°C high, 10.2°C low. UV index 4.0. No rain.",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "ISKCON Temple Noida",
+          "coordinates": {
+            "latitude": 28.5839,
+            "longitude": 77.3752
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.5839,77.3752",
+          "distanceFromPrevious": 6.8,
+          "travelTimeFromPrevious": "16 minutes",
+          "description": "The ISKCON Temple in Noida is a spiritual haven dedicated to Lord Krishna. It's renowned for its beautiful architecture, peaceful ambiance, and vibrant devotional services. Visitors can participate in bhajans (devotional songs), attend spiritual discourses, and explore the temple's serene premises, which often include a guesthouse and a restaurant serving sattvic (pure vegetarian) food.",
+          "whyVisit": "To experience a spiritual and cultural retreat amidst the bustling city. The temple offers a serene environment for reflection and an opportunity to witness traditional Hindu rituals and artistry. It's a chance to immerse yourself in devotion and appreciate the architectural beauty.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=ISKCON%20Temple%20Noida&dates=20251128T090000/20251128T120000&details=The%20ISKCON%20Temple%20in%20Noida%20is%20a%20spiritual%20haven%20dedicated%20to%20Lord%20Krishna.&location=A-5%2C%20Near%20Express%20Trade%20Tower%2C%20Sector%2033%2C%20Noida%2C%20Uttar%20Pradesh%20201307",
+          "activities": [
+            "Attend the morning or noon arati (prayer ceremony).",
+            "Explore the temple architecture and intricate carvings.",
+            "Enjoy peaceful moments of meditation."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (donations welcome)",
+            "estimatedCost": "100 - 500 INR (for donations or prasad)",
+            "bestTime": "Morning for arati, or anytime for peaceful visit",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Modest attire (shoulders and knees covered)",
+              "A scarf or stole for women (optional)"
+            ],
+            "whatToBuy": [
+              "Religious books",
+              "Incense sticks",
+              "Prasad (blessed food)"
+            ],
+            "safetyNotes": [
+              "Remove shoes before entering the main temple area."
+            ],
+            "customsEtiquette": [
+              "Maintain silence and respect inside the temple.",
+              "Bow or offer namaste."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Temple facade",
+              "Main prayer hall (if allowed, check signs)"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "12:00 PM - 1:00 PM",
+          "name": "Lunch",
+          "coordinates": {
+            "latitude": 28.5756,
+            "longitude": 77.3705
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.5756,77.3705",
+          "distanceFromPrevious": 1.1,
+          "travelTimeFromPrevious": "3 minutes",
+          "description": "After your spiritual visit, enjoy a delightful lunch near Brahmaputra Market. This area is famous for its diverse food stalls and local eateries, offering a wide array of street food and traditional Indian dishes. It's an excellent opportunity to savor authentic flavors and experience Noida's culinary scene.",
+          "whyVisit": "To taste the local flavors and experience the vibrant food culture of Noida. Brahmaputra Market is a renowned food hub, perfect for a quick, delicious, and affordable lunch. The partially cloudy weather provides a comfortable setting for outdoor dining.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Lunch&dates=20251128T120000/20251128T130000&details=Enjoy%20a%20delightful%20lunch%20near%20Brahmaputra%20Market.&location=Sector%2029%2C%20Noida%2C%20Uttar%20Pradesh%20201303",
+          "activities": [
+            "Try various street food items like chaat, momos, and parathas.",
+            "Dine at a local restaurant."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "500 - 1000 INR (for two adults)",
+            "bestTime": "Lunchtime",
+            "duration": "1 hour"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Choose stalls with good hygiene practices."
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "1:00 PM - 5:00 PM",
+          "name": "Brahmaputra Market (Local shopping and street food)",
+          "coordinates": {
+            "latitude": 28.5756,
+            "longitude": 77.3705
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.5756,77.3705",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Brahmaputra Market is a bustling local market in Noida, famous for its street food and diverse range of shopping options. You can find everything from clothing and accessories to household items and electronics. It's a lively place that offers a glimpse into local life and culture, perfect for souvenir hunting and trying authentic street delicacies.",
+          "whyVisit": "To immerse yourself in the local culture, enjoy authentic street food, and find unique souvenirs. This market provides a true local experience, allowing you to interact with vendors and discover hidden gems. The partially cloudy weather will make for a comfortable shopping and eating experience.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Brahmaputra%20Market%20(Local%20shopping%20and%20street%20food)&dates=20251128T130000/20251128T170000&details=Brahmaputra%20Market%20is%20a%20bustling%20local%20market%20in%20Noida%2C%20famous%20for%20its%20street%20food%20and%20diverse%20range%20of%20shopping%20options.&location=Sector%2029%2C%20Noida%2C%20Uttar%20Pradesh%20201303",
+          "activities": [
+            "Explore the various shops and stalls.",
+            "Try different street food items.",
+            "Bargain for goods and souvenirs."
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "Varies based on shopping and eating choices.",
+            "bestTime": "Afternoon to evening for a lively atmosphere",
+            "duration": "3-4 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash (many small vendors may not accept cards)",
+              "Reusable shopping bag"
+            ],
+            "whatToBuy": [
+              "Local crafts",
+              "Clothing",
+              "Street food"
+            ],
+            "safetyNotes": [
+              "Be aware of your surroundings in crowded areas."
+            ],
+            "customsEtiquette": [
+              "Bargaining is common and expected."
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Colorful food stalls",
+              "Busy market scenes"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "7:00 PM - 9:00 PM",
+          "name": "Farewell Dinner",
+          "coordinates": {
+            "latitude": 28.5682,
+            "longitude": 77.3245
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.5682,77.3245",
+          "distanceFromPrevious": 5.4,
+          "travelTimeFromPrevious": "12 minutes",
+          "description": "Enjoy a special farewell dinner to conclude your trip to Noida. Choose a restaurant that offers your favorite cuisine or try a local specialty you haven't experienced yet. It's an opportunity to relax, reflect on your memorable experiences, and savor your last evening in the city.",
+          "whyVisit": "To celebrate the end of a wonderful trip and create lasting memories. Opt for a slightly nicer restaurant for a special evening. The cool evening weather makes dining out pleasant.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Farewell%20Dinner&dates=20251128T190000/20251128T210000&details=Enjoy%20a%20special%20farewell%20dinner%20to%20conclude%20your%20trip%20to%20Noida.&location=Block%20P%2C%20Sector%2018%2C%20Noida%2C%20Uttar%20Pradesh%20201301",
+          "activities": [
+            "Enjoy a gourmet meal.",
+            "Share highlights of your trip.",
+            "Relax and unwind."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "1500 - 3000 INR (for two adults)",
+            "bestTime": "Evening",
+            "duration": "1.5 - 2 hours"
+          },
+          "tips": {
+            "whatToBring": [],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "13.3 km",
+        "spending": {
+          "hotel": 1500,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 200,
+          "meals": 1365,
+          "shopping": 585
+        },
+        "remainingBudget": 44450
+      }
+    },
+    {
+      "day": 4,
+      "date": "2025-11-29",
+      "theme": "Departure",
+      "optimizedRoute": "Hotel Ascent Noida → Hotel Ascent Noida",
+      "totalDistance": 0.0,
+      "totalTravelTime": "0 minutes",
+      "weather": "Sunny, 22.5°C high, 11.0°C low. UV index 4.05. No rain.",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Leisurely Breakfast and Check-out",
+          "coordinates": {
+            "latitude": 28.5682,
+            "longitude": 77.3245
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=28.5682,77.3245",
+          "distanceFromPrevious": 0.0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Start your final day with a relaxed breakfast at your hotel. Take your time to pack any last-minute items and ensure you haven't forgotten anything. Complete the check-out process at your convenience, preparing for your journey back home. This allows for a stress-free departure from Noida.",
+          "whyVisit": "To ensure a smooth and relaxed departure. A leisurely breakfast provides a final opportunity to enjoy the hotel's amenities and reflect on your trip. It also helps in managing your luggage and confirming all travel arrangements without rushing.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Leisurely%20Breakfast%20and%20Check-out&dates=20251129T090000/20251129T120000&details=Start%20your%20final%20day%20with%20a%20relaxed%20breakfast%20at%20your%20hotel.&location=Block%20P%2C%20Sector%2018%2C%20Noida%2C%20Uttar%20Pradesh%20201301",
+          "activities": [
+            "Enjoy breakfast at the hotel.",
+            "Final packing and organization.",
+            "Complete check-out procedures."
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "300 - 500 INR (for breakfast, if not included)",
+            "bestTime": "Morning",
+            "duration": "3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "All personal belongings and packed luggage"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "0.0 km",
+        "spending": {
+          "hotel": 0,
+          "entryFees": 0,
+          "activities": 0,
+          "transport": 0,
+          "meals": 700,
+          "shopping": 0
+        },
+        "remainingBudget": 43750
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": 60000,
+    "currency": "INR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Road (Train/Bus/Cab)",
+          "total_cost": "Approximately 1000 - 8000 (depending on mode)"
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Hotel Ascent Noida",
+        "pricePerNight": "1400 - 1500",
+        "nights": "3",
+        "total": 4500
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 3550
+        },
+        {
+          "day": 2,
+          "cost": 8550
+        },
+        {
+          "day": 3,
+          "cost": 3650
+        },
+        {
+          "day": 4,
+          "cost": 700
+        }
+      ]
+    },
+    "totalSpent": 17100,
+    "remainingBudget": 42900,
+    "budgetTips": [
+      "Utilize local public transport like auto-rickshaws or ride-sharing apps (Ola/Uber) for shorter distances to save on transport costs.",
+      "Explore street food and local eateries, especially around Brahmaputra Market, for delicious and affordable meals.",
+      "Consider booking attractions online in advance for potential discounts.",
+      "Stick to your shopping budget by focusing on essential souvenirs or local specialties."
+    ]
+  },
+  "packingList": {
+    "Clothing": [
+      "Light jackets or sweaters for cool mornings/evenings (temperatures around 10-12°C)",
+      "Comfortable casual wear (t-shirts, jeans, trousers) for daytime (temperatures around 22-24°C)",
+      "One semi-formal outfit for farewell dinner (optional)",
+      "Modest attire for temple visits (shoulders and knees covered)"
+    ],
+    "Footwear": [
+      "Comfortable walking shoes (essential for theme parks and markets)",
+      "Casual sandals or flip-flops"
+    ],
+    "Essentials": [
+      "Sunscreen (UV index 4.0-4.05)",
+      "Lip balm",
+      "Hand sanitizer",
+      "Personal medications",
+      "Basic first-aid kit",
+      "Toiletries"
+    ],
+    "Electronics": [
+      "Mobile phone and charger",
+      "Power bank",
+      "Camera and extra batteries (optional)",
+      "Universal travel adapter (if needed, India uses Type D and Type M sockets)"
+    ],
+    "Documents": [
+      "Government-issued ID (Aadhar Card, Driving License)",
+      "Hotel reservation confirmations",
+      "Train/bus tickets (if pre-booked)",
+      "Medical insurance details (if any)",
+      "Emergency contact list"
+    ],
+    "Children-specific items": []
+  },
+  "preTripChecklist": [
+    {
+      "priority": "High",
+      "items": [
+        "Confirm hotel reservation.",
+        "Book train/bus tickets from Haldwani to Noida and back.",
+        "Purchase travel insurance (recommended for domestic travel too).",
+        "Arrange transfers to/from Haldwani Railway/Bus Station and to/from Noida hotel."
+      ]
+    },
+    {
+      "priority": "Medium",
+      "items": [
+        "Pre-book tickets for KidZania Delhi NCR and Worlds of Wonder to save time.",
+        "Notify your bank of your travel dates if you plan to use debit/credit cards frequently.",
+        "Download offline maps of Noida for navigation.",
+        "Research local emergency numbers (Police: 112, Ambulance: 102/108, Fire: 101)."
+      ]
+    },
+    {
+      "priority": "Low",
+      "items": [
+        "Learn a few basic Hindi phrases (e.g., 'Namaste', 'Dhanyawad').",
+        "Create backup copies of important documents on your phone or email.",
+        "Share your itinerary with a trusted family member or friend."
+      ]
+    }
+  ]
+}
