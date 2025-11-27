@@ -1,0 +1,509 @@
+{
+  "tripOverview": {
+    "destination": "Assam, India",
+    "startDate": "2025-11-28",
+    "endDate": "2025-11-30",
+    "duration": "2 nights",
+    "companions": "2 adults, 0 children",
+    "tripType": "Cultural and Nature-focused",
+    "currency": "INR"
+  },
+  "mode_of_transport": {
+    "road": {
+      "cost": {
+        "train": "Approx 2000-3000 INR",
+        "bus": "Approx 1000-2000 INR",
+        "cab": "Approx 8000-12000 INR"
+      },
+      "approx_time": {
+        "train": "Approx 24-30 hours",
+        "bus": "Approx 30-36 hours",
+        "cab": "Approx 28-34 hours"
+      },
+      "stations": {
+        "bus_stations": "Anand Vihar ISBT (Delhi) to Guwahati ISBT",
+        "trainstations": "New Delhi Railway Station to Guwahati Railway Station"
+      }
+    }
+  },
+  "hotel": {
+    "name": "Hotel Atithi",
+    "price": "800-1000 INR (Per night)",
+    "location": {
+      "latitude": 26.1798,
+      "longitude": 91.749
+    },
+    "address": "Opposite Assam State Museum, GNB Road, Ambari, Guwahati, Assam 781001",
+    "Rating": "3.5/5",
+    "Amenities": "Free Wi-Fi, Restaurant, Room Service, Air Conditioning, Hot Water"
+  },
+  "dailyItinerary": [
+    {
+      "day": 1,
+      "date": "2025-11-28",
+      "theme": "Arrival and Spiritual Exploration",
+      "optimizedRoute": "Hotel Atithi \u2192 Kamakhya Temple \u2192 Hotel Atithi",
+      "totalDistance": 21.65,
+      "totalTravelTime": "52 minutes",
+      "weather": "Max temp 30.9\u00b0C, Min temp 19.4\u00b0C. UV index 5.2. No rain.",
+      "places": [
+        {
+          "timeOfDay": "3:00 PM - 5:00 PM",
+          "name": "Hotel Check-in & Relaxation",
+          "coordinates": {
+            "latitude": 26.1798,
+            "longitude": 91.749
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.1798,91.749",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Upon arrival in Guwahati, proceed to Hotel Atithi for check-in. Take some time to relax and refresh after your journey. Unpack your belongings and get ready to explore the spiritual side of Guwahati. The hotel offers comfortable amenities and a convenient location to kickstart your trip.",
+          "whyVisit": "Essential first step for any trip, allowing you to settle in, unwind, and prepare for the adventures ahead. The hotel's central location will be beneficial for subsequent sightseeing.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hotel%20Check-in%20%26%20Relaxation&dates=20251128T150000/20251128T170000&details=Upon%20arrival%20in%20Guwahati%2C%20proceed%20to%20Hotel%20Atithi%20for%20check-in.%20Take%20some%20time%20to%20relax%20and%20refresh%20after%20your%20journey.%20Unpack%20your%20belongings%20and%20get%20ready%20to%20explore%20the%20spiritual%20side%20of%20Guwahati.%20The%20hotel%20offers%20comfortable%20amenities%20and%20a%20convenient%20location%20to%20kickstart%20your%20trip.&location=Hotel%20Atithi%2C%20Guwahati",
+          "activities": [
+            "Check-in at Hotel Atithi",
+            "Unpack and freshen up",
+            "Relax and prepare for evening excursion"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Late afternoon for check-in",
+            "duration": "2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Booking confirmation",
+              "ID proof"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": []
+          }
+        },
+        {
+          "timeOfDay": "5:00 PM - 7:00 PM",
+          "name": "Kamakhya Temple",
+          "coordinates": {
+            "latitude": 26.1827,
+            "longitude": 91.6706
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.1827,91.6706",
+          "distanceFromPrevious": 13.81,
+          "travelTimeFromPrevious": "33 minutes",
+          "description": "Perched atop the Nilachal Hills, the Kamakhya Temple is one of the oldest of the 51 Shakti Peethas and a significant pilgrimage site for Tantric worshippers. Dedicated to the goddess Kamakhya, it is unique for its veneration of the 'yoni' (vagina) of the goddess, symbolizing creation and fertility. The temple's architecture is a blend of Nilachal and traditional Assamese styles, featuring intricate carvings and sculptures. Visitors can witness traditional rituals and experience the powerful spiritual atmosphere.",
+          "whyVisit": "A must-visit for its unique spiritual significance and historical architecture, offering a deep dive into the cultural and religious heritage of Assam. The serene hilltop location provides a calming experience.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Kamakhya%20Temple&dates=20251128T170000/20251128T190000&details=Perched%20atop%20the%20Nilachal%20Hills%2C%20the%20Kamakhya%20Temple%20is%20one%20of%20the%20oldest%20of%20the%2051%20Shakti%20Peethas%20and%20a%20significant%20pilgrimage%20site%20for%20Tantric%20worshippers.%20Dedicated%20to%20the%20goddess%20Kamakhya%20%2C%20it%20is%20unique%20for%20its%20veneration%20of%20the%20%27yoni%27%20(vagina)%20of%20the%20goddess%2C%20symbolizing%20creation%20and%20fertility.%20The%20temple%27s%20architecture%20is%20a%20blend%20of%20Nilachal%20and%20traditional%20Assamese%20styles%2C%20featuring%20intricate%20carvings%20and%20sculptures.%20Visitors%20can%20witness%20traditional%20rituals%20and%20experience%20the%20powerful%20spiritual%20atmosphere.&location=Kamakhya%20Temple%2C%20Guwahati",
+          "activities": [
+            "Participate in evening Aarti (if available)",
+            "Explore the temple complex and its unique architecture",
+            "Enjoy panoramic views of Guwahati from the hilltop",
+            "Seek blessings from the deity"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free (special darshan tickets available for quicker entry, approx. 500-1000 INR)",
+            "estimatedCost": "500-1000 INR (for special darshan, if opted)",
+            "bestTime": "Early morning or late afternoon to avoid crowds",
+            "duration": "1.5 - 2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Modest clothing (shoulders and knees covered)",
+              "Camera (check for restrictions inside the temple)"
+            ],
+            "whatToBuy": [
+              "Offerings for the deity",
+              "Souvenirs from nearby shops"
+            ],
+            "safetyNotes": [
+              "Be aware of touts and beggars",
+              "Keep an eye on personal belongings",
+              "The path to the temple can be steep - wear appropriate footwear"
+            ],
+            "customsEtiquette": [
+              "Remove shoes before entering the main shrine",
+              "Maintain silence and respect the sanctity of the place",
+              "Photography may be restricted in certain areas"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Temple entrance with its unique carvings",
+              "Panoramic views from the hilltop",
+              "Sculptures and intricate details of the temple"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "21.65 km",
+        "spending": {
+          "Hotel": 1000,
+          "Entry Fees": {
+            "adults": "0 INR",
+            "children": "0 INR"
+          },
+          "Activities": 0,
+          "Transport": 300,
+          "Meals": {
+            "Breakfast": 0,
+            "Lunch": 0,
+            "Dinner": 250,
+            "Snacks": 100
+          },
+          "Shopping": 0
+        },
+        "remainingBudget": 68350
+      }
+    },
+    {
+      "day": 2,
+      "date": "2025-11-29",
+      "theme": "Culture, Nature, and Local Life",
+      "optimizedRoute": "Hotel Atithi \u2192 Assam State Museum \u2192 Brahmaputra River Cruise \u2192 Local Market Exploration \u2192 Hotel Atithi",
+      "totalDistance": 10.32,
+      "totalTravelTime": "24 minutes",
+      "weather": "Max temp 29.9\u00b0C, Min temp 20.0\u00b0C. UV index 5.15. No rain.",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Assam State Museum",
+          "coordinates": {
+            "latitude": 26.1738,
+            "longitude": 91.7618
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.1738,91.7618",
+          "distanceFromPrevious": 2.03,
+          "travelTimeFromPrevious": "5 minutes",
+          "description": "The Assam State Museum, established in 1940, is a treasure trove of Assamese history, culture, and archaeology. It houses a vast collection of artifacts, including sculptures, ethnographic objects, prehistoric tools, costumes, and weapons, offering a comprehensive insight into the region's rich past. The museum's diverse galleries showcase the art and heritage of various communities in Assam, making it an essential stop for anyone interested in understanding the state's cultural evolution.",
+          "whyVisit": "Provides a comprehensive understanding of Assam's history and cultural heritage, perfect for those interested in local traditions and ancient artifacts. It's an enriching educational experience.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Assam%20State%20Museum&dates=20251129T090000/20251129T120000&details=The%20Assam%20State%20Museum%2C%20established%20in%201940%2C%20is%20a%20treasure%20trove%20of%20Assamese%20history%2C%20culture%2C%20and%20archaeology.%20It%20houses%20a%20vast%20collection%20of%20artifacts%2C%20including%20sculptures%2C%20ethnographic%20objects%2C%20prehistoric%20tools%2C%20costumes%2C%20and%20weapons%2C%20offering%20a%20comprehensive%20insight%20into%20the%20region%27s%20rich%20past.%20The%20museum%27s%20diverse%20galleries%20showcase%20the%20art%20and%20heritage%20of%20various%20communities%20in%20Assam%2C%20making%20it%20an%20essential%20stop%20for%20anyone%20interested%20in%20understanding%20the%20state%27s%20cultural%20evolution.&location=Assam%20State%20Museum%2C%20Guwahati",
+          "activities": [
+            "Explore the various galleries showcasing ancient artifacts",
+            "Learn about the history and culture of Assam",
+            "Admire the ethnographic collection and traditional costumes"
+          ],
+          "practicalInfo": {
+            "entryFee": "Adults: 20 INR, Children: 10 INR",
+            "estimatedCost": "40 INR for 2 adults",
+            "bestTime": "Morning to avoid crowds",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Comfortable walking shoes",
+              "Camera (check for restrictions)"
+            ],
+            "whatToBuy": [
+              "Books on Assamese history and culture from the museum shop"
+            ],
+            "safetyNotes": [
+              "Do not touch the exhibits"
+            ],
+            "customsEtiquette": [
+              "Maintain silence",
+              "Respect the artifacts"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Various exhibits and sculptures (if photography is allowed)"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "1:00 PM - 4:00 PM",
+          "name": "Brahmaputra River Cruise",
+          "coordinates": {
+            "latitude": 26.1663,
+            "longitude": 91.7469
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.1663,91.7469",
+          "distanceFromPrevious": 2.32,
+          "travelTimeFromPrevious": "6 minutes",
+          "description": "A Brahmaputra River Cruise offers a unique perspective of Guwahati and its surroundings. Cruising along the mighty Brahmaputra, you'll witness picturesque landscapes, local life along the riverbanks, and perhaps even spot some migratory birds. Many cruises also offer cultural performances and delicious Assamese cuisine onboard, providing a complete sensory experience. It's a fantastic way to relax and soak in the natural beauty of Assam.",
+          "whyVisit": "Offers a relaxing and scenic experience, allowing you to witness the beauty of the Brahmaputra River and local life. It's a great way to unwind and enjoy the natural surroundings.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Brahmaputra%20River%20Cruise&dates=20251129T130000/20251129T160000&details=A%20Brahmaputra%20River%20Cruise%20offers%20a%20unique%20perspective%20of%20Guwahati%20and%20its%20surroundings.%20Cruising%20along%20the%20mighty%20Brahmaputra%2C%20you%27ll%20witness%20picturesque%20landscapes%2C%20local%20life%20along%20the%20riverbanks%2C%20and%20perhaps%20even%20spot%20some%20migratory%20birds.%20Many%20cruises%20also%20offer%20cultural%20performances%20and%20delicious%20Assamese%20cuisine%20onboard%2C%20providing%20a%20complete%20sensory%20experience.%20It%27s%20a%20fantastic%20way%20to%20relax%20and%20soak%20in%20the%20natural%20beauty%20of%20Assam.&location=Brahmaputra%20River%20Cruise%2C%20Guwahati",
+          "activities": [
+            "Enjoy the scenic views of the Brahmaputra River",
+            "Observe local life along the riverbanks",
+            "Indulge in cultural performances (if available)",
+            "Enjoy refreshments or a meal onboard"
+          ],
+          "practicalInfo": {
+            "entryFee": "Approx. 400-800 INR per person (depending on the cruise type and duration)",
+            "estimatedCost": "800-1600 INR for 2 adults",
+            "bestTime": "Late afternoon for sunset views",
+            "duration": "2-3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Camera",
+              "Sunscreen",
+              "Hat",
+              "Light jacket (for evening cruises)"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [
+              "Follow safety instructions on the cruise",
+              "Be careful while moving around the boat"
+            ],
+            "customsEtiquette": [],
+            "bookingRequired": true,
+            "photoSpots": [
+              "Sunset views over the Brahmaputra",
+              "Riverfront landscapes",
+              "Cultural performances onboard"
+            ]
+          }
+        },
+        {
+          "timeOfDay": "4:00 PM - 6:00 PM",
+          "name": "Local Market Exploration",
+          "coordinates": {
+            "latitude": 26.1856,
+            "longitude": 91.7374
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.1856,91.7374",
+          "distanceFromPrevious": 3.71,
+          "travelTimeFromPrevious": "9 minutes",
+          "description": "Immerse yourself in the vibrant atmosphere of Guwahati's local markets. These bustling hubs offer a glimpse into the daily life of the city and are a fantastic place to find traditional Assamese handicrafts, textiles, local produce, and delicious street food. Explore the narrow lanes, interact with local vendors, and discover unique souvenirs to take home. The markets are a feast for the senses, with a riot of colors, sounds, and aromas.",
+          "whyVisit": "Experience the authentic local culture, find unique souvenirs, and try local street food. It's an excellent opportunity for cultural immersion and souvenir shopping.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Local%20Market%20Exploration&dates=20251129T160000/20251129T180000&details=Immerse%20yourself%20in%20the%20vibrant%20atmosphere%20of%20Guwahati%27s%20local%20markets.%20These%20bustling%20hubs%20offer%20a%20glimpse%20into%20the%20daily%20life%20of%20the%20city%20and%20are%20a%20fantastic%20place%20to%20find%20traditional%20Assamese%20handicrafts%2C%20textiles%2C%20local%20produce%2C%20and%20delicious%20street%20food.%20Explore%20the%20narrow%20lanes%2C%20interact%20with%20local%20vendors%2C%20and%20discover%20unique%20souvenirs%20to%20take%20home.%20The%20markets%20are%20a%20feast%20for%20the%20senses%2C%20with%20a%20riot%20of%20colors%2C%20sounds%2C%20and%20aromas.&location=Local%20Market%2C%20Guwahati",
+          "activities": [
+            "Browse for traditional Assamese handicrafts and textiles",
+            "Try local street food and snacks",
+            "Interact with local vendors and learn about their crafts",
+            "Find unique souvenirs to take home"
+          ],
+          "practicalInfo": {
+            "entryFee": "Free",
+            "estimatedCost": "500-1000 INR (for shopping and food)",
+            "bestTime": "Late afternoon/early evening for a lively atmosphere",
+            "duration": "1.5 - 2 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "Cash (smaller denominations)",
+              "Reusable shopping bag"
+            ],
+            "whatToBuy": [
+              "Assamese silk (Muga, Pat, Eri)",
+              "Bamboo and cane products",
+              "Local spices",
+              "Traditional jewelry"
+            ],
+            "safetyNotes": [
+              "Bargain respectfully",
+              "Be aware of pickpockets in crowded areas",
+              "Check the quality of goods before purchasing"
+            ],
+            "customsEtiquette": [
+              "Be polite and respectful when interacting with vendors",
+              "Ask for permission before taking photos of people"
+            ],
+            "bookingRequired": false,
+            "photoSpots": [
+              "Colorful stalls and vendors",
+              "Local street food preparations",
+              "Bustling market scenes"
+            ]
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "10.32 km",
+        "spending": {
+          "Hotel": 1000,
+          "Entry Fees": {
+            "adults": "40 INR",
+            "children": "0 INR"
+          },
+          "Activities": 1600,
+          "Transport": 300,
+          "Meals": {
+            "Breakfast": 150,
+            "Lunch": 200,
+            "Dinner": 250,
+            "Snacks": 100
+          },
+          "Shopping": 500
+        },
+        "remainingBudget": 64160
+      }
+    },
+    {
+      "day": 3,
+      "date": "2025-11-30",
+      "theme": "Departure",
+      "optimizedRoute": "Hotel Atithi \u2192 Hotel Atithi",
+      "totalDistance": 0.0,
+      "totalTravelTime": "0 minutes",
+      "weather": "Max temp 28.8\u00b0C, Min temp 20.5\u00b0C. UV index 5.1. No rain.",
+      "places": [
+        {
+          "timeOfDay": "9:00 AM - 12:00 PM",
+          "name": "Leisurely Breakfast & Check-out",
+          "coordinates": {
+            "latitude": 26.1798,
+            "longitude": 91.749
+          },
+          "googlemapintegrationlink": "https://maps.google.com/?q=26.1798,91.749",
+          "distanceFromPrevious": 0,
+          "travelTimeFromPrevious": "0 minutes",
+          "description": "Enjoy a leisurely breakfast at the hotel, savoring the last moments of your trip to Assam. After breakfast, proceed with the check-out formalities. Depending on your flight/train schedule, you can either relax at the hotel, do some last-minute souvenir shopping, or head to the airport/station for your departure. Reflect on the wonderful experiences and memories created during your time in Guwahati.",
+          "whyVisit": "Allows for a relaxed morning before departure, ensuring a smooth transition out of the hotel and preparation for your journey home. A good opportunity to reflect on your trip.",
+          "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Leisurely%20Breakfast%20%26%20Check-out&dates=20251130T090000/20251130T120000&details=Enjoy%20a%20leisurely%20breakfast%20at%20the%20hotel%2C%20savoring%20the%20last%20moments%20of%20your%20trip%20to%20Assam.%20After%20breakfast%2C%20proceed%20with%20the%20check-out%20formalities.%20Depending%20on%20your%20flight/train%20schedule%2C%20you%20can%20either%20relax%20at%20the%20hotel%2C%20do%20some%20last-minute%20souvenir%20shopping%2C%20or%20head%20to%20the%20airport/station%20for%20your%20departure.%20Reflect%20on%20the%20wonderful%20experiences%20and%20memories%20created%20during%20your%20time%20in%20Guwahati.",
+          "activities": [
+            "Enjoy breakfast at the hotel",
+            "Complete check-out formalities",
+            "Relax or do last-minute shopping (optional)",
+            "Head to the airport/station for departure"
+          ],
+          "practicalInfo": {
+            "entryFee": "N/A",
+            "estimatedCost": "N/A",
+            "bestTime": "Morning",
+            "duration": "3 hours"
+          },
+          "tips": {
+            "whatToBring": [
+              "All packed belongings",
+              "Travel documents"
+            ],
+            "whatToBuy": [],
+            "safetyNotes": [],
+            "customsEtiquette": [],
+            "bookingRequired": false,
+            "photoSpots": []
+          }
+        }
+      ],
+      "daySummary": {
+        "totalDistance": "0.0 km",
+        "spending": {
+          "Hotel": 0,
+          "Entry Fees": {
+            "adults": "0 INR",
+            "children": "0 INR"
+          },
+          "Activities": 0,
+          "Transport": 0,
+          "Meals": {
+            "Breakfast": 150,
+            "Lunch": 0,
+            "Dinner": 0,
+            "Snacks": 0
+          },
+          "Shopping": 0
+        },
+        "remainingBudget": 64010
+      }
+    }
+  ],
+  "budgetBreakdown": {
+    "totalBudget": "70000",
+    "currency": "INR",
+    "expenses": {
+      "Transport": [
+        {
+          "transport_name": "Road (Train/Bus/Cab from Noida to Guwahati)",
+          "total_cost": "10000 (estimated average for round trip)"
+        }
+      ],
+      "accommodation": {
+        "hotelName": "Hotel Atithi",
+        "pricePerNight": "1000",
+        "nights": "2",
+        "total": 2000
+      },
+      "dailyExpenses": [
+        {
+          "day": 1,
+          "cost": 1650
+        },
+        {
+          "day": 2,
+          "cost": 3990
+        },
+        {
+          "day": 3,
+          "cost": 150
+        }
+      ]
+    },
+    "totalSpent": 17790,
+    "remainingBudget": 52210,
+    "budgetTips": [
+      "Utilize local buses or shared auto-rickshaws for inter-attraction travel to save on costs.",
+      "Opt for local eateries and dhabas to experience authentic Assamese cuisine at affordable prices.",
+      "Negotiate prices when shopping in local markets, but do so respectfully.",
+      "Consider packing some snacks and water bottles to avoid frequent purchases."
+    ]
+  },
+  "packingList": {
+    "Clothing": [
+      "Lightweight cotton clothes (T-shirts, shirts, shorts/capris) due to warm temperatures",
+      "One light jacket or shawl for evenings/early mornings as temperatures can drop slightly",
+      "Modest clothing for temple visits (shoulders and knees covered)"
+    ],
+    "Footwear": [
+      "Comfortable walking shoes/sandals for sightseeing",
+      "Flip-flops for hotel"
+    ],
+    "Essentials": [
+      "Sunscreen (UV index 5+)",
+      "Insect repellent",
+      "Basic toiletries",
+      "Personal medications",
+      "Small first aid kit (band-aids, antiseptic wipes)",
+      "Hand sanitizer"
+    ],
+    "Electronics": [
+      "Phone and charger",
+      "Power bank",
+      "Camera and extra battery/memory card",
+      "Universal travel adapter (if needed)"
+    ],
+    "Documents": [
+      "ID proof (Aadhar Card/Passport)",
+      "Flight/train tickets",
+      "Hotel booking confirmations",
+      "Travel insurance details (if applicable)",
+      "Emergency contact information"
+    ],
+    "Children-specific items": []
+  },
+  "preTripChecklist": [
+    {
+      "priority": "High",
+      "items": [
+        "Verify ID proof validity",
+        "Book train/bus tickets to Guwahati",
+        "Confirm hotel reservation for Hotel Atithi",
+        "Purchase travel insurance (recommended)",
+        "Arrange airport/station transfers in Guwahati"
+      ]
+    },
+    {
+      "priority": "Medium",
+      "items": [
+        "Pre-book Brahmaputra River Cruise",
+        "Exchange currency or notify bank of travel",
+        "Download offline maps of Guwahati",
+        "Research local emergency numbers (Police: 100, Ambulance: 102)",
+        "Pack according to the packing list, keeping the weather in mind"
+      ]
+    },
+    {
+      "priority": "Low",
+      "items": [
+        "Learn basic Assamese phrases (e.g., 'Nomoskar' for Hello)",
+        "Research local SIM card options upon arrival",
+        "Create backup copies of important documents (digital and physical)",
+        "Share itinerary with family/friends"
+      ]
+    }
+  ]
+}
