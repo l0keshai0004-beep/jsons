@@ -1,0 +1,488 @@
+{
+    "tripOverview": {
+        "destination": "Guwahati, India",
+        "startDate": "2025-11-28",
+        "endDate": "2025-11-30",
+        "duration": "2 Nights",
+        "companions": "2 adults, 0 children",
+        "tripType": "Cultural and Nature-focused",
+        "currency": "INR"
+    },
+    "mode_of_transport": {
+        "flight": {
+            "destination": "Guwahati, Lokpriya Gopinath Bordoloi International Airport (GAU)",
+            "Approx_cost": "16000 - 24000 for 2 adults",
+            "Approx_time_of_flight(duration)": "2.5 - 3 hours",
+            "Nearest_airport_from_current_destination": "DEL",
+            "Nearest_airport_from_visiting_destination": "GAU",
+            "Stops": "Direct"
+        }
+    },
+    "hotel": {
+        "name": "Hotel D'Courtyard",
+        "price": "980 - 1200",
+        "location": {
+            "latitude": "26.1825",
+            "longitude": "91.7428"
+        },
+        "address": "GS Rd, South Sarania, Ulubari, Guwahati, Assam 781007",
+        "Rating": "4.1/5",
+        "Amenities": [
+            "Free Wi-Fi",
+            "Air Conditioning",
+            "Restaurant",
+            "Free Parking",
+            "Room Service"
+        ]
+    },
+    "dailyItinerary": [
+        {
+            "day": 1,
+            "date": "2025-11-28",
+            "theme": "Spiritual Arrival and Sunset Darshan",
+            "optimizedRoute": "Hotel D'Courtyard → Kamakhya Temple → Hotel D'Courtyard",
+            "totalDistance": 13.84,
+            "totalTravelTime": "45 minutes",
+            "weather": "Partly cloudy with a max temperature of 31°C. Perfect for an evening visit.",
+            "places": [
+                {
+                    "timeOfDay": "3:00 PM - 5:00 PM",
+                    "name": "Hotel Check-in & Relaxation",
+                    "location": {
+                        "latitude": "26.1825",
+                        "longitude": "91.7428"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1825,91.7428",
+                    "distanceFromPrevious": 0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Arrive at Hotel D'Courtyard, conveniently located in the city center. Complete your check-in process and take some time to settle into your room. This is a perfect opportunity to unpack, freshen up after your journey, and relax for a bit before heading out for the evening's spiritual exploration. The hotel's comfortable ambiance provides a peaceful start to your Guwahati adventure. You can grab a quick cup of Assam tea from the in-house restaurant to rejuvenate yourself for the exciting experiences that lie ahead in this vibrant city.",
+                    "whyVisit": "A necessary and relaxing start to the trip, allowing you to recharge after your flight before immersing yourself in the local culture and spirituality of Guwahati.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hotel%20Check-in%20%26%20Relaxation&dates=20251128T150000/20251128T170000&details=Arrive%2C%20check-in%2C%20and%20settle%20into%20your%20hotel%20to%20relax%20before%20the%20evening's%20activities.&location=Hotel%20D'Courtyard%2C%20GS%20Rd%2C%20South%20Sarania%2C%20Ulubari%2C%20Guwahati%2C%20Assam%20781007",
+                    "activities": [
+                        "Complete check-in formalities",
+                        "Unpack and freshen up",
+                        "Enjoy a welcome drink or a cup of local Assam tea"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "0",
+                        "bestTime": "As per your arrival",
+                        "duration": "2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "ID proof for check-in",
+                            "Hotel booking confirmation"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Keep your luggage locked and valuables in the safe.",
+                            "Familiarize yourself with the hotel's emergency exits."
+                        ],
+                        "customsEtiquette": [
+                            "Be polite and courteous to the hotel staff."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": []
+                    }
+                },
+                {
+                    "timeOfDay": "5:00 PM - 7:00 PM",
+                    "name": "Kamakhya Temple",
+                    "location": {
+                        "latitude": "26.1668",
+                        "longitude": "91.7058"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1668,91.7058",
+                    "distanceFromPrevious": 6.67,
+                    "travelTimeFromPrevious": "25 minutes",
+                    "description": "Perched atop the Nilachal Hills, the Kamakhya Temple is one of the most revered Shakti Peeths in India, offering a profound spiritual experience. The temple's unique architecture, with its dome-like structure, stands out against the lush green backdrop. Unlike other temples, the sanctum sanctorum here houses a yoni-shaped stone that is perpetually moist from an underground spring, representing the creative power of the goddess. The evening is a magical time to visit, as the setting sun casts a warm glow on the temple complex and the sounds of chants and bells create a deeply mystical atmosphere. The panoramic view of Guwahati city from the hilltop is simply breathtaking.",
+                    "whyVisit": "An essential spiritual destination in India, offering a unique insight into Tantric worship and Shakti traditions. The evening visit provides a serene and powerful atmosphere, perfect for cultural immersion.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Kamakhya%20Temple&dates=20251128T170000/20251128T190000&details=Visit%20one%20of%20the%20most%20important%20Shakti%20Peeths%20for%20an%20evening%20darshan%20and%20witness%20the%20panoramic%20city%20views.&location=Kamakhya%20Temple%2C%20Guwahati%2C%20Assam",
+                    "activities": [
+                        "Seek blessings at the main shrine",
+                        "Explore the smaller temples within the complex",
+                        "Enjoy the panoramic sunset view of Guwahati city and the Brahmaputra river"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free entry. Special VIP Darshan is approx. 501 INR per person.",
+                        "estimatedCost": "1500 for 2 adults (Transport + VIP Darshan)",
+                        "bestTime": "Early morning or late afternoon to avoid crowds",
+                        "duration": "2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Modest clothing covering shoulders and knees",
+                            "Cash for offerings and tickets",
+                            "A scarf or shawl"
+                        ],
+                        "whatToBuy": [
+                            "Religious idols and trinkets",
+                            "Prasad (blessed food offerings)"
+                        ],
+                        "safetyNotes": [
+                            "Be cautious of your belongings in crowded areas.",
+                            "Beware of touts offering special services."
+                        ],
+                        "customsEtiquette": [
+                            "Remove footwear before entering the temple premises.",
+                            "Photography is restricted inside the main sanctum."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The main temple entrance against the sky",
+                            "The viewpoint overlooking the city"
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "13.84 km",
+                "spending": {
+                    "Hotel": "1000",
+                    "Entry Fees": "1002",
+                    "Activities": "0",
+                    "Transport": "500",
+                    "Meals": "1200",
+                    "Shopping": "300",
+                    "total": "4002"
+                },
+                "remainingBudget": "65998"
+            }
+        },
+        {
+            "day": 2,
+            "date": "2025-11-29",
+            "theme": "History, River Views, and Local Flavors",
+            "optimizedRoute": "Hotel D'Courtyard → Assam State Museum → Brahmaputra River Cruise → Local Market Exploration → Hotel D'Courtyard",
+            "totalDistance": 5.35,
+            "totalTravelTime": "30 minutes",
+            "weather": "Moderately cloudy with a max temperature of 30.3°C. Comfortable for day explorations.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 12:00 PM",
+                    "name": "Assam State Museum",
+                    "location": {
+                        "latitude": "26.1884",
+                        "longitude": "91.7441"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1884,91.7441",
+                    "distanceFromPrevious": 1.06,
+                    "travelTimeFromPrevious": "5 minutes",
+                    "description": "Delve into the rich tapestry of Assam's history and culture at the Assam State Museum. Established in 1940, this museum is a treasure trove of artifacts that paint a vivid picture of the region's past. Wander through galleries showcasing intricate sculptures, ancient inscriptions, tribal artifacts, and historical manuscripts. The collection includes archaeological finds from various historical periods, giving you a comprehensive overview of the civilizations that flourished here. A key highlight is the epigraphy gallery, which features rare scripts and inscriptions. The museum provides a quiet and educational morning, offering deep insights into the heritage of the entire Northeastern region of India before you experience its living culture.",
+                    "whyVisit": "An excellent way to understand the historical and cultural context of Assam and the Northeast. It's a must-visit for history enthusiasts and anyone interested in the region's diverse heritage.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Assam%20State%20Museum&dates=20251129T090000/20251129T120000&details=Explore%20the%20rich%20history%2C%20archaeology%2C%20and%20culture%20of%20Assam%20through%20its%20extensive%20collection%20of%20artifacts.&location=Assam%20State%20Museum%2C%20Gopinath%20Bordoloi%20Rd%2C%20Mawhati%2C%20Ambari%2C%20Guwahati%2C%20Assam%20781001",
+                    "activities": [
+                        "Explore the sculpture and epigraphy galleries",
+                        "View the collection of tribal artifacts and traditional costumes",
+                        "Learn about the Ahom dynasty's history"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "20 INR for Indian adults, 5 INR for students.",
+                        "estimatedCost": "250 for 2 adults (Transport + Entry)",
+                        "bestTime": "Morning hours when it's less crowded",
+                        "duration": "2.5 - 3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A notebook and pen",
+                            "Camera (check for photography permissions)",
+                            "Student ID card for discounts"
+                        ],
+                        "whatToBuy": [
+                            "Books on Assamese history from the museum shop"
+                        ],
+                        "safetyNotes": [
+                            "Do not touch the exhibits.",
+                            "Follow the museum's rules and regulations."
+                        ],
+                        "customsEtiquette": [
+                            "Maintain silence inside the galleries.",
+                            "Photography might be prohibited in certain sections."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "With the large sculptures in the garden",
+                            "The main facade of the museum building"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "1:00 PM - 4:00 PM",
+                    "name": "Brahmaputra River Cruise",
+                    "location": {
+                        "latitude": "26.19",
+                        "longitude": "91.74"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.19,91.74",
+                    "distanceFromPrevious": 0.7,
+                    "travelTimeFromPrevious": "5 minutes",
+                    "description": "Experience the majestic lifeline of Assam with a serene cruise on the mighty Brahmaputra River. This relaxing journey offers a unique perspective of Guwahati, showcasing the city's skyline against the backdrop of rolling hills. As the ferry glides over the water, you'll feel a sense of tranquility and witness the daily life along the riverbanks. The afternoon cruise is particularly pleasant, with a gentle breeze and clear views. Some cruises offer cultural performances and serve traditional Assamese snacks on board, making it a delightful cultural and culinary experience. It's a perfect way to unwind after a morning of historical exploration and appreciate the natural beauty that defines this region.",
+                    "whyVisit": "The Brahmaputra is central to Assamese life and culture. A cruise offers stunning views, a relaxing atmosphere, and a memorable way to experience the soul of Guwahati.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Brahmaputra%20River%20Cruise&dates=20251129T130000/20251129T160000&details=Enjoy%20a%20scenic%20and%20relaxing%20cruise%20on%20the%20mighty%20Brahmaputra%20River%2C%20offering%20unique%20views%20of%20the%20city.&location=Brahmaputra%20Riverfront%2C%20Guwahati",
+                    "activities": [
+                        "Enjoy scenic views of the Umananda Temple on Peacock Island",
+                        "Relax on the deck and feel the river breeze",
+                        "Savor local snacks served on board"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Approx. 400 - 800 INR per person depending on the cruise.",
+                        "estimatedCost": "1500 for 2 adults (Cruise Tickets)",
+                        "bestTime": "Sunset cruise for the most spectacular views",
+                        "duration": "1 - 2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Sunscreen and sunglasses",
+                            "A light jacket or shawl as it can get breezy",
+                            "Binoculars for bird watching"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Listen to the safety instructions provided by the crew.",
+                            "Do not lean over the railings."
+                        ],
+                        "customsEtiquette": [
+                            "Be respectful of fellow passengers.",
+                            "Do not litter in the river."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "The sunset over the river",
+                            "The Saraighat Bridge in the distance",
+                            "Umananda Island from the ferry"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "4:00 PM - 6:00 PM",
+                    "name": "Local Market Exploration (Pan Bazaar)",
+                    "location": {
+                        "latitude": "26.182",
+                        "longitude": "91.7375"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.182,91.7375",
+                    "distanceFromPrevious": 1.0,
+                    "travelTimeFromPrevious": "5 minutes",
+                    "description": "Dive into the vibrant heart of Guwahati with a visit to Pan Bazaar, one of the city's oldest and most bustling market areas. This is the perfect place to experience the local way of life and find authentic Assamese souvenirs. The market is a maze of shops selling everything from traditional silk garments like 'Mekhela Chador' to bamboo crafts and bell metal items. It's also known for its numerous bookstores, earning it the nickname 'the hub of books'. You can browse through rare collections, sample local street food, and soak in the energetic atmosphere. This exploration offers a sensory feast of sights, sounds, and smells, providing an authentic glimpse into the commercial and cultural pulse of Guwahati.",
+                    "whyVisit": "To experience the authentic local culture, shop for traditional Assamese handicrafts and silk, and taste delicious street food. It's a fantastic spot for souvenir hunting and people-watching.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Local%20Market%20Exploration%20(Pan%20Bazaar)&dates=20251129T160000/20251129T180000&details=Explore%20the%20bustling%20lanes%20of%20Pan%20Bazaar%2C%20shop%20for%20local%20handicrafts%2C%20books%2C%20and%20taste%20Assamese%20street%20food.&location=Pan%20Bazaar%2C%20Guwahati",
+                    "activities": [
+                        "Shop for Assam silk and bamboo products",
+                        "Browse the famous bookstores in the area",
+                        "Try local snacks from street vendors"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free",
+                        "estimatedCost": "1500 (Shopping)",
+                        "bestTime": "Late afternoon and evening when the market is most active",
+                        "duration": "2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A sturdy shopping bag",
+                            "Cash in various denominations",
+                            "Comfortable walking shoes"
+                        ],
+                        "whatToBuy": [
+                            "Assam Tea",
+                            "Mekhela Chador (traditional dress)",
+                            "Jaapi (traditional conical hat)",
+                            "Bell metal items"
+                        ],
+                        "safetyNotes": [
+                            "Keep your wallet and phone secure.",
+                            "Be aware of your surroundings in crowded areas."
+                        ],
+                        "customsEtiquette": [
+                            "Bargaining is common but should be done politely.",
+                            "Ask for permission before photographing shopkeepers or their wares."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "A colorful display of Mekhela Chadors",
+                            "Street food vendors in action",
+                            "A stack of books at a local bookstore"
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "5.35 km",
+                "spending": {
+                    "Hotel": "1000",
+                    "Entry Fees": "40",
+                    "Activities": "1200",
+                    "Transport": "300",
+                    "Meals": "2000",
+                    "Shopping": "1500",
+                    "total": "6040"
+                },
+                "remainingBudget": "59958"
+            }
+        },
+        {
+            "day": 3,
+            "date": "2025-11-30",
+            "theme": "Leisurely Departure",
+            "optimizedRoute": "N/A",
+            "totalDistance": 0,
+            "totalTravelTime": "0 minutes",
+            "weather": "Mostly cloudy with a max temperature of 28.8°C.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 12:00 PM",
+                    "name": "Leisurely Breakfast & Check-out",
+                    "location": {
+                        "latitude": "26.1825",
+                        "longitude": "91.7428"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1825,91.7428",
+                    "distanceFromPrevious": 0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Enjoy a final, unhurried morning in Guwahati. Start your day with a delicious and leisurely breakfast at the hotel, savoring local Assamese breakfast items if available, or your continental favorites. This is a good time to reflect on your memorable trip, from the spiritual heights of Kamakhya Temple to the cultural depths of the museum and the vibrant life along the Brahmaputra. Pack your bags at a relaxed pace, ensuring you have all your belongings and souvenirs. Complete the check-out formalities with the hotel and prepare for your journey back home, carrying with you the wonderful experiences of Assam.",
+                    "whyVisit": "A relaxed and organized end to your trip ensures you leave on a positive and stress-free note, allowing for last-minute packing and a final taste of local hospitality.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Leisurely%20Breakfast%20%26%20Check-out&dates=20251130T090000/20251130T120000&details=Enjoy%20a%20final%20breakfast%2C%20pack%20your%20bags%2C%20and%20complete%20the%20hotel%20check-out%20process%20before%20heading%20to%20the%20airport.&location=Hotel%20D'Courtyard%2C%20GS%20Rd%2C%20South%20Sarania%2C%20Ulubari%2C%20Guwahati%2C%20Assam%20781007",
+                    "activities": [
+                        "Enjoy a final Assamese breakfast",
+                        "Pack souvenirs and luggage",
+                        "Settle any outstanding bills and check out from the hotel"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "1500 for 2 adults (Breakfast + Transport to Airport)",
+                        "bestTime": "Morning",
+                        "duration": "3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "All personal belongings",
+                            "Travel documents for your journey home"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Double-check the room for any left-behind items before leaving.",
+                            "Keep your travel documents easily accessible."
+                        ],
+                        "customsEtiquette": [
+                            "Thank the hotel staff for their service.",
+                            "It's customary to leave a small tip for housekeeping."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": []
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "0 km",
+                "spending": {
+                    "Hotel": "0",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "500",
+                    "Meals": "1000",
+                    "Shopping": "0",
+                    "total": "1500"
+                },
+                "remainingBudget": "58458"
+            }
+        }
+    ],
+    "budgetBreakdown": {
+        "totalBudget": 70000,
+        "currency": "INR",
+        "expenses": {
+            "Transport": [
+                {
+                    "transport_name": "Flights",
+                    "total_cost": "20000"
+                }
+            ],
+            "accommodation": {
+                "hotelName": "Hotel D'Courtyard",
+                "pricePerNight": "1000",
+                "nights": 2,
+                "total": "2000"
+            },
+            "dailyExpenses": [
+                {
+                    "day": 1,
+                    "cost": 4002
+                },
+                {
+                    "day": 2,
+                    "cost": 6040
+                },
+                {
+                    "day": 3,
+                    "cost": 1500
+                }
+            ],
+            "budgetWarning": ""
+        },
+        "totalSpent": 33542,
+        "remainingBudget": 36458,
+        "budgetTips": [
+            "Utilize local auto-rickshaws for short distances and negotiate fares beforehand.",
+            "Eat at local eateries or 'dhabas' for authentic and budget-friendly meals.",
+            "Look for combo deals or discounts on river cruises, especially if booking in advance."
+        ]
+    },
+    "packingList": {
+        "Clothing": [
+            "Light cotton clothes for the day",
+            "A light jacket or shawl for evenings",
+            "Modest attire (long pants/skirts, tops with sleeves) for temple visits",
+            "Sleepwear"
+        ],
+        "Footwear": [
+            "Comfortable walking shoes or sandals",
+            "A pair of flip-flops for the hotel"
+        ],
+        "Essentials": [
+            "Sunscreen and sunglasses",
+            "Mosquito repellent",
+            "Basic first-aid kit with personal medications",
+            "Hand sanitizer",
+            "Toiletries"
+        ],
+        "Electronics": [
+            "Mobile phone and charger",
+            "Power bank",
+            "Camera and extra batteries",
+            "Universal travel adapter"
+        ],
+        "Documents": [
+            "Flight tickets and hotel booking confirmation (digital or print)",
+            "Government-issued photo ID (Aadhaar card, Passport)",
+            "Copy of travel insurance"
+        ],
+        "Children-specific items": []
+    },
+    "preTripChecklist": [
+        {
+            "priority": "High",
+            "task": "Book round-trip flights from Delhi (DEL) to Guwahati (GAU)."
+        },
+        {
+            "priority": "High",
+            "task": "Confirm and book accommodation at Hotel D'Courtyard."
+        },
+        {
+            "priority": "Medium",
+            "task": "Arrange for airport transfers in Guwahati (pre-paid taxi or ride-sharing app)."
+        },
+        {
+            "priority": "Medium",
+            "task": "Check baggage allowance for the airline."
+        },
+        {
+            "priority": "Low",
+            "task": "Inform your bank/credit card company of your travel dates."
+        },
+        {
+            "priority": "Low",
+            "task": "Download offline maps of Guwahati on your phone."
+        }
+    ]
+}
