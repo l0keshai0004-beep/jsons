@@ -1,0 +1,605 @@
+{
+    "tripOverview": {
+        "destination": "Assam, India",
+        "startDate": "2025-12-01",
+        "endDate": "2025-12-04",
+        "duration": "3 nights",
+        "companions": "2 adults, 0 children",
+        "tripType": "Cultural and Wildlife Adventure",
+        "currency": "INR"
+    },
+    "mode_of_transport": {
+        "flight": {
+            "destination": "Guwahati (Lokpriya Gopinath Bordoloi International Airport - GAU)",
+            "Approx_cost": "16000 - 24000 for 2 adults",
+            "Approx_time_of_flight(duration)": "3 hours",
+            "Nearest_airport_from_current_destination": "Indira Gandhi International Airport (DEL)",
+            "Nearest_airport_from_visiting_destination": "Lokpriya Gopinath Bordoloi International Airport (GAU)",
+            "Stops": "Direct"
+        }
+    },
+    "hotel": {
+        "name": "Hotel President",
+        "price": "950 - 1100",
+        "location": {
+            "latitude": "26.1723",
+            "longitude": "91.7615"
+        },
+        "address": "G.S. Road, Opp. Doordarshan Kendra, Paltan Bazaar, Guwahati, Assam 781007",
+        "Rating": "4.0/5",
+        "Amenities": [
+            "Free Wi-Fi",
+            "Air Conditioning",
+            "Restaurant",
+            "Room Service",
+            "Free Parking"
+        ]
+    },
+    "dailyItinerary": [
+        {
+            "day": 1,
+            "date": "2025-12-01",
+            "theme": "Arrival and Spiritual Sunset",
+            "optimizedRoute": "Hotel President → Umananda Temple → Hotel President",
+            "totalDistance": 7.75,
+            "totalTravelTime": "25 minutes",
+            "weather": "Cloudy, 29°C high, 21°C low. UV index 4.9. No rain. Prepare for a warm day.",
+            "places": [
+                {
+                    "timeOfDay": "3:00 PM - 4:00 PM",
+                    "name": "Arrival at Guwahati & Check-in to Hotel President",
+                    "location": {
+                        "latitude": "26.1723",
+                        "longitude": "91.7615"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1723,91.7615",
+                    "distanceFromPrevious": 0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Welcome to Guwahati, the gateway to Northeast India. Upon arrival at Lokpriya Gopinath Bordoloi International Airport (GAU), you will take a pre-booked taxi or a ride-sharing service to your hotel. The journey offers the first glimpses of the bustling city life set against the backdrop of lush green hills. Check into Hotel President, a well-located and budget-friendly choice perfect for your stay. Settle in, unpack, and take a moment to relax before you begin your Assamese adventure. The hotel staff can provide you with any immediate assistance or information you might need for your stay.",
+                    "whyVisit": "This is the essential first step to settle in after your flight, ensuring you are refreshed and ready for the evening's exploration without any travel fatigue.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrival%20at%20Guwahati%20%26%20Check-in%20to%20Hotel%20President&dates=20251201T093000Z/20251201T103000Z&details=Check%20into%20your%20accommodation%20and%20prepare%20for%20the%20evening's%20activities.&location=Hotel%20President%2C%20Guwahati",
+                    "activities": [
+                        "Complete the check-in process",
+                        "Unpack and organize your luggage",
+                        "Freshen up after your journey"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "500 INR for Taxi from Airport",
+                        "bestTime": "N/A",
+                        "duration": "1 hour"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Printed hotel confirmation",
+                            "Valid photo identification"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Keep your luggage with you at all times at the airport.",
+                            "Confirm the taxi fare before starting the journey."
+                        ],
+                        "customsEtiquette": [],
+                        "bookingRequired": true,
+                        "photoSpots": []
+                    }
+                },
+                {
+                    "timeOfDay": "5:30 PM - 7:00 PM",
+                    "name": "Umananda Temple (Peacock Island)",
+                    "location": {
+                        "latitude": "26.1900",
+                        "longitude": "91.7511"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1900,91.7511",
+                    "distanceFromPrevious": 2.76,
+                    "travelTimeFromPrevious": "12 minutes",
+                    "description": "Embark on a serene journey to Peacock Island, the smallest inhabited river island in the world, located in the middle of the mighty Brahmaputra river. The island is home to the Umananda Temple, a 17th-century shrine dedicated to Lord Shiva. To reach it, you'll take a short but scenic ferry ride from the Umananda Ghat. The temple's tranquil atmosphere, combined with the panoramic views of the river and the city during sunset, creates a truly magical experience. It's a perfect blend of spirituality and natural beauty, offering a peaceful escape from the city's hustle.",
+                    "whyVisit": "A perfect introduction to Guwahati's spiritual side, offering a unique experience of visiting a temple on a river island with stunning sunset views.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Umananda%20Temple%20(Peacock%20Island)&dates=20251201T120000Z/20251201T133000Z&details=Visit%20the%20Shiva%20temple%20on%20Peacock%20Island%20via%20a%20scenic%20ferry%20ride%20on%20the%20Brahmaputra%20river.&location=Peacock%20Island%2C%20Guwahati",
+                    "activities": [
+                        "Take a ferry across the Brahmaputra River",
+                        "Explore the architecture of the Shiva temple",
+                        "Enjoy the panoramic sunset views from the island"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "30 INR per person for Ferry",
+                        "estimatedCost": "300 INR (Entry + Transport for 2)",
+                        "bestTime": "Late afternoon for sunset",
+                        "duration": "1.5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Camera",
+                            "Comfortable footwear",
+                            "Cash for ferry tickets"
+                        ],
+                        "whatToBuy": [
+                            "Small religious trinkets from stalls near the ghat"
+                        ],
+                        "safetyNotes": [
+                            "Be cautious on the ferry jetty, it can be slippery.",
+                            "Note the time for the last ferry back to the mainland."
+                        ],
+                        "customsEtiquette": [
+                            "Dress modestly as it is a place of worship.",
+                            "Remove shoes before entering the temple premises."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "On the ferry with the city skyline in the background",
+                            "The temple entrance with intricate rock carvings"
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "7.75 km",
+                "spending": {
+                    "Hotel": "1000",
+                    "Entry Fees": "60",
+                    "Activities": "0",
+                    "Transport": "800",
+                    "Meals": "1200",
+                    "Shopping": "500",
+                    "total": "3560"
+                },
+                "remainingBudget": "46440"
+            }
+        },
+        {
+            "day": 2,
+            "date": "2025-12-02",
+            "theme": "Temples, History, and Assamese Culture",
+            "optimizedRoute": "Hotel President → Kamakhya Temple → Assam State Museum → Srimanta Sankaradeva Kalakshetra → Hotel President",
+            "totalDistance": 30.24,
+            "totalTravelTime": "1 hour 25 minutes",
+            "weather": "Cloudy, 28°C high, 23°C low. UV index 5.0. No rain. Warm and humid conditions.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 12:00 PM",
+                    "name": "Kamakhya Temple",
+                    "location": {
+                        "latitude": "26.1666",
+                        "longitude": "91.7056"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1666,91.7056",
+                    "distanceFromPrevious": 8.57,
+                    "travelTimeFromPrevious": "25 minutes",
+                    "description": "Perched atop the Nilachal Hills, the Kamakhya Temple is one of the most revered Shakti Peeths in India, a major center for Tantrism. This sacred site is unique as it does not house a conventional idol; instead, the main deity is a yoni-shaped rock formation fed by a natural underground spring. The temple complex, with its distinctive beehive-like shikhara, offers a powerful spiritual ambiance. Devotees and visitors alike flock here to seek blessings and witness the ancient rituals. The panoramic view of Guwahati city and the Brahmaputra river from the temple hilltop is an added bonus to this profound spiritual experience.",
+                    "whyVisit": "A must-visit for its immense religious significance and unique form of worship, offering a deep dive into the spiritual heart of Assam.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Kamakhya%20Temple&dates=20251202T033000Z/20251202T063000Z&details=Visit%20one%20of%20the%20most%20important%20Shakti%20Peeths%20in%20India%2C%20located%20atop%20the%20Nilachal%20Hills.&location=Kamakhya%20Temple%2C%20Guwahati",
+                    "activities": [
+                        "Seek blessings at the main sanctum",
+                        "Observe the unique temple architecture",
+                        "Enjoy the panoramic city view from the hilltop"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free entry. VIP pass available for 500 INR per person to bypass long queues.",
+                        "estimatedCost": "1500 INR (VIP pass and transport for 2)",
+                        "bestTime": "Early morning to avoid the biggest crowds",
+                        "duration": "3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Modest clothing (shoulders and knees covered)",
+                            "Water bottle",
+                            "Socks, as you'll have to remove footwear"
+                        ],
+                        "whatToBuy": [
+                            "Prasad (offerings)",
+                            "Religious icons and images"
+                        ],
+                        "safetyNotes": [
+                            "Beware of touts offering special pujas at exorbitant prices.",
+                            "Keep your belongings secure in crowded areas."
+                        ],
+                        "customsEtiquette": [
+                            "Photography is restricted inside the main sanctum.",
+                            "Follow the queue system patiently."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The main temple entrance",
+                            "The viewpoint overlooking the city"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "2:00 PM - 4:30 PM",
+                    "name": "Assam State Museum",
+                    "location": {
+                        "latitude": "26.1865",
+                        "longitude": "91.7478"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1865,91.7478",
+                    "distanceFromPrevious": 7.2,
+                    "travelTimeFromPrevious": "20 minutes",
+                    "description": "Dive into the rich history and cultural heritage of Assam at the Assam State Museum. Established in 1940, it is one of the largest multipurpose museums in Northeast India. The museum houses a vast collection of artifacts, sculptures, and manuscripts that trace the region's history from ancient to modern times. Key galleries include archaeology, epigraphy, numismatics, and natural history. It provides a comprehensive overview of the artistic, social, and cultural evolution of Assam, making it an enlightening experience for anyone interested in understanding the soul of the state beyond its natural beauty.",
+                    "whyVisit": "To gain a deep and comprehensive understanding of Assam's rich history, diverse culture, and archaeological significance all under one roof.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Assam%20State%20Museum&dates=20251202T083000Z/20251202T110000Z&details=Explore%20the%20rich%20history%20and%20cultural%20heritage%20of%20the%20region.&location=Assam%20State%20Museum%2C%20Guwahati",
+                    "activities": [
+                        "Explore the sculpture and manuscript galleries",
+                        "Learn about the Ahom dynasty's history",
+                        "View the collection of tribal artifacts"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "20 INR per person",
+                        "estimatedCost": "250 INR (Entry + Transport for 2)",
+                        "bestTime": "Afternoon, when it's quieter",
+                        "duration": "2.5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Curiosity and an interest in history",
+                            "A notebook to jot down interesting facts"
+                        ],
+                        "whatToBuy": [
+                            "Books on Assamese history from the museum shop"
+                        ],
+                        "safetyNotes": [
+                            "Some sections might be dimly lit, watch your step.",
+                            "Follow the museum's rules on photography."
+                        ],
+                        "customsEtiquette": [
+                            "Maintain silence inside the galleries.",
+                            "Do not touch the exhibits."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "In front of the main museum building",
+                            "With the large outdoor sculptures"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "5:00 PM - 7:00 PM",
+                    "name": "Srimanta Sankaradeva Kalakshetra",
+                    "location": {
+                        "latitude": "26.1550",
+                        "longitude": "91.8236"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1550,91.8236",
+                    "distanceFromPrevious": 14.09,
+                    "travelTimeFromPrevious": "30 minutes",
+                    "description": "Srimanta Sankaradeva Kalakshetra is a vibrant cultural institution that showcases the artistic and cultural richness of Assam and the entire Northeast region. Named after the revered Vaishnava saint and scholar Srimanta Sankaradeva, the complex is a masterpiece of Assamese architecture. It features a museum, an open-air theatre, art galleries, and a replica of a traditional Assamese village. The Bhupen Hazarika museum here is a special attraction. It's a place where you can witness traditional dance forms, listen to folk music, and admire local arts and crafts, offering a living, breathing experience of the region's diverse heritage.",
+                    "whyVisit": "It's a one-stop destination to experience the complete cultural tapestry of Assam, from its performing arts and music to its lifestyle and history.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Srimanta%20Sankaradeva%20Kalakshetra&dates=20251202T113000Z/20251202T133000Z&details=Experience%20the%20culture%20of%20Assam%20through%20its%20art%2C%20dance%2C%20and%20music.&location=Srimanta%20Sankaradeva%20Kalakshetra%2C%20Guwahati",
+                    "activities": [
+                        "Walk through the replica Assamese village",
+                        "Visit the Bhupen Hazarika Museum",
+                        "Enjoy a cultural show if one is scheduled"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "50 INR per person",
+                        "estimatedCost": "400 INR (Entry + Transport for 2)",
+                        "bestTime": "Evening, when the complex is beautifully lit",
+                        "duration": "2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Comfortable walking shoes",
+                            "Camera"
+                        ],
+                        "whatToBuy": [
+                            "Handicrafts from the on-site shops",
+                            "Cultural souvenirs"
+                        ],
+                        "safetyNotes": [
+                            "The complex is large, so keep track of your companions.",
+                            "Stay on designated pathways."
+                        ],
+                        "customsEtiquette": [
+                            "Appreciate the artists and performers.",
+                            "Do not litter the clean premises."
+                        ],
+                         "bookingRequired": false,
+                        "photoSpots": [
+                            "The main entrance gate with its grand architecture",
+                            "Inside the traditional village replica"
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "30.24 km",
+                "spending": {
+                    "Hotel": "1000",
+                    "Entry Fees": "1140",
+                    "Activities": "0",
+                    "Transport": "1000",
+                    "Meals": "1500",
+                    "Shopping": "500",
+                    "total": "5140"
+                },
+                "remainingBudget": "41300"
+            }
+        },
+        {
+            "day": 3,
+            "date": "2025-12-03",
+            "theme": "Journey to the Wild",
+            "optimizedRoute": "Guwahati → Kaziranga National Park",
+            "totalDistance": 195,
+            "totalTravelTime": "4 hours 30 minutes",
+            "weather": "Partly cloudy, 29°C high, 22°C low. UV index 4.6. No rain. Expect a pleasant day.",
+            "places": [
+                {
+                    "timeOfDay": "7:30 AM - 12:30 PM",
+                    "name": "Travel to Kaziranga National Park",
+                    "location": {
+                        "latitude": "26.6667",
+                        "longitude": "93.3333"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.6667,93.3333",
+                    "distanceFromPrevious": 195,
+                    "travelTimeFromPrevious": "4 hours 30 minutes",
+                    "description": "Today, you will journey from the city of Guwahati to the wilderness of Kaziranga National Park, a UNESCO World Heritage Site. After an early breakfast, you'll check out from your hotel and begin the scenic road trip. The drive takes you through the heart of Assam, passing by picturesque paddy fields, small towns, and lush green landscapes. This journey is an experience in itself, offering a glimpse into rural Assamese life. You will be traveling to a different world, leaving the urban environment behind for the sights and sounds of one of India's most celebrated wildlife sanctuaries.",
+                    "whyVisit": "This journey is the bridge between the cultural leg of your trip and the upcoming wildlife adventure, building anticipation for the Kaziranga experience.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Travel%20to%20Kaziranga%20National%20Park&dates=20251203T020000Z/20251203T070000Z&details=Scenic%20road%20trip%20from%20Guwahati%20to%20the%20UNESCO%20World%20Heritage%20Site.&location=Kaziranga%20National%20Park",
+                    "activities": [
+                        "Enjoy the scenic drive through the Assamese countryside",
+                        "Stop for a cup of authentic Assam tea at a roadside dhaba",
+                        "Look out for changing landscapes as you near the park"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "3500 INR for a private cab",
+                        "bestTime": "Early morning to avoid traffic",
+                        "duration": "5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Snacks and water for the journey",
+                            "A travel pillow for comfort",
+                            "Music or a podcast for entertainment"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Ensure you book a reliable taxi service for the long journey.",
+                            "Keep your valuables secure during brief stops."
+                        ],
+                        "customsEtiquette": [],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "Picturesque mustard fields (seasonal)",
+                            "Views of the Brahmaputra along parts of the highway"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "2:00 PM - 5:00 PM",
+                    "name": "Jeep Safari in Kaziranga National Park (Western Range)",
+                    "location": {
+                        "latitude": "26.5810",
+                        "longitude": "93.1732"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.5810,93.1732",
+                    "distanceFromPrevious": 10,
+                    "travelTimeFromPrevious": "20 minutes",
+                    "description": "After checking into your resort and a quick lunch, get ready for the highlight of your trip: a jeep safari in Kaziranga National Park. You'll explore the Western Range (Bagori), known for its high density of the Great Indian One-Horned Rhinoceros. The open-jeep safari allows for excellent wildlife viewing and photography opportunities. Besides the majestic rhinos, you'll have the chance to spot wild elephants, swamp deer, wild water buffalo, and a plethora of bird species. The thrill of driving through the grasslands and marshes, with the raw beauty of nature all around, is an unforgettable experience.",
+                    "whyVisit": "This is a prime opportunity to see the iconic one-horned rhinoceros in its natural habitat and experience one of India's best wildlife safaris.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Jeep%20Safari%20in%20Kaziranga%20National%20Park&dates=20251203T083000Z/20251203T113000Z&details=Explore%20the%20Western%20Range%20of%20the%20park%2C%20famous%20for%20its%20high%20density%20of%20one-horned%20rhinos.&location=Kaziranga%20National%20Park%20(Western%20Range)",
+                    "activities": [
+                        "Wildlife spotting and bird watching",
+                        "Photography of flora and fauna",
+                        "Learning about the park's ecosystem from your guide"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Approx. 3000 INR per Jeep (includes entry permits, guide, and vehicle)",
+                        "estimatedCost": "3000 INR",
+                        "bestTime": "Afternoon safari offers good lighting for photos",
+                        "duration": "3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Binoculars for better wildlife viewing",
+                            "A good zoom lens for your camera",
+                            "Neutral-colored clothing to blend in with nature",
+                            "Cap and sunglasses"
+                        ],
+                        "whatToBuy": [
+                            "Souvenirs from the park's entrance gate shops"
+                        ],
+                        "safetyNotes": [
+                            "Always follow the instructions of your guide.",
+                            "Do not get down from the jeep at any point.",
+                            "Maintain silence to not disturb the animals."
+                        ],
+                        "customsEtiquette": [
+                            "Do not feed any animals.",
+                            "Respect the park's rules and regulations."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "Any spot with a rhino sighting",
+                            "The Donga viewpoint for panoramic views"
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "205 km",
+                "spending": {
+                    "Hotel": "2500",
+                    "Entry Fees": "0",
+                    "Activities": "3000",
+                    "Transport": "3500",
+                    "Meals": "1500",
+                    "Shopping": "500",
+                    "total": "11000"
+                },
+                "remainingBudget": "30300"
+            }
+        },
+        {
+            "day": 4,
+            "date": "2025-12-04",
+            "theme": "Departure",
+            "optimizedRoute": "Kaziranga → Guwahati Airport",
+            "totalDistance": 215,
+            "totalTravelTime": "4 hours 45 minutes",
+            "weather": "Partly cloudy, 29°C high, 20°C low. UV index 4.5. No rain. Slightly cooler evening.",
+            "places": [
+                {
+                    "timeOfDay": "10:00 AM - 12:00 PM",
+                    "name": "Departure for Airport",
+                    "location": {
+                        "latitude": "26.1063",
+                        "longitude": "91.5859"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1063,91.5859",
+                    "distanceFromPrevious": 215,
+                    "travelTimeFromPrevious": "4 hours 45 minutes",
+                    "description": "After a final Assamese breakfast at your resort in Kaziranga, it's time to check out and bid farewell to the wilderness. You will embark on the return journey to Lokpriya Gopinath Bordoloi International Airport (GAU) in Guwahati for your flight back home. The drive will once again take you through the scenic landscapes of Assam, giving you one last chance to soak in the views. Reflect on the wonderful memories created over the past few days, from the spiritual temples of Guwahati to the thrilling rhino sightings in Kaziranga, as you head to the airport with a heart full of experiences.",
+                    "whyVisit": "This marks the conclusion of your memorable trip to Assam, ensuring a smooth and timely transfer to the airport for your journey home.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure%20for%20Airport&dates=20251204T043000Z/20251204T063000Z&details=Travel%20from%20Kaziranga%20back%20to%20Guwahati%20Airport%20for%20your%20departure.&location=Lokpriya%20Gopinath%20Bordoloi%20International%20Airport%20(GAU)",
+                    "activities": [
+                        "Enjoy a final breakfast in Kaziranga",
+                        "Check out from the resort",
+                        "Travel back to Guwahati airport"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "3500 INR for a private cab",
+                        "bestTime": "Allow ample buffer time for traffic",
+                        "duration": "2 hours (activity) + 5 hours (travel)"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "All your packed luggage",
+                            "Flight tickets and ID"
+                        ],
+                        "whatToBuy": [
+                            "Last-minute tea packets or souvenirs from airport shops"
+                        ],
+                        "safetyNotes": [
+                            "Double-check your room to ensure you haven't left anything behind.",
+                            "Start for the airport well in advance to account for any delays."
+                        ],
+                        "customsEtiquette": [],
+                        "bookingRequired": true,
+                        "photoSpots": []
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "215 km",
+                "spending": {
+                    "Hotel": "0",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "3500",
+                    "Meals": "1000",
+                    "Shopping": "500",
+                    "total": "5000"
+                },
+                "remainingBudget": "25300"
+            }
+        }
+    ],
+    "budgetBreakdown": {
+        "totalBudget": 50000,
+        "currency": "INR",
+        "expenses": {
+            "Transport": [
+                {
+                    "transport_name": "Flights",
+                    "total_cost": "20000"
+                }
+            ],
+            "accommodation": {
+                "hotelName": "Hotel President (Guwahati) & Resort in Kaziranga",
+                "pricePerNight": "1000 & 2500 (average)",
+                "nights": 3,
+                "total": 4500
+            },
+            "dailyExpenses": [
+                {
+                    "day": 1,
+                    "cost": 3560
+                },
+                {
+                    "day": 2,
+                    "cost": 5140
+                },
+                {
+                    "day": 3,
+                    "cost": 11000
+                },
+                {
+                    "day": 4,
+                    "cost": 5000
+                }
+            ]
+        },
+        "totalSpent": 49200,
+        "remainingBudget": 800,
+        "budgetTips": [
+            "Opt for combo meals at local restaurants to save on food expenses.",
+            "Use ride-sharing apps for city travel in Guwahati instead of private taxis for shorter distances."
+        ]
+    },
+    "packingList": {
+        "Clothing": [
+            "Light cotton clothes for the day",
+            "A light jacket or shawl for evenings",
+            "Modest attire for temple visits (covering shoulders and knees)",
+            "Neutral-colored clothing for safari"
+        ],
+        "Footwear": [
+            "Comfortable walking shoes or sneakers",
+            "A pair of sandals or flip-flops"
+        ],
+        "Essentials": [
+            "Sunscreen and sunglasses",
+            "Mosquito repellent",
+            "Personal medications",
+            "Basic first-aid kit",
+            "Hand sanitizer"
+        ],
+        "Electronics": [
+            "Mobile phone and charger",
+            "Power bank",
+            "Camera with extra batteries and memory card",
+            "Binoculars for wildlife viewing"
+        ],
+        "Documents": [
+            "Flight tickets",
+            "Hotel booking confirmations",
+            "Government-issued photo ID (Aadhaar card, Passport)",
+            "Copy of travel itinerary"
+        ],
+        "Children-specific items": []
+    },
+    "preTripChecklist": [
+        {
+            "priority": "High",
+            "task": "Book round-trip flights from Delhi (DEL) to Guwahati (GAU)."
+        },
+        {
+            "priority": "High",
+            "task": "Book accommodation in Guwahati for 2 nights and in Kaziranga for 1 night."
+        },
+        {
+            "priority": "High",
+            "task": "Pre-book the Jeep Safari in Kaziranga online to ensure availability."
+        },
+        {
+            "priority": "Medium",
+            "task": "Arrange for airport transfers and inter-city cab from Guwahati to Kaziranga and back."
+        },
+        {
+            "priority": "Medium",
+            "task": "Pack clothes according to the weather forecast and planned activities."
+        },
+        {
+            "priority": "Low",
+            "task": "Inform your bank about your travel dates to avoid any card issues."
+        },
+        {
+            "priority": "Low",
+            "task": "Download offline maps of Guwahati and Kaziranga area."
+        }
+    ]
+}
