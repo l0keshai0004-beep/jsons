@@ -1,0 +1,440 @@
+{
+    "tripOverview": {
+        "destination": "Madhya Pradesh, India",
+        "startDate": "2025-11-29",
+        "endDate": "2025-12-01",
+        "duration": "2 nights",
+        "companions": "2 adults, 0 children",
+        "tripType": "Cultural and Wildlife Expedition",
+        "currency": "INR"
+    },
+    "mode_of_transport": {
+        "road": {
+            "cost": {
+                "train": "3000-5000",
+                "bus": "2500-4000",
+                "cab": "12000-15000"
+            },
+            "approx_time": {
+                "train": "12-14 hours",
+                "bus": "14-16 hours",
+                "cab": "11-13 hours"
+            },
+            "stations": {
+                "bus_stations": "ISBT Kashmiri Gate, Delhi to ISBT Bhopal",
+                "trainstations": "New Delhi Railway Station (NDLS) to Bhopal Junction (BPL) or Rani Kamalapati (RKMP)"
+            }
+        }
+    },
+    "hotel": {
+        "name": "MPT Gateway Retreat, Sanchi",
+        "price": "990 - 1200",
+        "location": {
+            "latitude": "23.5855",
+            "longitude": "77.7346"
+        },
+        "address": "Sanchi, Madhya Pradesh 464661, India",
+        "Rating": "4.1/5",
+        "Amenities": [
+            "Free Parking",
+            "Restaurant",
+            "Room Service",
+            "Air Conditioning"
+        ]
+    },
+    "dailyItinerary": [
+        {
+            "day": 1,
+            "date": "2025-11-29",
+            "theme": "Historical Arrival and Sunset at Sanchi",
+            "optimizedRoute": "MPT Gateway Retreat, Sanchi → Sanchi Stupa → MPT Gateway Retreat, Sanchi",
+            "totalDistance": 3.54,
+            "totalTravelTime": "15 minutes",
+            "weather": "Cloudy, 26°C high, 15°C low. UV index 5.3. No rain. Prepare for cooler evenings.",
+            "places": [
+                {
+                    "timeOfDay": "6:00 AM - 4:00 PM",
+                    "name": "Travel from Noida to Sanchi",
+                    "location": {
+                        "latitude": "23.5855",
+                        "longitude": "77.7346"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=23.5855,77.7346",
+                    "distanceFromPrevious": 0,
+                    "travelTimeFromPrevious": "N/A",
+                    "description": "Begin your journey early from Noida to reach Sanchi in Madhya Pradesh. This long-distance road trip will take you through the heart of India, witnessing changing landscapes from the urban sprawl of NCR to the rustic plains of central India. The travel itself is an experience, offering glimpses into the diverse culture and geography of the country. Prepare for a full day of travel, ensuring your vehicle is ready for the journey or that your train/bus tickets are confirmed. Arriving in Sanchi, you'll feel the serene and historic ambiance of this ancient town.",
+                    "whyVisit": "This travel day is the necessary first step to immerse yourselves in the rich history and wildlife of Madhya Pradesh, setting the stage for the exploration ahead.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Travel%20from%20Noida%20to%20Sanchi&dates=20251129T003000Z/20251129T103000Z&details=Start%20the%20journey%20from%20Noida%20to%20the%20historic%20town%20of%20Sanchi%2C%20the%20gateway%20to%20your%20Madhya%20Pradesh%20adventure.&location=Sanchi%2C%20Madhya%20Pradesh%2C%20India",
+                    "activities": [
+                        "Undertake a road trip or train journey to Sanchi.",
+                        "Check into the hotel upon arrival and freshen up before the evening excursion."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "4000 (Fuel/Tickets)",
+                        "bestTime": "Start early morning to avoid city traffic.",
+                        "duration": "10-12 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Travel pillows",
+                            "Snacks and water for the journey",
+                            "Music or podcasts"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Take regular breaks if driving.",
+                            "Keep your luggage secure during public transport."
+                        ],
+                        "customsEtiquette": [],
+                        "bookingRequired": true,
+                        "photoSpots": []
+                    }
+                },
+                {
+                    "timeOfDay": "4:00 PM - 6:00 PM",
+                    "name": "Sanchi Stupa",
+                    "location": {
+                        "latitude": "23.5891",
+                        "longitude": "77.7399"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=23.5891,77.7399",
+                    "distanceFromPrevious": 1.77,
+                    "travelTimeFromPrevious": "7 minutes",
+                    "description": "Explore the magnificent Sanchi Stupa, a UNESCO World Heritage site and one of the oldest stone structures in India. Commissioned by the emperor Ashoka in the 3rd century BCE, this massive hemispherical dome stands as a testament to the region's rich Buddhist heritage. Marvel at the intricately carved gateways (Toranas) that depict scenes from the life of the Buddha. The serene atmosphere, especially during the late afternoon, provides a tranquil environment for reflection and exploration. The panoramic view from the hilltop complex at sunset is particularly breathtaking, casting a golden glow over the ancient monuments and surrounding landscape.",
+                    "whyVisit": "A perfect introduction to India's ancient history and Buddhist roots. Its peaceful ambiance and architectural grandeur offer a profound cultural experience.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Sanchi%20Stupa&dates=20251129T103000Z/20251129T123000Z&details=Explore%20the%20UNESCO%20World%20Heritage%20site%20of%20Sanchi%20Stupa%2C%20a%20masterpiece%20of%20Buddhist%20art%20and%20architecture.&location=Sanchi%20Stupa%2C%20Madhya%20Pradesh",
+                    "activities": [
+                        "Walk around the Great Stupa and admire its scale.",
+                        "Examine the detailed carvings on the four Toranas (gateways).",
+                        "Visit the adjacent monasteries and smaller stupas within the complex."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "40 INR for Indian citizens, 600 INR for foreigners",
+                        "estimatedCost": "300 (Entry + Transport)",
+                        "bestTime": "Late afternoon for pleasant weather and sunset views.",
+                        "duration": "2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Comfortable walking shoes",
+                            "Camera",
+                            "A light jacket as it might get cool in the evening"
+                        ],
+                        "whatToBuy": [
+                            "Miniature stupa replicas",
+                            "Books on Buddhist history"
+                        ],
+                        "safetyNotes": [
+                            "Beware of monkeys in the area.",
+                            "Walk carefully on uneven ancient pathways."
+                        ],
+                        "customsEtiquette": [
+                            "Dress modestly out of respect for the religious site.",
+                            "Do not touch or deface the ancient structures."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "In front of the main gateway with the Stupa in the background.",
+                            "The view of the plains from the edge of the hill."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "3.54 km",
+                "spending": {
+                    "Hotel": "1000",
+                    "Entry Fees": "80",
+                    "Activities": "0",
+                    "Transport": "4200",
+                    "Meals": "800",
+                    "Shopping": "200",
+                    "total": "6280"
+                },
+                "remainingBudget": "13720"
+            }
+        },
+        {
+            "day": 2,
+            "date": "2025-11-30",
+            "theme": "Scenic Drive to the Wilderness",
+            "optimizedRoute": "N/A",
+            "totalDistance": 450,
+            "totalTravelTime": "9 hours",
+            "weather": "Cloudy, 27°C high, 17°C low. UV index 5.05. No rain. Mild day with overcast skies.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 6:00 PM",
+                    "name": "Travel from Sanchi to Bandhavgarh National Park",
+                    "location": {
+                        "latitude": "23.7196",
+                        "longitude": "81.0450"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=23.7196,81.0450",
+                    "distanceFromPrevious": 0,
+                    "travelTimeFromPrevious": "N/A",
+                    "description": "After breakfast, embark on a scenic road journey from the historical plains of Sanchi to the dense forests of Bandhavgarh National Park. This day-long drive covers a significant portion of Madhya Pradesh, showcasing its diverse topography, from fertile fields to the Vindhya hills. The journey is an transition from ancient history to wild nature. You will pass through small towns and villages, offering a glimpse into the rural heartland of India. Upon arrival in Bandhavgarh in the evening, check into your jungle resort and rest up, letting the sounds of the forest welcome you and build anticipation for the safari adventure awaiting you the next morning.",
+                    "whyVisit": "This journey connects two distinct facets of Madhya Pradesh - its rich past and its vibrant wildlife, making it a crucial and experiential part of the itinerary.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Travel%20to%20Bandhavgarh%20National%20Park&dates=20251130T033000Z/20251130T123000Z&details=A%20scenic%20drive%20from%20Sanchi%20to%20the%20home%20of%20the%20tigers%2C%20Bandhavgarh%20National%20Park.&location=Bandhavgarh%20National%20Park%2C%20Madhya%20Pradesh",
+                    "activities": [
+                        "Enjoy the changing landscapes during the road trip.",
+                        "Stop for a traditional lunch at a roadside 'dhaba'.",
+                        "Check into a wildlife resort near the park."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "5000 (Cab/Fuel)",
+                        "bestTime": "Start early to reach before dusk.",
+                        "duration": "9-10 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Snacks and water",
+                            "Binoculars to spot wildlife en route",
+                            "A good playlist for the long drive"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Ensure the vehicle is well-serviced for a long journey.",
+                            "Avoid driving after dark on unfamiliar rural roads."
+                        ],
+                        "customsEtiquette": [],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "Scenic spots along the countryside roads."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "450 km",
+                "spending": {
+                    "Hotel": "1000",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "5000",
+                    "Meals": "1000",
+                    "Shopping": "300",
+                    "total": "7300"
+                },
+                "remainingBudget": "6420"
+            }
+        },
+        {
+            "day": 3,
+            "date": "2025-12-01",
+            "theme": "Tiger Trails and Departure",
+            "optimizedRoute": "Hotel → Tala Gate → Hotel",
+            "totalDistance": 8.78,
+            "totalTravelTime": "25 minutes",
+            "weather": "Partly cloudy, 28°C high, 17°C low. UV index 5.5. No rain. Good for outdoor activities.",
+            "places": [
+                {
+                    "timeOfDay": "6:00 AM - 10:00 AM",
+                    "name": "Morning Jeep Safari in Bandhavgarh National Park",
+                    "location": {
+                        "latitude": "23.7300",
+                        "longitude": "81.0250"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=23.7300,81.0250",
+                    "distanceFromPrevious": 4.39,
+                    "travelTimeFromPrevious": "12 minutes",
+                    "description": "Embark on an exhilarating early morning jeep safari into the core zones of Bandhavgarh National Park, renowned for having one of the highest densities of Bengal tigers in the world. The crisp morning air and the golden sunlight filtering through the sal forest create a magical atmosphere. An expert naturalist will guide you through the rugged terrain, tracking pugmarks and alarm calls to maximize your chances of a tiger sighting. Beyond tigers, the park is a haven for a diverse range of wildlife, including leopards, spotted deer, sambar, langurs, and a plethora of bird species. The thrill of spotting a majestic tiger in its natural habitat is an unforgettable experience.",
+                    "whyVisit": "This is the pinnacle of the trip, offering a chance to witness the majestic Bengal tiger and other incredible wildlife in one of India's most famous national parks.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Morning%20Jeep%20Safari%20in%20Bandhavgarh&dates=20251201T003000Z/20251201T043000Z&details=Embark%20on%20an%20exciting%20safari%20to%20spot%20tigers%20and%20other%20wildlife%20in%20their%20natural%20habitat.&location=Bandhavgarh%20National%20Park",
+                    "activities": [
+                        "Track tiger pugmarks with the help of a guide.",
+                        "Use binoculars for birdwatching.",
+                        "Photograph the diverse flora and fauna of the park."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Approx. 2500-3000 INR per jeep for Indians (shared)",
+                        "estimatedCost": "4000 (Safari + Guide)",
+                        "bestTime": "Early morning for the best wildlife activity.",
+                        "duration": "4 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Warm layers of clothing (mornings are cold)",
+                            "Camera with a zoom lens",
+                            "Binoculars",
+                            "Sunscreen and a hat"
+                        ],
+                        "whatToBuy": [
+                            "Wildlife-themed souvenirs",
+                            "Local tribal art"
+                        ],
+                        "safetyNotes": [
+                            "Follow the guide's instructions at all times.",
+                            "Do not get down from the jeep inside the park.",
+                            "Maintain silence to avoid disturbing the animals."
+                        ],
+                        "customsEtiquette": [
+                            "Do not feed any animals.",
+                            "Respect the park rules and the natural environment."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "Natural waterholes where animals gather.",
+                            "Open meadows for spotting herds of deer."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "12:00 PM - Evening",
+                    "name": "Check-out and Depart from Bandhavgarh",
+                    "location": {
+                        "latitude": "23.7196",
+                        "longitude": "81.0450"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=23.7196,81.0450",
+                    "distanceFromPrevious": 4.39,
+                    "travelTimeFromPrevious": "13 minutes",
+                    "description": "After a hearty breakfast post-safari, it's time to check out from your resort. With memories of ancient stupas and wild tigers, begin your journey back towards your home destination, concluding your whirlwind tour of Madhya Pradesh's heritage and wildlife. The return journey provides time to reflect on the incredible experiences of the past few days. Depending on your mode of transport, you might head to the nearest railway station like Umaria or Katni, or commence the long drive back home.",
+                    "whyVisit": "This concludes your diverse tour, ensuring a smooth transition from the wilderness back to your starting point, filled with lasting memories.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Depart%20from%20Bandhavgarh&dates=20251201T063000Z/20251201T123000Z&details=Check%20out%20from%20the%20hotel%20and%20begin%20your%20journey%20back%20home.&location=Bandhavgarh%2C%20Madhya%20Pradesh",
+                    "activities": [
+                        "Have a final breakfast.",
+                        "Pack your bags and check out from the hotel.",
+                        "Start your return journey."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "0",
+                        "bestTime": "Depart around noon to allow for a relaxed morning.",
+                        "duration": "N/A"
+                    },
+                    "tips": {
+                        "whatToBring": [],
+                        "whatToBuy": [
+                            "Packed snacks for the return journey."
+                        ],
+                        "safetyNotes": [
+                            "Plan your return route and timings in advance."
+                        ],
+                        "customsEtiquette": [],
+                        "bookingRequired": false,
+                        "photoSpots": []
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "8.78 km",
+                "spending": {
+                    "Hotel": "0",
+                    "Entry Fees": "0",
+                    "Activities": "4000",
+                    "Transport": "100",
+                    "Meals": "800",
+                    "Shopping": "500",
+                    "total": "5400"
+                },
+                "remainingBudget": "1020"
+            }
+        }
+    ],
+    "budgetBreakdown": {
+        "totalBudget": 20000,
+        "currency": "INR",
+        "expenses": {
+            "Transport": [
+                {
+                    "transport_name": "Road Trip",
+                    "total_cost": "9200"
+                }
+            ],
+            "accommodation": {
+                "hotelName": "MPT Gateway Retreat & other",
+                "pricePerNight": "1000",
+                "nights": 2,
+                "total": 2000
+            },
+            "dailyExpenses": [
+                {
+                    "day": 1,
+                    "cost": 6280
+                },
+                {
+                    "day": 2,
+                    "cost": 7300
+                },
+                {
+                    "day": 3,
+                    "cost": 5400
+                }
+            ],
+            "budgetWarning": "The current plan is slightly over budget. Consider opting for more budget-friendly meal options or reducing shopping expenses to stay within the limit."
+        },
+        "totalSpent": 18980,
+        "remainingBudget": 1020,
+        "budgetTips": [
+            "Eat at local dhabas and smaller restaurants to save money on meals.",
+            "Book train tickets well in advance in sleeper or 3AC class for the most economical travel.",
+            "Travel in a group to share the costs of cabs and safaris."
+        ]
+    },
+    "packingList": {
+        "Clothing": [
+            "Light jackets and sweaters for cool evenings",
+            "Full-sleeve t-shirts and shirts",
+            "Comfortable trousers or track pants for safari",
+            "A set of modest clothing for religious sites"
+        ],
+        "Footwear": [
+            "Comfortable walking shoes",
+            "Flip-flops or sandals for the hotel"
+        ],
+        "Essentials": [
+            "Sunscreen",
+            "Sunglasses",
+            "Hat or cap",
+            "Insect repellent",
+            "Basic first-aid kit",
+            "Hand sanitizer",
+            "Personal toiletries"
+        ],
+        "Electronics": [
+            "Phone and charger",
+            "Power bank",
+            "Camera with extra batteries and memory card",
+            "Binoculars"
+        ],
+        "Documents": [
+            "Government-issued photo ID (Aadhaar/Passport)",
+            "Hotel and transport booking confirmations",
+            "Digital copies of all documents"
+        ],
+        "Children-specific items": []
+    },
+    "preTripChecklist": [
+        {
+            "priority": "High",
+            "task": "Book train tickets or service your car for the road trip."
+        },
+        {
+            "priority": "High",
+            "task": "Book hotels in Sanchi and Bandhavgarh in advance."
+        },
+        {
+            "priority": "High",
+            "task": "Book the Bandhavgarh safari online as permits are limited."
+        },
+        {
+            "priority": "Medium",
+            "task": "Plan your route and major stops for the road trips."
+        },
+        {
+            "priority": "Medium",
+            "task": "Pack appropriate clothing for both sightseeing and chilly safari mornings."
+        },
+        {
+            "priority": "Low",
+            "task": "Download offline maps for areas with poor connectivity."
+        },
+        {
+            "priority": "Low",
+            "task": "Inform your bank about your travel plans to avoid card issues."
+        }
+    ]
+}
