@@ -1,0 +1,490 @@
+{
+    "tripOverview": {
+        "destination": "Assam, India",
+        "startDate": "2025-11-28",
+        "endDate": "2025-11-30",
+        "duration": "2 Nights",
+        "companions": "2 adults, 0 children",
+        "tripType": "Cultural and Leisure Trip",
+        "currency": "INR"
+    },
+    "mode_of_transport": {
+        "road": {
+            "cost": {
+                "train": "5000-8000",
+                "bus": "Not Recommended",
+                "cab": "25000-30000"
+            },
+            "approx_time": {
+                "train": "30-36 hours",
+                "bus": "48+ hours",
+                "cab": "38-44 hours"
+            },
+            "stations": {
+                "bus_stations": "ISBT Guwahati",
+                "trainstations": "Guwahati Railway Station (GHY)"
+            }
+        }
+    },
+    "hotel": {
+        "name": "Treebo Trend Hotel Mobi",
+        "price": "980 - 1200",
+        "location": {
+            "latitude": "26.1800",
+            "longitude": "91.7483"
+        },
+        "address": "S Bhaban, GS Rd, Manipuri Rajbari, Paltan Bazaar, Guwahati, Assam 781008",
+        "Rating": "4.1/5",
+        "Amenities": [
+            "Free Wi-Fi",
+            "Air Conditioning",
+            "Restaurant",
+            "Room Service",
+            "Free Parking"
+        ]
+    },
+    "dailyItinerary": [
+        {
+            "day": 1,
+            "date": "2025-11-28",
+            "theme": "Spiritual Arrival and Temple Blessings",
+            "optimizedRoute": "Treebo Trend Hotel Mobi → Kamakhya Temple → Treebo Trend Hotel Mobi",
+            "totalDistance": 14.3,
+            "totalTravelTime": "45 minutes",
+            "weather": "Partly cloudy with a max temperature of 31°C and a min of 19.8°C. No rain expected.",
+            "places": [
+                {
+                    "timeOfDay": "3:00 PM - 5:00 PM",
+                    "name": "Hotel Check-in & Relaxation",
+                    "location": {
+                        "latitude": "26.1800",
+                        "longitude": "91.7483"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1800,91.7483",
+                    "distanceFromPrevious": 0.0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Arrive at the Treebo Trend Hotel Mobi, conveniently located in the Paltan Bazaar area. Complete your check-in process and take some time to settle into your room. This is a perfect moment to unpack, freshen up after your journey, and relax before heading out for the evening's spiritual exploration. The hotel's comfortable amenities provide a welcoming start to your Assamese adventure, allowing you to recharge your energy for the exciting days ahead. Enjoy a cup of Assam tea as you unwind and prepare for a memorable trip.",
+                    "whyVisit": "A necessary and relaxing start to your trip, allowing you to decompress from your travel and smoothly transition into vacation mode before visiting the first major attraction.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hotel%20Check-in%20%26%20Relaxation&dates=20251128T093000Z/20251128T113000Z&details=Arrive%2C%20check-in%2C%20and%20settle%20into%20your%20hotel%20to%20relax%20before%20starting%20your%20Guwahati%20exploration.&location=Treebo%20Trend%20Hotel%20Mobi%2C%20GS%20Rd%2C%20Paltan%20Bazaar%2C%20Guwahati",
+                    "activities": [
+                        "Complete check-in formalities.",
+                        "Unpack and organize your belongings for the next few days.",
+                        "Enjoy a complimentary welcome drink or a fresh cup of local tea."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "0",
+                        "bestTime": "As per your arrival schedule.",
+                        "duration": "1-2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Printed or digital booking confirmation.",
+                            "Government-issued photo ID for both adults."
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Secure your luggage in the room.",
+                            "Familiarize yourself with the hotel's emergency exits."
+                        ],
+                        "customsEtiquette": [
+                            "Be polite and patient with the front desk staff during check-in.",
+                            "Keep your voice levels low in the hotel corridors."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": []
+                    }
+                },
+                {
+                    "timeOfDay": "5:00 PM - 7:00 PM",
+                    "name": "Kamakhya Temple",
+                    "location": {
+                        "latitude": "26.1668",
+                        "longitude": "91.7057"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1668,91.7057",
+                    "distanceFromPrevious": 6.4,
+                    "travelTimeFromPrevious": "25 minutes",
+                    "description": "Perched atop the Nilachal Hills, the Kamakhya Temple is one of the most revered Shakti Peeths in India, attracting devotees from all over the world. The temple complex, with its distinctive beehive-like shikhara, offers a profound spiritual experience. Unlike other temples, the sanctum sanctorum houses a yoni-shaped rock formation, from which a natural spring flows, considered to be the goddess herself. The evening atmosphere is particularly enchanting, with flickering lamps, the sound of bells, and devotional chants creating a deeply serene and mystical environment. The panoramic view of Guwahati city from the hilltop at dusk is an added visual treat, making it a perfect blend of divinity and natural beauty.",
+                    "whyVisit": "As a key cultural and spiritual landmark, this visit offers a powerful introduction to the religious heritage of Assam, providing a serene and profound experience.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Kamakhya%20Temple&dates=20251128T113000Z/20251128T133000Z&details=Visit%20one%20of%20the%20most%20important%20Shakti%20Peeths%20in%20India%20for%20evening%20prayers%20and%20to%20witness%20the%20spiritual%20ambiance.&location=Kamakhya%20Temple%2C%20Guwahati%2C%20Assam",
+                    "activities": [
+                        "Offer prayers at the main sanctum.",
+                        "Explore the architecture of the surrounding smaller temples within the complex.",
+                        "Witness the evening aarti (prayer ceremony) for a captivating experience."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free general entry. Special VIP darshan tickets available from 501 INR per person.",
+                        "estimatedCost": "400-500 for transport",
+                        "bestTime": "Evening, for cooler weather and the beautiful aarti.",
+                        "duration": "1.5-2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Modest clothing covering shoulders and knees.",
+                            "A scarf or shawl to cover your head.",
+                            "Comfortable shoes as you will need to walk and climb stairs."
+                        ],
+                        "whatToBuy": [
+                            "Prasad (religious offerings).",
+                            "Small religious idols and trinkets from the shops outside."
+                        ],
+                        "safetyNotes": [
+                            "Be aware of your belongings in crowded areas.",
+                            "Be cautious of priests or guides offering special services for exorbitant prices."
+                        ],
+                        "customsEtiquette": [
+                            "Remove footwear before entering the main temple premises.",
+                            "Photography is prohibited inside the inner sanctum."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The main temple entrance against the backdrop of the unique dome.",
+                            "The viewpoint overlooking the Brahmaputra river and Guwahati city."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "14.3 km",
+                "spending": {
+                    "Hotel": "1000",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "450",
+                    "Meals": "1200",
+                    "Shopping": "300",
+                    "total": "2950"
+                },
+                "remainingBudget": "67050"
+            }
+        },
+        {
+            "day": 2,
+            "date": "2025-11-29",
+            "theme": "History, River Views, and Local Flavors",
+            "optimizedRoute": "Treebo Trend Hotel Mobi → Assam State Museum → Local Market Exploration → Brahmaputra River Cruise → Treebo Trend Hotel Mobi",
+            "totalDistance": 6.5,
+            "totalTravelTime": "25 minutes",
+            "weather": "Mostly cloudy with a max temperature of 30.3°C and a min of 20°C. No rain expected.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 12:00 PM",
+                    "name": "Assam State Museum",
+                    "location": {
+                        "latitude": "26.1835",
+                        "longitude": "91.7431"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1835,91.7431",
+                    "distanceFromPrevious": 1.2,
+                    "travelTimeFromPrevious": "8 minutes",
+                    "description": "Established in 1940, the Assam State Museum offers a captivating journey through the rich history and cultural tapestry of the region. Located in the heart of Guwahati near Dighalipukhuri tank, the museum's extensive collection is spread across multiple galleries. You can explore archaeological artifacts, intricate sculptures from the medieval period, traditional tribal costumes, ancient manuscripts, and weaponry of the Ahom dynasty. The exhibits provide a deep insight into the diverse ethnic groups, unique traditions, and the glorious past of Assam. It serves as an excellent educational experience, beautifully preserving and showcasing the soul of the state under one roof, making it a must-visit for history buffs and curious travelers alike.",
+                    "whyVisit": "An ideal activity to understand the deep-rooted history and diverse culture of Assam, providing context to the land you are visiting.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Assam%20State%20Museum&dates=20251129T033000Z/20251129T063000Z&details=Explore%20the%20rich%20history%2C%20culture%2C%20and%20archaeology%20of%20Assam%20through%20its%20extensive%20collection%20of%20artifacts.&location=Assam%20State%20Museum%2C%20Guwahati",
+                    "activities": [
+                        "Explore the epigraphy and sculpture galleries.",
+                        "Visit the tribal culture and natural history sections.",
+                        "Admire the collection of ancient manuscripts and Ahom-era artifacts."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "20 INR per adult",
+                        "estimatedCost": "150 for transport and entry",
+                        "bestTime": "Morning, to avoid afternoon crowds.",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A small notebook and pen to jot down interesting facts.",
+                            "A bottle of water."
+                        ],
+                        "whatToBuy": [
+                            "Informative books about Assam's history from the museum shop."
+                        ],
+                        "safetyNotes": [
+                            "Follow the museum rules; do not touch the exhibits.",
+                            "Be mindful of your steps on the staircases."
+                        ],
+                        "customsEtiquette": [
+                            "Maintain silence inside the galleries.",
+                            "Photography may be restricted in certain areas; look for signs."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "In front of the main museum building.",
+                            "With large, impressive sculptures where permitted."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "1:00 PM - 4:00 PM",
+                    "name": "Brahmaputra River Cruise",
+                    "location": {
+                        "latitude": "26.1889",
+                        "longitude": "91.7344"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1889,91.7344",
+                    "distanceFromPrevious": 0.1,
+                    "travelTimeFromPrevious": "2 minutes",
+                    "description": "Experience the majestic lifeline of Assam, the mighty Brahmaputra River, with a relaxing and scenic cruise. This activity offers a unique perspective of Guwahati, showcasing its lush green hills and the urban skyline from the water. As the vessel gently sails, you can feel the calming breeze and witness the daily life along the riverbanks. Many cruises offer cultural programs onboard, featuring traditional Assamese music and Bihu dance, providing entertainment alongside the stunning views. The highlight for many is the breathtaking sunset over the river, painting the sky in hues of orange and red, reflecting beautifully on the vast expanse of water. It’s an immersive experience that combines nature, culture, and relaxation, creating lasting memories.",
+                    "whyVisit": "A perfect leisure activity that combines scenic beauty, cultural exposure, and a relaxing atmosphere, offering a memorable view of a spectacular sunset.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Brahmaputra%20River%20Cruise&dates=20251129T073000Z/20251129T103000Z&details=Enjoy%20a%20scenic%20cruise%20on%20the%20mighty%20Brahmaputra%20river%2C%20offering%20beautiful%20views%20of%20the%20city%20and%20a%20stunning%20sunset.&location=Brahmaputra%20Riverfront%2C%20Guwahati",
+                    "activities": [
+                        "Enjoy lunch or snacks served on the cruise.",
+                        "Watch a traditional Bihu dance performance.",
+                        "Capture stunning photographs of the sunset over the river."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Cruises range from 1200 - 2500 INR per person, often including meals or snacks.",
+                        "estimatedCost": "3000-4000 for tickets for two",
+                        "bestTime": "Late afternoon for the sunset cruise.",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A light jacket or shawl as it can get breezy on the river.",
+                            "Sunglasses and a hat.",
+                            "A good camera or smartphone for photos."
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Pay attention to the safety briefing provided by the crew.",
+                            "Do not lean over the railings."
+                        ],
+                        "customsEtiquette": [
+                            "Be respectful of the performers and other guests.",
+                            "Dispose of any trash in the designated bins."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "The deck with the sunset in the background.",
+                            "The Saraighat Bridge as you pass under it."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "4:00 PM - 6:00 PM",
+                    "name": "Local Market Exploration",
+                    "location": {
+                        "latitude": "26.1868",
+                        "longitude": "91.7369"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1868,91.7369",
+                    "distanceFromPrevious": 2.1,
+                    "travelTimeFromPrevious": "10 minutes",
+                    "description": "Dive into the vibrant heart of Guwahati's commercial life with a visit to a local market like Fancy Bazaar or Pan Bazaar. These bustling marketplaces are a sensory delight, filled with the sights, sounds, and smells of Assam. Navigate through narrow lanes packed with shops selling everything from traditional Mekhela Chadors (Assamese silk sarees) and bamboo crafts to aromatic spices and the world-famous Assam tea. It’s the perfect place to observe the daily life of the locals, haggle for souvenirs, and sample delicious street food. The chaotic yet organized energy of the market provides an authentic cultural experience, offering a glimpse into the trade and traditions that have shaped the city for centuries. This is where you can find genuine local products and create memorable interactions.",
+                    "whyVisit": "To experience the authentic local culture, shop for unique Assamese handicrafts and tea, and immerse yourselves in the bustling daily life of the city.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Local%20Market%20Exploration&dates=20251129T103000Z/20251129T123000Z&details=Explore%20the%20bustling%20lanes%20of%20Fancy%20Bazaar%20or%20Pan%20Bazaar%20to%20shop%20for%20local%20handicrafts%2C%20tea%2C%20and%20souvenirs.&location=Fancy%20Bazaar%2C%20Guwahati",
+                    "activities": [
+                        "Shop for souvenirs like 'Jaapi' (traditional hat) and Gamosa.",
+                        "Purchase authentic Assam tea from a local vendor.",
+                        "Try local street food delicacies."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "Dependent on shopping",
+                        "bestTime": "Late afternoon when the market is lively.",
+                        "duration": "1.5-2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Cash in various denominations.",
+                            "A sturdy shopping bag.",
+                            "Comfortable walking shoes."
+                        ],
+                        "whatToBuy": [
+                            "Assam Silk (Muga, Eri, Pat).",
+                            "Bamboo and cane products.",
+                            "Pickles and local snacks."
+                        ],
+                        "safetyNotes": [
+                            "Keep your wallet and phone secure.",
+                            "Be cautious of your surroundings in crowded areas."
+                        ],
+                        "customsEtiquette": [
+                            "Bargaining is common and expected, but do so politely.",
+                            "Ask for permission before photographing shopkeepers or their wares."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "A colorful display of spices or textiles.",
+                            "A wide shot of a busy market lane."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "6.5 km",
+                "spending": {
+                    "Hotel": "1000",
+                    "Entry Fees": "40",
+                    "Activities": "3500",
+                    "Transport": "300",
+                    "Meals": "1500",
+                    "Shopping": "1000",
+                    "total": "7340"
+                },
+                "remainingBudget": "59710"
+            }
+        },
+        {
+            "day": 3,
+            "date": "2025-11-30",
+            "theme": "Relaxed Departure",
+            "optimizedRoute": "N/A",
+            "totalDistance": 0.0,
+            "totalTravelTime": "0 minutes",
+            "weather": "Overcast with a max temperature of 28.8°C and a min of 21.9°C. No rain expected.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 12:00 PM",
+                    "name": "Leisurely Breakfast & Check-out",
+                    "location": {
+                        "latitude": "26.1800",
+                        "longitude": "91.7483"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1800,91.7483",
+                    "distanceFromPrevious": 0.0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Enjoy a final Assamese breakfast at your own pace at the hotel. This is a great opportunity to savor some local flavors one last time or simply have a comforting meal before you begin your journey home. After breakfast, take your time to pack your bags, ensuring you have all your belongings and souvenirs. Double-check the room and the safe before proceeding to the front desk for a smooth check-out. Reflect on the wonderful memories created over the past few days, from the spiritual tranquility of Kamakhya Temple to the vibrant energy of the local markets and the serene beauty of the Brahmaputra. This relaxed morning ensures a stress-free conclusion to your memorable trip to Guwahati.",
+                    "whyVisit": "A calm and organized end to your vacation, allowing you to depart feeling refreshed and without the stress of rushing.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Leisurely%20Breakfast%20%26%20Check-out&dates=20251130T033000Z/20251130T063000Z&details=Enjoy%20a%20final%20breakfast%2C%20pack%20your%20belongings%2C%20and%20complete%20the%20hotel%20check-out%20process%20before%20departing.&location=Treebo%20Trend%20Hotel%20Mobi%2C%20Guwahati",
+                    "activities": [
+                        "Enjoy a leisurely breakfast at the hotel.",
+                        "Pack your luggage and any souvenirs purchased.",
+                        "Settle any outstanding bills and check out from the hotel."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "300 for transport to station",
+                        "bestTime": "Morning",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "All your packed luggage.",
+                            "Your wallet and travel documents."
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Ensure you have all your belongings before leaving the room.",
+                            "Keep your travel tickets and IDs handy for your departure."
+                        ],
+                        "customsEtiquette": [
+                            "Thank the hotel staff for their hospitality.",
+                            "It's courteous to leave the room in a reasonably tidy state."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": []
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "0 km",
+                "spending": {
+                    "Hotel": "0",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "300",
+                    "Meals": "800",
+                    "Shopping": "0",
+                    "total": "1100"
+                },
+                "remainingBudget": "58610"
+            }
+        }
+    ],
+    "budgetBreakdown": {
+        "totalBudget": 70000,
+        "currency": "INR",
+        "expenses": {
+            "Transport": [
+                {
+                    "transport_name": "Train",
+                    "total_cost": "6500"
+                }
+            ],
+            "accommodation": {
+                "hotelName": "Treebo Trend Hotel Mobi",
+                "pricePerNight": "1000",
+                "nights": 2,
+                "total": 2000
+            },
+            "dailyExpenses": [
+                {
+                    "day": 1,
+                    "cost": 2950
+                },
+                {
+                    "day": 2,
+                    "cost": 7340
+                },
+                {
+                    "day": 3,
+                    "cost": 1100
+                }
+            ]
+        },
+        "totalSpent": 19890,
+        "remainingBudget": 50110,
+        "budgetTips": [
+            "Utilize ride-sharing apps like Uber or Ola for local transport, which are often cheaper than private taxis.",
+            "Enjoy meals at local eateries and dhabas instead of expensive restaurants to savor authentic food at a lower price."
+        ]
+    },
+    "packingList": {
+        "Clothing": [
+            "Light cotton clothes for daytime",
+            "A light jacket or shawl for evenings",
+            "Modest attire for temple visits (long pants/skirts, tops with sleeves)",
+            "Sleepwear"
+        ],
+        "Footwear": [
+            "Comfortable walking shoes or sneakers",
+            "A pair of sandals or flip-flops"
+        ],
+        "Essentials": [
+            "Personal toiletries",
+            "Sunscreen and sunglasses",
+            "Insect repellent",
+            "Basic first-aid kit with pain relievers and band-aids",
+            "Hand sanitizer"
+        ],
+        "Electronics": [
+            "Smartphone and charger",
+            "Power bank",
+            "Camera with extra batteries"
+        ],
+        "Documents": [
+            "Government-issued photo ID (Aadhaar Card, Passport)",
+            "Train/Bus tickets (digital or print)",
+            "Hotel booking confirmation"
+        ],
+        "Children-specific items": []
+    },
+    "preTripChecklist": [
+        {
+            "priority": "High",
+            "task": "Book train tickets from Noida to Guwahati well in advance."
+        },
+        {
+            "priority": "High",
+            "task": "Confirm and pay for hotel accommodation."
+        },
+        {
+            "priority": "Medium",
+            "task": "Pre-book the Brahmaputra river cruise online to secure a spot."
+        },
+        {
+            "priority": "Medium",
+            "task": "Arrange for currency exchange or ensure sufficient cash for the trip."
+        },
+        {
+            "priority": "Low",
+            "task": "Inform your bank about your travel dates to avoid card issues."
+        },
+        {
+            "priority": "Low",
+            "task": "Pack your bags a day or two before departure."
+        }
+    ]
+}
