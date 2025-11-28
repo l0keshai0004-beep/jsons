@@ -1,0 +1,831 @@
+{
+    "tripOverview": {
+        "destination": "Nagaland, India",
+        "startDate": "2025-12-01",
+        "endDate": "2025-12-07",
+        "duration": "6 nights",
+        "companions": "2 adults, 0 children",
+        "tripType": "Adventure and Cultural Exploration",
+        "currency": "INR"
+    },
+    "mode_of_transport": {
+        "road": {
+            "cost": {
+                "train": "3000-6000",
+                "bus": "2000-4000",
+                "cab": "35000-42000 for a 7-day trip (recommended)"
+            },
+            "approx_time": {
+                "train": "6-8 hours from Guwahati",
+                "bus": "7-9 hours from Guwahati",
+                "cab": "2-3 hours from Dimapur to Kohima"
+            },
+            "stations": {
+                "bus_stations": "Dimapur ISBT",
+                "trainstations": "Dimapur Railway Station (DMV)"
+            }
+        }
+    },
+    "hotel": {
+        "name": "Niraamaya Retreats Aradura",
+        "price": "4500 - 5500",
+        "location": {
+            "latitude": "25.6650",
+            "longitude": "94.1085"
+        },
+        "address": "Aradura Hill, Below New Secretariat, Kohima, Nagaland 797001",
+        "Rating": "4.4/5",
+        "Amenities": [
+            "Free Wi-Fi",
+            "Restaurant",
+            "Room Service",
+            "Free Parking",
+            "Heating"
+        ]
+    },
+    "dailyItinerary": [
+        {
+            "day": 1,
+            "date": "2025-12-01",
+            "theme": "Arrival and Kohima Acclimatization",
+            "optimizedRoute": "Dimapur Airport → Niraamaya Retreats Aradura",
+            "totalDistance": 74.0,
+            "totalTravelTime": "2 hours 30 minutes",
+            "weather": "Cloudy with a high of 16.5°C and low of 7.3°C. UV index 5.5. No rain.",
+            "places": [
+                {
+                    "timeOfDay": "3:00 PM - 5:30 PM",
+                    "name": "Arrive at Dimapur Airport & Transfer to Kohima",
+                    "location": {
+                        "latitude": "25.8846",
+                        "longitude": "93.7725"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.8846,93.7725",
+                    "distanceFromPrevious": 0.0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Welcome to Nagaland! Upon arrival at Dimapur Airport, the gateway to this fascinating land, you will begin your scenic journey to Kohima. The drive itself is an introduction to the region's lush landscapes, winding through rolling hills and verdant forests. As you ascend towards the capital city, feel the air get cooler and the atmosphere change, leaving the plains behind for the heart of the Naga Hills. This transfer is not just a commute but the first chapter of your Naga adventure, offering glimpses of local life and the natural beauty that defines the state.",
+                    "whyVisit": "This initial drive is essential for acclimatizing to the higher altitude of Kohima and serves as a beautiful, calming transition into your cultural and adventurous exploration of Nagaland.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrive%20at%20Dimapur%20Airport%20%26%20Transfer%20to%20Kohima&dates=20251201T093000Z/20251201T120000Z&details=Welcome%20to%20Nagaland!%20Begin%20your%20scenic%20journey%20from%20the%20airport%20to%20the%20capital%2C%20Kohima%2C%20acclimatizing%20to%20the%20beautiful%20Naga%20Hills.&location=Dimapur%20Airport%20(DMU)%2C%20Nagaland",
+                    "activities": [
+                        "Enjoy the scenic drive and watch the landscape change from plains to hills.",
+                        "Stop for a cup of tea at a local stall en route if time permits."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "3000-4000 for cab transfer",
+                        "bestTime": "Daylight hours for better views",
+                        "duration": "2.5 - 3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A light jacket or shawl for the cooler air as you approach Kohima",
+                            "Water bottle and snacks for the journey"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Roads can be winding, so take motion sickness medication if needed.",
+                            "Ensure your pre-booked cab is waiting for you."
+                        ],
+                        "customsEtiquette": [
+                            "A friendly smile and 'Hello' goes a long way with the locals you encounter."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "Various viewpoints along the highway offering panoramic views of the hills."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "7:30 PM - 9:00 PM",
+                    "name": "Romantic Dinner at a local restaurant in Kohima",
+                    "location": {
+                        "latitude": "25.6710",
+                        "longitude": "94.1100"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.6710,94.1100",
+                    "distanceFromPrevious": 74.0,
+                    "travelTimeFromPrevious": "2 hours 30 minutes",
+                    "description": "For your first evening, immerse yourselves in the local culinary scene with a romantic dinner at one of Kohima's charming restaurants. Opt for a place like 'The Heritage' or 'Ozone Cafe' to experience authentic Naga cuisine in a cozy and welcoming setting. This is the perfect opportunity to try local specialties such as smoked pork with bamboo shoot, galho (a hearty rice porridge), and dishes flavored with the famous Naga king chili (Raja Mircha). The warm ambiance and unique flavors provide a delightful end to your travel day and a delicious introduction to the culture of Nagaland.",
+                    "whyVisit": "Experiencing the local food is key to understanding Naga culture. A quiet, romantic dinner allows you to connect and reflect on the journey ahead while savoring unique, authentic flavors.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Romantic%20Dinner%20in%20Kohima&dates=20251201T140000Z/20251201T153000Z&details=Enjoy%20your%20first%20evening%20with%20a%20taste%20of%20authentic%20Naga%20cuisine%20at%20a%20cozy%20local%20restaurant.&location=Kohima%2C%20Nagaland",
+                    "activities": [
+                        "Try a traditional Naga thali to sample a variety of dishes.",
+                        "Ask for a dish with bamboo shoot, a staple ingredient in Naga cuisine.",
+                        "Be cautious with the Naga king chili; it is one of the hottest in the world."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "1500-2500 for two",
+                        "bestTime": "Evening",
+                        "duration": "1.5 - 2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A warm jacket or sweater for the cool evening."
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Inform the staff about your spice preference.",
+                            "Most places close by 9-10 PM, so plan an early dinner."
+                        ],
+                        "customsEtiquette": [
+                            "It's polite to finish what you have on your plate.",
+                            "Tipping is appreciated but not mandatory."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The presentation of the Naga thali is often very photogenic."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "74.0 km",
+                "spending": {
+                    "Hotel": "4500",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "3500",
+                    "Meals": "2000",
+                    "Shopping": "0",
+                    "total": "10000"
+                },
+                "remainingBudget": "90000"
+            }
+        },
+        {
+            "day": 2,
+            "date": "2025-12-02",
+            "theme": "Mystical Dzukou Valley Trek",
+            "optimizedRoute": "Niraamaya Retreats Aradura → Dzukou Valley Trek Starting Point → Niraamaya Retreats Aradura",
+            "totalDistance": 46.18,
+            "totalTravelTime": "2 hours 10 minutes",
+            "weather": "Mostly cloudy with a high of 16.5°C and low of 7.8°C. UV index 5.5. No rain.",
+            "places": [
+                {
+                    "timeOfDay": "9:30 AM - 5:30 PM",
+                    "name": "Trek to Dzukou Valley",
+                    "location": {
+                        "latitude": "25.5681",
+                        "longitude": "94.0933"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.5681,94.0933",
+                    "distanceFromPrevious": 23.09,
+                    "travelTimeFromPrevious": "1 hour 5 minutes",
+                    "description": "Embark on an unforgettable adventure to the Dzukou Valley, a place of celestial beauty often called the 'Valley of Flowers of the Northeast.' The journey begins with a drive to the trek starting point at Viswema. The trek itself is a moderately challenging but incredibly rewarding experience, taking you through dense forests before opening up to the breathtaking, rolling meadows of the valley. The landscape, with its gentle, undulating hills and the Dzukou river meandering through it, looks like a masterful painting. During the winter, the valley is covered in a unique dwarf bamboo, giving it a stunning, uniform green carpet look. Enjoying a packed picnic lunch amidst this serene and surreal environment is an experience that will stay with you forever.",
+                    "whyVisit": "This trek is the highlight for any adventure-loving couple. The shared challenge and the absolutely stunning, untouched natural beauty of the valley make for a powerful and romantic bonding experience.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Trek%20to%20Dzukou%20Valley&dates=20251202T040000Z/20251202T120000Z&details=Embark%20on%20an%20adventurous%20trek%20to%20the%20stunning%20Dzukou%20Valley.%20Enjoy%20breathtaking%20views%20and%20a%20picnic%20lunch%20amidst%20the%20rolling%20hills.&location=Dzukou%20Valley%2C%20Nagaland",
+                    "activities": [
+                        "Hike through the scenic trail to reach the valley viewpoint.",
+                        "Explore the valley floor and walk along the Dzukou river.",
+                        "Enjoy a peaceful picnic lunch surrounded by pristine nature."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "100 INR per person",
+                        "estimatedCost": "1200 (Entry + Guide + Lunch)",
+                        "bestTime": "Early morning start to make the most of the daylight",
+                        "duration": "7-8 hours (including trek)"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Sturdy trekking shoes with good grip",
+                            "Warm layered clothing, as it can be windy and cold",
+                            "Packed lunch, water bottle, and energy bars"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Hiring a local guide is highly recommended for navigation and safety.",
+                            "The initial part of the trek from Viswema is quite steep.",
+                            "Start your descent by 2:30 PM to reach the base before dark."
+                        ],
+                        "customsEtiquette": [
+                            "Do not litter. Carry all your waste back with you.",
+                            "Respect the pristine nature of the valley."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The main viewpoint overlooking the entire valley.",
+                            "The cross located at the rest house.",
+                            "The meandering Dzukou river against the backdrop of the hills."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "46.18 km",
+                "spending": {
+                    "Hotel": "4500",
+                    "Entry Fees": "200",
+                    "Activities": "1000",
+                    "Transport": "2500",
+                    "Meals": "2000",
+                    "Shopping": "0",
+                    "total": "10200"
+                },
+                "remainingBudget": "79800"
+            }
+        },
+        {
+            "day": 3,
+            "date": "2025-12-03",
+            "theme": "History, Culture, and a Green Village",
+            "optimizedRoute": "Niraamaya Retreats Aradura → Kohima War Cemetery → Nagaland State Museum → Khonoma Green Village → Niraamaya Retreats Aradura",
+            "totalDistance": 43.34,
+            "totalTravelTime": "2 hours 15 minutes",
+            "weather": "Partially cloudy with a high of 18.3°C and low of 6.6°C. UV index 5.0. No rain.",
+            "places": [
+                {
+                    "timeOfDay": "9:30 AM - 11:00 AM",
+                    "name": "Kohima War Cemetery",
+                    "location": {
+                        "latitude": "25.6622",
+                        "longitude": "94.1054"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.6622,94.1054",
+                    "distanceFromPrevious": 2.79,
+                    "travelTimeFromPrevious": "10 minutes",
+                    "description": "Begin your day with a visit to the Kohima War Cemetery, a site of immense historical significance and serene beauty. This immaculately maintained memorial is dedicated to the Allied soldiers of the 2nd British Division who lost their lives during the Battle of Kohima in World War II. The battle was a turning point in the war's Asian theatre. Each gravestone, set in pristine lawns, tells a poignant story. The cemetery's famous epitaph, 'When you go home, tell them of us and say, for your tomorrow, we gave our today,' is a deeply moving tribute. The peaceful atmosphere provides a space for quiet reflection on the sacrifices made for freedom.",
+                    "whyVisit": "It's a powerful and humbling experience that offers deep insight into the history that shaped this region and the world. The serene beauty and poignant atmosphere make it a must-visit.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Kohima%20War%20Cemetery&dates=20251203T040000Z/20251203T053000Z&details=Pay%20respects%20at%20this%20beautifully%20maintained%20cemetery%20commemorating%20the%20soldiers%20who%20died%20during%20the%20WWII%20Battle%20of%20Kohima.&location=Kohima%20War%20Cemetery%2C%20Kohima%2C%20Nagaland",
+                    "activities": [
+                        "Read the epitaphs on the gravestones.",
+                        "Spend a moment in quiet reflection at the memorial cross.",
+                        "Appreciate the well-maintained gardens and the view of Kohima city."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free",
+                        "estimatedCost": "0",
+                        "bestTime": "Morning for calm atmosphere and soft light",
+                        "duration": "1 hour"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A camera for respectful photography."
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Maintain silence and be respectful of the solemn environment."
+                        ],
+                        "customsEtiquette": [
+                            "Dress modestly.",
+                            "Do not walk on the flowerbeds."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The main memorial cross with the terraced graves in the foreground.",
+                            "The entrance with the famous Kohima epitaph."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "11:00 AM - 12:30 PM",
+                    "name": "Nagaland State Museum",
+                    "location": {
+                        "latitude": "25.6698",
+                        "longitude": "94.1069"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.6698,94.1069",
+                    "distanceFromPrevious": 3.18,
+                    "travelTimeFromPrevious": "12 minutes",
+                    "description": "Delve into the rich and diverse culture of the Naga tribes at the Nagaland State Museum. This well-curated museum offers a comprehensive overview of the art, history, and traditions of the 16 major tribes of Nagaland. You'll find a fascinating collection of tribal artifacts, including traditional attire, weaponry (dao swords and spears), jewelry, and musical instruments. The dioramas depicting village life and festival scenes are particularly insightful. The museum provides context to the living cultures you will witness throughout your trip, making it an essential educational stop. It’s a treasure trove of information that brings the Naga heritage to life.",
+                    "whyVisit": "To gain a deeper understanding and appreciation of the unique customs, history, and distinct identities of the various Naga tribes under one roof.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Nagaland%20State%20Museum&dates=20251203T053000Z/20251203T070000Z&details=Explore%20the%20rich%20culture%20and%20history%20of%20the%2016%20Naga%20tribes%20through%20artifacts%2C%20traditional%20attire%2C%20and%20dioramas.&location=Nagaland%20State%20Museum%2C%20Kohima",
+                    "activities": [
+                        "Explore the ethnographic exhibits on different Naga tribes.",
+                        "View the collection of traditional Naga artifacts and costumes.",
+                        "Learn about the history and significance of the morungs (bachelor dormitories)."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "20 INR per person, 50 INR for camera",
+                        "estimatedCost": "140 (Entry for two + Camera)",
+                        "bestTime": "Anytime during opening hours",
+                        "duration": "1.5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A notebook to jot down interesting facts."
+                        ],
+                        "whatToBuy": [
+                            "Books on Naga culture from the museum shop."
+                        ],
+                        "safetyNotes": [
+                            "Photography might be restricted in certain galleries."
+                        ],
+                        "customsEtiquette": [
+                            "Do not touch the exhibits."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The impressive ceremonial gate at the entrance.",
+                            "The large diorama showcasing traditional village life."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "2:30 PM - 5:30 PM",
+                    "name": "Khonoma Green Village",
+                    "location": {
+                        "latitude": "25.6644",
+                        "longitude": "94.0152"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.6644,94.0152",
+                    "distanceFromPrevious": 18.88,
+                    "travelTimeFromPrevious": "50 minutes",
+                    "description": "Journey to Khonoma, India's first 'green village,' a testament to the Angami tribe's commitment to conservation and sustainable living. This historic village is nestled in a picturesque landscape of terraced fields, misty valleys, and alder tree forests. Khonoma is known for its valiant history of resisting British rule and, more recently, for its ban on hunting and logging. A walk through the village's stone-paved paths reveals traditional gateways, ceremonial houses (morungs), and intricately carved monoliths. The community's efforts in conservation are evident everywhere. Interacting with the locals provides a unique insight into their eco-friendly way of life and their deep connection to the land.",
+                    "whyVisit": "It's an inspiring example of community-led conservation and a chance to experience the serene beauty of a traditional Angami Naga village with a rich history and a forward-thinking ethos.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Khonoma%20Green%20Village&dates=20251203T090000Z/20251203T120000Z&details=Visit%20India's%20first%20green%20village.%20Explore%20its%20rich%20history%2C%20walk%20through%20its%20scenic%20terraced%20fields%2C%20and%20learn%20about%20the%20community's%20conservation%20efforts.&location=Khonoma%2C%20Nagaland",
+                    "activities": [
+                        "Take a guided walk through the village to learn about its history and customs.",
+                        "Visit the village morungs and ceremonial gates.",
+                        "Hike through the surrounding alder tree forests and terraced paddy fields."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "50 INR per person (village entry)",
+                        "estimatedCost": "1100 (Entry + Guide)",
+                        "bestTime": "Afternoon for pleasant weather and golden light",
+                        "duration": "3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Comfortable walking shoes.",
+                            "A jacket, as it can get cool in the evening."
+                        ],
+                        "whatToBuy": [
+                            "Locally woven shawls or stoles.",
+                            "Organic produce if available."
+                        ],
+                        "safetyNotes": [
+                            "The village paths can be steep and uneven in places.",
+                            "Respect the privacy of the residents."
+                        ],
+                        "customsEtiquette": [
+                            "Always ask for permission before taking photographs of people.",
+                            "Hiring a local guide from the village is the best way to explore and contribute to the community."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The view of the terraced fields from the village.",
+                            "The traditional village gates (Khel gates).",
+                            "The monoliths scattered throughout the village."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "43.34 km",
+                "spending": {
+                    "Hotel": "4500",
+                    "Entry Fees": "140",
+                    "Activities": "1000",
+                    "Transport": "2500",
+                    "Meals": "2500",
+                    "Shopping": "500",
+                    "total": "11140"
+                },
+                "remainingBudget": "68660"
+            }
+        },
+        {
+            "day": 4,
+            "date": "2025-12-04",
+            "theme": "Authentic Naga Village Experience",
+            "optimizedRoute": "Niraamaya Retreats Aradura → Touphema Tourist Village → Niraamaya Retreats Aradura",
+            "totalDistance": 103.57,
+            "totalTravelTime": "3 hours 30 minutes",
+            "weather": "Cloudy with a high of 17.6°C and low of 5.6°C. UV index 4.9. No rain.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 4:00 PM",
+                    "name": "Touphema Tourist Village",
+                    "location": {
+                        "latitude": "25.8817",
+                        "longitude": "94.2396"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.8817,94.2396",
+                    "distanceFromPrevious": 51.78,
+                    "travelTimeFromPrevious": "1 hour 45 minutes",
+                    "description": "Spend the day experiencing Naga culture and hospitality at Touphema Tourist Village. This community-run initiative offers visitors an immersive experience into the life of the Angami tribe. The village is set on a scenic hilltop and features traditionally built Naga huts (with modern amenities inside) where visitors can stay. Even on a day trip, you can explore the village, see the beautifully crafted morungs, and visit the village museum which showcases local artifacts, handicrafts, and tools. Enjoy a traditional Naga lunch prepared by the villagers, offering an authentic taste of their cuisine. Interacting with the warm and welcoming locals provides a genuine insight into their daily lives and customs.",
+                    "whyVisit": "It's a unique opportunity to experience authentic Naga culture and hospitality in a realistic setting, directly supporting the local community while enjoying panoramic views and a tranquil atmosphere.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Touphema%20Tourist%20Village&dates=20251204T033000Z/20251204T103000Z&details=Experience%20authentic%20Naga%20culture%20at%20this%20community-run%20tourist%20village.%20Explore%20traditional%20huts%2C%20enjoy%20a%20local%20meal%2C%20and%20interact%20with%20the%20villagers.&location=Touphema%2C%20Nagaland",
+                    "activities": [
+                        "Explore the model Naga village and its traditional structures.",
+                        "Visit the village museum to see local artifacts.",
+                        "Savor an authentic Naga lunch.",
+                        "Take a short nature walk in the serene surroundings."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "50 INR per person",
+                        "estimatedCost": "1600 (Entry + Lunch for two)",
+                        "bestTime": "Late morning to early afternoon",
+                        "duration": "4-5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Cash, as digital payments may not be available.",
+                            "A hat and sunscreen, as it can be sunny on the hilltop."
+                        ],
+                        "whatToBuy": [
+                            "Handicrafts and woven items made by the local community."
+                        ],
+                        "safetyNotes": [
+                            "Be respectful when entering community spaces like the morung."
+                        ],
+                        "customsEtiquette": [
+                            "Engage with the locals respectfully and show interest in their culture.",
+                            "Ask for permission before photographing individuals."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The panoramic view from the village viewpoint.",
+                            "The intricately decorated traditional huts.",
+                            "The main community gathering area."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "103.57 km",
+                "spending": {
+                    "Hotel": "4500",
+                    "Entry Fees": "100",
+                    "Activities": "0",
+                    "Transport": "4000",
+                    "Meals": "2500",
+                    "Shopping": "1000",
+                    "total": "12100"
+                },
+                "remainingBudget": "56560"
+            }
+        },
+        {
+            "day": 5,
+            "date": "2025-12-05",
+            "theme": "Hornbill Festival Grounds & Local Crafts",
+            "optimizedRoute": "Niraamaya Retreats Aradura → Kisama Heritage Village → Local Market → Niraamaya Retreats Aradura",
+            "totalDistance": 31.9,
+            "totalTravelTime": "1 hour 10 minutes",
+            "weather": "Cloudy with a high of 16.7°C and low of 6.2°C. UV index 4.95. No rain.",
+            "places": [
+                {
+                    "timeOfDay": "9:30 AM - 12:30 PM",
+                    "name": "Kisama Heritage Village",
+                    "location": {
+                        "latitude": "25.6025",
+                        "longitude": "94.1165"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.6025,94.1165",
+                    "distanceFromPrevious": 14.64,
+                    "travelTimeFromPrevious": "30 minutes",
+                    "description": "Explore the Kisama Heritage Village, the vibrant venue of the world-famous Hornbill Festival (held from Dec 1-10). Even outside the festival dates, Kisama is a fascinating open-air museum. The village is designed to showcase the distinct cultural heritage of all 16 Naga tribes. Each tribe has its own dedicated morung (or traditional house), authentically constructed and decorated according to their specific customs. You can walk through the entire village, admiring the unique architecture, wood carvings, and tribal symbols on display. The site offers a panoramic view of the surrounding hills and provides a comprehensive, tangible feel for the cultural diversity of Nagaland in one location.",
+                    "whyVisit": "It's the best place to see and appreciate the architectural and cultural diversity of all Naga tribes in a single, well-designed space. The sheer scale and detail make it a visual treat and a cultural deep-dive.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Kisama%20Heritage%20Village&dates=20251205T040000Z/20251205T070000Z&details=Explore%20the%20home%20of%20the%20Hornbill%20Festival.%20See%20the%20traditional%20morungs%20of%20all%2016%20Naga%20tribes%20and%20experience%20an%20open-air%20cultural%20museum.&location=Kisama%20Heritage%20Village%2C%20Nagaland",
+                    "activities": [
+                        "Visit the morungs of different Naga tribes.",
+                        "Explore the amphitheater and other structures used during the Hornbill Festival.",
+                        "Visit the World War II museum located within the premises."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "30 INR per person",
+                        "estimatedCost": "60",
+                        "bestTime": "Morning",
+                        "duration": "3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Comfortable walking shoes as the area is large.",
+                            "Water bottle."
+                        ],
+                        "whatToBuy": [
+                            "Tribal art and crafts if any shops are open."
+                        ],
+                        "safetyNotes": [
+                            "Some structures may have steep wooden steps.",
+                            "The site is large, so keep track of your location."
+                        ],
+                        "customsEtiquette": [
+                            "Be respectful of the cultural significance of the morungs.",
+                            "Do not deface any of the structures."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The main festival gate.",
+                            "In front of the most elaborately decorated morungs.",
+                            "The panoramic view of the valley from the village."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "2:00 PM - 5:00 PM",
+                    "name": "Souvenir Shopping in Kohima",
+                    "location": {
+                        "latitude": "25.6700",
+                        "longitude": "94.1100"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.6700,94.1100",
+                    "distanceFromPrevious": 14.42,
+                    "travelTimeFromPrevious": "35 minutes",
+                    "description": "Spend the afternoon exploring the local markets of Kohima to find unique souvenirs and witness local life. Head to the Naga Bazaar, a vibrant market where you can find everything from local produce and exotic spices to traditional handicrafts. This is the perfect place to buy authentic Naga shawls, known for their intricate designs and vibrant colors, which signify the wearer's tribe and status. You can also find beautiful bamboo and wood crafts, tribal jewelry, and other handmade items. It’s not just a shopping trip but a cultural experience, offering a slice of everyday Naga life and a chance to interact with local vendors.",
+                    "whyVisit": "To purchase authentic, handcrafted souvenirs that directly support local artisans and to take a piece of Naga culture home with you. The bustling market provides a vibrant and authentic local experience.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Souvenir%20Shopping%20in%20Kohima&dates=20251205T083000Z/20251205T113000Z&details=Explore%20the%20local%20markets%20like%20Naga%20Bazaar%20to%20buy%20authentic%20Naga%20shawls%2C%20handicrafts%2C%20and%20other%20local%20products.&location=Naga%20Bazaar%2C%20Kohima",
+                    "activities": [
+                        "Browse for authentic Naga shawls and stoles.",
+                        "Look for unique bamboo crafts and wooden carvings.",
+                        "Explore the food section to see local vegetables, herbs, and spices."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "Depends on shopping",
+                        "bestTime": "Afternoon when the market is bustling",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Cash, as many vendors may not accept cards.",
+                            "A reusable shopping bag."
+                        ],
+                        "whatToBuy": [
+                            "Naga Shawl",
+                            "Bamboo mugs or decorative items",
+                            "Tribal beads and jewelry"
+                        ],
+                        "safetyNotes": [
+                            "Be aware of your belongings in crowded market areas."
+                        ],
+                        "customsEtiquette": [
+                            "A little bargaining is acceptable, but do it politely.",
+                            "Ask for permission before photographing vendors up close."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The colorful display of shawls.",
+                            "The vibrant and bustling vegetable section."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "31.9 km",
+                "spending": {
+                    "Hotel": "4500",
+                    "Entry Fees": "60",
+                    "Activities": "0",
+                    "Transport": "2000",
+                    "Meals": "2500",
+                    "Shopping": "3000",
+                    "total": "12060"
+                },
+                "remainingBudget": "44500"
+            }
+        },
+        {
+            "day": 6,
+            "date": "2025-12-06",
+            "theme": "Serenity at Dzuleke Village",
+            "optimizedRoute": "Niraamaya Retreats Aradura → Dzuleke Village → Niraamaya Retreats Aradura",
+            "totalDistance": 106.33,
+            "totalTravelTime": "3 hours 40 minutes",
+            "weather": "Clear skies with a high of 18.1°C and low of 6.8°C. UV index 4.9. No rain.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 3:30 PM",
+                    "name": "Dzuleke Village",
+                    "location": {
+                        "latitude": "25.7167",
+                        "longitude": "93.9333"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.7167,93.9333",
+                    "distanceFromPrevious": 53.16,
+                    "travelTimeFromPrevious": "1 hour 50 minutes",
+                    "description": "On your final full day, escape to the tranquil embrace of Dzuleke Village, a stunningly picturesque hamlet known for its pristine natural beauty and community-based ecotourism initiatives. The drive itself is scenic, leading you to a valley where the small village is set beside a gently flowing river. Dzuleke is a haven for nature lovers, offering a peaceful environment where the only sounds are the rustling of leaves and the chirping of birds. The village has a unique system where all tourism activities are managed by the community, ensuring sustainability. You can enjoy the serene landscapes, watch the Mithun (a semi-domesticated bovine) graze freely, and perhaps enjoy a simple, delicious meal with a local family, providing an intimate glimpse into their way of life.",
+                    "whyVisit": "It's the perfect place to unwind and connect with nature. The serene atmosphere and the community's commitment to conservation offer a refreshing and authentic rural Naga experience.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Day%20Trip%20to%20Dzuleke%20Village&dates=20251206T033000Z/20251206T100000Z&details=Visit%20the%20serene%20and%20picturesque%20Dzuleke%20Village.%20Enjoy%20the%20beautiful%20landscapes%2C%20village%20life%2C%20and%20a%20gentle%20nature%20walk.&location=Dzuleke%2C%20Nagaland",
+                    "activities": [
+                        "Take a gentle walk around the village and along the river.",
+                        "Observe the majestic Mithun in their natural habitat.",
+                        "Enjoy the peaceful and quiet atmosphere of the village."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "1500 (Lunch experience for two)",
+                        "bestTime": "Full day to soak in the relaxed pace",
+                        "duration": "5-6 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A book to read by the river.",
+                            "Binoculars for bird watching.",
+                            "A warm jacket."
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Mobile network connectivity is very limited.",
+                            "Roads leading to the village can be rough."
+                        ],
+                        "customsEtiquette": [
+                            "Be mindful that you are a guest in the community.",
+                            "Engage with your hosts respectfully."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The river flowing through the valley.",
+                            "The traditional houses with the green hills in the background.",
+                            "The herds of Mithun grazing."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "106.33 km",
+                "spending": {
+                    "Hotel": "4500",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "4000",
+                    "Meals": "2500",
+                    "Shopping": "0",
+                    "total": "11000"
+                },
+                "remainingBudget": "33500"
+            }
+        },
+        {
+            "day": 7,
+            "date": "2025-12-07",
+            "theme": "Departure with Fond Memories",
+            "optimizedRoute": "Niraamaya Retreats Aradura → Dimapur Airport",
+            "totalDistance": 74.0,
+            "totalTravelTime": "2 hours 30 minutes",
+            "weather": "Clear skies with a high of 17.9°C and low of 6.7°C. UV index 4.9. No rain.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 2:00 PM",
+                    "name": "Leisurely Breakfast & Transfer to Dimapur Airport",
+                    "location": {
+                        "latitude": "25.8846",
+                        "longitude": "93.7725"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.8846,93.7725",
+                    "distanceFromPrevious": 74.0,
+                    "travelTimeFromPrevious": "2 hours 30 minutes",
+                    "description": "Enjoy a final, leisurely Naga breakfast at your hotel, reminiscing about the incredible adventures of the past week. After checking out, you will embark on the scenic drive back to Dimapur Airport. The journey down from the hills offers a last chance to soak in the beautiful landscapes of Nagaland. You'll carry with you memories of mystical valleys, rich tribal culture, poignant history, and the warm hospitality of the Naga people. This final transfer concludes your journey, leaving you with a deeper appreciation for this unique and captivating corner of India.",
+                    "whyVisit": "A final, relaxed morning allows for a smooth and stress-free departure, giving you time to reflect on your journey before heading home.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Check-out%20and%20Transfer%20to%20Dimapur%20Airport&dates=20251207T053000Z/20251207T083000Z&details=Enjoy%20a%20final%20breakfast%20before%20checking%20out%20and%20driving%20back%20to%20Dimapur%20Airport%20for%20your%20departure.&location=Dimapur%20Airport%20(DMU)%2C%20Nagaland",
+                    "activities": [
+                        "Enjoy a hearty breakfast.",
+                        "Complete check-out formalities.",
+                        "Travel back to Dimapur Airport for your flight home."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "3000-4000 for cab transfer",
+                        "bestTime": "Allow ample time to reach the airport, accounting for traffic.",
+                        "duration": "3-4 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [],
+                        "whatToBuy": [
+                            "Any last-minute souvenirs at the airport if available."
+                        ],
+                        "safetyNotes": [
+                            "Start for the airport at least 4 hours before your flight departure time.",
+                            "Confirm your flight status before leaving the hotel."
+                        ],
+                        "customsEtiquette": [
+                            "Thank your driver and hotel staff for their hospitality."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": []
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "74.0 km",
+                "spending": {
+                    "Hotel": "0",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "3500",
+                    "Meals": "1000",
+                    "Shopping": "0",
+                    "total": "4500"
+                },
+                "remainingBudget": "29000"
+            }
+        }
+    ],
+    "budgetBreakdown": {
+        "totalBudget": 100000,
+        "currency": "INR",
+        "expenses": {
+            "Transport": [
+                {
+                    "transport_name": "Cab",
+                    "total_cost": "22000"
+                }
+            ],
+            "accommodation": {
+                "hotelName": "Niraamaya Retreats Aradura",
+                "pricePerNight": "4500",
+                "nights": "6",
+                "total": "27000"
+            },
+            "dailyExpenses": [
+                {
+                    "day": 1,
+                    "cost": 10000
+                },
+                {
+                    "day": 2,
+                    "cost": 10200
+                },
+                {
+                    "day": 3,
+                    "cost": 11140
+                },
+                {
+                    "day": 4,
+                    "cost": 12100
+                },
+                {
+                    "day": 5,
+                    "cost": 12060
+                },
+                {
+                    "day": 6,
+                    "cost": 11000
+                },
+                {
+                    "day": 7,
+                    "cost": 4500
+                }
+            ],
+            "budgetWarning": ""
+        },
+        "totalSpent": 71000,
+        "remainingBudget": 29000,
+        "budgetTips": [
+            "Opt for homestays in villages like Khonoma for a more budget-friendly and authentic experience on some nights.",
+            "Eat at local eateries and smaller restaurants for authentic and affordable Naga meals.",
+            "Bargain politely at markets for handicrafts and souvenirs."
+        ]
+    },
+    "packingList": {
+        "Clothing": [
+            "Warm jackets (fleece, insulated)",
+            "Sweaters or sweatshirts",
+            "Long-sleeved shirts and t-shirts for layering",
+            "Comfortable trousers or trekking pants",
+            "A set of smart casuals for dinners"
+        ],
+        "Footwear": [
+            "Sturdy hiking or trekking shoes with good grip",
+            "Comfortable sneakers or walking shoes for village tours"
+        ],
+        "Essentials": [
+            "Inner Line Permit (ILP) - mandatory for entering Nagaland",
+            "Government-issued ID (Aadhaar, Passport)",
+            "Sunscreen and sunglasses",
+            "Moisturizer and lip balm",
+            "Basic first-aid kit with motion sickness tablets",
+            "Reusable water bottle",
+            "Cash (ATMs can be scarce in rural areas)"
+        ],
+        "Electronics": [
+            "Mobile phone and charger",
+            "Power bank",
+            "Camera with extra batteries and memory cards"
+        ],
+        "Documents": [
+            "Printed copy of Inner Line Permit (ILP)",
+            "Hotel booking confirmations",
+            "Photo ID cards"
+        ],
+        "Children-specific items": []
+    },
+    "preTripChecklist": [
+        {
+            "priority": "High",
+            "task": "Apply for and obtain the Inner Line Permit (ILP) online or from a Nagaland House. This is mandatory."
+        },
+        {
+            "priority": "High",
+            "task": "Book accommodation in Kohima in advance."
+        },
+        {
+            "priority": "High",
+            "task": "Arrange for a reliable taxi for the entire duration of the trip, including airport transfers and sightseeing."
+        },
+        {
+            "priority": "Medium",
+            "task": "Pack layered clothing suitable for cold weather and trekking."
+        },
+        {
+            "priority": "Medium",
+            "task": "Withdraw sufficient cash as digital payments may not be widely accepted outside Kohima."
+        },
+        {
+            "priority": "Low",
+            "task": "Download offline maps for Nagaland as mobile connectivity can be unreliable."
+        }
+    ]
+}
