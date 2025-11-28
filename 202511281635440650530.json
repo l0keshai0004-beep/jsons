@@ -1,0 +1,370 @@
+{
+    "tripOverview": {
+        "destination": "Assam, India",
+        "startDate": "2025-11-29",
+        "endDate": "2025-12-01",
+        "duration": "2 nights",
+        "companions": "2 adults, 0 children",
+        "tripType": "Cultural and Spiritual Exploration",
+        "currency": "INR"
+    },
+    "mode_of_transport": {
+        "road": {
+            "cost": {
+                "train": "6000-8000",
+                "bus": "Not recommended for this distance",
+                "cab": "45000-55000"
+            },
+            "approx_time": {
+                "train": "30-38 hours",
+                "bus": "45+ hours",
+                "cab": "35-40 hours"
+            },
+            "stations": {
+                "bus_stations": "ISBT Anand Vihar, Delhi",
+                "trainstations": "New Delhi Railway Station (NDLS) or Anand Vihar Terminal (ANVT) to Guwahati (GHY)"
+            }
+        }
+    },
+    "hotel": {
+        "name": "Hotel SJ International",
+        "price": "1400 - 1600",
+        "location": {
+            "latitude": "26.1723",
+            "longitude": "91.7615"
+        },
+        "address": "S.R.C.B. Road, Near Vishal Mega Mart, Fancy Bazaar, Guwahati, Assam 781001",
+        "Rating": "4.1/5",
+        "Amenities": [
+            "Free Wi-Fi",
+            "Air Conditioning",
+            "Restaurant",
+            "Room Service",
+            "Free Parking"
+        ]
+    },
+    "dailyItinerary": [
+        {
+            "day": 1,
+            "date": "2025-11-29",
+            "theme": "Spiritual Arrival and First Impressions",
+            "optimizedRoute": "Hotel SJ International → Kamakhya Temple → Hotel SJ International",
+            "totalDistance": 18.71,
+            "totalTravelTime": "45 minutes",
+            "weather": "High of 30.3°C, low of 20°C. Mostly cloudy (94%). No rain. Suitable for outdoor activities.",
+            "places": [
+                {
+                    "timeOfDay": "3:00 PM - 7:00 PM",
+                    "name": "Kamakhya Temple",
+                    "location": {
+                        "latitude": "26.1668",
+                        "longitude": "91.7060"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1668,91.7060",
+                    "distanceFromPrevious": 8.6,
+                    "travelTimeFromPrevious": "25 minutes",
+                    "description": "Perched atop the Nilachal Hills in Guwahati, the Kamakhya Temple is one of the most revered and oldest of the 51 Shakti Pithas in India. This sacred site is dedicated to the goddess Kamakhya and is unique for its worship of the yoni (vulva) symbol of the goddess, representing fertility and creation. The temple complex, with its distinctive beehive-like shikhara, offers a profound spiritual atmosphere, attracting devotees and tantrics from all over the world. The air is thick with the fragrance of incense and the sounds of chanting, creating a powerful and immersive spiritual experience. Beyond its religious significance, the location provides breathtaking panoramic views of the sprawling city of Guwahati and the mighty Brahmaputra River flowing below.",
+                    "whyVisit": "As a key center of Shakti worship, it offers a deep dive into the spiritual and cultural heart of Assam, making it a perfect start to your exploration of the region's rich heritage.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Kamakhya%20Temple&dates=20251129T150000/20251129T190000&details=Explore%20one%20of%20the%20most%20important%20Shakti%20Pithas%20and%20witness%20the%20unique%20rituals%20and%20architecture.&location=Kamakhya%20Temple%2C%20Guwahati%2C%20Assam",
+                    "activities": [
+                        "Take part in the evening prayers and witness the spiritual rituals.",
+                        "Explore the temple complex, noting its unique architecture and smaller surrounding shrines.",
+                        "Climb to the viewpoint for a stunning panoramic view of Guwahati city at dusk."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free general entry. Special Darshan tickets range from 501 INR per person for quicker access.",
+                        "estimatedCost": "1000 INR (For special darshan for 2 people)",
+                        "bestTime": "Early morning or late afternoon to avoid the major crowds and the midday heat.",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Modest clothing covering shoulders and knees",
+                            "Comfortable walking shoes",
+                            "A bottle of water"
+                        ],
+                        "whatToBuy": [
+                            "Religious trinkets and offerings from the stalls outside",
+                            "Prasad (blessed food offerings)"
+                        ],
+                        "safetyNotes": [
+                            "Be cautious of your belongings in crowded areas.",
+                            "Be respectful of the temple's customs and traditions."
+                        ],
+                        "customsEtiquette": [
+                            "Remove footwear before entering the main temple sanctum.",
+                            "Photography is restricted inside the inner sanctum."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The viewpoint overlooking the Brahmaputra River.",
+                            "The main entrance gate with its intricate carvings."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "18.71 km",
+                "spending": {
+                    "Hotel": "1500 INR",
+                    "Entry Fees": "1000 INR",
+                    "Activities": "0 INR",
+                    "Transport": "500 INR",
+                    "Meals": "800 INR",
+                    "Shopping": "0 INR",
+                    "total": "3800 INR"
+                },
+                "remainingBudget": "41200 INR"
+            }
+        },
+        {
+            "day": 2,
+            "date": "2025-11-30",
+            "theme": "Island Temples, River Views, and Cultural Immersion",
+            "optimizedRoute": "Hotel SJ International → Majuli Island Exploration → Lunch at Majuli Island → Explore Majuli Island (Satras, local culture) → Travel back to accommodation",
+            "totalDistance": 124.22,
+            "totalTravelTime": "3 hours 30 minutes",
+            "weather": "High of 27.9°C, low of 20°C. Overcast (100%). No rain. Good for indoor and outdoor plans.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 6:00 PM",
+                    "name": "Majuli Island Full Day Exploration",
+                    "location": {
+                        "latitude": "26.2335",
+                        "longitude": "92.0505"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.9168,94.0991",
+                    "distanceFromPrevious": 42.21,
+                    "travelTimeFromPrevious": "1 hour 30 minutes",
+                    "description": "Embark on a captivating journey to Majuli, the world's largest river island, nestled in the Brahmaputra River. This full-day excursion involves a scenic drive followed by a ferry ride, transporting you to a land of serene beauty and vibrant culture. Majuli is the heart of Assamese Neo-Vaishnavite culture, and its landscape is dotted with 'Satras' - monastic centers that are hubs of art, music, dance, and drama. You will get to witness the unique mask-making craft at Samaguri Satra and experience the peaceful, rustic lifestyle of the local communities. The island's lush green paddy fields, tranquil water bodies, and the warm hospitality of its people make it a truly unforgettable experience. Note: A day trip from Guwahati is long but rewarding, requiring an early start to maximize your time on the island.",
+                    "whyVisit": "While a very long day, this trip fulfills your request to see Majuli. It offers a unique glimpse into a serene, culturally rich world that feels completely removed from the bustle of the city, focusing on traditions preserved for centuries.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Full%20Day%20Trip%20to%20Majuli%20Island&dates=20251130T090000/20251130T180000&details=Explore%20the%20world's%20largest%20river%20island%2C%20visit%20ancient%20Satras%2C%20and%20experience%20the%20unique%20Assamese%20Neo-Vaishnavite%20culture.&location=Majuli%20Island%2C%20Assam",
+                    "activities": [
+                        "Take a ferry across the Brahmaputra River to reach the island.",
+                        "Visit Samaguri Satra to see the traditional art of mask-making.",
+                        "Explore Kamalabari Satra, known for its cultural performances and historic artifacts.",
+                        "Interact with local villagers and learn about their unique way of life on the river island."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "No entry fee for the island. Satras may accept donations. Ferry and vehicle rental are the main costs.",
+                        "estimatedCost": "4500 INR (Includes private cab for the day to the ferry ghat and back, plus ferry tickets and local transport on the island)",
+                        "bestTime": "An early morning start (around 6 AM) is essential to make the most of the day.",
+                        "duration": "10-12 hours (including travel)"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Cash, as ATMs are scarce",
+                            "Sunscreen and a hat",
+                            "Comfortable shoes for walking",
+                            "Snacks and water for the journey"
+                        ],
+                        "whatToBuy": [
+                            "Handwoven textiles from local weavers",
+                            "Small handmade masks or souvenirs from the Satras",
+                            "Local handicrafts"
+                        ],
+                        "safetyNotes": [
+                            "Ferry schedules can be affected by weather and river conditions; check in advance.",
+                            "Roads on the island can be basic; travel with a reliable local driver."
+                        ],
+                        "customsEtiquette": [
+                            "Dress modestly when visiting Satras.",
+                            "Always ask for permission before photographing people."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "The ferry crossing on the Brahmaputra.",
+                            "The mask-making workshop at Samaguri Satra.",
+                            "Sunset over the river from the island."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "124.22 km",
+                "spending": {
+                    "Hotel": "1500 INR",
+                    "Entry Fees": "100 INR",
+                    "Activities": "0 INR",
+                    "Transport": "4500 INR",
+                    "Meals": "1500 INR",
+                    "Shopping": "500 INR",
+                    "total": "8100 INR"
+                },
+                "remainingBudget": "33100 INR"
+            }
+        },
+        {
+            "day": 3,
+            "date": "2025-12-01",
+            "theme": "Local Flavors and Departure",
+            "optimizedRoute": "Hotel SJ International → Paltan Bazaar → Hotel SJ International",
+            "totalDistance": 8.48,
+            "totalTravelTime": "25 minutes",
+            "weather": "High of 28.7°C, low of 19.5°C. Overcast (100%). No rain. Enjoy your last day of travel.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 12:00 PM",
+                    "name": "Leisure Time / Local Shopping at Paltan Bazaar",
+                    "location": {
+                        "latitude": "26.1798",
+                        "longitude": "91.7371"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1798,91.7371",
+                    "distanceFromPrevious": 3.2,
+                    "travelTimeFromPrevious": "15 minutes",
+                    "description": "Spend your final morning exploring the vibrant heart of Guwahati at Paltan Bazaar. This bustling market is a sensory delight, offering a chaotic yet charming glimpse into local life. It's the perfect place to hunt for souvenirs and experience the city's commercial pulse before you depart. The narrow lanes are crowded with shops selling everything from exquisite Assam silk sarees and aromatic teas to traditional handicrafts and electronics. It’s an ideal spot to absorb the local atmosphere, practice your bargaining skills, and find authentic keepsakes to remember your trip. The area is also close to the railway station, making it a convenient final stop.",
+                    "whyVisit": "This is the perfect opportunity to buy authentic Assamese souvenirs like tea and silk, and to immerse yourself in the everyday life of the city before heading home.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Local%20Shopping%20at%20Paltan%20Bazaar&dates=20251201T090000/20251201T120000&details=Explore%20the%20bustling%20market%20of%20Paltan%20Bazaar%20to%20buy%20local%20handicrafts%2C%20Assam%20tea%2C%20and%20silk%20products.&location=Paltan%20Bazaar%2C%20Guwahati%2C%20Assam",
+                    "activities": [
+                        "Shop for authentic Assam tea from local vendors.",
+                        "Browse the stores for traditional 'Mekhela Chador' (Assamese dress) and 'Gamosa'.",
+                        "Sample some local street food from the numerous stalls."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free",
+                        "estimatedCost": "2000 INR (For shopping)",
+                        "bestTime": "Mid-morning, when all the shops are open and it's less crowded than the evening.",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A sturdy shopping bag",
+                            "Cash, as many smaller shops may not accept cards",
+                            "Comfortable walking shoes"
+                        ],
+                        "whatToBuy": [
+                            "Assam Silk (Muga, Eri, Pat)",
+                            "Orthodox Assam Tea",
+                            "Bamboo and cane handicrafts",
+                            "Traditional 'Jaapi' (headgear)"
+                        ],
+                        "safetyNotes": [
+                            "The area is very crowded, so be mindful of your wallet and phone.",
+                            "Verify the authenticity of silk products before purchasing."
+                        ],
+                        "customsEtiquette": [
+                            "Bargaining is common and expected, but do so politely.",
+                            "Respect the shopkeepers and their space."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The colorful storefronts and displays.",
+                            "Street vendors with their unique local products."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "8.48 km",
+                "spending": {
+                    "Hotel": "0 INR",
+                    "Entry Fees": "0 INR",
+                    "Activities": "0 INR",
+                    "Transport": "400 INR",
+                    "Meals": "1000 INR",
+                    "Shopping": "3000 INR",
+                    "total": "4400 INR"
+                },
+                "remainingBudget": "28700 INR"
+            }
+        }
+    ],
+    "budgetBreakdown": {
+        "totalBudget": 45000,
+        "currency": "INR",
+        "expenses": {
+            "Transport": [
+                {
+                    "transport_name": "Train",
+                    "total_cost": "8000"
+                }
+            ],
+            "accommodation": {
+                "hotelName": "Hotel SJ International",
+                "pricePerNight": "1500",
+                "nights": 2,
+                "total": 3000
+            },
+            "dailyExpenses": [
+                {
+                    "day": 1,
+                    "cost": 3800
+                },
+                {
+                    "day": 2,
+                    "cost": 8100
+                },
+                {
+                    "day": 3,
+                    "cost": 4400
+                }
+            ],
+            "budgetWarning": ""
+        },
+        "totalSpent": 27300,
+        "remainingBudget": 17700,
+        "budgetTips": [
+            "Utilize ride-sharing apps like Uber or Ola for local transport, which can be cheaper than private taxis.",
+            "Enjoy meals at local eateries and traditional Assamese restaurants instead of expensive fine-dining establishments to save money and experience authentic flavors."
+        ]
+    },
+    "packingList": {
+        "Clothing": [
+            "Light cotton clothes for the daytime",
+            "A light jacket or shawl for evenings",
+            "Modest attire for temple visits (long skirts, trousers, scarves)",
+            "Comfortable sleepwear"
+        ],
+        "Footwear": [
+            "Comfortable walking shoes or sneakers",
+            "A pair of sandals or flip-flops"
+        ],
+        "Essentials": [
+            "Sunscreen and sunglasses",
+            "Insect repellent",
+            "Personal medications and a basic first-aid kit",
+            "Hand sanitizer and wet wipes",
+            "Reusable water bottle"
+        ],
+        "Electronics": [
+            "Mobile phone and charger",
+            "Power bank",
+            "Camera with extra batteries and memory card",
+            "Universal travel adapter"
+        ],
+        "Documents": [
+            "Train tickets or travel confirmation",
+            "Hotel booking confirmation",
+            "Government-issued ID (Aadhaar card, Passport)",
+            "A copy of your itinerary"
+        ],
+        "Children-specific items": []
+    },
+    "preTripChecklist": [
+        {
+            "priority": "High",
+            "task": "Book round-trip train tickets from Noida/Delhi to Guwahati."
+        },
+        {
+            "priority": "High",
+            "task": "Book accommodation at Hotel SJ International or a similar hotel."
+        },
+        {
+            "priority": "Medium",
+            "task": "Arrange a private cab for the Majuli Island day trip in advance for a better rate."
+        },
+        {
+            "priority": "Medium",
+            "task": "Plan a rough daily budget for meals, transport, and shopping."
+        },
+        {
+            "priority": "Low",
+            "task": "Pack your bags according to the packing list."
+        },
+        {
+            "priority": "Low",
+            "task": "Inform your bank about your travel dates to avoid any card issues."
+        }
+    ]
+}
