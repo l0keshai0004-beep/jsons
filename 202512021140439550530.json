@@ -1,0 +1,661 @@
+{
+    "tripOverview": {
+        "destination": "Hamburg, Germany",
+        "startDate": "2025-12-09",
+        "endDate": "2025-12-12",
+        "duration": "3 nights",
+        "companions": "2 adults, 0 children",
+        "tripType": "Cultural and Architectural Exploration",
+        "currency": "EUR"
+    },
+    "mode_of_transport": {
+        "flight": {
+            "destination": "Hamburg, Germany (HAM)",
+            "Approx_cost": "1000 - 1800 for 2 adults",
+            "Approx_time_of_flight(duration)": "7-9 hours",
+            "Nearest_airport_from_current_destination": "Indira Gandhi International Airport (DEL)",
+            "Nearest_airport_from_visiting_destination": "Hamburg Airport (HAM)",
+            "Stops": "Direct"
+        }
+    },
+    "hotel": {
+        "name": "M-A-C-Stadthotel Hamburg",
+        "price": "160 - 190",
+        "location": {
+            "latitude": "53.5488",
+            "longitude": "10.0105"
+        },
+        "address": "Kurt-Schumacher-Allee 14, 20097 Hamburg, Germany",
+        "Rating": "4.1/5",
+        "Amenities": [
+            "Free Wi-Fi",
+            "Soundproof rooms",
+            "24-hour front desk",
+            "Non-smoking rooms",
+            "Heating"
+        ]
+    },
+    "dailyItinerary": [
+        {
+            "day": 1,
+            "date": "2025-12-09",
+            "theme": "Arrival and Local Immersion",
+            "optimizedRoute": "N/A",
+            "totalDistance": 0,
+            "totalTravelTime": "N/A",
+            "weather": "Cloudy, 8.1°C high, 4.9°C low. Light rain possible.",
+            "places": [
+                {
+                    "timeOfDay": "3:00 PM - 4:00 PM",
+                    "name": "Hotel Check-in and Relax",
+                    "location": {
+                        "latitude": "53.5488",
+                        "longitude": "10.0105"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=53.5488,10.0105",
+                    "distanceFromPrevious": 0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Arrive at the M-A-C-Stadthotel Hamburg, conveniently located for exploring the city. Take some time to settle into your room, unpack your belongings, and freshen up after your journey. This initial period of rest will help you recharge and prepare for the exciting days ahead in this vibrant port city. The hotel's comfortable amenities provide a perfect base for your Hamburg adventure. You can connect to the Wi-Fi to let family know you've arrived safely or review your itinerary for the evening.",
+                    "whyVisit": "Essential for starting your trip relaxed and organized, allowing you to transition smoothly from travel mode to vacation mode.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hotel%20Check-in%20and%20Relax&dates=20251209T150000/20251209T160000&details=Arrive%20at%20the%20M-A-C-Stadthotel%20Hamburg%2C%20conveniently%20located%20for%20exploring%20the%20city.%20Take%20some%20time%20to%20settle%20into%20your%20room%2C%20unpack%20your%20belongings%2C%20and%20freshen%20up%20after%20your%20journey.&location=Kurt-Schumacher-Allee%2014%2C%2020097%20Hamburg%2C%20Germany",
+                    "activities": [
+                        "Complete check-in process",
+                        "Unpack luggage and organize your belongings",
+                        "Briefly rest and recover from your travel"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "0",
+                        "bestTime": "As per your arrival schedule",
+                        "duration": "1 hour"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Passport and booking confirmation",
+                            "Comfortable clothes to change into"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Keep your luggage secure upon arrival.",
+                            "Note the hotel's emergency exits and procedures."
+                        ],
+                        "customsEtiquette": [
+                            "Have your documents ready for a smooth check-in.",
+                            "A friendly greeting to the hotel staff is always appreciated."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": []
+                    }
+                },
+                {
+                    "timeOfDay": "4:00 PM - 5:30 PM",
+                    "name": "Stroll around the hotel vicinity",
+                    "location": {
+                        "latitude": "53.5488",
+                        "longitude": "10.0105"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=53.5488,10.0105",
+                    "distanceFromPrevious": 0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Step out of the hotel and take a leisurely walk to get your first taste of Hamburg. The area around Kurt-Schumacher-Allee offers a glimpse into the daily life of the city. This is a perfect, low-key way to orient yourself, spotting nearby cafes, shops, and public transport stations. The architecture, a mix of modern and classic German styles, provides an immediate sense of place. Given the possibility of light rain, the moody sky can make the city lights reflect beautifully on the streets, creating a charming, atmospheric setting for your first exploration.",
+                    "whyVisit": "An excellent way to familiarize yourself with the immediate surroundings, find potential spots for dinner, and shake off any travel fatigue.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Stroll%20around%20the%20hotel%20vicinity&dates=20251209T160000/20251209T173000&details=Step%20out%20of%20the%20hotel%20and%20take%20a%20leisurely%20walk%20to%20get%20your%20first%20taste%20of%20Hamburg.%20This%20is%20a%20perfect%2C%20low-key%20way%20to%20orient%20yourself.&location=Kurt-Schumacher-Allee%2014%2C%2020097%20Hamburg%2C%20Germany",
+                    "activities": [
+                        "Identify nearby U-Bahn or S-Bahn stations",
+                        "Note down names of interesting restaurants or cafes",
+                        "Absorb the local atmosphere and architecture"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free",
+                        "estimatedCost": "0",
+                        "bestTime": "Late afternoon to early evening",
+                        "duration": "1.5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A small umbrella",
+                            "Comfortable walking shoes",
+                            "A map or GPS-enabled phone"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Be aware of your surroundings and personal belongings.",
+                            "Pay attention to traffic, especially trams and bicycles."
+                        ],
+                        "customsEtiquette": [
+                            "A simple 'Hallo' (hello) to people you pass is polite.",
+                            "Keep to the right on sidewalks."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "Interesting building facades",
+                            "Local street art"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "7:00 PM - 8:30 PM",
+                    "name": "Dinner at a Local German Restaurant",
+                    "location": {
+                        "latitude": "53.5495",
+                        "longitude": "10.0085"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=53.5495,10.0085",
+                    "distanceFromPrevious": 0.5,
+                    "travelTimeFromPrevious": "5 minutes",
+                    "description": "Immerse yourself in authentic German cuisine by dining at a traditional restaurant near your hotel, such as 'Zur alten Mühle' or similar. This is your chance to savor hearty local specialties that are perfect for a cool December evening. Consider trying classic dishes like Schnitzel (breaded cutlet), Bratkartoffeln (pan-fried potatoes), or a regional fish dish like 'Pannfisch'. The cozy and warm ambiance of a traditional German eatery provides a comforting and welcoming experience, making it an ideal end to your first day in Hamburg. Pair your meal with a local beer for the full experience.",
+                    "whyVisit": "A delicious introduction to the local culture and cuisine, providing a warm and satisfying culinary experience after a day of travel.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Dinner%20at%20a%20Local%20German%20Restaurant&dates=20251209T190000/20251209T203000&details=Immerse%20yourself%20in%20authentic%20German%20cuisine%20by%20dining%20at%20a%20traditional%20restaurant%20near%20your%20hotel.&location=Near%20M-A-C-Stadthotel%20Hamburg",
+                    "activities": [
+                        "Trying a classic Hamburg or German dish",
+                        "Sampling a local German beer",
+                        "Enjoying the cozy atmosphere of a traditional restaurant"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "60-90 for 2 adults",
+                        "bestTime": "Evening",
+                        "duration": "1.5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Cash (some smaller places may not accept cards)",
+                            "A healthy appetite"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Check restaurant reviews beforehand if possible.",
+                            "Confirm closing times as they can vary."
+                        ],
+                        "customsEtiquette": [
+                            "Tipping is customary; 5-10% is standard for good service.",
+                            "It's polite to say 'Guten Appetit' before starting your meal."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": []
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "0.5 km",
+                "spending": {
+                    "Hotel": "180",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "0",
+                    "Meals": "80",
+                    "Shopping": "0",
+                    "total": "260"
+                },
+                "remainingBudget": "19740"
+            }
+        },
+        {
+            "day": 2,
+            "date": "2025-12-10",
+            "theme": "Wonders of Waterways: Models and Warehouses",
+            "optimizedRoute": "M-A-C-Stadthotel Hamburg → Speicherstadt and HafenCity → Miniatur Wunderland → M-A-C-Stadthotel Hamburg",
+            "totalDistance": 4.14,
+            "totalTravelTime": "15 minutes",
+            "weather": "Cloudy, 8.4°C high, 5.3°C low. Minimal rain. Suitable for general outdoor touring.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 1:00 PM",
+                    "name": "Miniatur Wunderland",
+                    "location": {
+                        "latitude": "53.5438",
+                        "longitude": "9.9890"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=53.5438,9.9890",
+                    "distanceFromPrevious": 2.05,
+                    "travelTimeFromPrevious": "8 minutes",
+                    "description": "Prepare to be captivated by Miniatur Wunderland, the world's largest model railway exhibition and a marvel of intricate craftsmanship. This incredible attraction features meticulously detailed miniature worlds, from bustling cities and scenic landscapes to functioning airports and fantasy realms. Watch as thousands of tiny trains, cars, and even people go about their daily lives in astonishingly realistic dioramas. The exhibit transitions from day to night every 15 minutes, with thousands of LEDs illuminating the tiny cities. It's a magical experience that appeals to all ages, showcasing incredible attention to detail and technical genius. The sheer scale and creativity on display are simply breathtaking.",
+                    "whyVisit": "An absolute must-see in Hamburg, offering a unique and enchanting experience that showcases incredible artistry and engineering.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Miniatur%20Wunderland&dates=20251210T090000/20251210T130000&details=Prepare%20to%20be%20captivated%20by%20Miniatur%20Wunderland%2C%20the%20world's%20largest%20model%20railway%20exhibition%20and%20a%20marvel%20of%20intricate%20craftsmanship.&location=Kehrwieder%202-4%2FBlock%20D%2C%2020457%20Hamburg%2C%20Germany",
+                    "activities": [
+                        "Explore the different miniature worlds (e.g., Hamburg, USA, Italy)",
+                        "Spot the hidden humorous scenes and Easter eggs",
+                        "Watch planes take off and land at the miniature Knuffingen Airport"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "20 EUR per adult",
+                        "estimatedCost": "55 for 2 adults (Entry + Transport)",
+                        "bestTime": "Early morning to avoid the biggest crowds",
+                        "duration": "4 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Camera with a good zoom lens",
+                            "Comfortable shoes for standing and walking"
+                        ],
+                        "whatToBuy": [
+                            "Model kits",
+                            "Unique souvenirs from the gift shop"
+                        ],
+                        "safetyNotes": [
+                            "The exhibition can get crowded; keep track of your belongings.",
+                            "Be mindful of small children running around."
+                        ],
+                        "customsEtiquette": [
+                            "Do not touch the exhibits.",
+                            "Be patient and allow others to view the displays."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "The Swiss Alps section",
+                            "The Las Vegas strip at 'night'",
+                            "Knuffingen Airport"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "2:30 PM - 6:30 PM",
+                    "name": "Explore Speicherstadt and HafenCity",
+                    "location": {
+                        "latitude": "53.5444",
+                        "longitude": "9.9931"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=53.5444,9.9931",
+                    "distanceFromPrevious": 0.58,
+                    "travelTimeFromPrevious": "2 minutes",
+                    "description": "Step outside Miniatur Wunderland into the Speicherstadt, the world's largest warehouse district built on oak piles. A UNESCO World Heritage site, its stunning neo-gothic red-brick architecture, crisscrossed by canals and bridges, is incredibly atmospheric. Wander along the cobblestone streets and soak in the historic maritime ambiance. Then, walk over to the adjacent HafenCity, a stark and fascinating contrast. This is one of Europe's most ambitious urban development projects, showcasing bold, modern architecture, wide-open plazas, and a vibrant waterfront. The juxtaposition of the 19th-century warehouses with 21st-century design provides a unique visual and cultural experience, embodying Hamburg's journey from a historic port to a modern metropolis.",
+                    "whyVisit": "A perfect blend of history and modernity, offering stunning photo opportunities and a deep insight into Hamburg's architectural evolution.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Speicherstadt%20and%20HafenCity&dates=20251210T143000/20251210T183000&details=Step%20outside%20Miniatur%20Wunderland%20into%20the%20Speicherstadt%2C%20the%20world's%20largest%20warehouse%20district%20built%20on%20oak%20piles.%20A%20UNESCO%20World%20Heritage%20site.&location=Speicherstadt%2C%2020457%20Hamburg%2C%20Germany",
+                    "activities": [
+                        "Walk across the historic bridges of Speicherstadt",
+                        "Admire the modern architecture of HafenCity's buildings",
+                        "Visit a coffee roastery or spice museum in Speicherstadt"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free to walk around",
+                        "estimatedCost": "0",
+                        "bestTime": "Late afternoon for beautiful light on the brick buildings",
+                        "duration": "4 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A good pair of walking shoes",
+                            "An umbrella, as the weather can be unpredictable",
+                            "A camera to capture the unique architecture"
+                        ],
+                        "whatToBuy": [
+                            "Freshly roasted coffee",
+                            "Exotic spices"
+                        ],
+                        "safetyNotes": [
+                            "Watch your step on cobblestone streets, which can be slippery when wet.",
+                            "Be mindful of the canal edges."
+                        ],
+                        "customsEtiquette": [
+                            "Respect residential areas within HafenCity.",
+                            "Do not block bridges while taking photos."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "Wasserschloss (Water Castle)",
+                            "Poggenmühlenbrücke bridge",
+                            "The contrast between Elbphilharmonie and old warehouses"
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "4.14 km",
+                "spending": {
+                    "Hotel": "180",
+                    "Entry Fees": "40",
+                    "Activities": "0",
+                    "Transport": "15",
+                    "Meals": "100",
+                    "Shopping": "50",
+                    "total": "385"
+                },
+                "remainingBudget": "19355"
+            }
+        },
+        {
+            "day": 3,
+            "date": "2025-12-11",
+            "theme": "Green Oases and Panoramic Vistas",
+            "optimizedRoute": "M-A-C-Stadthotel Hamburg → Planten un Blomen → Elbphilharmonie Plaza → M-A-C-Stadthotel Hamburg",
+            "totalDistance": 6.79,
+            "totalTravelTime": "20 minutes",
+            "weather": "Cloudy, 6.3°C high, 3.0°C low. Light rain possible. Dress warmly for outdoors.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 12:00 PM",
+                    "name": "Planten un Blomen",
+                    "location": {
+                        "latitude": "53.5604",
+                        "longitude": "9.9840"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=53.5604,9.9840",
+                    "distanceFromPrevious": 3.23,
+                    "travelTimeFromPrevious": "10 minutes",
+                    "description": "Escape into the serene beauty of Planten un Blomen, a vast and beautifully maintained park in the heart of Hamburg. Even in December, the park offers a peaceful retreat with its scenic paths, greenhouses, and the tranquil Japanese Garden. It's an ideal place for a refreshing morning walk, allowing you to enjoy a touch of nature amidst the urban landscape. The crisp winter air and the quiet atmosphere provide a relaxing start to your day. The park's well-designed landscapes are a testament to Hamburg's commitment to green spaces, offering a different perspective of the city away from the bustling port.",
+                    "whyVisit": "A perfect opportunity for a peaceful morning stroll, offering a beautiful natural landscape and a quiet break from city sightseeing.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Planten%20un%20Blomen&dates=20251211T090000/20251211T120000&details=Escape%20into%20the%20serene%20beauty%20of%20Planten%20un%20Blomen%2C%20a%20vast%20and%20beautifully%20maintained%20park%20in%20the%20heart%20of%20Hamburg.&location=Marseiller%20Str.%2C%2020355%20Hamburg%2C%20Germany",
+                    "activities": [
+                        "Stroll through the Japanese Garden",
+                        "Visit the tropical greenhouses for warmth and exotic plants",
+                        "Enjoy a coffee at one of the park's cafes"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free",
+                        "estimatedCost": "15 for 2 adults (Transport)",
+                        "bestTime": "Morning for a quiet walk",
+                        "duration": "3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Warm jacket and scarf",
+                            "Comfortable walking shoes",
+                            "A thermos with a hot beverage"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Paths can be slippery if wet or icy.",
+                            "Stick to well-lit paths if visiting late."
+                        ],
+                        "customsEtiquette": [
+                            "Keep to the paths to protect the plant beds.",
+                            "Dispose of any trash in the provided bins."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The Japanese Garden and teahouse",
+                            "The tropical greenhouses",
+                            "The view of the Heinrich-Hertz-Turm TV tower"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "1:30 PM - 4:30 PM",
+                    "name": "Elbphilharmonie Plaza Visit",
+                    "location": {
+                        "latitude": "53.5414",
+                        "longitude": "9.9842"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=53.5414,9.9842",
+                    "distanceFromPrevious": 2.42,
+                    "travelTimeFromPrevious": "8 minutes",
+                    "description": "Experience one of Hamburg's most iconic modern landmarks, the Elbphilharmonie. While concert tickets can be hard to come by, the public Plaza is accessible to all. Ride the spectacular curved escalator up through the building to the observation deck. From here, you are rewarded with breathtaking 360-degree panoramic views of the harbor and the city. The unique architecture, a glassy wave-like structure built atop an old brick warehouse, is as impressive from the inside as it is from the outside. The Plaza wraps around the entire building, allowing you to see every angle of Hamburg's skyline, from the bustling port to the historic church spires.",
+                    "whyVisit": "Offers the best panoramic views of Hamburg and a chance to experience a world-renowned piece of modern architecture from within.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Elbphilharmonie%20Plaza%20Visit&dates=20251211T133000/20251211T163000&details=Experience%20one%20of%20Hamburg's%20most%20iconic%20modern%20landmarks%2C%20the%20Elbphilharmonie.%20The%20public%20Plaza%20is%20accessible%20to%20all.&location=Platz%20der%20Deutschen%20Einheit%204%2C%2020457%20Hamburg%2C%20Germany",
+                    "activities": [
+                        "Ride the Tube escalator",
+                        "Walk around the entire Plaza for 360-degree views",
+                        "Enjoy a coffee or snack at the cafe"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free (a ticket must be obtained on-site, small booking fee for advance online booking)",
+                        "estimatedCost": "5-10 (optional booking fee)",
+                        "bestTime": "Weekday afternoons to avoid weekend crowds",
+                        "duration": "1.5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A good camera or smartphone for photos",
+                            "Windproof jacket, as it can be windy on the Plaza"
+                        ],
+                        "whatToBuy": [
+                            "Architectural books or souvenirs from the gift shop"
+                        ],
+                        "safetyNotes": [
+                            "The outdoor walkway can be windy; hold on to hats and loose items.",
+                            "Follow the directions of the staff."
+                        ],
+                        "customsEtiquette": [
+                            "Keep noise levels down in respect for the concert hall.",
+                            "Don't lean over the railings."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The view of the harbor cranes",
+                            "The cityscape towards St. Michael's Church",
+                            "The unique curved glass facade"
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "6.79 km",
+                "spending": {
+                    "Hotel": "180",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "20",
+                    "Meals": "100",
+                    "Shopping": "70",
+                    "total": "370"
+                },
+                "remainingBudget": "18985"
+            }
+        },
+        {
+            "day": 4,
+            "date": "2025-12-12",
+            "theme": "Historic Wildlife and Departure",
+            "optimizedRoute": "M-A-C-Stadthotel Hamburg → Hagenbeck's Tierpark → M-A-C-Stadthotel Hamburg",
+            "totalDistance": 18.18,
+            "totalTravelTime": "40 minutes",
+            "weather": "Cloudy, 5.9°C high, 4.1°C low. Very light rain. Good for travel.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 11:30 AM",
+                    "name": "Hagenbeck's Tierpark",
+                    "location": {
+                        "latitude": "53.5971",
+                        "longitude": "9.9377"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=53.5971,9.9377",
+                    "distanceFromPrevious": 9.2,
+                    "travelTimeFromPrevious": "20 minutes",
+                    "description": "Spend your final morning at Hagenbeck's Tierpark, a zoo with a rich history and a revolutionary design. It was one of the first zoos to use moats and open enclosures instead of cages, creating more naturalistic habitats for the animals. This design philosophy offers a more immersive experience for visitors. Explore the various themed areas and see a wide range of animals from different continents. The zoo's beautiful landscaping and historic Art Nouveau entrance gate add to its charm. It's a wonderful, engaging activity before you conclude your trip, offering a blend of nature, history, and animal encounters in a unique setting.",
+                    "whyVisit": "A chance to visit a historic and influential zoo, enjoying its beautiful park-like setting and diverse animal collection before your departure.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hagenbeck's%20Tierpark&dates=20251212T090000/20251212T113000&details=Spend%20your%20final%20morning%20at%20Hagenbeck's%20Tierpark%2C%20a%20zoo%20with%20a%20rich%20history%20and%20a%20revolutionary%20design.&location=Lokstedter%20Grenzring%202%2C%2022527%20Hamburg%2C%20Germany",
+                    "activities": [
+                        "Visit the Eismeer (Arctic Ocean) enclosure",
+                        "See the herd of Asian elephants",
+                        "Explore the Tropical Aquarium (if time permits)"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "29 EUR per adult for Zoo only",
+                        "estimatedCost": "85 for 2 adults (Entry + Transport)",
+                        "bestTime": "Right at opening to see animals at their most active",
+                        "duration": "2.5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "An umbrella or raincoat",
+                            "Comfortable shoes for extensive walking"
+                        ],
+                        "whatToBuy": [
+                            "Animal-themed souvenirs from the gift shop"
+                        ],
+                        "safetyNotes": [
+                            "Do not feed the animals.",
+                            "Stay behind the barriers at all times."
+                        ],
+                        "customsEtiquette": [
+                            "Keep your voice down near animal enclosures.",
+                            "Move aside to let others pass on narrow paths."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The historic entrance gate",
+                            "The panoramic view of the African savanna enclosure",
+                            "The elephants bathing"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "11:30 AM - 12:00 PM",
+                    "name": "Check-out from Hotel",
+                    "location": {
+                        "latitude": "53.5488",
+                        "longitude": "10.0105"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=53.5488,10.0105",
+                    "distanceFromPrevious": 8.98,
+                    "travelTimeFromPrevious": "20 minutes",
+                    "description": "Return to the M-A-C-Stadthotel Hamburg to collect your luggage and complete the check-out process. Ensure you have all your personal belongings from the room. The hotel staff can assist with any final queries or arrange for transportation to the airport if needed. This marks the end of your memorable trip to Hamburg, filled with architectural wonders, cultural experiences, and scenic beauty. Depart with fond memories of this dynamic German city, ready for your journey back home or to your next destination.",
+                    "whyVisit": "The necessary final step of your journey, concluding your stay in Hamburg and beginning your travel homeward.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Check-out%20from%20Hotel&dates=20251212T113000/20251212T120000&details=Return%20to%20the%20M-A-C-Stadthotel%20Hamburg%20to%20collect%20your%20luggage%20and%20complete%20the%20check-out%20process.&location=Kurt-Schumacher-Allee%2014%2C%2020097%20Hamburg%2C%20Germany",
+                    "activities": [
+                        "Final packing and room check",
+                        "Settle any outstanding bills with the hotel",
+                        "Hand over room keys"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "0",
+                        "bestTime": "Before the official check-out time",
+                        "duration": "30 minutes"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "All your packed luggage"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Do a final sweep of the room, checking drawers and the safe.",
+                            "Confirm your travel arrangements to the airport."
+                        ],
+                        "customsEtiquette": [
+                            "Thank the hotel staff for their service.",
+                            "Leave the room in a reasonably tidy state."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": []
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "18.18 km",
+                "spending": {
+                    "Hotel": "180",
+                    "Entry Fees": "58",
+                    "Activities": "0",
+                    "Transport": "25",
+                    "Meals": "50",
+                    "Shopping": "20",
+                    "total": "333"
+                },
+                "remainingBudget": "18652"
+            }
+        }
+    ],
+    "budgetBreakdown": {
+        "totalBudget": 20000,
+        "currency": "EUR",
+        "expenses": {
+            "Transport": [
+                {
+                    "transport_name": "Flights",
+                    "total_cost": "1400"
+                }
+            ],
+            "accommodation": {
+                "hotelName": "M-A-C-Stadthotel Hamburg",
+                "pricePerNight": "180",
+                "nights": 3,
+                "total": "540"
+            },
+            "dailyExpenses": [
+                {
+                    "day": 1,
+                    "cost": 260
+                },
+                {
+                    "day": 2,
+                    "cost": 385
+                },
+                {
+                    "day": 3,
+                    "cost": 370
+                },
+                {
+                    "day": 4,
+                    "cost": 333
+                }
+            ]
+        },
+        "totalSpent": 3288,
+        "remainingBudget": 16712,
+        "budgetTips": [
+            "Purchase a Hamburg CARD for free public transport and discounts on many attractions.",
+            "Enjoy meals at local 'Imbiss' (snack stands) for a delicious and affordable lunch, like a Fischbrötchen (fish sandwich)."
+        ]
+    },
+    "packingList": {
+        "Clothing": [
+            "Waterproof and windproof jacket",
+            "Warm sweaters or fleece jackets",
+            "Long-sleeved shirts",
+            "Trousers or jeans",
+            "Thermal underwear",
+            "Scarf, gloves, and a warm hat"
+        ],
+        "Footwear": [
+            "Waterproof boots with good grip",
+            "Comfortable walking shoes"
+        ],
+        "Essentials": [
+            "Umbrella",
+            "Reusable water bottle",
+            "Backpack or day bag",
+            "Sunscreen (even on cloudy days)",
+            "Basic toiletries",
+            "Any personal medications"
+        ],
+        "Electronics": [
+            "Smartphone and charger",
+            "Portable power bank",
+            "Camera and extra batteries",
+            "Universal travel adapter (Type F)"
+        ],
+        "Documents": [
+            "Passport and visa (if required)",
+            "Flight tickets and booking confirmations",
+            "Hotel reservation details",
+            "Travel insurance information",
+            "Credit/debit cards and some cash (EUR)"
+        ],
+        "Children-specific items": []
+    },
+    "preTripChecklist": [
+        {
+            "priority": "High",
+            "task": "Book flights to Hamburg (HAM)."
+        },
+        {
+            "priority": "High",
+            "task": "Book hotel accommodation."
+        },
+        {
+            "priority": "High",
+            "task": "Check passport validity and visa requirements."
+        },
+        {
+            "priority": "Medium",
+            "task": "Purchase travel insurance."
+        },
+        {
+            "priority": "Medium",
+            "task": "Pre-book tickets for Miniatur Wunderland to avoid long queues."
+        },
+        {
+            "priority": "Medium",
+            "task": "Plan airport transfers to the hotel."
+        },
+        {
+            "priority": "Low",
+            "task": "Notify your bank of your travel dates to avoid card issues."
+        },
+        {
+            "priority": "Low",
+            "task": "Exchange currency or check card fees for foreign transactions."
+        }
+    ]
+}
