@@ -1,0 +1,604 @@
+{
+    "tripOverview": {
+        "destination": "Assam, India",
+        "startDate": "2025-12-08",
+        "endDate": "2025-12-12",
+        "duration": "4 nights",
+        "companions": "2 adults, 0 children",
+        "tripType": "Cultural and Wildlife Adventure",
+        "currency": "INR"
+    },
+    "mode_of_transport": {
+        "road": {
+            "cost": {
+                "train": "6000-9000",
+                "bus": "5000-7000",
+                "cab": "45000-55000"
+            },
+            "approx_time": {
+                "train": "35-42 hours",
+                "bus": "45-50 hours",
+                "cab": "40-48 hours"
+            },
+            "stations": {
+                "bus_stations": "ISBT Anand Vihar, Delhi to ISBT Guwahati",
+                "trainstations": "New Delhi Railway Station (NDLS) or Anand Vihar Terminal (ANVT) to Guwahati Railway Station (GHY)"
+            }
+        }
+    },
+    "hotel": {
+        "name": "Hotel President",
+        "price": "950 - 1100",
+        "location": {
+            "latitude": "26.1723",
+            "longitude": "91.7615"
+        },
+        "address": "G.S. Road, Opp. Doordarshan Kendra, Solapara, Paltan Bazaar, Guwahati, Assam 781007",
+        "Rating": "4.1/5",
+        "Amenities": [
+            "Free Wi-Fi",
+            "Air Conditioning",
+            "Restaurant",
+            "Free Parking",
+            "Room Service"
+        ]
+    },
+    "dailyItinerary": [
+        {
+            "day": 1,
+            "date": "2025-12-08",
+            "theme": "Arrival and Local Immersion in Guwahati",
+            "optimizedRoute": "Hotel President → Fancy Bazaar → Hotel President",
+            "totalDistance": 6.0,
+            "totalTravelTime": "25 minutes",
+            "weather": "Cloudy, 26.6°C high, 20.1°C low. UV index 4.4. No rain.",
+            "places": [
+                {
+                    "timeOfDay": "3:00 PM - 4:00 PM",
+                    "name": "Arrive in Guwahati & Hotel Check-in",
+                    "location": {
+                        "latitude": "26.1723",
+                        "longitude": "91.7615"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1723,91.7615",
+                    "distanceFromPrevious": 0.0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Welcome to Guwahati, the gateway to Northeast India. Upon your arrival, proceed to Hotel President, a well-located and comfortable base for your initial explorations. The check-in process will be smooth, allowing you to settle into your room, freshen up after your journey, and prepare for a relaxing evening. Take a moment to appreciate the beginning of your Assamese adventure, storing your luggage and getting comfortable in your new surroundings. The hotel staff will be on hand to assist with any immediate needs or questions you might have about the facilities or the local area before you step out to explore.",
+                    "whyVisit": "This initial stop is crucial for rest and recovery after your long journey, ensuring you are energized for the days of exploration ahead in Assam's cultural and natural landscapes.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrive%20in%20Guwahati%20%26%20Hotel%20Check-in&dates=20251208T093000Z/20251208T103000Z&details=Check%20into%20Hotel%20President%20and%20settle%20in%20for%20your%20Assam%20adventure.&location=Hotel%20President%2C%20Guwahati",
+                    "activities": [
+                        "Complete check-in formalities",
+                        "Unpack and relax in your room"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "1000",
+                        "bestTime": "N/A",
+                        "duration": "1 hour"
+                    },
+                    "tips": {
+                        "whatToBring": ["Booking confirmation", "Valid ID"],
+                        "whatToBuy": [],
+                        "safetyNotes": ["Keep your luggage secure upon arrival.", "Familiarize yourself with the hotel's emergency exits."],
+                        "customsEtiquette": ["Be polite and patient with the hotel staff during check-in."],
+                        "bookingRequired": true,
+                        "photoSpots": ["Hotel lobby for a 'start of the trip' photo."]
+                    }
+                },
+                {
+                    "timeOfDay": "4:00 PM - 7:00 PM",
+                    "name": "Explore Fancy Bazaar",
+                    "location": {
+                        "latitude": "26.1798",
+                        "longitude": "91.7383"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1798,91.7383",
+                    "distanceFromPrevious": 3.0,
+                    "travelTimeFromPrevious": "12 minutes",
+                    "description": "Dive into the vibrant heart of Guwahati's commercial activity at Fancy Bazaar. This bustling market is a sensory explosion, offering everything from traditional Assamese silk sarees (Muga and Eri silk) to local handicrafts, bamboo products, and aromatic spices. The narrow lanes are lined with shops of all sizes, creating a maze of interesting finds. It's the perfect place to witness daily life, interact with local vendors, and soak in the authentic atmosphere of the city. As evening descends, the market lights up, offering a different but equally captivating experience. It's an excellent opportunity for souvenir hunting or simply enjoying a leisurely stroll and window shopping.",
+                    "whyVisit": "To experience the local culture firsthand, find authentic souvenirs, and witness the energetic pace of Guwahati's oldest and most famous market.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Fancy%20Bazaar&dates=20251208T103000Z/20251208T133000Z&details=Explore%20the%20bustling%20local%20market%2C%20shop%20for%20souvenirs%2C%20and%20enjoy%20the%20local%20atmosphere.&location=Fancy%20Bazaar%2C%20Guwahati",
+                    "activities": [
+                        "Shop for traditional Assamese garments and handicrafts",
+                        "Try local street food from the vendors",
+                        "Observe the lively market atmosphere"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free",
+                        "estimatedCost": "300",
+                        "bestTime": "Early evening when the market is lively but not overly crowded.",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": ["Cash for small purchases", "A reusable shopping bag", "Comfortable walking shoes"],
+                        "whatToBuy": ["Assamese tea", "Muga or Eri silk scarves", "Bamboo decorative items"],
+                        "safetyNotes": ["Be aware of your belongings in crowded areas.", "Bargaining is common, so negotiate prices politely."],
+                        "customsEtiquette": ["Always ask for permission before photographing shopkeepers or their wares.", "A friendly smile goes a long way."],
+                        "bookingRequired": false,
+                        "photoSpots": ["The colorful textile shops", "Action shots of the busy market lanes"]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "6.0 km",
+                "spending": {
+                    "Hotel": "1000",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "300",
+                    "Meals": "1200",
+                    "Shopping": "500",
+                    "total": "3000"
+                },
+                "remainingBudget": "57000"
+            }
+        },
+        {
+            "day": 2,
+            "date": "2025-12-09",
+            "theme": "Spiritual Heights and Island Serenity",
+            "optimizedRoute": "Hotel President → Kamakhya Temple → Umananda Temple → Hotel President",
+            "totalDistance": 18.29,
+            "totalTravelTime": "1 hour 5 minutes",
+            "weather": "Overcast, 27.7°C high, 17.3°C low. UV index 4.5. No rain.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 12:00 PM",
+                    "name": "Kamakhya Temple",
+                    "location": {
+                        "latitude": "26.1668",
+                        "longitude": "91.7058"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1668,91.7058",
+                    "distanceFromPrevious": 8.59,
+                    "travelTimeFromPrevious": "25 minutes",
+                    "description": "Perched atop the Nilachal Hills, the Kamakhya Temple is one of the most revered Shakti Peeths in India, drawing devotees from all over the country. This sacred site is unique as it does not house a traditional idol but instead worships a yoni-shaped stone formation, naturally irrigated by an underground spring. The temple complex, with its distinctive beehive-like shikhara, is a remarkable example of Assamese architecture. The atmosphere is thick with devotion, the air filled with the scent of incense and the sound of chanting and temple bells. Visitors can experience powerful spiritual energy and witness ancient rituals being performed, offering a profound insight into the region's deep-rooted religious traditions.",
+                    "whyVisit": "It is an essential pilgrimage site and a cultural cornerstone of Assam, offering a unique spiritual experience and architectural beauty, making it a must-visit for understanding local faith.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Kamakhya%20Temple&dates=20251209T033000Z/20251209T063000Z&details=Explore%20one%20of%20the%20most%20important%20Shakti%20Peeths%20in%20India%2C%20witness%20rituals%2C%20and%20admire%20the%20unique%20architecture.&location=Kamakhya%20Temple%2C%20Guwahati",
+                    "activities": [
+                        "Offer prayers at the main sanctum",
+                        "Explore the surrounding smaller temples within the complex",
+                        "Enjoy the panoramic view of Guwahati from the hilltop"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free general entry. VIP tickets for quicker darshan available for approx. 500 INR per person.",
+                        "estimatedCost": "1200",
+                        "bestTime": "Early morning to avoid long queues.",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": ["Modest clothing covering shoulders and knees", "An offering of flowers or fruits", "Socks, as you'll need to remove your shoes"],
+                        "whatToBuy": ["Religious icons and souvenirs from the temple shops."],
+                        "safetyNotes": ["Be cautious of slippery floors, especially near the inner sanctum.", "Beware of touts offering special access for a high price."],
+                        "customsEtiquette": ["Photography is prohibited inside the main temple sanctum.", "Follow the queue and respect the devotional atmosphere."],
+                        "bookingRequired": false,
+                        "photoSpots": ["The main temple exterior", "The viewpoint overlooking the Brahmaputra river"]
+                    }
+                },
+                {
+                    "timeOfDay": "2:00 PM - 5:00 PM",
+                    "name": "Umananda Temple (Peacock Island)",
+                    "location": {
+                        "latitude": "26.1830",
+                        "longitude": "91.7483"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1830,91.7483",
+                    "distanceFromPrevious": 7.53,
+                    "travelTimeFromPrevious": "28 minutes",
+                    "description": "Located on the charming Peacock Island in the middle of the mighty Brahmaputra River, the Umananda Temple is a tranquil Shiva temple that offers a peaceful escape from the city's hustle. Reaching the island requires a short, scenic ferry ride, which is an experience in itself, offering splendid views of the river and the Guwahati skyline. The island is the smallest inhabited river island in the world and is home to a population of Golden Langurs, a rare and endangered primate, adding a wildlife element to your spiritual visit. The temple, built in the 17th century, has intricate rock-cut figures and provides a serene environment for reflection and prayer amidst the calming sounds of the river.",
+                    "whyVisit": "The unique combination of a holy site, a scenic ferry journey, and the chance to see rare Golden Langurs makes this a memorable and multi-faceted attraction.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20Umananda%20Temple%20%28Peacock%20Island%29&dates=20251209T083000Z/20251209T113000Z&details=Take%20a%20ferry%20to%20the%20smallest%20inhabited%20river%20island%2C%20visit%20the%20Shiva%20temple%2C%20and%20spot%20Golden%20Langurs.&location=Umananda%20Temple%2C%20Peacock%20Island%2C%20Guwahati",
+                    "activities": [
+                        "Take a ferry across the Brahmaputra River",
+                        "Explore the temple dedicated to Lord Shiva",
+                        "Look for the resident Golden Langurs"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Temple entry is free. Ferry ride costs approx. 20-30 INR per person.",
+                        "estimatedCost": "400",
+                        "bestTime": "Afternoon, when the sun is not too harsh for the open ferry ride.",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": ["Sunscreen and a hat for the boat ride", "Binoculars for spotting langurs", "Water bottle"],
+                        "whatToBuy": ["Small trinkets from vendors near the ferry ghat."],
+                        "safetyNotes": ["Be careful while embarking and disembarking from the ferry.", "Do not feed the Golden Langurs."],
+                        "customsEtiquette": ["Maintain silence and decorum within the temple premises.", "Keep the island clean and do not litter."],
+                        "bookingRequired": false,
+                        "photoSpots": ["Views of Guwahati from the ferry", "The Golden Langurs in the trees", "The temple entrance"]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "18.29 km",
+                "spending": {
+                    "Hotel": "1000",
+                    "Entry Fees": "1060",
+                    "Activities": "0",
+                    "Transport": "700",
+                    "Meals": "1500",
+                    "Shopping": "300",
+                    "total": "4560"
+                },
+                "remainingBudget": "52440"
+            }
+        },
+        {
+            "day": 3,
+            "date": "2025-12-10",
+            "theme": "Journey to the Wilderness of Manas",
+            "optimizedRoute": "Hotel President → Smiling Tusker Elephant Camp",
+            "totalDistance": 140.0,
+            "totalTravelTime": "3 hours 30 minutes",
+            "weather": "Mostly cloudy, 26.5°C high, 14.9°C low. UV index 4.5. No rain.",
+            "places": [
+                {
+                    "timeOfDay": "8:00 AM - 1:00 PM",
+                    "name": "Travel from Guwahati to Manas National Park area",
+                    "location": {
+                        "latitude": "26.7085",
+                        "longitude": "90.9631"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.7085,90.9631",
+                    "distanceFromPrevious": 140.0,
+                    "travelTimeFromPrevious": "3 hours 30 minutes",
+                    "description": "Embark on a scenic road journey from the urban landscape of Guwahati to the lush, wild environs of Manas National Park, a UNESCO World Heritage Site. This drive takes you through the heart of Assam, passing by vibrant green paddy fields, charming small towns, and rustic villages, offering a glimpse into the rural life of the state. The transition in scenery is gradual but stunning, as the flat plains give way to the forested foothills of the Himalayas. This travel time is an opportunity to relax, enjoy the changing landscapes, and anticipate the wildlife encounters that await you. The journey itself is part of the adventure, setting the stage for your immersion into one of India's most important biodiversity hotspots.",
+                    "whyVisit": "This journey is the essential link between the cultural part of your trip in Guwahati and the upcoming wildlife adventure, showcasing the diverse geography of Assam.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Travel%20from%20Guwahati%20to%20Manas%20National%20Park%20area&dates=20251210T023000Z/20251210T073000Z&details=Enjoy%20a%20scenic%20drive%20through%20rural%20Assam%20to%20the%20foothills%20of%20the%20Himalayas.&location=Manas%20National%20Park",
+                    "activities": [
+                        "Observe the Assamese countryside",
+                        "Stop for authentic local snacks along the way"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "4000",
+                        "bestTime": "Start early in the morning to avoid traffic and reach by lunchtime.",
+                        "duration": "4-5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": ["Snacks and water for the journey", "A travel pillow for comfort", "A playlist or podcast"],
+                        "whatToBuy": [],
+                        "safetyNotes": ["Ensure your hired cab is in good condition.", "Keep your mobile phones charged."],
+                        "customsEtiquette": ["Interact politely with locals if you stop in villages."],
+                        "bookingRequired": true,
+                        "photoSpots": ["Lush green tea gardens en route", "Views of the distant Himalayan foothills"]
+                    }
+                },
+                {
+                    "timeOfDay": "3:00 PM - 5:30 PM",
+                    "name": "Check into Smiling Tusker Elephant Camp and Village Walk",
+                    "location": {
+                        "latitude": "26.7085",
+                        "longitude": "90.9631"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.7085,90.9631",
+                    "distanceFromPrevious": 0.0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Arrive and check into your jungle resort, the Smiling Tusker Elephant Camp, located near the entrance of Manas National Park. This eco-friendly camp offers a rustic yet comfortable experience, immersing you in the natural surroundings. After settling in, embark on a gentle walk through a nearby Bodo tribal village. This is a fantastic opportunity to experience the unique culture and lifestyle of the local community, who have coexisted with the region's wildlife for centuries. You can observe their traditional weaving techniques, see their distinct housing styles, and interact with the warm and welcoming villagers, gaining an appreciation for their deep connection to the forest and its inhabitants.",
+                    "whyVisit": "This provides a perfect blend of relaxation after a long drive and an enriching cultural experience, offering insights into the local Bodo tribe's way of life.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Check%20into%20Resort%20and%20Village%20Walk&dates=20251210T093000Z/20251210T120000Z&details=Settle%20into%20your%20jungle%20resort%20and%20take%20an%20enlightening%20walk%20through%20a%20local%20Bodo%20village.&location=Smiling%20Tusker%20Elephant%20Camp%2C%20Manas",
+                    "activities": [
+                        "Check into your cottage or tent",
+                        "Walk through a Bodo village",
+                        "Interact with local artisans and families"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "1000",
+                        "bestTime": "Late afternoon for pleasant weather and good lighting.",
+                        "duration": "2-2.5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": ["Comfortable walking shoes", "Insect repellent", "A small gift or sweets for village children (optional)"],
+                        "whatToBuy": ["Handwoven textiles directly from the weavers."],
+                        "safetyNotes": ["Always be respectful of the villagers' privacy.", "Stick with your guide during the walk."],
+                        "customsEtiquette": ["Ask for permission before taking photographs of people.", "Smile and use respectful greetings."],
+                        "bookingRequired": true,
+                        "photoSpots": ["The traditional Bodo homes", "Weavers at their looms"]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "140.0 km",
+                "spending": {
+                    "Hotel": "1000",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "4000",
+                    "Meals": "1200",
+                    "Shopping": "500",
+                    "total": "6700"
+                },
+                "remainingBudget": "45740"
+            }
+        },
+        {
+            "day": 4,
+            "date": "2025-12-11",
+            "theme": "Wildlife Safari and Tea Garden Trails",
+            "optimizedRoute": "Smiling Tusker Elephant Camp → Manas National Park (Bansbari Zone) → Local Tea Garden → Smiling Tusker Elephant Camp",
+            "totalDistance": 28.1,
+            "totalTravelTime": "1 hour 30 minutes",
+            "estimated": true,
+            "weather": "Clear sky, 26.3°C high, 14.6°C low. UV index 4.45. No rain.",
+            "places": [
+                {
+                    "timeOfDay": "6:00 AM - 10:00 AM",
+                    "name": "Morning Jeep Safari at Manas National Park",
+                    "location": {
+                        "latitude": "26.7214",
+                        "longitude": "90.9602"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.7214,90.9602",
+                    "distanceFromPrevious": 4.1,
+                    "travelTimeFromPrevious": "10 minutes",
+                    "description": "Experience the thrill of the wild with an early morning jeep safari in the Bansbari Zone of Manas National Park. As the sun rises, the jungle comes alive, offering the best chances to spot its incredible biodiversity. Manas is renowned for its rare and endangered wildlife, including the majestic Royal Bengal Tiger, Indian Elephant, One-horned Rhinoceros, and the elusive Clouded Leopard. The park's stunning landscape, with its grasslands, riverine forests, and views of the Bhutan hills, is a spectacle in itself. Your guide will help you navigate the terrain and identify the various species of flora and fauna. This safari is an unforgettable adventure, providing a raw and authentic encounter with nature in one of India's most beautiful protected areas.",
+                    "whyVisit": "To witness the exceptional biodiversity of a UNESCO World Heritage Site and have the chance to see some of India's most iconic and rare wildlife in their natural habitat.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Morning%20Jeep%20Safari%20at%20Manas%20National%20Park&dates=20251211T003000Z/20251211T043000Z&details=Explore%20the%20grasslands%20and%20forests%20of%20Manas%20in%20search%20of%20tigers%2C%20rhinos%2C%20and%20elephants.&location=Manas%20National%20Park",
+                    "activities": [
+                        "Wildlife spotting and bird watching",
+                        "Nature photography",
+                        "Learning about the park's ecosystem from your guide"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Approx. 100 INR/person (Indian), Jeep Safari costs around 3000-4000 INR per jeep.",
+                        "estimatedCost": "4500",
+                        "bestTime": "Early morning (6 AM - 9 AM) for the highest probability of animal sightings.",
+                        "duration": "3-4 hours"
+                    },
+                    "tips": {
+                        "whatToBring": ["Binoculars", "A high-zoom camera", "Warm layers as mornings can be chilly", "Sunscreen"],
+                        "whatToBuy": [],
+                        "safetyNotes": ["Always follow the guide's instructions.", "Do not get down from the jeep.", "Maintain silence to avoid disturbing the animals."],
+                        "customsEtiquette": ["Do not litter inside the park.", "Respect the animals' space and do not try to attract their attention."],
+                        "bookingRequired": true,
+                        "photoSpots": ["Watering holes where animals congregate", "Open grasslands with the Bhutan hills in the background"]
+                    }
+                },
+                {
+                    "timeOfDay": "2:30 PM - 5:00 PM",
+                    "name": "Visit a Nearby Tea Garden",
+                    "location": {
+                        "latitude": "26.7010",
+                        "longitude": "90.9850"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.7010,90.9850",
+                    "distanceFromPrevious": 20.0,
+                    "travelTimeFromPrevious": "45 minutes",
+                    "description": "After a thrilling morning, spend a relaxing afternoon exploring one of the picturesque tea gardens that blanket the landscape of Assam. A visit to a local tea estate offers a serene contrast to the wild jungle. You can stroll through the neatly manicured rows of tea bushes, watch the tea pluckers skillfully at work, and breathe in the fresh, aromatic air. Many gardens have a factory where you can learn about the tea-making process, from withering and rolling to drying and sorting. Understanding the journey of the tea leaf from the plant to your cup is a fascinating experience. It's a perfect way to unwind and appreciate the industry that has made Assam famous worldwide.",
+                    "whyVisit": "To experience the iconic tea culture of Assam, witness the beautiful landscapes of a tea estate, and learn about the intricate process of tea production.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Visit%20a%20Nearby%20Tea%20Garden&dates=20251211T090000Z/20251211T113000Z&details=Stroll%20through%20a%20lush%20tea%20estate%2C%20learn%20about%20tea%20processing%2C%20and%20enjoy%20the%20serene%20atmosphere.&location=Tea%20Garden%20near%20Manas",
+                    "activities": [
+                        "Walk through the tea gardens",
+                        "Interact with tea pluckers",
+                        "Participate in a tea tasting session if available"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Usually free, though some estates might charge a nominal fee for a guided tour.",
+                        "estimatedCost": "500",
+                        "bestTime": "Afternoon for pleasant weather and to see the end of the day's plucking activities.",
+                        "duration": "2-2.5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": ["A hat and sunglasses", "Comfortable shoes", "A camera for landscape shots"],
+                        "whatToBuy": ["Freshly processed tea direct from the source."],
+                        "safetyNotes": ["Do not wander off the designated paths without a guide.", "Be careful not to damage the tea plants."],
+                        "customsEtiquette": ["Always ask for permission before photographing the workers.", "Be respectful of the estate property."],
+                        "bookingRequired": false,
+                        "photoSpots": ["Rows of tea bushes creating leading lines", "Close-ups of tea leaves and buds"]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "28.1 km",
+                "spending": {
+                    "Hotel": "1000",
+                    "Entry Fees": "200",
+                    "Activities": "4000",
+                    "Transport": "1200",
+                    "Meals": "1500",
+                    "Shopping": "500",
+                    "total": "8400"
+                },
+                "remainingBudget": "37340"
+            }
+        },
+        {
+            "day": 5,
+            "date": "2025-12-12",
+            "theme": "Departure from the Wilds",
+            "optimizedRoute": "Smiling Tusker Elephant Camp → Lokpriya Gopinath Bordoloi International Airport (GAU)",
+            "totalDistance": 145.0,
+            "totalTravelTime": "3 hours 45 minutes",
+            "weather": "Partly cloudy, 25.9°C high, 14.6°C low. UV index 4.4. No rain.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 10:00 AM",
+                    "name": "Breakfast and Check-out",
+                    "location": {
+                        "latitude": "26.7085",
+                        "longitude": "90.9631"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.7085,90.9631",
+                    "distanceFromPrevious": 0.0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Enjoy a final, leisurely breakfast amidst the tranquil sounds of the jungle at your resort. This is a moment to reflect on the incredible wildlife sightings and cultural experiences of the past few days. Savor the fresh morning air and the last tastes of Assamese hospitality. After breakfast, proceed to complete your check-out formalities. Ensure you have packed all your belongings and settled any outstanding bills. The resort staff will be on hand to assist you. This marks the conclusion of your stay in the beautiful wilderness of Manas, leaving you with lasting memories of your adventure in nature's lap.",
+                    "whyVisit": "A calm and organized start to your departure day, ensuring a stress-free transition from the serene resort environment to your journey homeward.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Breakfast%20and%20Check-out&dates=20251212T033000Z/20251212T043000Z&details=Enjoy%20a%20final%20breakfast%20at%20the%20resort%20and%20complete%20the%20check-out%20process.&location=Smiling%20Tusker%20Elephant%20Camp%2C%20Manas",
+                    "activities": [
+                        "Enjoy a final breakfast",
+                        "Pack your luggage",
+                        "Settle bills and check-out"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "0",
+                        "bestTime": "N/A",
+                        "duration": "1 hour"
+                    },
+                    "tips": {
+                        "whatToBring": ["All personal belongings ready for packing."],
+                        "whatToBuy": [],
+                        "safetyNotes": ["Double-check your room to ensure nothing is left behind.", "Keep your final bill and receipts safely."],
+                        "customsEtiquette": ["Thank the resort staff for their hospitality."],
+                        "bookingRequired": true,
+                        "photoSpots": ["A final photo of the resort grounds as a memento."]
+                    }
+                },
+                {
+                    "timeOfDay": "10:00 AM - 1:45 PM",
+                    "name": "Departure from Manas to Guwahati Airport/Station",
+                    "location": {
+                        "latitude": "26.1062",
+                        "longitude": "91.5859"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=26.1062,91.5859",
+                    "distanceFromPrevious": 145.0,
+                    "travelTimeFromPrevious": "3 hours 45 minutes",
+                    "description": "Begin your journey back from the serene wilderness of Manas to the city of Guwahati for your onward travel. This drive allows you to see the Assamese landscapes one last time, retracing your path through the countryside. Use this time to reminisce about the highlights of your trip – from the spiritual aura of Kamakhya Temple to the thrilling safari in Manas. The journey will conclude at either the Lokpriya Gopinath Bordoloi International Airport (GAU) or Guwahati Railway Station (GHY), depending on your mode of departure. Arrive with plenty of time to spare for your flight or train, carrying with you the rich experiences and memories of your adventure in Assam.",
+                    "whyVisit": "This is the final leg of your journey, marking a smooth and timely transition from your vacation spot to the transport hub for your trip back home.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure%20from%20Manas%20to%20Guwahati%20Airport%2FStation&dates=20251212T043000Z/20251212T081500Z&details=Travel%20back%20to%20Guwahati%20to%20catch%20your%20flight%20or%20train%20home.&location=Lokpriya%20Gopinath%20Bordoloi%20International%20Airport%20%28GAU%29%2C%20Guwahati",
+                    "activities": [
+                        "Travel back to Guwahati",
+                        "Reflect on the trip's experiences"
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "4000",
+                        "bestTime": "Ensure you leave with enough buffer time to account for potential traffic.",
+                        "duration": "3.5-4 hours"
+                    },
+                    "tips": {
+                        "whatToBring": ["Any remaining snacks and water", "Entertainment for the journey"],
+                        "whatToBuy": [],
+                        "safetyNotes": ["Confirm your departure time and plan accordingly.", "Keep your tickets and ID easily accessible."],
+                        "customsEtiquette": [],
+                        "bookingRequired": true,
+                        "photoSpots": []
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "145.0 km",
+                "spending": {
+                    "Hotel": "0",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "4000",
+                    "Meals": "800",
+                    "Shopping": "0",
+                    "total": "4800"
+                },
+                "remainingBudget": "32540"
+            }
+        }
+    ],
+    "budgetBreakdown": {
+        "totalBudget": 60000,
+        "currency": "INR",
+        "expenses": {
+            "Transport": [
+                {
+                    "transport_name": "Train",
+                    "total_cost": "8000"
+                }
+            ],
+            "accommodation": {
+                "hotelName": "Hotel President & Smiling Tusker Elephant Camp",
+                "pricePerNight": "1000",
+                "nights": 4,
+                "total": 4000
+            },
+            "dailyExpenses": [
+                {
+                    "day": 1,
+                    "cost": 3000
+                },
+                {
+                    "day": 2,
+                    "cost": 4560
+                },
+                {
+                    "day": 3,
+                    "cost": 6700
+                },
+                {
+                    "day": 4,
+                    "cost": 8400
+                },
+                {
+                    "day": 5,
+                    "cost": 4800
+                }
+            ],
+            "budgetWarning": ""
+        },
+        "totalSpent": 39460,
+        "remainingBudget": 20540,
+        "budgetTips": [
+            "Utilize local transport like auto-rickshaws for short distances in Guwahati after negotiating the fare.",
+            "Eat at local eateries and dhabas, especially on highways, for authentic and budget-friendly meals.",
+            "Book safari permits and jeeps in advance, possibly as a package with your resort stay, to get better rates."
+        ]
+    },
+    "packingList": {
+        "Clothing": [
+            "Light jackets or shawls for cool evenings",
+            "Full-sleeved shirts and trousers for safari (neutral colors recommended)",
+            "Comfortable t-shirts and tops",
+            "Modest attire for temple visits (covering shoulders and knees)"
+        ],
+        "Footwear": [
+            "Comfortable walking shoes or sneakers",
+            "Sandals or flip-flops for the hotel"
+        ],
+        "Essentials": [
+            "Sunscreen and sunglasses",
+            "Insect repellent with DEET",
+            "Basic first-aid kit with personal medications",
+            "Moisturizer and lip balm"
+        ],
+        "Electronics": [
+            "Power bank",
+            "Camera with extra batteries and memory cards",
+            "Binoculars for wildlife spotting",
+            "Universal travel adapter"
+        ],
+        "Documents": [
+            "Government-issued photo ID (Aadhaar, Passport)",
+            "Hotel and transport booking confirmations (digital or print)",
+            "Emergency contact list"
+        ],
+        "Children-specific items": []
+    },
+    "preTripChecklist": [
+        {
+            "priority": "High",
+            "task": "Book round-trip train tickets from Delhi/Noida to Guwahati."
+        },
+        {
+            "priority": "High",
+            "task": "Book accommodations in both Guwahati and near Manas National Park."
+        },
+        {
+            "priority": "High",
+            "task": "Arrange and book a private cab for the Guwahati-Manas-Guwahati transfers and local sightseeing."
+        },
+        {
+            "priority": "Medium",
+            "task": "Pre-book the Jeep Safari for Manas National Park online to ensure availability."
+        },
+        {
+            "priority": "Medium",
+            "task": "Plan a rough packing list and check weather forecasts closer to the travel date."
+        },
+        {
+            "priority": "Low",
+            "task": "Inform your bank of your travel dates to avoid any card issues."
+        },
+        {
+            "priority": "Low",
+            "task": "Download offline maps of Guwahati and Manas area on your phone."
+        }
+    ]
+}
