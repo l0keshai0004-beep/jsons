@@ -1,0 +1,780 @@
+{
+    "tripOverview": {
+        "destination": "Dubai, UAE",
+        "startDate": "2025-12-15",
+        "endDate": "2025-12-19",
+        "duration": "4 Nights",
+        "companions": "2 adults, 0 children",
+        "tripType": "Family Adventure and Modern Marvels",
+        "currency": "INR"
+    },
+    "mode_of_transport": {
+        "flight": {
+            "destination": "Dubai International Airport (DXB), Dubai, UAE",
+            "Approx_cost": "30000 - 50000 for 2 adults",
+            "Approx_time_of_flight(duration)": "3.5 - 4 hours",
+            "Nearest_airport_from_current_destination": "Indira Gandhi International Airport (DEL)",
+            "Nearest_airport_from_visiting_destination": "Dubai International Airport (DXB)",
+            "Stops": "Direct"
+        }
+    },
+    "hotel": {
+        "name": "Al Khoory Inn Hotel",
+        "price": "4500 - 5500",
+        "location": {
+            "latitude": "25.2528",
+            "longitude": "55.3338"
+        },
+        "address": "Al Buteen, Deira, Dubai, UAE",
+        "Rating": "4.1/5",
+        "Amenities": [
+            "Free Wi-Fi",
+            "Air Conditioning",
+            "Restaurant",
+            "Airport shuttle",
+            "Room service"
+        ]
+    },
+    "dailyItinerary": [
+        {
+            "day": 1,
+            "date": "2025-12-15",
+            "theme": "Arrival and Leisurely Evening",
+            "optimizedRoute": "Hotel Arrival -> Local Exploration",
+            "totalDistance": 0,
+            "totalTravelTime": "N/A",
+            "weather": "Overcast, 27.2°C high, 18.4°C low. UV index 4. No rain. Cloudy conditions.",
+            "places": [
+                {
+                    "timeOfDay": "3:00 PM - 6:00 PM",
+                    "name": "Hotel Check-in and Relaxation",
+                    "location": {
+                        "latitude": "25.2528",
+                        "longitude": "55.3338"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.2528,55.3338",
+                    "distanceFromPrevious": 0,
+                    "travelTimeFromPrevious": "N/A",
+                    "description": "Arrive at Al Khoory Inn Hotel, nestled in the vibrant heart of Deira. After your journey, take this time to settle in and unwind. The hotel provides a comfortable and welcoming atmosphere, perfect for recharging before you begin your Dubai adventure. You can unpack, freshen up, and perhaps explore the immediate vicinity of the hotel to get a feel for the neighborhood. This relaxed start allows you to acclimatize to the new environment and prepare for the exciting days ahead. The overcast weather makes it a pleasant afternoon to relax indoors or take a short, comfortable stroll nearby.",
+                    "whyVisit": "A necessary and relaxing start to the trip, allowing for a smooth transition into vacation mode after your flight and airport transit.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Hotel%20Check-in%20and%20Relaxation&dates=20251215T150000/20251215T180000&details=Arrive%2C%20check-in%2C%20and%20settle%20into%20your%20hotel%20to%20begin%20your%20Dubai%20adventure.&location=Al%20Khoory%20Inn%20Hotel%2C%20Dubai%2C%20UAE",
+                    "activities": [
+                        "Complete the check-in process.",
+                        "Unpack and organize your belongings for the stay.",
+                        "Connect to the hotel Wi-Fi and inform family back home of your safe arrival."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "0",
+                        "bestTime": "As per your flight arrival.",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Passport and booking confirmation",
+                            "Comfortable lounge-wear"
+                        ],
+                        "whatToBuy": [
+                            "Local SIM card if needed",
+                            "Snacks or water from a nearby store"
+                        ],
+                        "safetyNotes": [
+                            "Keep your hotel room locked.",
+                            "Familiarize yourself with the emergency exits."
+                        ],
+                        "customsEtiquette": [
+                            "Be polite and patient with the hotel staff."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "Hotel lobby for a 'we've arrived' picture"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "7:00 PM - 9:00 PM",
+                    "name": "Dinner at a Family-Friendly Restaurant",
+                    "location": {
+                        "latitude": "25.2550",
+                        "longitude": "55.3150"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.2550,55.3150",
+                    "distanceFromPrevious": 2.5,
+                    "travelTimeFromPrevious": "10 minutes",
+                    "description": "For your first evening, enjoy a delightful dinner at a family-friendly restaurant in the Al Karama district, a short taxi ride away. This area is renowned for its diverse culinary scene, offering everything from authentic Middle Eastern cuisine to international favorites. The atmosphere is vibrant yet relaxed, making it an ideal choice for a comfortable meal after a day of travel. You can savor delicious food while soaking in the local culture. It’s a wonderful opportunity to have your first taste of Dubai's gastronomic offerings in a setting that is both welcoming and authentic, setting a perfect tone for the rest of your trip.",
+                    "whyVisit": "A great way to experience local life and enjoy a delicious, hassle-free meal without venturing too far from the hotel on your first night.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Dinner%20at%20a%20Family-Friendly%20Restaurant&dates=20251215T190000/20251215T210000&details=Enjoy%20a%20delicious%20dinner%20in%20the%20vibrant%20Al%20Karama%20district%2C%20known%20for%20its%20diverse%20food%20options.&location=Al%20Karama%2C%20Dubai%2C%20UAE",
+                    "activities": [
+                        "Trying traditional Arabic mezze.",
+                        "Enjoying a relaxed meal and planning for the next day.",
+                        "Observing the local evening ambiance."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "3000 - 4000 INR for 2 adults",
+                        "bestTime": "Early evening to avoid the dinner rush.",
+                        "duration": "1.5-2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A light jacket as restaurants can be cool",
+                            "Your appetite!"
+                        ],
+                        "whatToBuy": [
+                            "Local sweets or desserts to try"
+                        ],
+                        "safetyNotes": [
+                            "Ensure your taxi uses the meter.",
+                            "Be aware of your surroundings in a busy area."
+                        ],
+                        "customsEtiquette": [
+                            "Tipping is appreciated but not mandatory (10% is standard).",
+                            "Dress modestly out of respect for local culture."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The colorful dishes you order"
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "2.5 km",
+                "spending": {
+                    "Hotel": "5000",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "250",
+                    "Meals": "3500",
+                    "Shopping": "500",
+                    "total": "9250"
+                },
+                "remainingBudget": "90750"
+            }
+        },
+        {
+            "day": 2,
+            "date": "2025-12-16",
+            "theme": "Aquatic Adventures",
+            "optimizedRoute": "Al Khoory Inn Hotel → Aquaventure Waterpark → Al Khoory Inn Hotel",
+            "totalDistance": 73.17,
+            "totalTravelTime": "1 hour 35 minutes",
+            "weather": "Clear, 26.2°C high, 18.9°C low. UV index 4.75. No rain. Mostly sunny.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 1:00 PM",
+                    "name": "Aquaventure Waterpark",
+                    "location": {
+                        "latitude": "25.1308",
+                        "longitude": "55.1172"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.1308,55.1172",
+                    "distanceFromPrevious": 36.85,
+                    "travelTimeFromPrevious": "45 minutes",
+                    "description": "Dive into a world of excitement at Aquaventure Waterpark, located at the iconic Atlantis, The Palm. This award-winning waterpark is a paradise of thrilling slides, lazy rivers, and splash areas. Brace yourself for the Leap of Faith, a near-vertical drop that sends you through a clear tube surrounded by sharks. For a more relaxed experience, drift along the lazy river that winds through the park's lush tropical landscape. With a private beach and dedicated children's play areas, it offers a perfect blend of adrenaline and relaxation for all ages. The clear, sunny weather today is absolutely perfect for a day spent enjoying the water and soaking up the sun.",
+                    "whyVisit": "It's one of the world's best waterparks, offering record-breaking rides and a stunning location on The Palm Jumeirah, promising an unforgettable day of fun.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Aquaventure%20Waterpark&dates=20251216T090000/20251216T130000&details=Experience%20thrilling%20water%20slides%20and%20aquatic%20fun%20at%20Atlantis%2C%20The%20Palm.&location=Aquaventure%20Waterpark%2C%20Dubai%2C%20UAE",
+                    "activities": [
+                        "Ride the exhilarating Leap of Faith and Poseidon's Revenge slides.",
+                        "Float along the interconnected lazy rivers.",
+                        "Relax on the private beach."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Approx. 7000 INR per adult",
+                        "estimatedCost": "15000",
+                        "bestTime": "Early morning to avoid long queues.",
+                        "duration": "4-5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Sunscreen, hats, and sunglasses",
+                            "Swimwear and a towel",
+                            "Waterproof phone case"
+                        ],
+                        "whatToBuy": [
+                            "Souvenirs from the Atlantis gift shops",
+                            "A locker rental for your valuables"
+                        ],
+                        "safetyNotes": [
+                            "Follow all lifeguard instructions.",
+                            "Stay hydrated throughout the day."
+                        ],
+                        "customsEtiquette": [
+                            "Wear appropriate swimwear.",
+                            "Be mindful of other guests in queues."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "In front of the iconic Atlantis hotel",
+                            "At the top of the Ziggurat slide tower"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "2:00 PM - 5:00 PM",
+                    "name": "The Lost Chambers Aquarium",
+                    "location": {
+                        "latitude": "25.1335",
+                        "longitude": "55.1182"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.1335,55.1182",
+                    "distanceFromPrevious": 1.0,
+                    "travelTimeFromPrevious": "5 minutes (walk)",
+                    "description": "After your waterpark fun, immerse yourself in the mythical lost city of Atlantis at The Lost Chambers Aquarium. This captivating marine habitat is home to over 65,000 marine animals. Wander through the mesmerizing glass tunnels and themed chambers, coming face-to-face with sharks, stingrays, piranhas, lobsters, and seahorses. The Ambassador Lagoon, a massive 11-million-litre tank, offers a stunning window into the underwater world. The aquarium's design, with its underwater ruins and artifacts, creates a unique and immersive experience that feels like exploring an ancient civilization. It's a perfect, calming contrast to the high energy of Aquaventure.",
+                    "whyVisit": "It provides a magical and educational experience, allowing you to discover the wonders of marine life in a stunning, mythical setting.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=The%20Lost%20Chambers%20Aquarium&dates=20251216T140000/20251216T170000&details=Explore%20the%20mythical%20lost%20city%20of%20Atlantis%20and%20its%20marine%20inhabitants.&location=The%20Lost%20Chambers%20Aquarium%2C%20Dubai%2C%20UAE",
+                    "activities": [
+                        "Walk through the glass tunnels surrounded by marine life.",
+                        "Watch the fish feeding sessions.",
+                        "Take photos at the Ambassador Lagoon."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Approx. 2500 INR per adult (often bundled with Aquaventure)",
+                        "estimatedCost": "5000",
+                        "bestTime": "Afternoon, when it's less crowded than the morning.",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A camera for low-light photography",
+                            "Comfortable walking shoes"
+                        ],
+                        "whatToBuy": [
+                            "Marine-themed souvenirs from the gift shop"
+                        ],
+                        "safetyNotes": [
+                            "Do not tap on the glass tanks.",
+                            "Be careful not to trip in the dimly lit tunnels."
+                        ],
+                        "customsEtiquette": [
+                            "Avoid using flash photography, as it can disturb the animals.",
+                            "Keep your voice low to maintain the serene atmosphere."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "The main Ambassador Lagoon window",
+                            "Inside the transparent tunnels"
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "74.17 km",
+                "spending": {
+                    "Hotel": "5000",
+                    "Entry Fees": "19000",
+                    "Activities": "0",
+                    "Transport": "3300",
+                    "Meals": "4000",
+                    "Shopping": "1000",
+                    "total": "32300"
+                },
+                "remainingBudget": "58450"
+            }
+        },
+        {
+            "day": 3,
+            "date": "2025-12-17",
+            "theme": "Indoor Thrills and Entertainment",
+            "optimizedRoute": "Al Khoory Inn Hotel → KidZania → IMG Worlds of Adventure → Al Khoory Inn Hotel",
+            "totalDistance": 69.96,
+            "totalTravelTime": "1 hour 25 minutes",
+            "weather": "Overcast, 24.7°C high, 20.2°C low. UV index 4.75. No rain. Cloudy conditions.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 1:00 PM",
+                    "name": "IMG Worlds of Adventure",
+                    "location": {
+                        "latitude": "25.0815",
+                        "longitude": "55.3206"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.0815,55.3206",
+                    "distanceFromPrevious": 29.75,
+                    "travelTimeFromPrevious": "35 minutes",
+                    "description": "Escape into a universe of adventure at IMG Worlds of Adventure, the world's largest indoor theme park. This colossal park is split into four epic zones: Marvel, Lost Valley – Dinosaur Adventure, Cartoon Network, and IMG Boulevard. Experience adrenaline-pumping roller coasters like The Velociraptor and thrilling attractions featuring your favorite Marvel superheroes. The entire park is temperature-controlled, making it the perfect destination for a fun-filled day, especially with today's overcast weather. From life-sized dinosaurs to beloved cartoon characters, the park offers an immersive experience for families and thrill-seekers alike, ensuring a day packed with non-stop entertainment and excitement.",
+                    "whyVisit": "It's a one-of-a-kind destination offering world-class rides and attractions based on globally recognized brands, all in a comfortable indoor setting.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=IMG%20Worlds%20of%20Adventure&dates=20251217T090000/20251217T130000&details=Explore%20the%20world's%20largest%20indoor%20theme%20park%20with%20Marvel%20and%20Cartoon%20Network%20zones.&location=IMG%20Worlds%20of%20Adventure%2C%20Dubai%2C%20UAE",
+                    "activities": [
+                        "Ride the Thor Thunder Spin and The Velociraptor roller coaster.",
+                        "Meet Marvel and Cartoon Network characters.",
+                        "Explore the prehistoric world of the Lost Valley."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Approx. 7500 INR per adult",
+                        "estimatedCost": "16000",
+                        "bestTime": "Weekday mornings to experience shorter queues.",
+                        "duration": "4-5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Comfortable walking shoes",
+                            "A light sweater as it can get cool inside"
+                        ],
+                        "whatToBuy": [
+                            "Exclusive merchandise of your favorite characters"
+                        ],
+                        "safetyNotes": [
+                            "Adhere to the height and health restrictions for rides.",
+                            "Keep your belongings secure on thrill rides."
+                        ],
+                        "customsEtiquette": [
+                            "Be patient and respectful in queues.",
+                            "Follow the instructions of the park staff."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "With the Hulk at the park entrance",
+                            "Next to the life-sized dinosaur models"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "2:00 PM - 6:00 PM",
+                    "name": "KidZania",
+                    "location": {
+                        "latitude": "25.1972",
+                        "longitude": "55.2742"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.1972,55.2742",
+                    "distanceFromPrevious": 26.67,
+                    "travelTimeFromPrevious": "30 minutes",
+                    "description": "Located within The Dubai Mall, KidZania is an interactive 'edutainment' center where children can role-play adult professions in a replica city. While designed for kids, adults can enjoy watching the immersive experience. In this child-sized city, kids can become firefighters, doctors, chefs, pilots, and more, earning 'kidZos' currency for their work. The attention to detail is remarkable, with paved streets, buildings, and vehicles. It’s a fantastic concept that blends learning with fun, fostering skills like financial literacy, teamwork, and independence. It’s an engaging and unique attraction that offers a different kind of family entertainment, providing a memorable experience.",
+                    "whyVisit": "Though aimed at children, it's a fascinating concept to witness, showcasing an innovative approach to interactive entertainment and learning.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=KidZania&dates=20251217T140000/20251217T180000&details=Experience%20an%20interactive%20mini-city%20where%20kids%20can%20role-play%20professions.&location=KidZania%2C%20The%20Dubai%20Mall%2C%20Dubai%2C%20UAE",
+                    "activities": [
+                        "Observe the various role-playing activities.",
+                        "Enjoy a coffee at the parent's lounge.",
+                        "Explore the miniature city's detailed setup."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Approx. 2000 INR per adult",
+                        "estimatedCost": "4000",
+                        "bestTime": "Afternoons on weekdays.",
+                        "duration": "3-4 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A book or tablet for the parent's lounge"
+                        ],
+                        "whatToBuy": [
+                            "Souvenirs made by the children in their activities"
+                        ],
+                        "safetyNotes": [
+                            "The facility is secure with RFID bracelets for children."
+                        ],
+                        "customsEtiquette": [
+                            "Allow children to explore independently.",
+                            "Adults are not allowed inside most establishments."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "The city's main square with the KidZania plane wing"
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "70.26 km",
+                "spending": {
+                    "Hotel": "5000",
+                    "Entry Fees": "19000",
+                    "Activities": "0",
+                    "Transport": "3200",
+                    "Meals": "4000",
+                    "Shopping": "1000",
+                    "total": "32200"
+                },
+                "remainingBudget": "26250"
+            }
+        },
+        {
+            "day": 4,
+            "date": "2025-12-18",
+            "theme": "Biodiversity and Iconic Heights",
+            "optimizedRoute": "Al Khoory Inn Hotel → The Green Planet → Burj Khalifa → Al Khoory Inn Hotel",
+            "totalDistance": 32.14,
+            "totalTravelTime": "55 minutes",
+            "weather": "Partly cloudy, 25.3°C high, 17.5°C low. UV index 4.75. No rain. Pleasant conditions.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 12:00 PM",
+                    "name": "The Green Planet",
+                    "location": {
+                        "latitude": "25.2078",
+                        "longitude": "55.2541"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.2078,55.2541",
+                    "distanceFromPrevious": 15.0,
+                    "travelTimeFromPrevious": "20 minutes",
+                    "description": "Step into a lush, tropical rainforest in the heart of the desert at The Green Planet. This enchanting bio-dome is a vertical ecosystem built around the world's largest indoor man-made and life-sustaining tree. It is home to over 3,000 species of plants, animals, and birds. As you walk from the canopy to the forest floor, you'll encounter fascinating creatures like sloths, toucans, and exotic reptiles. The immersive experience is both educational and visually stunning, offering a unique opportunity to learn about the delicate balance of a rainforest ecosystem. The pleasant weather today makes the journey to this indoor oasis very comfortable.",
+                    "whyVisit": "It's a unique attraction that offers a refreshing and educational escape, showcasing incredible biodiversity in an innovative and accessible way.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=The%20Green%20Planet&dates=20251218T090000/20251218T120000&details=Explore%20an%20indoor%20tropical%20rainforest%20with%20over%203%2C000%20species%20of%20plants%20and%20animals.&location=The%20Green%20Planet%2C%20Dubai%2C%20UAE",
+                    "activities": [
+                        "Walk the spiral path from the canopy to the forest floor.",
+                        "Spot the resident sloths and other animals.",
+                        "Experience the 'Flooded Rainforest' exhibit in the basement."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Approx. 3000 INR per adult",
+                        "estimatedCost": "6500",
+                        "bestTime": "Morning, when the animals are most active.",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A camera with a good zoom lens",
+                            "A water bottle"
+                        ],
+                        "whatToBuy": [
+                            "Eco-friendly souvenirs from the gift shop"
+                        ],
+                        "safetyNotes": [
+                            "Be gentle and quiet around the animals.",
+                            "Watch your step on the sometimes-wet pathways."
+                        ],
+                        "customsEtiquette": [
+                            "Do not touch or feed the animals.",
+                            "Listen to the instructions from the staff biologists."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "The large waterfall feature",
+                            "With a colorful toucan or parrot if one is nearby"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "1:00 PM - 4:00 PM",
+                    "name": "Burj Khalifa (At The Top)",
+                    "location": {
+                        "latitude": "25.1972",
+                        "longitude": "55.2742"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.1972,55.2742",
+                    "distanceFromPrevious": 4.11,
+                    "travelTimeFromPrevious": "10 minutes",
+                    "description": "Prepare for an unforgettable experience as you ascend the world's tallest building, the Burj Khalifa. The journey begins in a high-speed elevator that whisks you up to the observation decks on levels 124 and 125. From this incredible vantage point, you'll be treated to breathtaking 360-degree views of Dubai's futuristic skyline, the vast desert, and the sparkling Arabian Gulf. Advanced telescopes provide a closer look at the city below. The experience offers a true sense of scale and ambition that defines Dubai. This is more than just a viewpoint; it's a moment to witness a modern wonder of the world from its pinnacle.",
+                    "whyVisit": "A visit to Dubai is incomplete without experiencing the stunning panoramic views from the top of this global icon.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Burj%20Khalifa%20(At%20The%20Top)&dates=20251218T130000/20251218T160000&details=Ascend%20the%20world's%20tallest%20building%20for%20breathtaking%20views%20of%20Dubai.&location=Burj%20Khalifa%2C%20Dubai%2C%20UAE",
+                    "activities": [
+                        "Enjoy the panoramic views from the observation deck.",
+                        "Use the high-powered telescopes to see distant landmarks.",
+                        "Learn about the construction of the Burj Khalifa through multimedia displays."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Approx. 4000 - 8000 INR per adult (depending on time slot)",
+                        "estimatedCost": "10000",
+                        "bestTime": "Late afternoon for sunset views (prime slots cost more).",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Your camera or smartphone for photos",
+                            "A valid ID"
+                        ],
+                        "whatToBuy": [
+                            "A souvenir from the 'At The Top' gift shop"
+                        ],
+                        "safetyNotes": [
+                            "Follow all safety instructions from the staff.",
+                            "Do not lean over the railings on the outdoor terrace."
+                        ],
+                        "customsEtiquette": [
+                            "Be mindful of other visitors when taking photos.",
+                            "Avoid bringing large bags or luggage."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "The outdoor observation terrace",
+                            "The 'angel wings' mural for a classic photo op"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "4:00 PM - 8:00 PM",
+                    "name": "Explore Dubai Mall and Dubai Fountain Show",
+                    "location": {
+                        "latitude": "25.1957",
+                        "longitude": "55.2758"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.1957,55.2758",
+                    "distanceFromPrevious": 0.5,
+                    "travelTimeFromPrevious": "5 minutes (walk)",
+                    "description": "After descending from the Burj Khalifa, spend the rest of your afternoon and evening exploring The Dubai Mall, one of the world's largest shopping and entertainment destinations. With over 1,200 retail stores, an Olympic-sized ice rink, and a giant aquarium, there's something for everyone. As evening falls, step outside to witness the spectacular Dubai Fountain show. Set on the 30-acre Burj Khalifa Lake, the fountain shoots water jets as high as 500 ft, illuminated by over 6,600 lights and choreographed to a range of music. The show is a captivating display of artistry and engineering and provides a stunning end to your day at this iconic location.",
+                    "whyVisit": "It combines world-class shopping, diverse entertainment, and a stunning free spectacle, making it a must-visit hub of activity.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Dubai%20Mall%20and%20Dubai%20Fountain%20Show&dates=20251218T160000/20251218T200000&details=Shop%20at%20one%20of%20the%20world's%20largest%20malls%20and%20watch%20the%20spectacular%20fountain%20show.&location=The%20Dubai%20Mall%2C%20Dubai%2C%20UAE",
+                    "activities": [
+                        "Window shopping at high-end fashion stores.",
+                        "Watching the mesmerizing Dubai Fountain show (starts at 6 PM).",
+                        "Grabbing dinner at one of the many restaurants with fountain views."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free (attractions within the mall have separate fees)",
+                        "estimatedCost": "4000 (for dinner)",
+                        "bestTime": "Fountain shows run every 30 minutes from 6 PM.",
+                        "duration": "3-4 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Comfortable walking shoes are essential",
+                            "A portable charger for your phone"
+                        ],
+                        "whatToBuy": [
+                            "Anything from fashion to electronics to souvenirs"
+                        ],
+                        "safetyNotes": [
+                            "The mall can be very crowded; keep track of your belongings.",
+                            "Designate a meeting point in case you get separated."
+                        ],
+                        "customsEtiquette": [
+                            "Dress modestly; shoulders and knees should be covered.",
+                            "Public displays of affection are not permitted."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The Human Waterfalls sculpture",
+                            "The waterfront promenade during the fountain show"
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "33.0 km",
+                "spending": {
+                    "Hotel": "5000",
+                    "Entry Fees": "16000",
+                    "Activities": "0",
+                    "Transport": "1500",
+                    "Meals": "4000",
+                    "Shopping": "2000",
+                    "total": "28500"
+                },
+                "remainingBudget": "-2250"
+            }
+        },
+        {
+            "day": 5,
+            "date": "2025-12-19",
+            "theme": "Traditional Markets and Departure",
+            "optimizedRoute": "Al Khoory Inn Hotel → Dubai Gold and Spice Souks → Al Khoory Inn Hotel",
+            "totalDistance": 11.86,
+            "totalTravelTime": "25 minutes",
+            "weather": "Partly cloudy, 24.3°C high, 15.4°C low. UV index 4.7. No rain. Mild conditions.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 11:00 AM",
+                    "name": "Dubai Gold and Spice Souks",
+                    "location": {
+                        "latitude": "25.2670",
+                        "longitude": "55.2970"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.2670,55.2970",
+                    "distanceFromPrevious": 5.04,
+                    "travelTimeFromPrevious": "12 minutes",
+                    "description": "Experience the traditional heart of Dubai's commerce at the Gold and Spice Souks in Deira. These bustling markets offer a stark contrast to the modern malls. Walk through the dazzling alleyways of the Gold Souk, where shop windows are filled with intricate gold jewelry. Just a short walk away, the Spice Souk tantalizes the senses with the aromatic scents of frankincense, saffron, and countless other herbs and spices. The vibrant colors, sounds, and smells provide an authentic glimpse into the city's trading heritage. It's the perfect place to find unique souvenirs and practice your bargaining skills before you head home. The mild weather makes it ideal for this outdoor market exploration.",
+                    "whyVisit": "To experience the historic and cultural side of Dubai's trade, offering a sensory-rich experience and unique shopping opportunities.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Dubai%20Gold%20and%20Spice%20Souks&dates=20251219T090000/20251219T110000&details=Explore%20the%20traditional%20markets%20of%20Dubai%2C%20filled%20with%20gold%2C%20spices%2C%20and%20textiles.&location=Deira%2C%20Dubai%2C%20UAE",
+                    "activities": [
+                        "Window shopping for elaborate gold jewelry.",
+                        "Buying exotic spices and local perfumes.",
+                        "Taking an Abra (water taxi) across the Dubai Creek."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free",
+                        "estimatedCost": "1000 (for small purchases)",
+                        "bestTime": "Morning before it gets too crowded and hot.",
+                        "duration": "2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Cash, as some smaller shops may prefer it",
+                            "A reusable shopping bag"
+                        ],
+                        "whatToBuy": [
+                            "Saffron, dates, and Arabic perfumes (Oud)",
+                            "Small gold items or souvenirs"
+                        ],
+                        "safetyNotes": [
+                            "Be wary of aggressive sellers.",
+                            "Keep your valuables secure in the crowded alleys."
+                        ],
+                        "customsEtiquette": [
+                            "Bargaining is expected and part of the experience.",
+                            "Always be polite and respectful, even when negotiating."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The large wooden entrance gate to the souk",
+                            "Piles of colorful spices in the market stalls"
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "11:00 AM - 12:00 PM",
+                    "name": "Departure Prep / Check-out",
+                    "location": {
+                        "latitude": "25.2528",
+                        "longitude": "55.3338"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=25.2528,55.3338",
+                    "distanceFromPrevious": 6.82,
+                    "travelTimeFromPrevious": "13 minutes",
+                    "description": "Return to your hotel for the final preparations before your departure. This is the time to do your last-minute packing, ensuring you haven't left anything behind. Double-check your travel documents, including passports and flight tickets. Settle any outstanding bills with the hotel and complete the check-out process. Depending on your flight schedule, you might arrange for a taxi to the airport or have a pre-booked shuttle. This final hour is crucial for a stress-free departure, allowing you to leave Dubai with all your wonderful memories and souvenirs packed safely away.",
+                    "whyVisit": "An essential final step to ensure a smooth and organized end to your amazing vacation in Dubai.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure%20Prep%20%2F%20Check-out&dates=20251219T110000/20251219T120000&details=Finalize%20packing%20and%20check%20out%20of%20the%20hotel%20for%20your%20journey%20home.&location=Al%20Khoory%20Inn%20Hotel%2C%20Dubai%2C%20UAE",
+                    "activities": [
+                        "Final packing of luggage.",
+                        "Checking out of the hotel.",
+                        "Arranging transport to Dubai International Airport (DXB)."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "0",
+                        "bestTime": "As per the hotel's check-out policy (usually 12:00 PM).",
+                        "duration": "1 hour"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "All your luggage and personal items"
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Do a final sweep of your room for any forgotten items.",
+                            "Keep your travel documents easily accessible."
+                        ],
+                        "customsEtiquette": [
+                            "Thank the hotel staff for their hospitality."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": []
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "12.0 km",
+                "spending": {
+                    "Hotel": "0",
+                    "Entry Fees": "0",
+                    "Activities": "0",
+                    "Transport": "600",
+                    "Meals": "1500",
+                    "Shopping": "1000",
+                    "total": "3100"
+                },
+                "remainingBudget": "-5350"
+            }
+        }
+    ],
+    "budgetBreakdown": {
+        "totalBudget": 100000,
+        "currency": "INR",
+        "expenses": {
+            "Transport": [
+                {
+                    "transport_name": "Flights",
+                    "total_cost": "40000"
+                }
+            ],
+            "accommodation": {
+                "hotelName": "Al Khoory Inn Hotel",
+                "pricePerNight": "5000",
+                "nights": 4,
+                "total": 20000
+            },
+            "dailyExpenses": [
+                {
+                    "day": 1,
+                    "cost": 9250
+                },
+                {
+                    "day": 2,
+                    "cost": 32300
+                },
+                {
+                    "day": 3,
+                    "cost": 32200
+                },
+                {
+                    "day": 4,
+                    "cost": 28500
+                },
+                {
+                    "day": 5,
+                    "cost": 3100
+                }
+            ],
+            "budgetWarning": "The planned activities and estimated costs exceed the total budget. Reconsider some ticketed attractions or increase the budget for a more comfortable trip."
+        },
+        "totalSpent": 165350,
+        "remainingBudget": -65350,
+        "budgetTips": [
+            "Utilize the Dubai Metro for longer distances to save on taxi fares.",
+            "Look for combo deals for attractions like Aquaventure and The Lost Chambers.",
+            "Dine at food courts in malls or restaurants in older parts of Dubai like Deira and Bur Dubai for more affordable meals."
+        ]
+    },
+    "packingList": {
+        "Clothing": [
+            "Lightweight cotton clothes for daytime",
+            "A few long-sleeved shirts and trousers for evenings or modest dressing",
+            "A light jacket or sweater for air-conditioned interiors",
+            "Swimwear for the waterpark",
+            "Smart casual outfits for dinners"
+        ],
+        "Footwear": [
+            "Comfortable walking shoes or sneakers",
+            "Sandals or flip-flops",
+            "A pair of dressier shoes"
+        ],
+        "Essentials": [
+            "Passport and Visa",
+            "Travel insurance documents",
+            "Credit/Debit Cards and some local currency (AED)",
+            "Sunscreen (high SPF)",
+            "Sunglasses and a hat or cap",
+            "Basic first-aid kit with personal medications",
+            "Reusable water bottle"
+        ],
+        "Electronics": [
+            "Smartphone and portable charger/power bank",
+            "Camera with extra batteries",
+            "Universal travel adapter (Type G)"
+        ],
+        "Documents": [
+            "Flight tickets and hotel booking confirmations",
+            "Photocopies of passport and visa",
+            "Emergency contact information"
+        ],
+        "Children-specific items": []
+    },
+    "preTripChecklist": [
+        {
+            "priority": "High",
+            "task": "Book flights and hotel accommodation."
+        },
+        {
+            "priority": "High",
+            "task": "Apply for UAE visa well in advance."
+        },
+        {
+            "priority": "High",
+            "task": "Purchase comprehensive travel insurance."
+        },
+        {
+            "priority": "Medium",
+            "task": "Book tickets online for major attractions like Burj Khalifa and Aquaventure to get better prices and secure slots."
+        },
+        {
+            "priority": "Medium",
+            "task": "Exchange a portion of your currency to UAE Dirhams (AED) for immediate expenses."
+        },
+        {
+            "priority": "Low",
+            "task": "Plan your outfits according to the itinerary and local dress codes."
+        },
+        {
+            "priority": "Low",
+            "task": "Download offline maps and useful travel apps for Dubai."
+        }
+    ]
+}
