@@ -1,0 +1,1091 @@
+{
+    "tripOverview": {
+        "destination": "Thailand",
+        "startDate": "2025-12-08",
+        "endDate": "2025-12-15",
+        "duration": "7 nights",
+        "companions": "5 adults, 0 children",
+        "tripType": "Cultural, Culinary, and Adventure Exploration",
+        "currency": "THB"
+    },
+    "mode_of_transport": {
+        "flight": {
+            "destination": "Bangkok, Suvarnabhumi Airport (BKK) and Chiang Mai International Airport (CNX)",
+            "Approx_cost": "105,000 - 175,000 for 5 adults (International Round Trip) + 7,500 - 12,500 for 5 adults (One-way Bangkok to Chiang Mai)",
+            "Approx_time_of_flight(duration)": "12-18 hours (International), 1.5 hours (Domestic)",
+            "Nearest_airport_from_current_destination": "Major International Airport",
+            "Nearest_airport_from_visiting_destination": "BKK, CNX",
+            "Stops": "Usually 1 Stop for International"
+        }
+    },
+    "hotel": {
+        "name": "iSanook Bangkok & The Common Hostel Chiang Mai",
+        "price": "500 - 1000 per room",
+        "location": {
+            "latitude": "13.7149",
+            "longitude": "100.5936"
+        },
+        "address": "41BKK Hotel Rama9, Bangkok & The Common Hostel, Chiang Mai Old City",
+        "Rating": "4.1/5",
+        "Amenities": [
+            "Free Wi-Fi",
+            "Air Conditioning",
+            "Swimming Pool (Bangkok)",
+            "Communal Kitchen (Chiang Mai)",
+            "24-hour front desk"
+        ]
+    },
+    "dailyItinerary": [
+        {
+            "day": 1,
+            "date": "2025-12-08",
+            "theme": "Arrival and Riverside Charm in Bangkok",
+            "optimizedRoute": "iSanook Bangkok → Asiatique The Riverfront → iSanook Bangkok",
+            "totalDistance": 26.11,
+            "totalTravelTime": "45 minutes",
+            "weather": "High 32.5°C, Low 24.6°C. Partly cloudy. No rain expected.",
+            "places": [
+                {
+                    "timeOfDay": "3:00 PM - 4:30 PM",
+                    "name": "Arrive in Bangkok & Hotel Check-in",
+                    "location": {
+                        "latitude": "13.7149",
+                        "longitude": "100.5936"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=13.7149,100.5936",
+                    "distanceFromPrevious": 0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Welcome to Bangkok! After arriving at Suvarnabhumi Airport (BKK), clear immigration, collect your luggage, and take a pre-booked taxi or the Airport Rail Link to your hotel. Settle into your accommodation, freshen up, and prepare for your first evening in the vibrant capital of Thailand. The warm, humid air and the city's energetic buzz will immediately greet you, offering a tantalizing glimpse of the adventures that lie ahead. Take a moment to relax and recharge after your long journey before you dive into the city's dynamic atmosphere.",
+                    "whyVisit": "This is the essential first step to ground your trip, allowing for a smooth transition from travel to vacation mode. It provides a necessary pause to recover from your flight and organize yourselves before embarking on your Thai adventure.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Arrive%20in%20Bangkok%20%26%20Hotel%20Check-in&dates=20251208T150000/20251208T163000&details=Check%20into%20your%20Bangkok%20accommodation%20and%20settle%20in%20for%20your%20adventure.&location=iSanook%20Bangkok",
+                    "activities": [
+                        "Complete the check-in process.",
+                        "Unpack your essentials for the next few days.",
+                        "Connect to the Wi-Fi and inform family back home of your safe arrival."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "1000 THB for taxi from airport",
+                        "bestTime": "N/A",
+                        "duration": "1.5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Passport",
+                            "Hotel booking confirmation",
+                            "Local currency (THB) for taxi"
+                        ],
+                        "whatToBuy": [
+                            "A local SIM card at the airport for connectivity."
+                        ],
+                        "safetyNotes": [
+                            "Use official taxi stands at the airport.",
+                            "Keep your valuables secure."
+                        ],
+                        "customsEtiquette": [
+                            "A respectful 'Sawasdee' (hello) with a slight bow (wai) is appreciated."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "Your hotel's lobby or viewpoint."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "5:30 PM - 9:00 PM",
+                    "name": "Explore Asiatique The Riverfront",
+                    "location": {
+                        "latitude": "13.7048",
+                        "longitude": "100.5033"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=13.7048,100.5033",
+                    "distanceFromPrevious": 12.89,
+                    "travelTimeFromPrevious": "25 minutes",
+                    "description": "Asiatique The Riverfront is a massive open-air mall that perfectly blends shopping and entertainment. Located in former docks of the East Asiatic Company, it combines a bazaar and a mall, offering a unique shopping experience with over 1,500 boutiques and 40 restaurants housed in refurbished warehouses. Stroll along the scenic boardwalk, enjoy the cool river breeze, and watch boats pass by on the Chao Phraya River. The centerpiece is the 'Asiatique Sky', a 60-meter-high Ferris wheel, which provides breathtaking panoramic views of the Bangkok skyline, especially as the city lights begin to twinkle after sunset.",
+                    "whyVisit": "It's an excellent introduction to Bangkok's modern entertainment scene. It's less chaotic than traditional markets, making it a comfortable first-night destination for a group to dine, shop, and soak in the beautiful riverside atmosphere.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Asiatique%20The%20Riverfront&dates=20251208T173000/20251208T210000&details=Dinner%2C%20shopping%2C%20and%20enjoying%20the%20riverside%20views.&location=Asiatique%20The%20Riverfront",
+                    "activities": [
+                        "Browse the boutique shops for unique souvenirs and clothing.",
+                        "Enjoy a group dinner at one of the many international or Thai restaurants.",
+                        "Ride the Asiatique Sky Ferris wheel for stunning city views.",
+                        "Watch a traditional Thai puppet show or a Calypso Cabaret performance."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Free entry (attractions like Ferris wheel are extra, ~500 THB)",
+                        "estimatedCost": "2000 THB per person for dinner, shopping, and activities",
+                        "bestTime": "Early evening to enjoy the sunset over the river.",
+                        "duration": "3.5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Comfortable walking shoes",
+                            "Camera",
+                            "Light jacket or shawl as it can be breezy by the river."
+                        ],
+                        "whatToBuy": [
+                            "Handicrafts",
+                            "Fashion accessories",
+                            "Spices and dried fruits"
+                        ],
+                        "safetyNotes": [
+                            "Be mindful of your belongings in crowded areas.",
+                            "Agree on a meeting point in case your group gets separated."
+                        ],
+                        "customsEtiquette": [
+                            "Bargaining is less common in the boutiques but possible at smaller stalls."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "In front of the Ferris wheel.",
+                            "Along the riverside boardwalk with the Bangkok skyline.",
+                            "With the historic warehouse architecture."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "26.11 km",
+                "spending": {
+                    "Hotel": "3000 THB",
+                    "Entry Fees": "2500 THB",
+                    "Activities": "0 THB",
+                    "Transport": "522 THB",
+                    "Meals": "5000 THB",
+                    "Shopping": "2000 THB",
+                    "total": "13022 THB"
+                },
+                "remainingBudget": "386978 THB"
+            }
+        },
+        {
+            "day": 2,
+            "date": "2025-12-09",
+            "theme": "Royal Grandeur and Riverside Temples",
+            "optimizedRoute": "iSanook Bangkok → The Grand Palace & Wat Phra Kaew → Wat Arun (Temple of Dawn) → Chao Phraya River Dinner Cruise → iSanook Bangkok",
+            "totalDistance": 32.89,
+            "totalTravelTime": "1 hour 5 minutes",
+            "weather": "High 31.8°C, Low 20.9°C. Partly cloudy. No rain expected.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 12:00 PM",
+                    "name": "The Grand Palace & Wat Phra Kaew",
+                    "location": {
+                        "latitude": "13.7500",
+                        "longitude": "100.4925"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=13.7500,100.4925",
+                    "distanceFromPrevious": 13.11,
+                    "travelTimeFromPrevious": "25 minutes",
+                    "description": "The Grand Palace is a breathtaking complex of buildings that has been the official residence of the Kings of Siam since 1782. Its intricate architecture, shimmering spires, and detailed craftsmanship are awe-inspiring. Within the palace grounds lies Wat Phra Kaew, the Temple of the Emerald Buddha, which is considered the most sacred Buddhist temple in Thailand. The revered Emerald Buddha, carved from a single block of jade, is a powerful religious and national symbol. Exploring the vast complex reveals a stunning display of Thai artistry, with golden chedis, elegant pavilions, and beautiful murals depicting the Ramakien epic.",
+                    "whyVisit": "This is the most iconic landmark in Bangkok. For a group of adults interested in culture and history, it offers an unparalleled glimpse into the heart of Thai royalty, religion, and art. The sheer scale and beauty are a must-see for any first-time visitor.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=The%20Grand%20Palace%20%26%20Wat%20Phra%20Kaew&dates=20251209T090000/20251209T120000&details=Explore%20the%20iconic%20Grand%20Palace%20and%20the%20Temple%20of%20the%20Emerald%20Buddha.&location=The%20Grand%20Palace",
+                    "activities": [
+                        "Marvel at the Emerald Buddha in the main chapel.",
+                        "Walk around the golden chedis and ornate structures.",
+                        "Examine the detailed Ramakien murals that line the cloister walls."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "500 THB per person",
+                        "estimatedCost": "2800 THB for 5 adults (entry + transport)",
+                        "bestTime": "As early as possible to avoid crowds and the midday heat.",
+                        "duration": "3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Water",
+                            "Sunscreen",
+                            "Hat and sunglasses"
+                        ],
+                        "whatToBuy": [
+                            "Miniature temple replicas",
+                            "Postcards"
+                        ],
+                        "safetyNotes": [
+                            "Beware of scams outside the palace offering cheap tuk-tuk tours.",
+                            "Official guides are available for hire inside."
+                        ],
+                        "customsEtiquette": [
+                            "Strict dress code: shoulders and knees must be covered. No shorts, sleeveless shirts, or leggings.",
+                            "Remove shoes before entering temples."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The golden Phra Si Rattana Chedi.",
+                            "In front of the main Ordination Hall (Ubosot).",
+                            "With the giant Yaksha guardians at the gates."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "1:30 PM - 3:00 PM",
+                    "name": "Wat Arun (Temple of Dawn)",
+                    "location": {
+                        "latitude": "13.7437",
+                        "longitude": "100.4892"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=13.7437,100.4892",
+                    "distanceFromPrevious": 3.73,
+                    "travelTimeFromPrevious": "10 minutes (including river ferry)",
+                    "description": "Located on the west bank of the Chao Phraya River, Wat Arun Ratchawararam, or the Temple of Dawn, is one of Thailand's most famous landmarks. Its most distinctive feature is the central prang (a Khmer-style tower) encrusted with colorful porcelain and seashells, which glitters in the sunlight. You can climb a steep set of stairs up the central prang for fantastic views of the winding river and the Grand Palace on the opposite bank. The temple's unique design sets it apart from other temples in Bangkok, and its riverside location makes it particularly stunning during sunrise and sunset.",
+                    "whyVisit": "Its unique architecture and beautiful riverside setting offer a different perspective from the Grand Palace. The climb provides a great photo opportunity and a sense of accomplishment, making it an engaging stop for an active group.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Wat%20Arun%20%28Temple%20of%20Dawn%29&dates=20251209T133000/20251209T150000&details=Visit%20the%20stunning%20Temple%20of%20Dawn%20and%20climb%20the%20central%20prang.&location=Wat%20Arun",
+                    "activities": [
+                        "Take the cross-river ferry from Tha Tien Pier.",
+                        "Climb the central prang for panoramic views.",
+                        "Admire the intricate details of the porcelain mosaic.",
+                        "Explore the surrounding Ordination Hall and smaller buildings."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "100 THB per person",
+                        "estimatedCost": "600 THB for 5 adults (entry + ferry)",
+                        "bestTime": "Late afternoon when the sun is not as harsh, or sunset for magical views.",
+                        "duration": "1.5 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Comfortable shoes with good grip for the steep steps.",
+                            "A bottle of water."
+                        ],
+                        "whatToBuy": [
+                            "Small trinkets or amulets from the nearby stalls."
+                        ],
+                        "safetyNotes": [
+                            "The steps on the prang are very steep and narrow; descend backward carefully."
+                        ],
+                        "customsEtiquette": [
+                            "A respectful dress code is also enforced here, though slightly less strict than the Grand Palace."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "From the ferry with the temple in the background.",
+                            "From the top of the prang looking over the river.",
+                            "Up close to capture the colorful mosaic details."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "7:00 PM - 9:00 PM",
+                    "name": "Chao Phraya River Dinner Cruise",
+                    "location": {
+                        "latitude": "13.7327",
+                        "longitude": "100.5103"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=13.7327,100.5103",
+                    "distanceFromPrevious": 4.48,
+                    "travelTimeFromPrevious": "15 minutes",
+                    "description": "Experience the magic of Bangkok at night from a unique perspective on a Chao Phraya River dinner cruise. As you glide along the historic waterway, you'll witness the city's famous landmarks illuminated against the dark sky. See the Grand Palace and Wat Arun sparkle, and pass by modern skyscrapers and elegant bridges, all while enjoying a delicious buffet of Thai and international cuisine. Most cruises feature live music and traditional Thai dance performances, creating a festive and memorable atmosphere. It's a relaxing and luxurious way to cap off a day of temple exploration.",
+                    "whyVisit": "This is a perfect group activity that combines sightseeing, dining, and entertainment. It offers a chance to see the temples you visited earlier in a new light and provides a relaxing, celebratory atmosphere to enjoy together.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Chao%20Phraya%20River%20Dinner%20Cruise&dates=20251209T190000/20251209T210000&details=Enjoy%20dinner%2C%20live%20music%2C%20and%20illuminated%20views%20of%20Bangkok's%20landmarks.&location=ICONSIAM%20Pier",
+                    "activities": [
+                        "Savor a wide variety of dishes from the dinner buffet.",
+                        "Take photos of the illuminated landmarks from the open-air deck.",
+                        "Enjoy the live band and cultural performances."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "1500 - 2500 THB per person (depending on the cruise line)",
+                        "estimatedCost": "10000 THB for 5 adults",
+                        "bestTime": "Boarding usually starts around 7:00 PM.",
+                        "duration": "2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A camera with good low-light capabilities.",
+                            "A light sweater or jacket."
+                        ],
+                        "whatToBuy": [
+                            "Professional photos offered by the cruise staff."
+                        ],
+                        "safetyNotes": [
+                            "Be careful when moving around the boat, especially on the stairs."
+                        ],
+                        "customsEtiquette": [
+                            "Smart casual dress is usually recommended."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "With the illuminated Wat Arun as a backdrop.",
+                            "With the glowing Rama VIII Bridge.",
+                            "On the front deck of the boat."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "32.89 km",
+                "spending": {
+                    "Hotel": "3000 THB",
+                    "Entry Fees": "3000 THB",
+                    "Activities": "10000 THB",
+                    "Transport": "658 THB",
+                    "Meals": "5250 THB",
+                    "Shopping": "1000 THB",
+                    "total": "22908 THB"
+                },
+                "remainingBudget": "364070 THB"
+            }
+        },
+        {
+            "day": 3,
+            "date": "2025-12-10",
+            "theme": "Markets, Modernity, and Nightlife",
+            "optimizedRoute": "iSanook Bangkok → Thonglor/Ekkamai → Sukhumvit Road → Chatuchak Weekend Market → iSanook Bangkok",
+            "totalDistance": "25.2",
+            "totalTravelTime": "50 minutes",
+            "weather": "High 32.1°C, Low 20.2°C. Cloudy. No rain expected.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 1:00 PM",
+                    "name": "Chatuchak Weekend Market",
+                    "location": {
+                        "latitude": "13.8013",
+                        "longitude": "100.5515"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=13.8013,100.5515",
+                    "distanceFromPrevious": 17.82,
+                    "travelTimeFromPrevious": "30 minutes",
+                    "description": "Spanning over 35 acres, Chatuchak Weekend Market is one of the largest outdoor markets in the world. With more than 15,000 stalls, it's a labyrinth of shopping delights where you can find almost anything imaginable. The market is divided into 27 sections, offering everything from vintage clothing and local handicrafts to exotic plants and pets. Navigating the bustling alleyways is an adventure in itself, with tantalizing aromas of street food wafting through the air and a vibrant, chaotic energy that is quintessentially Bangkok. It's a treasure trove for bargain hunters and a fantastic place to observe local life.",
+                    "whyVisit": "This is a paradise for shoppers and food lovers. For a group, it offers a fun and dynamic experience where everyone can find something that interests them, from unique souvenirs to delicious and cheap street food.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Chatuchak%20Weekend%20Market&dates=20251210T090000/20251210T130000&details=Explore%20one%20of%20the%20world's%20largest%20weekend%20markets.&location=Chatuchak%20Weekend%20Market",
+                    "activities": [
+                        "Bargain for goods in the clothing and accessories sections.",
+                        "Sample various street foods like coconut ice cream, grilled meats, and pad thai.",
+                        "Explore the art and handicrafts sections for unique souvenirs.",
+                        "Get a relaxing foot massage at one of the many parlors within the market."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "1500 THB per person for shopping and food",
+                        "bestTime": "Morning (9 AM - 10 AM) to beat the crowds and heat.",
+                        "duration": "4 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Cash (many vendors don't accept cards)",
+                            "A tote bag for your purchases",
+                            "A hand fan or portable fan"
+                        ],
+                        "whatToBuy": [
+                            "Handmade soaps and spa products",
+                            "Elephant pants",
+                            "Ceramics and home decor"
+                        ],
+                        "safetyNotes": [
+                            "Keep your wallet and phone in a secure front pocket or bag.",
+                            "Stay hydrated; drink plenty of water."
+                        ],
+                        "customsEtiquette": [
+                            "Bargaining is expected. Start at about 50% of the asking price and be polite."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The iconic clock tower in the center of the market.",
+                            "Colorful displays of handicrafts or spices.",
+                            "A shot of a bustling, crowded soi (alley)."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "2:00 PM - 6:00 PM",
+                    "name": "Explore Sukhumvit Road (shopping & street food)",
+                    "location": {
+                        "latitude": "13.7371",
+                        "longitude": "100.5605"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=13.7371,100.5605",
+                    "distanceFromPrevious": 11.22,
+                    "travelTimeFromPrevious": "20 minutes",
+                    "description": "Sukhumvit Road is one of Bangkok's main arterial roads, and the area surrounding it is a modern, cosmopolitan hub of activity. Lined with luxury shopping malls, world-class restaurants, and bustling street markets, it offers a stark contrast to the old-world charm of the temple districts. You can explore high-end malls like Terminal 21, with its unique airport-themed floors, or EmQuartier. In between the shiny buildings, you'll find countless street food stalls offering a smorgasbord of Thai flavors. The BTS Skytrain runs directly above the road, making it easy to hop between different neighborhoods like Nana, Asok, and Phrom Phong.",
+                    "whyVisit": "This area showcases the modern face of Bangkok. It's perfect for a group that enjoys a mix of high-end shopping, casual street food exploration, and people-watching in a dynamic urban environment.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Sukhumvit%20Road&dates=20251210T140000/20251210T180000&details=Experience%20modern%20Bangkok%20with%20its%20malls%20and%20street%20food.&location=Sukhumvit%20Road",
+                    "activities": [
+                        "Shop at Terminal 21, exploring its different city-themed floors.",
+                        "Graze on street food from various vendors.",
+                        "Have a coffee or a drink at a trendy cafe.",
+                        "Visit Benjasiri Park for a short break from the urban hustle."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "1000 THB per person for food and shopping",
+                        "bestTime": "Late afternoon when the street vendors are setting up for the evening.",
+                        "duration": "4 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Comfortable shoes for walking.",
+                            "Your credit card for mall shopping and cash for street vendors."
+                        ],
+                        "whatToBuy": [
+                            "Designer goods from the malls",
+                            "Tailor-made clothing",
+                            "Local snacks"
+                        ],
+                        "safetyNotes": [
+                            "Be aware of traffic when crossing the busy streets and sois."
+                        ],
+                        "customsEtiquette": [
+                            "Be prepared for crowds in popular shopping areas."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The iconic 'San Francisco' bridge in Terminal 21.",
+                            "The Helix Quartier waterfall at EmQuartier.",
+                            "A colorful street food cart."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "7:30 PM - 9:00 PM",
+                    "name": "Dinner and nightlife in Thonglor/Ekkamai",
+                    "location": {
+                        "latitude": "13.7303",
+                        "longitude": "100.5815"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=13.7303,100.5815",
+                    "distanceFromPrevious": 3.33,
+                    "travelTimeFromPrevious": "10 minutes",
+                    "description": "Thonglor (Sukhumvit Soi 55) and Ekkamai (Sukhumvit Soi 63) are two of Bangkok's most trendy and sophisticated neighborhoods, known for their incredible dining scenes and chic nightlife. This area is packed with a diverse range of restaurants, from high-end Japanese omakase and fine dining establishments to casual yet delicious Thai eateries and community food spaces. After dinner, the area comes alive with stylish cocktail bars, hidden speakeasies, and rooftop bars offering stunning views of the city. It's where Bangkok's well-heeled locals and expats come to play, offering a polished yet exciting nightlife experience.",
+                    "whyVisit": "For a group of adults, this area is perfect for a sophisticated night out. It offers some of the best food and drinks in the city, allowing the group to indulge in a high-quality culinary experience and enjoy Bangkok's modern, stylish nightlife.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Dinner%20and%20nightlife%20in%20Thonglor/Ekkamai&dates=20251210T193000/20251210T210000&details=Enjoy%20a%20fantastic%20dinner%20and%20explore%20the%20trendy%20bars%20of%20Thonglor.&location=Thonglor%2C%20Bangkok",
+                    "activities": [
+                        "Have dinner at a highly-rated restaurant.",
+                        "Explore a community space like The Commons Thonglor.",
+                        "Enjoy creative cocktails at a speakeasy bar like 'Find The Locker Room'.",
+                        "Visit a rooftop bar for panoramic city views."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A (costs are for food and drinks)",
+                        "estimatedCost": "2000 THB per person for dinner and drinks",
+                        "bestTime": "8:00 PM onwards",
+                        "duration": "2-3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Your ID",
+                            "A charged phone to book a ride home."
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Drink responsibly and never leave your drink unattended."
+                        ],
+                        "customsEtiquette": [
+                            "Many bars and restaurants have a smart-casual dress code (no sandals or shorts)."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "The entrance to a stylish bar.",
+                            "The view from a rooftop bar."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "25.2 km",
+                "spending": {
+                    "Hotel": "3000 THB",
+                    "Entry Fees": "0 THB",
+                    "Activities": "0 THB",
+                    "Transport": "504 THB",
+                    "Meals": "10000 THB",
+                    "Shopping": "7500 THB",
+                    "total": "21004 THB"
+                },
+                "remainingBudget": "343066 THB"
+            }
+        },
+        {
+            "day": 4,
+            "date": "2025-12-11",
+            "theme": "Journey to the North and Lanna Culture",
+            "optimizedRoute": "The Common Hostel → Chiang Mai Night Bazaar → The Common Hostel",
+            "totalDistance": 3.7,
+            "totalTravelTime": "10 minutes",
+            "weather": "High 32.9°C, Low 19.3°C. Partly cloudy. No rain expected.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 1:00 PM",
+                    "name": "Travel to Chiang Mai",
+                    "location": {
+                        "latitude": "18.7899",
+                        "longitude": "98.9893"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=18.7899,98.9893",
+                    "distanceFromPrevious": 0,
+                    "travelTimeFromPrevious": "4 hours (including airport transit)",
+                    "description": "Today you will journey from the bustling capital of Bangkok to the cultural heart of Northern Thailand, Chiang Mai. After checking out from your Bangkok hotel, head to Don Mueang (DMK) or Suvarnabhumi (BKK) airport for your domestic flight. The flight itself is short, offering aerial views of the changing landscape from urban sprawl to greener, more mountainous terrain. Upon arrival at Chiang Mai International Airport (CNX), you'll immediately feel a more relaxed and laid-back atmosphere. Collect your bags and take a short taxi ride to your new accommodation.",
+                    "whyVisit": "This travel day marks a key transition in your trip, moving from the intense urban energy of Bangkok to the tranquil, historic, and scenic environment of Chiang Mai, offering a completely different yet equally fascinating side of Thailand.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Travel%20to%20Chiang%20Mai&dates=20251211T090000/20251211T130000&details=Fly%20from%20Bangkok%20to%20Chiang%20Mai%20and%20check%20into%20your%20new%20hotel.&location=Chiang%20Mai%20International%20Airport%20(CNX)",
+                    "activities": [
+                        "Check out of your Bangkok hotel.",
+                        "Travel to the airport (DMK or BKK).",
+                        "Take a ~1.5 hour flight to Chiang Mai.",
+                        "Transfer from Chiang Mai airport to your hotel."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "2000 THB per person for flight and transfers",
+                        "bestTime": "Morning flights are best to have the afternoon free.",
+                        "duration": "4 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Flight booking confirmation.",
+                            "A book or downloaded shows for transit times."
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Book airport transfers in advance or use the official airport taxi service."
+                        ],
+                        "customsEtiquette": [
+                            "Be punctual for your flight."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "The view from the airplane window."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "6:00 PM - 9:00 PM",
+                    "name": "Chiang Mai Night Bazaar",
+                    "location": {
+                        "latitude": "18.7876",
+                        "longitude": "98.9991"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=18.7876,98.9991",
+                    "distanceFromPrevious": 1.85,
+                    "travelTimeFromPrevious": "5 minutes",
+                    "description": "The Chiang Mai Night Bazaar is a legendary market that stretches for several blocks along Chang Khlan Road. Every night, this area comes alive with a vast collection of stalls selling a huge variety of goods. It's a fantastic place to hunt for souvenirs, with items ranging from intricate northern Thai handicrafts and silverware to clothing and electronics. The market isn't just for shopping; it also features large, open-air food courts where you can sample delicious local dishes, as well as street performers and artists. The atmosphere is vibrant and bustling, making for an entertaining evening stroll.",
+                    "whyVisit": "It's the perfect, low-key introduction to Chiang Mai. Your group can explore at a leisurely pace, enjoy a casual and delicious dinner, and do some souvenir shopping in one of the city's most iconic and lively settings.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Chiang%20Mai%20Night%20Bazaar&dates=20251211T180000/20251211T210000&details=Explore%20the%20famous%20night%20market%20for%20shopping%20and%20dinner.&location=Chiang%20Mai%20Night%20Bazaar",
+                    "activities": [
+                        "Haggle for souvenirs like lanterns, textiles, and wood carvings.",
+                        "Have dinner at one of the lively food courts.",
+                        "Get a portrait sketched by a street artist.",
+                        "Enjoy a relaxing foot massage after your walk."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "1000 THB per person for dinner and shopping",
+                        "bestTime": "Any time from 7 PM onwards.",
+                        "duration": "3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Cash in small denominations for easier bargaining.",
+                            "A reusable shopping bag."
+                        ],
+                        "whatToBuy": [
+                            "Northern Thai handicrafts",
+                            "Silver jewelry",
+                            "Hand-painted umbrellas"
+                        ],
+                        "safetyNotes": [
+                            "The road is still active, so watch for traffic when crossing between stalls."
+                        ],
+                        "customsEtiquette": [
+                            "A friendly smile goes a long way when bargaining."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The colorful entrance signs.",
+                            "A stall with a particularly beautiful display of lanterns or crafts."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "3.7 km",
+                "spending": {
+                    "Hotel": "3000 THB",
+                    "Entry Fees": "0 THB",
+                    "Activities": "10000 THB",
+                    "Transport": "74 THB",
+                    "Meals": "5250 THB",
+                    "Shopping": "5000 THB",
+                    "total": "23324 THB"
+                },
+                "remainingBudget": "319742 THB"
+            }
+        },
+        {
+            "day": 5,
+            "date": "2025-12-12",
+            "theme": "Sacred Mountains and Ancient Temples",
+            "optimizedRoute": "The Common Hostel → Wat Phra Singh → Wat Chedi Luang → Doi Suthep Temple → The Common Hostel",
+            "totalDistance": "20.59",
+            "totalTravelTime": "45 minutes",
+            "weather": "High 29.0°C, Low 26.3°C. Cloudy. Low chance of rain.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 12:00 PM",
+                    "name": "Doi Suthep Temple (Wat Phra That Doi Suthep)",
+                    "location": {
+                        "latitude": "18.8052",
+                        "longitude": "98.9215"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=18.8052,98.9215",
+                    "distanceFromPrevious": 17.09,
+                    "travelTimeFromPrevious": "35 minutes",
+                    "description": "Perched high on the mist-shrouded Doi Suthep mountain, this temple is one of northern Thailand's most sacred sites. To reach the temple, you must ascend a magnificent 306-step staircase flanked by naga (serpent) balustrades. At the top, you are greeted by the stunning sight of a gleaming, golden chedi that is said to contain relics of the Buddha. The temple grounds are filled with bells, statues, and shrines, offering a serene and spiritual atmosphere. Beyond its religious significance, the temple provides some of the most spectacular panoramic views of Chiang Mai and the surrounding countryside.",
+                    "whyVisit": "The journey up the mountain, the spiritual ambiance, and the breathtaking views make this an unforgettable experience. It combines natural beauty with cultural immersion, making it a must-do for any visitor to Chiang Mai.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Doi%20Suthep%20Temple&dates=20251212T090000/20251212T120000&details=Visit%20the%20sacred%20mountain%20temple%20and%20enjoy%20panoramic%20views.&location=Wat%20Phra%20That%20Doi%20Suthep",
+                    "activities": [
+                        "Climb the Naga staircase (or take the cable car).",
+                        "Walk clockwise around the golden chedi three times for good luck.",
+                        "Ring the bells along the temple gallery.",
+                        "Take in the stunning panoramic views from the terrace."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "30 THB per person (plus 20 THB for optional cable car)",
+                        "estimatedCost": "1000 THB for 5 adults (entry + transport by songthaew)",
+                        "bestTime": "Early morning for clear views and fewer crowds.",
+                        "duration": "3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A jacket or sweater as it's cooler on the mountain.",
+                            "Water and comfortable shoes."
+                        ],
+                        "whatToBuy": [
+                            "Small bells or amulets for good fortune."
+                        ],
+                        "safetyNotes": [
+                            "The road to the temple is winding; be prepared if you are prone to motion sickness."
+                        ],
+                        "customsEtiquette": [
+                            "Dress modestly with shoulders and knees covered.",
+                            "Be quiet and respectful within the temple grounds."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The view from the main terrace.",
+                            "The majestic Naga staircase.",
+                            "The glowing golden chedi."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "2:00 PM - 5:00 PM",
+                    "name": "Explore Old City Temples (Wat Phra Singh, Wat Chedi Luang)",
+                    "location": {
+                        "latitude": "18.7869",
+                        "longitude": "98.9866"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=18.7869,98.9866",
+                    "distanceFromPrevious": 17.34,
+                    "travelTimeFromPrevious": "30 minutes",
+                    "description": "After lunch, immerse yourselves in the heart of Chiang Mai's history by exploring the ancient temples within the Old City's moat. Start at Wat Phra Singh, which houses the highly revered Phra Buddha Sihing statue and features classic Lanna architecture and beautiful murals. Then, walk to Wat Chedi Luang, a temple dominated by the ruins of a massive chedi that was once the tallest structure in the Lanna kingdom. Today, it's still an impressive sight, with stone elephant statues guarding its base. You can also visit the city pillar and engage in a 'monk chat' to learn about Buddhism.",
+                    "whyVisit": "This temple tour offers a fascinating glimpse into the history and religious heritage of the Lanna Kingdom. The close proximity of the temples makes for a pleasant afternoon walk, allowing your group to appreciate the art and architecture at a relaxed pace.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Explore%20Old%20City%20Temples&dates=20251212T140000/20251212T170000&details=Visit%20the%20historic%20Wat%20Phra%20Singh%20and%20Wat%20Chedi%20Luang.&location=Chiang%20Mai%20Old%20City",
+                    "activities": [
+                        "Admire the Lanna architecture at Wat Phra Singh's Viharn Lai Kham.",
+                        "Take photos of the ruined chedi at Wat Chedi Luang.",
+                        "Participate in a 'monk chat' to ask questions about Buddhism and life as a monk.",
+                        "Pay respects at the city pillar (Lak Mueang)."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "Wat Phra Singh: Free, Wat Chedi Luang: 40 THB per person",
+                        "estimatedCost": "200 THB for 5 adults",
+                        "bestTime": "Afternoon",
+                        "duration": "3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "A bottle of water.",
+                            "A map of the Old City."
+                        ],
+                        "whatToBuy": [
+                            "Small offerings for the temples."
+                        ],
+                        "safetyNotes": [
+                            "Be respectful of praying monks and worshippers."
+                        ],
+                        "customsEtiquette": [
+                            "Dress modestly.",
+                            "Never point your feet at a Buddha image or a monk."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The main chedi at Wat Chedi Luang.",
+                            "The ornate entrance of Wat Phra Singh.",
+                            "The reclining Buddha statue."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "20.59 km",
+                "spending": {
+                    "Hotel": "3000 THB",
+                    "Entry Fees": "350 THB",
+                    "Activities": "0 THB",
+                    "Transport": "412 THB",
+                    "Meals": "5250 THB",
+                    "Shopping": "1000 THB",
+                    "total": "10012 THB"
+                },
+                "remainingBudget": "309730 THB"
+            }
+        },
+        {
+            "day": 6,
+            "date": "2025-12-13",
+            "theme": "Ethical Encounters and Culinary Creations",
+            "optimizedRoute": "The Common Hostel → Thai Cooking Class → Elephant Sanctuary Visit (ethical one) → The Common Hostel",
+            "totalDistance": "54.73",
+            "totalTravelTime": "1 hour 30 minutes",
+            "weather": "High 33.0°C, Low 25.6°C. Cloudy. Chance of rain.",
+            "places": [
+                {
+                    "timeOfDay": "8:00 AM - 3:00 PM",
+                    "name": "Elephant Sanctuary Visit (ethical one)",
+                    "location": {
+                        "latitude": "19.1678",
+                        "longitude": "99.0305"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=19.1678,99.0305",
+                    "distanceFromPrevious": 52.24,
+                    "travelTimeFromPrevious": "1 hour 20 minutes",
+                    "description": "Spend a rewarding day at an ethical elephant sanctuary, such as Elephant Jungle Sanctuary or Elephant Nature Park. These sanctuaries rescue elephants from logging and entertainment industries, providing them with a safe and natural environment. Your experience will be focused on the well-being of the animals. You will learn about their history, prepare their food, and have the opportunity to feed them. The highlight for many is walking with the elephants to a river or mud pit where you can help bathe them. This is a non-riding experience that promotes responsible tourism and a genuine connection with these majestic creatures.",
+                    "whyVisit": "This is a deeply moving and educational experience. For a group of adults, it offers a chance to engage with wildlife in a responsible and meaningful way, creating lasting memories while supporting a good cause.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Elephant%20Sanctuary%20Visit&dates=20251213T080000/20251213T150000&details=Interact%20with%20rescued%20elephants%20in%20an%20ethical%20and%20responsible%20manner.&location=Ethical%20Elephant%20Sanctuary",
+                    "activities": [
+                        "Prepare food and feed the elephants.",
+                        "Learn about elephant conservation from the guides.",
+                        "Walk with the elephants through their natural habitat.",
+                        "Participate in bathing the elephants in a river or mud bath."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "2,400 THB per person for a full-day tour (includes transport and lunch)",
+                        "estimatedCost": "12000 THB for 5 adults",
+                        "bestTime": "Full-day or morning half-day tours are available.",
+                        "duration": "7 hours (including travel)"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Swimsuit (to wear under your clothes)",
+                            "A change of clothes",
+                            "Towel",
+                            "Sunscreen and insect repellent"
+                        ],
+                        "whatToBuy": [
+                            "Souvenirs from the sanctuary's gift shop, which supports their work."
+                        ],
+                        "safetyNotes": [
+                            "Always listen to the instructions of the guides (mahouts).",
+                            "Approach the elephants calmly and from the front."
+                        ],
+                        "customsEtiquette": [
+                            "Be respectful of the animals and the staff."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "Feeding the elephants.",
+                            "Bathing the elephants.",
+                            "Walking alongside the elephants in the jungle."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "5:00 PM - 9:00 PM",
+                    "name": "Thai Cooking Class",
+                    "location": {
+                        "latitude": "18.7844",
+                        "longitude": "98.9867"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=18.7844,98.9867",
+                    "distanceFromPrevious": 52.77,
+                    "travelTimeFromPrevious": "1 hour 20 minutes",
+                    "description": "Dive deep into the heart of Thai culture through its world-renowned cuisine. A Thai cooking class in Chiang Mai is a fun, interactive, and delicious experience. Typically, the class begins with a trip to a local market to learn about the fresh, exotic ingredients used in Thai cooking, like galangal, lemongrass, and kaffir lime leaves. Back in the kitchen, a friendly instructor will guide you through the process of making several classic dishes from scratch, such as Pad Thai, Green Curry, and Mango Sticky Rice. You'll learn the secrets to balancing the key flavors of sweet, sour, salty, and spicy.",
+                    "whyVisit": "This is a fantastic hands-on activity for a group. It's social, fun, and you learn a valuable skill. It also provides a deeper appreciation for the food you've been enjoying throughout your trip, and you get to eat your delicious creations for dinner.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Thai%20Cooking%20Class&dates=20251213T170000/20251213T210000&details=Learn%20to%20cook%20authentic%20Thai%20dishes%20and%20enjoy%20your%20creations.&location=Thai%20Cooking%20School",
+                    "activities": [
+                        "Tour a local market and learn about Thai ingredients.",
+                        "Prepare and cook a multi-course Thai meal.",
+                        "Learn to make curry paste from scratch.",
+                        "Enjoy the dinner you cooked with your classmates."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "1,000 - 1,500 THB per person",
+                        "estimatedCost": "6000 THB for 5 adults",
+                        "bestTime": "Evening classes are popular as they include dinner.",
+                        "duration": "4 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "An appetite!",
+                            "A camera to document your creations."
+                        ],
+                        "whatToBuy": [
+                            "A recipe book from the school.",
+                            "Dried spices to take home."
+                        ],
+                        "safetyNotes": [
+                            "Be careful with knives and hot woks."
+                        ],
+                        "customsEtiquette": [
+                            "Be an engaged and respectful student."
+                        ],
+                        "bookingRequired": true,
+                        "photoSpots": [
+                            "The colorful display of ingredients at the market.",
+                            "Your finished, beautifully plated dishes."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "54.73 km",
+                "spending": {
+                    "Hotel": "3000 THB",
+                    "Entry Fees": "0 THB",
+                    "Activities": "18000 THB",
+                    "Transport": "1095 THB",
+                    "Meals": "0 THB",
+                    "Shopping": "1000 THB",
+                    "total": "23095 THB"
+                },
+                "remainingBudget": "286635 THB"
+            }
+        },
+        {
+            "day": 7,
+            "date": "2025-12-14",
+            "theme": "Leisurely Last Day and Departure Prep",
+            "optimizedRoute": "N/A",
+            "totalDistance": 0,
+            "totalTravelTime": "0 minutes",
+            "weather": "High 28.6°C, Low 22.3°C. Cloudy. Chance of rain.",
+            "places": [
+                {
+                    "timeOfDay": "9:00 AM - 12:00 PM",
+                    "name": "Morning Free for Souvenirs or Relaxation",
+                    "location": {
+                        "latitude": "18.7899",
+                        "longitude": "98.9893"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=18.7899,98.9893",
+                    "distanceFromPrevious": 0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "Enjoy your final morning in Chiang Mai at your own pace. This is the perfect opportunity for any last-minute souvenir shopping you might have missed. You could revisit a favorite spot in the Old City, explore the trendy Nimman Road for its chic boutiques and cafes, or simply relax at a local coffee shop, savoring the last moments of your trip. Another excellent option is to indulge in a traditional Thai massage, a perfect way to unwind and rejuvenate your body after a week of travel and exploration before your long journey home.",
+                    "whyVisit": "A flexible morning allows everyone in the group to pursue their own interests, whether it's shopping, relaxing, or getting one last cultural fix. It prevents the last day from feeling rushed and ensures a relaxed end to the vacation.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Morning%20Free%20for%20Souvenirs%20or%20Relaxation&dates=20251214T090000/20251214T120000&details=Enjoy%20your%20last%20morning%20in%20Chiang%20Mai%20with%20some%20last-minute%20shopping%20or%20a%20relaxing%20massage.&location=Chiang%20Mai",
+                    "activities": [
+                        "Last-minute souvenir shopping at Warorot Market.",
+                        "Enjoying coffee and cake at a cafe on Nimman Road.",
+                        "Getting a traditional Thai massage or foot massage.",
+                        "Revisiting a favorite temple for a final moment of peace."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "1000 THB per person for shopping/massage",
+                        "bestTime": "Morning",
+                        "duration": "3 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Cash for shopping.",
+                            "A list of souvenirs you still need to buy."
+                        ],
+                        "whatToBuy": [
+                            "Thai silk",
+                            "Spices",
+                            "Northern Thai sausages from the market."
+                        ],
+                        "safetyNotes": [
+                            "Keep track of time to ensure you are back at the hotel for check-out."
+                        ],
+                        "customsEtiquette": [
+                            "Always be polite when interacting with vendors."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "The colorful chaos of Warorot Market."
+                        ]
+                    }
+                },
+                {
+                    "timeOfDay": "12:00 PM - 2:00 PM",
+                    "name": "Departure preparations",
+                    "location": {
+                        "latitude": "18.7899",
+                        "longitude": "98.9893"
+                    },
+                    "googlemapintegrationlink": "https://maps.google.com/?q=18.7899,98.9893",
+                    "distanceFromPrevious": 0,
+                    "travelTimeFromPrevious": "0 minutes",
+                    "description": "It's time to begin the journey home. Head back to your hotel to pack your bags, making sure you have all your belongings and souvenirs. Complete the check-out process and arrange for transportation to Chiang Mai International Airport (CNX) for your flight back to Bangkok to connect with your international flight, or directly home if you have a connecting flight from Chiang Mai. Reflect on the amazing experiences you've had, from the grand temples of Bangkok to the gentle elephants of the north. Thailand has offered a journey of culture, flavor, and adventure.",
+                    "whyVisit": "This is the necessary final step of your journey. Proper preparation ensures a stress-free departure, allowing you to leave with nothing but fond memories of your incredible trip through the Land of Smiles.",
+                    "addtocalendar": "https://www.google.com/calendar/render?action=TEMPLATE&text=Departure%20preparations&dates=20251214T120000/20251214T140000&details=Pack%20your%20bags%2C%20check%20out%20of%20the%20hotel%2C%20and%20head%20to%20the%20airport%20for%20your%20journey%20home.&location=The%20Common%20Hostel",
+                    "activities": [
+                        "Pack all your luggage.",
+                        "Double-check the room for any forgotten items.",
+                        "Settle any outstanding bills and check out from the hotel.",
+                        "Travel to Chiang Mai International Airport (CNX)."
+                    ],
+                    "practicalInfo": {
+                        "entryFee": "N/A",
+                        "estimatedCost": "200 THB for taxi to airport",
+                        "bestTime": "N/A",
+                        "duration": "2 hours"
+                    },
+                    "tips": {
+                        "whatToBring": [
+                            "Passport and flight tickets."
+                        ],
+                        "whatToBuy": [],
+                        "safetyNotes": [
+                            "Allow plenty of time to get to the airport, at least 2 hours before a domestic flight."
+                        ],
+                        "customsEtiquette": [
+                            "Thank the hotel staff for their hospitality."
+                        ],
+                        "bookingRequired": false,
+                        "photoSpots": [
+                            "One last group photo before leaving."
+                        ]
+                    }
+                }
+            ],
+            "daySummary": {
+                "totalDistance": "0 km",
+                "spending": {
+                    "Hotel": "0 THB",
+                    "Entry Fees": "0 THB",
+                    "Activities": "2500 THB",
+                    "Transport": "200 THB",
+                    "Meals": "2500 THB",
+                    "Shopping": "2500 THB",
+                    "total": "7700 THB"
+                },
+                "remainingBudget": "278935 THB"
+            }
+        }
+    ],
+    "budgetBreakdown": {
+        "totalBudget": 400000,
+        "currency": "THB",
+        "expenses": {
+            "Transport": [
+                {
+                    "transport_name": "International & Domestic Flights",
+                    "total_cost": "155000"
+                }
+            ],
+            "accommodation": {
+                "hotelName": "iSanook Bangkok & The Common Hostel Chiang Mai",
+                "pricePerNight": "3000",
+                "nights": "6",
+                "total": "18000"
+            },
+            "dailyExpenses": [
+                {
+                    "day": 1,
+                    "cost": 13022
+                },
+                {
+                    "day": 2,
+                    "cost": 22908
+                },
+                {
+                    "day": 3,
+                    "cost": 21004
+                },
+                {
+                    "day": 4,
+                    "cost": 23324
+                },
+                {
+                    "day": 5,
+                    "cost": 10012
+                },
+                {
+                    "day": 6,
+                    "cost": 23095
+                },
+                {
+                    "day": 7,
+                    "cost": 7700
+                }
+            ],
+            "budgetWarning": "The requested hotel budget of 1000 THB for 3 rooms is not feasible. The budget has been adjusted to a more realistic 3000 THB per night total, which is still very budget-conscious."
+        },
+        "totalSpent": "294065",
+        "remainingBudget": "105935",
+        "budgetTips": [
+            "Eat at street food stalls and food courts for delicious and affordable meals.",
+            "Use the BTS Skytrain and MRT in Bangkok for efficient and cheap transport. Use ride-sharing apps like Grab or negotiate with tuk-tuk drivers before starting your journey.",
+            "Take advantage of free activities like walking through parks and exploring neighborhoods.",
+            "Bargain respectfully at markets to get better prices on souvenirs and goods."
+        ]
+    },
+    "packingList": {
+        "Clothing": [
+            "Lightweight cotton shirts and t-shirts",
+            "Long pants, long skirts, or dresses for temple visits",
+            "Shorts and casual wear for city exploration",
+            "A light jacket or cardigan for evenings and air-conditioned places",
+            "Swimsuit",
+            "Underwear and socks"
+        ],
+        "Footwear": [
+            "Comfortable walking shoes or sneakers",
+            "Sandals or flip-flops",
+            "Waterproof sandals for the elephant sanctuary"
+        ],
+        "Essentials": [
+            "Passport and Visa (if required)",
+            "Travel insurance documents",
+            "Sunscreen (high SPF)",
+            "Insect repellent with DEET",
+            "Hat and sunglasses",
+            "Basic first-aid kit (band-aids, pain relievers, antiseptic wipes)",
+            "Reusable water bottle"
+        ],
+        "Electronics": [
+            "Smartphone and portable charger/power bank",
+            "Universal travel adapter (Type A, B, C, F are used)",
+            "Camera with extra batteries and memory card"
+        ],
+        "Documents": [
+            "Flight and hotel confirmations (digital or printed)",
+            "Photocopy or digital copy of your passport",
+            "Emergency contact information"
+        ],
+        "Children-specific items": []
+    },
+    "preTripChecklist": [
+        {
+            "priority": "High",
+            "task": "Book international and domestic (Bangkok-Chiang Mai) flights."
+        },
+        {
+            "priority": "High",
+            "task": "Book all accommodations in advance, especially during the peak season of December."
+        },
+        {
+            "priority": "High",
+            "task": "Check visa requirements for your nationality and apply if necessary."
+        },
+        {
+            "priority": "Medium",
+            "task": "Purchase comprehensive travel insurance."
+        },
+        {
+            "priority": "Medium",
+            "task": "Book key tours like the ethical elephant sanctuary and cooking class."
+        },
+        {
+            "priority": "Medium",
+            "task": "Inform your bank of your travel dates to avoid card issues."
+        },
+        {
+            "priority": "Low",
+            "task": "Exchange some currency to Thai Baht for initial expenses upon arrival."
+        },
+        {
+            "priority": "Low",
+            "task": "Learn a few basic Thai phrases like 'Sawasdee' (Hello/Goodbye) and 'Khop Khun' (Thank you)."
+        }
+    ]
+}
